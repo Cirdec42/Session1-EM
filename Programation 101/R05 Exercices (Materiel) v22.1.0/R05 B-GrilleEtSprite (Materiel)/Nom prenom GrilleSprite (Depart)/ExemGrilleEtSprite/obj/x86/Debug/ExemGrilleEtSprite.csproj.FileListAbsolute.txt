@@ -1,0 +1,348 @@
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\ExemGrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\ExemGrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\ExemGrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\ExemGrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\ExemGrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\ExemGrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\ExemGrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\ExemGrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\ExemGrilleEtSprite\ExemGrilleEtSprite\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\ExemGrilleEtSprite\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\ExemGrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\ExemGrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\Exemples GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\Exemples GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\Exemples GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\Exemples GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\Exemples GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\Exemples GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\Exemples GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\Exemples GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\Exemples GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\Exemples GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\Exemples GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\B_Exemples GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\B_Exemples GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\B_Exemples GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\B_Exemples GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\B_Exemples GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\B_Exemples GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\B_Exemples GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\B_Exemples GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\B_Exemples GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\B_Exemples GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\B_Exemples GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\B_Exemples GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+F:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\B_Exemples GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+F:\_Cours CEB-H11\Semaine 03 - Kit complet\Théorie Kit complet\B_Exemples GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+E:\_Cours CEB-A11\Semaine 03 - Kit complet\Théorie Kit complet\Exem2_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+E:\_Cours CEB-A11\Semaine 03 - Kit complet\Théorie Kit complet\Exem2_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+E:\_Cours CEB-A11\Semaine 03 - Kit complet\Théorie Kit complet\Exem2_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+E:\_Cours CEB-A11\Semaine 03 - Kit complet\Théorie Kit complet\Exem2_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+E:\_Cours CEB-A11\Semaine 03 - Kit complet\Théorie Kit complet\Exem2_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+E:\_Cours CEB-A11\Semaine 03 - Kit complet\Théorie Kit complet\Exem2_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-A11\Semaine 03 - Kit complet\Théorie Kit complet\Exem2_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-A11\Semaine 03 - Kit complet\Théorie Kit complet\Exem2_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+E:\_Cours CEB-A11\Semaine 03 - Kit complet\Théorie Kit complet\Exem2_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+E:\_Cours CEB-A11\Semaine 03 - Kit complet\Théorie Kit complet\Exem2_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-A11\Semaine 03 - Kit complet\Théorie Kit complet\Exem2_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Théorie Kit complet (Incomplet)\Exem2_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Théorie Kit complet (Incomplet)\Exem2_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Théorie Kit complet (Incomplet)\Exem2_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Théorie Kit complet (Incomplet)\Exem2_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Théorie Kit complet (Incomplet)\Exem2_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Théorie Kit complet (Incomplet)\Exem2_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Théorie Kit complet (Incomplet)\Exem2_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Théorie Kit complet (Incomplet)\Exem2_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Théorie Kit complet (Incomplet)\Exem2_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Théorie Kit complet (Incomplet)\Exem2_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Théorie Kit complet (Incomplet)\Exem2_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Théorie Kit complet (Incomplet)\Exem2_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\H12 Théorie Kit complet\Exem2_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\H12 Théorie Kit complet\Exem2_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\H12 Théorie Kit complet\Exem2_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\VisualArrays.dll
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 Théorie Kit complet\Exem3_GrilleEtSprite\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v1.0\ExemGrilleEtSprite\bin\Debug\VisualArrays.dll
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v1.0\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v1.0\ExemGrilleEtSprite\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v1.0\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v1.0\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\bin\Debug\VisualArrays.dll
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Cours 106-A12\Rencontre #04\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+E:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+E:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+E:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+E:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+E:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+E:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+E:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+E:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.0 SD\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\__Cours\420-116 A13\Module 1\R03 T\R03 GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+G:\__Cours\420-116 A13\Module 1\R03 T\R03 GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+G:\__Cours\420-116 A13\Module 1\R03 T\R03 GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+G:\__Cours\420-116 A13\Module 1\R03 T\R03 GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+G:\__Cours\420-116 A13\Module 1\R03 T\R03 GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+G:\__Cours\420-116 A13\Module 1\R03 T\R03 GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A13\Module 1\R03 T\R03 GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A13\Module 1\R03 T\R03 GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+G:\__Cours\420-116 A13\Module 1\R03 T\R03 GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+G:\__Cours\420-116 A13\Module 1\R03 T\R03 GrilleEtSprite v2.1 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 GrilleEtSprite v2.2 PC\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+E:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 GrilleEtSprite v2.2 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+E:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 GrilleEtSprite v2.2 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+E:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 A GrilleEtSprite v2.2 PC\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+E:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 A GrilleEtSprite v2.2 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+E:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 A GrilleEtSprite v2.2 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+G:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 A GrilleEtSprite (Sol) v2.2 PC\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+G:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 A GrilleEtSprite (Sol) v2.2 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+G:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 A GrilleEtSprite (Sol) v2.2 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R03 A GrilleEtSprite (Sol) v2.2 PC\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R03 A GrilleEtSprite (Sol) v2.2 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R03 A GrilleEtSprite (Sol) v2.2 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R03 A GrilleEtSprite (Sol) v2.2 PC\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R03 A GrilleEtSprite (Sol) v2.2 PC\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R03 A GrilleEtSprite (Sol) v2.2 PC\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R03 A GrilleEtSprite (Sol) v2.2 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R03 A GrilleEtSprite (Sol) v2.2 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R03 A GrilleEtSprite (Sol) v2.2 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R03 A GrilleEtSprite (Sol) v2.2 PC\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.GenerateResource.Cache
+F:\_Cours 116-A14\R04 Intro Grille (Theorie)\R04 A GrilleEtSprite (Solution) v14.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+F:\_Cours 116-A14\R04 Intro Grille (Theorie)\R04 A GrilleEtSprite (Solution) v14.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+F:\_Cours 116-A14\R04 Intro Grille (Theorie)\R04 A GrilleEtSprite (Solution) v14.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+F:\_Cours 116-A14\R04 Intro Grille (Theorie)\R04 A GrilleEtSprite (Solution) v14.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+F:\_Cours 116-A14\R04 Intro Grille (Theorie)\R04 A GrilleEtSprite (Solution) v14.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+F:\_Cours 116-A14\R04 Intro Grille (Theorie)\R04 A GrilleEtSprite (Solution) v14.1.0\ExemGrilleEtSprite\bin\Debug\VisualArrays.dll
+F:\_Cours 116-A14\R04 Intro Grille (Theorie)\R04 A GrilleEtSprite (Solution) v14.1.0\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+F:\_Cours 116-A14\R04 Intro Grille (Theorie)\R04 A GrilleEtSprite (Solution) v14.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csprojResolveAssemblyReference.cache
+F:\_Cours 116-A14\R04 Intro Grille (Theorie)\R04 A GrilleEtSprite (Solution) v14.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+F:\_Cours 116-A14\R04 Intro Grille (Theorie)\R04 A GrilleEtSprite (Solution) v14.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+F:\_Cours 116-A14\R04 Intro Grille (Theorie)\R04 A GrilleEtSprite (Solution) v14.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.GenerateResource.Cache
+G:\_420-116 A15\Module 1\R03(T) Sélection multiple v15.0\R03 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+G:\_420-116 A15\Module 1\R03(T) Sélection multiple v15.0\R03 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+G:\_420-116 A15\Module 1\R03(T) Sélection multiple v15.0\R03 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+E:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+E:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+E:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csprojResolveAssemblyReference.cache
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 A GrilleEtSprite (Solution) v14.1.1\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.GenerateResource.Cache
+F:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+F:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+F:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+F:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+F:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+F:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+F:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csprojResolveAssemblyReference.cache
+F:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+F:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+F:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.GenerateResource.Cache
+H:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+H:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+H:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+H:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+H:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+H:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+H:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csprojResolveAssemblyReference.cache
+H:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+H:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+H:\AUT2017\116_17\R03 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.GenerateResource.Cache
+G:\AUT2018\116\R04 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+G:\AUT2018\116\R04 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+G:\AUT2018\116\R04 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+G:\AUT2018\116\R04 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+G:\AUT2018\116\R04 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csprojAssemblyReference.cache
+G:\AUT2018\116\R04 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+G:\AUT2018\116\R04 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+G:\AUT2018\116\R04 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.GenerateResource.cache
+G:\AUT2018\116\R04 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.CoreCompileInputs.cache
+G:\AUT2018\116\R04 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.CopyComplete
+G:\AUT2018\116\R04 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+G:\AUT2018\116\R04 Selection multiple\R03 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+H:\AUT2018\116\R04 Selection multiple\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+H:\AUT2018\116\R04 Selection multiple\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+H:\AUT2018\116\R04 Selection multiple\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+H:\AUT2018\116\R04 Selection multiple\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+H:\AUT2018\116\R04 Selection multiple\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csprojAssemblyReference.cache
+H:\AUT2018\116\R04 Selection multiple\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+H:\AUT2018\116\R04 Selection multiple\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+H:\AUT2018\116\R04 Selection multiple\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.GenerateResource.cache
+H:\AUT2018\116\R04 Selection multiple\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.CoreCompileInputs.cache
+H:\AUT2018\116\R04 Selection multiple\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.CopyComplete
+H:\AUT2018\116\R04 Selection multiple\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+H:\AUT2018\116\R04 Selection multiple\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+G:\AUT2019\1N6_19\R04\Nouveau dossier\R04 Solutions\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+G:\AUT2019\1N6_19\R04\Nouveau dossier\R04 Solutions\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+G:\AUT2019\1N6_19\R04\Nouveau dossier\R04 Solutions\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+G:\AUT2019\1N6_19\R04\Nouveau dossier\R04 Solutions\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+G:\AUT2019\1N6_19\R04\Nouveau dossier\R04 Solutions\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csprojAssemblyReference.cache
+G:\AUT2019\1N6_19\R04\Nouveau dossier\R04 Solutions\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+G:\AUT2019\1N6_19\R04\Nouveau dossier\R04 Solutions\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+G:\AUT2019\1N6_19\R04\Nouveau dossier\R04 Solutions\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.GenerateResource.cache
+G:\AUT2019\1N6_19\R04\Nouveau dossier\R04 Solutions\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.CoreCompileInputs.cache
+G:\AUT2019\1N6_19\R04\Nouveau dossier\R04 Solutions\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.CopyComplete
+G:\AUT2019\1N6_19\R04\Nouveau dossier\R04 Solutions\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+G:\AUT2019\1N6_19\R04\Nouveau dossier\R04 Solutions\R04 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csprojAssemblyReference.cache
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.GenerateResource.cache
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.CopyComplete
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 A GrilleEtSprite (Solution) v16.1.0\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-GrilleEtSprite (Solution)\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-GrilleEtSprite (Solution)\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-GrilleEtSprite (Solution)\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-GrilleEtSprite (Solution)\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-GrilleEtSprite (Solution)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-GrilleEtSprite (Solution)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-GrilleEtSprite (Solution)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-GrilleEtSprite (Solution)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-GrilleEtSprite (Solution)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-GrilleEtSprite (Solution)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-GrilleEtSprite (Solution)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-GrilleEtSprite (Solution)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 B-GrilleEtSprite (Solution)\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 B-GrilleEtSprite (Solution)\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 B-GrilleEtSprite (Solution)\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 B-GrilleEtSprite (Solution)\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 B-GrilleEtSprite (Solution)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 B-GrilleEtSprite (Solution)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 B-GrilleEtSprite (Solution)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 B-GrilleEtSprite (Solution)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 B-GrilleEtSprite (Solution)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 B-GrilleEtSprite (Solution)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 B-GrilleEtSprite (Solution)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 B-GrilleEtSprite (Solution)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+C:\EspaceLabo\NOUVEAU\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+C:\EspaceLabo\NOUVEAU\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+C:\EspaceLabo\NOUVEAU\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+C:\EspaceLabo\NOUVEAU\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\bin\Debug\VisualArrays.xml
+C:\EspaceLabo\NOUVEAU\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.AssemblyReference.cache
+C:\EspaceLabo\NOUVEAU\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+C:\EspaceLabo\NOUVEAU\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+C:\EspaceLabo\NOUVEAU\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.GenerateResource.cache
+C:\EspaceLabo\NOUVEAU\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\NOUVEAU\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.CopyComplete
+C:\EspaceLabo\NOUVEAU\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+C:\EspaceLabo\NOUVEAU\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+C:\EspaceLabo\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+C:\EspaceLabo\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+C:\EspaceLabo\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+C:\EspaceLabo\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.AssemblyReference.cache
+C:\EspaceLabo\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+C:\EspaceLabo\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+C:\EspaceLabo\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.GenerateResource.cache
+C:\EspaceLabo\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.CopyComplete
+C:\EspaceLabo\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+C:\EspaceLabo\R05 Exercices (Materiel) v21.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.SuggestedBindingRedirects.cache
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.AssemblyReference.cache
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.SuggestedBindingRedirects.cache
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.GenerateResource.cache
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.csproj.CopyComplete
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 B-GrilleEtSprite (Materiel)\Nom prenom GrilleSprite (Depart)\ExemGrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb

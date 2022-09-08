@@ -1,0 +1,196 @@
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-SelectionMultiple v1.0 SD\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-SelectionMultiple v1.0 SD\SelectionMultiple\bin\Debug\SelectionMultiple.exe
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-SelectionMultiple v1.0 SD\SelectionMultiple\bin\Debug\SelectionMultiple.pdb
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-SelectionMultiple v1.0 SD\SelectionMultiple\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-SelectionMultiple v1.0 SD\SelectionMultiple\obj\x86\Debug\SelectionMultiple.FrmEx1A5.resources
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-SelectionMultiple v1.0 SD\SelectionMultiple\obj\x86\Debug\SelectionMultiple.Properties.Resources.resources
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-SelectionMultiple v1.0 SD\SelectionMultiple\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-SelectionMultiple v1.0 SD\SelectionMultiple\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-SelectionMultiple v1.0 SD\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+J:\_Mes Cours\420-106 A12\C04Theo02\A12-SelectionMultiple v1.0 SD\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+G:\__Cours\420-116 A13\Module 1\R03 T\R03 SelectionMultiple v1.0.1 PC\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+G:\__Cours\420-116 A13\Module 1\R03 T\R03 SelectionMultiple v1.0.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+G:\__Cours\420-116 A13\Module 1\R03 T\R03 SelectionMultiple v1.0.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+G:\__Cours\420-116 A13\Module 1\R03 T\R03 SelectionMultiple v1.0.1 PC\SelectionMultiple\bin\Debug\SelectionMultiple.exe
+G:\__Cours\420-116 A13\Module 1\R03 T\R03 SelectionMultiple v1.0.1 PC\SelectionMultiple\bin\Debug\SelectionMultiple.pdb
+G:\__Cours\420-116 A13\Module 1\R03 T\R03 SelectionMultiple v1.0.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A13\Module 1\R03 T\R03 SelectionMultiple v1.0.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.FrmEx1A5.resources
+G:\__Cours\420-116 A13\Module 1\R03 T\R03 SelectionMultiple v1.0.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.Properties.Resources.resources
+G:\__Cours\420-116 A13\Module 1\R03 T\R03 SelectionMultiple v1.0.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 SelectionMultiple v1.1 PC\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+E:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 SelectionMultiple v1.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+E:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 SelectionMultiple v1.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+E:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 SelectionMultiple v1.1 PC\SelectionMultiple\bin\Debug\SelectionMultiple.exe
+E:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 SelectionMultiple v1.1 PC\SelectionMultiple\bin\Debug\SelectionMultiple.pdb
+E:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 SelectionMultiple v1.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 SelectionMultiple v1.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.FrmEx1A5.resources
+E:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 SelectionMultiple v1.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.Properties.Resources.resources
+E:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 SelectionMultiple v1.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 B SelectionMultiple (Sol) v1.1 PC\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+G:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 B SelectionMultiple (Sol) v1.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+G:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 B SelectionMultiple (Sol) v1.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+G:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 B SelectionMultiple (Sol) v1.1 PC\SelectionMultiple\bin\Debug\SelectionMultiple.exe
+G:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 B SelectionMultiple (Sol) v1.1 PC\SelectionMultiple\bin\Debug\SelectionMultiple.pdb
+G:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 B SelectionMultiple (Sol) v1.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 B SelectionMultiple (Sol) v1.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.FrmEx1A5.resources
+G:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 B SelectionMultiple (Sol) v1.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.Properties.Resources.resources
+G:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 B SelectionMultiple (Sol) v1.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 B SelectionMultiple (Sol) v1.1 PC\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+E:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 B SelectionMultiple (Sol) v1.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+E:\__Cours\420-116 A13\Module 1\R03 T Sélection multiple\R03 B SelectionMultiple (Sol) v1.1 PC\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.exe
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.pdb
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.0\SelectionMultiple\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.FrmEx1A5.resources
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.Properties.Resources.resources
+G:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\bin\Debug\SelectionMultiple.exe
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\bin\Debug\SelectionMultiple.pdb
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\bin\Debug\VisualArrays.xml
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.FrmEx1A5.resources
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.Properties.Resources.resources
+E:\__Cours\420-116 A14\Module 1\R04- T Sélection multiple\R04 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.GenerateResource.Cache
+G:\_420-116 A15\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+G:\_420-116 A15\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+G:\_420-116 A15\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+G:\_420-116 A15\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\bin\Debug\SelectionMultiple.exe
+G:\_420-116 A15\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\bin\Debug\SelectionMultiple.pdb
+G:\_420-116 A15\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\bin\Debug\VisualArrays.xml
+G:\_420-116 A15\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csprojResolveAssemblyReference.cache
+G:\_420-116 A15\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.FrmEx1A5.resources
+G:\_420-116 A15\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.Properties.Resources.resources
+G:\_420-116 A15\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.GenerateResource.Cache
+E:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+E:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+E:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\bin\Debug\SelectionMultiple.exe
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\bin\Debug\SelectionMultiple.pdb
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\bin\Debug\VisualArrays.xml
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csprojResolveAssemblyReference.cache
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.FrmEx1A5.resources
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.Properties.Resources.resources
+I:\_420-116 A16\Module 1\R03(T) Sélection multiple v15.0\R03 B SelectionMultiple (Solution) v14.1.1\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.GenerateResource.Cache
+F:\AUT2017\116_17\R03 Selection multiple\R03 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+F:\AUT2017\116_17\R03 Selection multiple\R03 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+F:\AUT2017\116_17\R03 Selection multiple\R03 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+H:\AUT2017\116_17\R03 Selection multiple\R03 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+H:\AUT2017\116_17\R03 Selection multiple\R03 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+H:\AUT2017\116_17\R03 Selection multiple\R03 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+H:\AUT2017\116_17\R03 Selection multiple\R03 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.exe
+H:\AUT2017\116_17\R03 Selection multiple\R03 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.pdb
+H:\AUT2017\116_17\R03 Selection multiple\R03 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\VisualArrays.xml
+H:\AUT2017\116_17\R03 Selection multiple\R03 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csprojResolveAssemblyReference.cache
+H:\AUT2017\116_17\R03 Selection multiple\R03 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.FrmEx1A5.resources
+H:\AUT2017\116_17\R03 Selection multiple\R03 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.Properties.Resources.resources
+H:\AUT2017\116_17\R03 Selection multiple\R03 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.GenerateResource.Cache
+G:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+G:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.exe
+G:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.pdb
+G:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\VisualArrays.xml
+G:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csprojAssemblyReference.cache
+G:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.FrmEx1A5.resources
+G:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.Properties.Resources.resources
+G:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.GenerateResource.cache
+G:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.CoreCompileInputs.cache
+G:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.CopyComplete
+G:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+G:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+H:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+H:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.exe
+H:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.pdb
+H:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\VisualArrays.xml
+H:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csprojAssemblyReference.cache
+H:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.FrmEx1A5.resources
+H:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.Properties.Resources.resources
+H:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.GenerateResource.cache
+H:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.CoreCompileInputs.cache
+H:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.CopyComplete
+H:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+H:\AUT2018\116\R04 Selection multiple\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+C:\Users\jamil.gammoudi\Desktop\test\A18\R04 Solutions\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+C:\Users\jamil.gammoudi\Desktop\test\A18\R04 Solutions\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.exe
+C:\Users\jamil.gammoudi\Desktop\test\A18\R04 Solutions\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.pdb
+C:\Users\jamil.gammoudi\Desktop\test\A18\R04 Solutions\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\VisualArrays.xml
+C:\Users\jamil.gammoudi\Desktop\test\A18\R04 Solutions\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\test\A18\R04 Solutions\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.FrmEx1A5.resources
+C:\Users\jamil.gammoudi\Desktop\test\A18\R04 Solutions\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.Properties.Resources.resources
+C:\Users\jamil.gammoudi\Desktop\test\A18\R04 Solutions\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.GenerateResource.cache
+C:\Users\jamil.gammoudi\Desktop\test\A18\R04 Solutions\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\test\A18\R04 Solutions\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\test\A18\R04 Solutions\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+C:\Users\jamil.gammoudi\Desktop\test\A18\R04 Solutions\R04 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.exe
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\SelectionMultiple.pdb
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\bin\Debug\VisualArrays.xml
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csprojAssemblyReference.cache
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.FrmEx1A5.resources
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.Properties.Resources.resources
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.GenerateResource.cache
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.CopyComplete
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+G:\AUT2020\1N6_20\Module1\R05 Sélection multtiple\R05 Solutions\R05 B SelectionMultiple (Solution) v16.1.0\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\bin\Debug\SelectionMultiple.exe
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\bin\Debug\SelectionMultiple.pdb
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.FrmEx1A5.resources
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Solution) v20.1.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Materiel) v20.2.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Materiel) v20.2.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\bin\Debug\SelectionMultiple.exe
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Materiel) v20.2.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\bin\Debug\SelectionMultiple.pdb
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Materiel) v20.2.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Materiel) v20.2.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Materiel) v20.2.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.FrmEx1A5.resources
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Materiel) v20.2.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Materiel) v20.2.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Materiel) v20.2.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Materiel) v20.2.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Materiel) v20.2.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+J:\A20 1N6 Les Capsules\R05 Sélection multiple avec switch\_Code C#\R05 Exercices (Materiel) v20.2.0\R05 A-SelectionMultiple (Solution)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\bin\Debug\SelectionMultiple.exe
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\bin\Debug\SelectionMultiple.pdb
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\bin\Debug\VisualArrays.xml
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.SuggestedBindingRedirects.cache
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.FrmEx1A5.resources
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+C:\Users\stephane.desmeules\Downloads\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\bin\Debug\SelectionMultiple.exe.config
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\bin\Debug\SelectionMultiple.exe
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\bin\Debug\SelectionMultiple.pdb
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\bin\Debug\VisualArrays.xml
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.AssemblyReference.cache
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.SuggestedBindingRedirects.cache
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.FrmEx1A5.resources
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.Properties.Resources.resources
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.GenerateResource.cache
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.csproj.CopyComplete
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.exe
+C:\Users\2132903\Desktop\R05 Exercices (Materiel) v22.1.0\R05 Exercices (Materiel) v22.1.0\R05 A-SelectionMultiple (Materiel)\Nom prenom Ex1-Ex5 (Depart)\SelectionMultiple\obj\x86\Debug\SelectionMultiple.pdb
