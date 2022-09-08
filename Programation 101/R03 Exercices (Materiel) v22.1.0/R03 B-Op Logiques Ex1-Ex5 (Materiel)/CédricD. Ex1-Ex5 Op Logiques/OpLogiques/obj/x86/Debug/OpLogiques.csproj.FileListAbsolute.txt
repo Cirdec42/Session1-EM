@@ -1,0 +1,115 @@
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\B-Op Logiques SOL CB\OpLogiques\bin\Debug\OpLogiques.exe.config
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\B-Op Logiques SOL CB\OpLogiques\bin\Debug\OpLogiques.exe
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\B-Op Logiques SOL CB\OpLogiques\bin\Debug\OpLogiques.pdb
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\B-Op Logiques SOL CB\OpLogiques\bin\Debug\VisualArrays.dll
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\B-Op Logiques SOL CB\OpLogiques\bin\Debug\VisualArrays.xml
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\B-Op Logiques SOL CB\OpLogiques\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\B-Op Logiques SOL CB\OpLogiques\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\B-Op Logiques SOL CB\OpLogiques\obj\x86\Debug\IfSimples.Properties.Resources.resources
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\B-Op Logiques SOL CB\OpLogiques\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\B-Op Logiques SOL CB\OpLogiques\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\B-Op Logiques SOL CB\OpLogiques\obj\x86\Debug\OpLogiques.exe
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\B-Op Logiques SOL CB\OpLogiques\obj\x86\Debug\OpLogiques.pdb
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 SOL V1.2 PC\OpLogiques\bin\Debug\OpLogiques.exe.config
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 SOL V1.2 PC\OpLogiques\obj\x86\Debug\OpLogiques.exe
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 SOL V1.2 PC\OpLogiques\obj\x86\Debug\OpLogiques.pdb
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 SOL V1.2 PC\OpLogiques\bin\Debug\OpLogiques.exe.config
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 SOL V1.2 PC\OpLogiques\obj\x86\Debug\OpLogiques.exe
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 SOL V1.2 PC\OpLogiques\obj\x86\Debug\OpLogiques.pdb
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 SOL V1.2 PC\OpLogiques\bin\Debug\OpLogiques.exe
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 SOL V1.2 PC\OpLogiques\bin\Debug\OpLogiques.pdb
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 SOL V1.2 PC\OpLogiques\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 SOL V1.2 PC\OpLogiques\obj\x86\Debug\OpLogiques.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 SOL V1.2 PC\OpLogiques\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 SOL V1.2 PC\OpLogiques\obj\x86\Debug\IfSimples.Properties.Resources.resources
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 SOL V1.2 PC\OpLogiques\obj\x86\Debug\OpLogiques.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 Materiel\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.exe.config
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 Materiel\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.exe
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 Materiel\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.pdb
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 Materiel\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.exe
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 Materiel\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.pdb
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 Materiel\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 Materiel\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 Materiel\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 Materiel\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\IfSimples.Properties.Resources.resources
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\B-Op Logiques ex1A5 Kit V1.2 PC\B-Op Logiques Ex1-Ex5 Materiel\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Mat)\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.exe.config
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Mat)\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.exe
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Mat)\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.pdb
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Mat)\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.exe
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Mat)\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.pdb
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Mat)\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Mat)\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Mat)\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Mat)\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\IfSimples.Properties.Resources.resources
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Mat)\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Materiel) V1.4 PC\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.exe.config
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Materiel) V1.4 PC\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.exe
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Materiel) V1.4 PC\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.pdb
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Materiel) V1.4 PC\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.exe
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Materiel) V1.4 PC\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.pdb
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Materiel) V1.4 PC\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Materiel) V1.4 PC\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Materiel) V1.4 PC\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Materiel) V1.4 PC\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\IfSimples.Properties.Resources.resources
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 B-Op Logiques Ex1-Ex5 (Materiel) V1.4 PC\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.GenerateResource.Cache
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 B-Op Logiques Ex1-Ex5 (Materiel) v16.1.0\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.exe.config
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 B-Op Logiques Ex1-Ex5 (Materiel) v16.1.0\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.exe
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 B-Op Logiques Ex1-Ex5 (Materiel) v16.1.0\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.pdb
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 B-Op Logiques Ex1-Ex5 (Materiel) v16.1.0\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.exe
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 B-Op Logiques Ex1-Ex5 (Materiel) v16.1.0\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.pdb
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 B-Op Logiques Ex1-Ex5 (Materiel) v16.1.0\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\VisualArrays.xml
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 B-Op Logiques Ex1-Ex5 (Materiel) v16.1.0\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csprojResolveAssemblyReference.cache
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 B-Op Logiques Ex1-Ex5 (Materiel) v16.1.0\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 B-Op Logiques Ex1-Ex5 (Materiel) v16.1.0\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\IfSimples.Properties.Resources.resources
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 B-Op Logiques Ex1-Ex5 (Materiel) v16.1.0\nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.GenerateResource.Cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.exe.config
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.exe
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.pdb
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\IfSimples.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.exe
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.pdb
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.exe.config
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.exe
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.pdb
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\IfSimples.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.exe
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.pdb
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.exe.config
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.exe
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.pdb
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\VisualArrays.xml
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.AssemblyReference.cache
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.SuggestedBindingRedirects.cache
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\IfSimples.Properties.Resources.resources
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.GenerateResource.cache
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.CopyComplete
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.exe
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.pdb
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.exe.config
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.exe
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\OpLogiques.pdb
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\bin\Debug\VisualArrays.xml
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.AssemblyReference.cache
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.SuggestedBindingRedirects.cache
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\IfSimples.Properties.Resources.resources
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.GenerateResource.cache
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.CoreCompileInputs.cache
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.csproj.CopyComplete
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.exe
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 B-Op Logiques Ex1-Ex5 (Materiel)\Nom prenom Ex1-Ex5 Op Logiques\OpLogiques\obj\x86\Debug\OpLogiques.pdb

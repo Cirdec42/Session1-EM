@@ -1,0 +1,9 @@
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimples\bin\Debug\IfSimples.exe
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimples\bin\Debug\IfSimples.pdb
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\IfSimples.Properties.Resources.resources
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\GenerateResource.read.1.tlog
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\GenerateResource.write.1.tlog
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\IfSimples.exe
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\IfSimples.pdb

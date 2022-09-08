@@ -1,0 +1,192 @@
+J:\106 A12\02-Sélections\A-if simples\A-If simples\ChercherUnNombreCache\bin\Debug\VisualArrays.xml
+J:\106 A12\02-Sélections\A-if simples\A-If simples\ChercherUnNombreCache\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\106 A12\02-Sélections\A-if simples\A-If simples\ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.FrmChercherUnNombreCache.resources
+J:\106 A12\02-Sélections\A-if simples\A-If simples\ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.Properties.Resources.resources
+J:\106 A12\02-Sélections\A-if simples\A-If simples\ChercherUnNombreCache\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\106 A12\02-Sélections\A-if simples\A-If simples\ChercherUnNombreCache\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\106 A12\02-Sélections\A-if simples\A-If simples\ChercherUnNombreCache\bin\Debug\Ex6ChercherUnNombreCache.exe.config
+J:\106 A12\02-Sélections\A-if simples\A-If simples\ChercherUnNombreCache\bin\Debug\Ex6ChercherUnNombreCache.exe
+J:\106 A12\02-Sélections\A-if simples\A-If simples\ChercherUnNombreCache\bin\Debug\Ex6ChercherUnNombreCache.pdb
+J:\106 A12\02-Sélections\A-if simples\A-If simples\ChercherUnNombreCache\obj\x86\Debug\Ex6ChercherUnNombreCache.exe
+J:\106 A12\02-Sélections\A-if simples\A-If simples\ChercherUnNombreCache\obj\x86\Debug\Ex6ChercherUnNombreCache.pdb
+J:\106 A12\02-Sélections\A-If simples\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe.config
+J:\106 A12\02-Sélections\A-If simples\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe
+J:\106 A12\02-Sélections\A-If simples\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.pdb
+J:\106 A12\02-Sélections\A-If simples\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.xml
+J:\106 A12\02-Sélections\A-If simples\Ex6-ChercherUnNombreCache\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\106 A12\02-Sélections\A-If simples\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.FrmEx6ChercherUnNombreCache.resources
+J:\106 A12\02-Sélections\A-If simples\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.Properties.Resources.resources
+J:\106 A12\02-Sélections\A-If simples\Ex6-ChercherUnNombreCache\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\106 A12\02-Sélections\A-If simples\Ex6-ChercherUnNombreCache\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\106 A12\02-Sélections\A-If simples\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.exe
+J:\106 A12\02-Sélections\A-If simples\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.pdb
+J:\106 A12\02-Sélections\A-If simples SOL\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe.config
+J:\106 A12\02-Sélections\A-If simples SOL\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.exe
+J:\106 A12\02-Sélections\A-If simples SOL\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.pdb
+J:\106 A12\02-Sélections\A-If simples SOL\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe
+J:\106 A12\02-Sélections\A-If simples SOL\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.pdb
+J:\106 A12\02-Sélections\A-If simples SOL\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.xml
+J:\106 A12\02-Sélections\A-If simples SOL\Ex6-ChercherUnNombreCache\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\106 A12\02-Sélections\A-If simples SOL\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.FrmEx6ChercherUnNombreCache.resources
+J:\106 A12\02-Sélections\A-If simples SOL\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.Properties.Resources.resources
+J:\106 A12\02-Sélections\A-If simples SOL\Ex6-ChercherUnNombreCache\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\106 A12\02-Sélections\A-If simples SOL\Ex6-ChercherUnNombreCache\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\106 A12\02-Sélections\A-If simples Ex 1-Ex6 SOL CB\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe.config
+J:\106 A12\02-Sélections\A-If simples Ex 1-Ex6 SOL CB\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.exe
+J:\106 A12\02-Sélections\A-If simples Ex 1-Ex6 SOL CB\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.pdb
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe.config
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.pdb
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex6-ChercherUnNombreCache\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.FrmEx6ChercherUnNombreCache.resources
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.Properties.Resources.resources
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex6-ChercherUnNombreCache\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex6-ChercherUnNombreCache\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.exe
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.pdb
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Ex 6 SOL V1.2 PC - Copie\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe.config
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Ex 6 SOL V1.2 PC - Copie\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Ex 6 SOL V1.2 PC - Copie\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.pdb
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Ex 6 SOL V1.2 PC - Copie\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.dll
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Ex 6 SOL V1.2 PC - Copie\Ex6-ChercherUnNombreCache\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Ex 6 SOL V1.2 PC - Copie\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.FrmEx6ChercherUnNombreCache.resources
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Ex 6 SOL V1.2 PC - Copie\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.Properties.Resources.resources
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Ex 6 SOL V1.2 PC - Copie\Ex6-ChercherUnNombreCache\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Ex 6 SOL V1.2 PC - Copie\Ex6-ChercherUnNombreCache\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Ex 6 SOL V1.2 PC - Copie\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.exe
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Ex 6 SOL V1.2 PC - Copie\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.pdb
+E:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.2 PC\A-If simples Ex 6 SOL V1.2 PC\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe.config
+E:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.2 PC\A-If simples Ex 6 SOL V1.2 PC\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.exe
+E:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.2 PC\A-If simples Ex 6 SOL V1.2 PC\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.pdb
+E:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.2 PC\A-If simples Ex 6 SOL V1.2 PC\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe
+E:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.2 PC\A-If simples Ex 6 SOL V1.2 PC\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.pdb
+E:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.2 PC\A-If simples Ex 6 SOL V1.2 PC\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.dll
+E:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.2 PC\A-If simples Ex 6 SOL V1.2 PC\Ex6-ChercherUnNombreCache\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.2 PC\A-If simples Ex 6 SOL V1.2 PC\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.FrmEx6ChercherUnNombreCache.resources
+E:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.2 PC\A-If simples Ex 6 SOL V1.2 PC\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.Properties.Resources.resources
+E:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.2 PC\A-If simples Ex 6 SOL V1.2 PC\Ex6-ChercherUnNombreCache\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.2 PC\A-If simples Ex 6 SOL V1.2 PC\Ex6-ChercherUnNombreCache\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.2 PC\A-If simples Ex 6 SOL V1.2 PC\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.xml
+E:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.2 PC\A-If simples Ex 6 SOL V1.3 PC\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe.config
+E:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.2 PC\A-If simples Ex 6 SOL V1.3 PC\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.exe
+E:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.2 PC\A-If simples Ex 6 SOL V1.3 PC\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.pdb
+E:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.3 PC\A-If simples Ex 6 SOL V1.3 PC\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe.config
+E:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.3 PC\A-If simples Ex 6 SOL V1.3 PC\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.exe
+E:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.3 PC\A-If simples Ex 6 SOL V1.3 PC\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.pdb
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.3 PC\A-If simples Ex 6 SOL V1.3 PC\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe.config
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.3 PC\A-If simples Ex 6 SOL V1.3 PC\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.exe
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.3 PC\A-If simples Ex 6 SOL V1.3 PC\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.pdb
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples Ex 6 SOL V1.3.1 PC\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe.config
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples Ex 6 SOL V1.3.1 PC\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.exe
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples Ex 6 SOL V1.3.1 PC\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.pdb
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples Ex 6 SOL V1.3.1 PC\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples Ex 6 SOL V1.3.1 PC\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.pdb
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples Ex 6 SOL V1.3.1 PC\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.dll
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples Ex 6 SOL V1.3.1 PC\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples Ex 6 SOL V1.3.1 PC\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples Ex 6 SOL V1.3.1 PC\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.FrmEx6ChercherUnNombreCache.resources
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples Ex 6 SOL V1.3.1 PC\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.Properties.Resources.resources
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples Ex 6 SOL V1.3.1 PC\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 6 (depart)\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe.config
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 6 (depart)\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.exe
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 6 (depart)\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.pdb
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 6 (depart)\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 6 (depart)\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.pdb
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 6 (depart)\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.dll
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 6 (depart)\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 6 (depart)\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 6 (depart)\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.FrmEx6ChercherUnNombreCache.resources
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 6 (depart)\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.Properties.Resources.resources
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 6 (depart)\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Materiel) V1.5 PC\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe.config
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Materiel) V1.5 PC\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.exe
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Materiel) V1.5 PC\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.pdb
+E:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.0\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe.config
+E:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.0\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.exe
+E:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.0\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.pdb
+E:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.0\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe
+E:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.0\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.pdb
+E:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.0\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.dll
+E:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.0\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.xml
+E:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.0\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.0\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.FrmEx6ChercherUnNombreCache.resources
+E:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.0\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.Properties.Resources.resources
+E:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.0\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.GenerateResource.Cache
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe.config
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.exe
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.pdb
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.pdb
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.dll
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.xml
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csprojResolveAssemblyReference.cache
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.FrmEx6ChercherUnNombreCache.resources
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.Properties.Resources.resources
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.GenerateResource.Cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe.config
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.pdb
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.dll
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.FrmEx6ChercherUnNombreCache.resources
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.exe
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.pdb
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe.config
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.pdb
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.dll
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.FrmEx6ChercherUnNombreCache.resources
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.exe
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.pdb
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe.config
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.pdb
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.dll
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.FrmEx6ChercherUnNombreCache.resources
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.exe
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.pdb
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe.config
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.pdb
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.dll
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.xml
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.AssemblyReference.cache
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.SuggestedBindingRedirects.cache
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.FrmEx6ChercherUnNombreCache.resources
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.Properties.Resources.resources
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.GenerateResource.cache
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.CopyComplete
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.exe
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.pdb
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe.config
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.exe
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\bin\Debug\Ex6 ChercherUnNombreCache.pdb
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.dll
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\bin\Debug\VisualArrays.xml
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.AssemblyReference.cache
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.SuggestedBindingRedirects.cache
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.FrmEx6ChercherUnNombreCache.resources
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\ChercherUnNombreCache.Properties.Resources.resources
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.GenerateResource.cache
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.CoreCompileInputs.cache
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6-ChercherUnNombreCache.csproj.CopyComplete
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.exe
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 C-Chercher un nombre Ex6 (Matériel)\Nom prenom Ex6\Ex6-ChercherUnNombreCache\obj\x86\Debug\Ex6 ChercherUnNombreCache.pdb

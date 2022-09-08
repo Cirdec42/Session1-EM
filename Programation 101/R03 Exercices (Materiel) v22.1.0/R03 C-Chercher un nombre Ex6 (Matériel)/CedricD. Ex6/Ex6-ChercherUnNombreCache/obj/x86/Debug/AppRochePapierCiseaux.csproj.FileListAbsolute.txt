@@ -1,0 +1,119 @@
+E:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppRochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppRochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.FrmPrincipal.resources
+E:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppRochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.Properties.Resources.resources
+E:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppRochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppRochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppRochePapierCiseaux\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe.config
+E:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppRochePapierCiseaux\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe
+E:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppRochePapierCiseaux\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.pdb
+E:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppRochePapierCiseaux\AppRochePapierCiseaux\bin\Debug\VisualArrays.dll
+E:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppRochePapierCiseaux\AppRochePapierCiseaux\bin\Debug\VisualArrays.xml
+E:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppRochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.exe
+E:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppRochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.pdb
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe.config
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.exe
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.pdb
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.pdb
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux\AppRochePapierCiseaux\bin\Debug\VisualArrays.dll
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux\AppRochePapierCiseaux\bin\Debug\VisualArrays.xml
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.FrmPrincipal.resources
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.Properties.Resources.resources
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux OPLOG\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe.config
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux OPLOG\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.exe
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux OPLOG\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.pdb
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux OPLOG\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux OPLOG\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.pdb
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux OPLOG\AppRochePapierCiseaux\bin\Debug\VisualArrays.dll
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux OPLOG\AppRochePapierCiseaux\bin\Debug\VisualArrays.xml
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux OPLOG\AppRochePapierCiseaux\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux OPLOG\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.FrmPrincipal.resources
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux OPLOG\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.Properties.Resources.resources
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux OPLOG\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppRochePapierCiseaux OPLOG\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours CEB-A11\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe.config
+E:\_Cours CEB-A11\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.exe
+E:\_Cours CEB-A11\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.pdb
+E:\_Cours CEB-A11\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe
+E:\_Cours CEB-A11\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.pdb
+E:\_Cours CEB-A11\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-A11\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-A11\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.FrmPrincipal.resources
+E:\_Cours CEB-A11\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.Properties.Resources.resources
+E:\_Cours CEB-A11\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-A11\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe.config
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.FrmPrincipal.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.Properties.Resources.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux\AppRochePapierCiseaux\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe.config
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.FrmPrincipal.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.Properties.Resources.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe.config
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.FrmPrincipal.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.Properties.Resources.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe.config
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.exe
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.pdb
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.pdb
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\bin\Debug\VisualArrays.dll
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\bin\Debug\VisualArrays.xml
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.FrmPrincipal.resources
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.Properties.Resources.resources
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 04 - Kit complet _H12\Exem1_RochePapierCiseaux_H12\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Cours CEB-H12\Nouveau\H12_RochePapierCiseaux_Plus\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe.config
+F:\_Cours CEB-H12\Nouveau\H12_RochePapierCiseaux_Plus\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.exe
+F:\_Cours CEB-H12\Nouveau\H12_RochePapierCiseaux_Plus\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.pdb
+F:\_Cours CEB-H12\Nouveau\H12_RochePapierCiseaux_Plus\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe
+F:\_Cours CEB-H12\Nouveau\H12_RochePapierCiseaux_Plus\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.pdb
+F:\_Cours CEB-H12\Nouveau\H12_RochePapierCiseaux_Plus\AppRochePapierCiseaux\bin\Debug\VisualArrays.dll
+F:\_Cours CEB-H12\Nouveau\H12_RochePapierCiseaux_Plus\AppRochePapierCiseaux\bin\Debug\VisualArrays.xml
+F:\_Cours CEB-H12\Nouveau\H12_RochePapierCiseaux_Plus\AppRochePapierCiseaux\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Cours CEB-H12\Nouveau\H12_RochePapierCiseaux_Plus\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.FrmPrincipal.resources
+F:\_Cours CEB-H12\Nouveau\H12_RochePapierCiseaux_Plus\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.Properties.Resources.resources
+F:\_Cours CEB-H12\Nouveau\H12_RochePapierCiseaux_Plus\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Cours CEB-H12\Nouveau\H12_RochePapierCiseaux_Plus\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours 106-A12\A12_CernerLeNombre\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe.config
+E:\_Cours 106-A12\A12_CernerLeNombre\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.exe
+E:\_Cours 106-A12\A12_CernerLeNombre\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.pdb
+E:\_Cours 106-A12\A12_CernerLeNombre\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.exe
+E:\_Cours 106-A12\A12_CernerLeNombre\AppRochePapierCiseaux\bin\Debug\AppRochePapierCiseaux.pdb
+E:\_Cours 106-A12\A12_CernerLeNombre\AppRochePapierCiseaux\bin\Debug\VisualArrays.dll
+E:\_Cours 106-A12\A12_CernerLeNombre\AppRochePapierCiseaux\bin\Debug\VisualArrays.xml
+E:\_Cours 106-A12\A12_CernerLeNombre\AppRochePapierCiseaux\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\A12_CernerLeNombre\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.FrmPrincipal.resources
+E:\_Cours 106-A12\A12_CernerLeNombre\AppRochePapierCiseaux\obj\x86\Debug\AppRochePapierCiseaux.Properties.Resources.resources
+E:\_Cours 106-A12\A12_CernerLeNombre\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\A12_CernerLeNombre\AppRochePapierCiseaux\obj\x86\Debug\GenerateResource.write.1.tlog

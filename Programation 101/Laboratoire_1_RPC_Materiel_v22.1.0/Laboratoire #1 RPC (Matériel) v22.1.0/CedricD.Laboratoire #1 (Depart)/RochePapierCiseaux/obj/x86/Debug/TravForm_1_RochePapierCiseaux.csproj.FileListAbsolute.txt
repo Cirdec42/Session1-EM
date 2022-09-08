@@ -1,0 +1,77 @@
+G:\__Cours\420-116 A14\Module 1\Tf1 RochePapierCiseaux Kit v14.0.9 (correcteur) PC\Tf1 RochePapierCiseaux v14.1.0 et correcteur PC - Copie - Copie\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.exe.config
+G:\__Cours\420-116 A14\Module 1\Tf1 RochePapierCiseaux Kit v14.0.9 (correcteur) PC\Tf1 RochePapierCiseaux v14.1.0 et correcteur PC - Copie - Copie\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.exe
+G:\__Cours\420-116 A14\Module 1\Tf1 RochePapierCiseaux Kit v14.0.9 (correcteur) PC\Tf1 RochePapierCiseaux v14.1.0 et correcteur PC - Copie - Copie\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.pdb
+G:\__Cours\420-116 A14\Module 1\Tf1 RochePapierCiseaux Kit v14.0.9 (correcteur) PC\Tf1 RochePapierCiseaux v14.1.0 et correcteur PC - Copie - Copie\TP1RochePapierCiseaux\obj\x86\Debug\TravForm_1_RochePapierCiseaux.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A14\Module 1\Tf1 RochePapierCiseaux Kit v14.0.9 (correcteur) PC\Tf1 RochePapierCiseaux v14.1.0 et correcteur PC - Copie - Copie\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.FrmPrincipal.resources
+G:\__Cours\420-116 A14\Module 1\Tf1 RochePapierCiseaux Kit v14.0.9 (correcteur) PC\Tf1 RochePapierCiseaux v14.1.0 et correcteur PC - Copie - Copie\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.Properties.Resources.resources
+G:\__Cours\420-116 A14\Module 1\Tf1 RochePapierCiseaux Kit v14.0.9 (correcteur) PC\Tf1 RochePapierCiseaux v14.1.0 et correcteur PC - Copie - Copie\TP1RochePapierCiseaux\obj\x86\Debug\TravForm_1_RochePapierCiseaux.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A14\Module 1\Tf1 RochePapierCiseaux Kit v14.0.9 (correcteur) PC\Tf1 RochePapierCiseaux v14.1.0 et correcteur PC - Copie - Copie\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.exe
+G:\__Cours\420-116 A14\Module 1\Tf1 RochePapierCiseaux Kit v14.0.9 (correcteur) PC\Tf1 RochePapierCiseaux v14.1.0 et correcteur PC - Copie - Copie\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.pdb
+G:\__Cours\420-116 A14\Module 1\Tf1 RochePapierCiseaux Kit v14.0.9 (correcteur) PC\TravForm1 RochePapierCiseaux v14.1.0 et correcteur\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.exe.config
+G:\__Cours\420-116 A14\Module 1\Tf1 RochePapierCiseaux Kit v14.0.9 (correcteur) PC\TravForm1 RochePapierCiseaux v14.1.0 et correcteur\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.exe
+G:\__Cours\420-116 A14\Module 1\Tf1 RochePapierCiseaux Kit v14.0.9 (correcteur) PC\TravForm1 RochePapierCiseaux v14.1.0 et correcteur\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.pdb
+G:\__Cours\420-116 A14\Module 1\Tf1 RochePapierCiseaux Kit v14.0.9 (correcteur) PC\TravForm1 RochePapierCiseaux v14.1.0 et correcteur\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.exe
+G:\__Cours\420-116 A14\Module 1\Tf1 RochePapierCiseaux Kit v14.0.9 (correcteur) PC\TravForm1 RochePapierCiseaux v14.1.0 et correcteur\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.pdb
+G:\__Cours\420-116 A14\Module 1\Tf1 RochePapierCiseaux Kit v14.0.9 (correcteur) PC\TravForm1 RochePapierCiseaux v14.1.0 et correcteur\TP1RochePapierCiseaux\obj\x86\Debug\TravForm_1_RochePapierCiseaux.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A14\Module 1\Tf1 RochePapierCiseaux Kit v14.0.9 (correcteur) PC\TravForm1 RochePapierCiseaux v14.1.0 et correcteur\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.FrmPrincipal.resources
+G:\__Cours\420-116 A14\Module 1\Tf1 RochePapierCiseaux Kit v14.0.9 (correcteur) PC\TravForm1 RochePapierCiseaux v14.1.0 et correcteur\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.Properties.Resources.resources
+G:\__Cours\420-116 A14\Module 1\Tf1 RochePapierCiseaux Kit v14.0.9 (correcteur) PC\TravForm1 RochePapierCiseaux v14.1.0 et correcteur\TP1RochePapierCiseaux\obj\x86\Debug\TravForm_1_RochePapierCiseaux.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A14\Module 1\TravForm1 RPC Kit v14.1.0\TravForm1 RPC (Solution - correcteur) v14.1.0\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.exe.config
+G:\__Cours\420-116 A14\Module 1\TravForm1 RPC Kit v14.1.0\TravForm1 RPC (Solution - correcteur) v14.1.0\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.exe
+G:\__Cours\420-116 A14\Module 1\TravForm1 RPC Kit v14.1.0\TravForm1 RPC (Solution - correcteur) v14.1.0\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.pdb
+G:\__Cours\420-116 A14\Module 1\TravForm1 RPC Kit v14.1.0\TravForm1 RPC (Solution - correcteur) v14.1.0\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.exe
+G:\__Cours\420-116 A14\Module 1\TravForm1 RPC Kit v14.1.0\TravForm1 RPC (Solution - correcteur) v14.1.0\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.pdb
+G:\__Cours\420-116 A14\Module 1\TravForm1 RPC Kit v14.1.0\TravForm1 RPC (Solution - correcteur) v14.1.0\TP1RochePapierCiseaux\obj\x86\Debug\TravForm_1_RochePapierCiseaux.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A14\Module 1\TravForm1 RPC Kit v14.1.0\TravForm1 RPC (Solution - correcteur) v14.1.0\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.FrmPrincipal.resources
+G:\__Cours\420-116 A14\Module 1\TravForm1 RPC Kit v14.1.0\TravForm1 RPC (Solution - correcteur) v14.1.0\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.Properties.Resources.resources
+G:\__Cours\420-116 A14\Module 1\TravForm1 RPC Kit v14.1.0\TravForm1 RPC (Solution - correcteur) v14.1.0\TP1RochePapierCiseaux\obj\x86\Debug\TravForm_1_RochePapierCiseaux.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A14\Module 1\R03- L TravForm1 RPC Kit v14.1.0\TravForm1 RPC (Solution - correcteur) v14.1.0\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.exe.config
+E:\__Cours\420-116 A14\Module 1\R03- L TravForm1 RPC Kit v14.1.0\TravForm1 RPC (Solution - correcteur) v14.1.0\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.exe
+E:\__Cours\420-116 A14\Module 1\R03- L TravForm1 RPC Kit v14.1.0\TravForm1 RPC (Solution - correcteur) v14.1.0\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.pdb
+G:\_420-116 A15\zz420-116 A14(finale)\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.exe.config
+G:\_420-116 A15\zz420-116 A14(finale)\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.exe
+G:\_420-116 A15\zz420-116 A14(finale)\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.pdb
+G:\_420-116 A15\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.exe.config
+G:\_420-116 A15\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.exe
+G:\_420-116 A15\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.pdb
+G:\_420-116 A15\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.exe
+G:\_420-116 A15\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.pdb
+G:\_420-116 A15\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TravForm_1_RochePapierCiseaux.csprojResolveAssemblyReference.cache
+G:\_420-116 A15\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.FrmPrincipal.resources
+G:\_420-116 A15\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.Properties.Resources.resources
+G:\_420-116 A15\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TravForm_1_RochePapierCiseaux.csproj.GenerateResource.Cache
+E:\_420-116 A15\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.exe.config
+E:\_420-116 A15\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.exe
+E:\_420-116 A15\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.pdb
+E:\_420-116 A15\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.exe
+E:\_420-116 A15\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.pdb
+E:\_420-116 A15\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TravForm_1_RochePapierCiseaux.csprojResolveAssemblyReference.cache
+E:\_420-116 A15\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.FrmPrincipal.resources
+E:\_420-116 A15\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.Properties.Resources.resources
+E:\_420-116 A15\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TravForm_1_RochePapierCiseaux.csproj.GenerateResource.Cache
+E:\_420-116 A16\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.exe.config
+E:\_420-116 A16\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.exe
+E:\_420-116 A16\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.pdb
+I:\_420-116 A16\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.exe.config
+I:\_420-116 A16\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.exe
+I:\_420-116 A16\Module 1\TravForm1 RPC Kit v14.1.1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.pdb
+H:\_Cours 116 A17\A17 R04 TravForm1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.exe.config
+H:\_Cours 116 A17\A17 R04 TravForm1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.exe
+H:\_Cours 116 A17\A17 R04 TravForm1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.pdb
+H:\_Cours 116 A17\A17 R04 TravForm1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.exe
+H:\_Cours 116 A17\A17 R04 TravForm1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.pdb
+H:\_Cours 116 A17\A17 R04 TravForm1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TravForm_1_RochePapierCiseaux.csprojResolveAssemblyReference.cache
+H:\_Cours 116 A17\A17 R04 TravForm1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.FrmPrincipal.resources
+H:\_Cours 116 A17\A17 R04 TravForm1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.Properties.Resources.resources
+H:\_Cours 116 A17\A17 R04 TravForm1\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TravForm_1_RochePapierCiseaux.csproj.GenerateResource.Cache
+J:\A20 1N6 Les Capsules\R04 Constante et assignation composée\_Code C#\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.exe.config
+J:\A20 1N6 Les Capsules\R04 Constante et assignation composée\_Code C#\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.exe
+J:\A20 1N6 Les Capsules\R04 Constante et assignation composée\_Code C#\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\bin\Debug\TP1RochePapierCiseaux.pdb
+J:\A20 1N6 Les Capsules\R04 Constante et assignation composée\_Code C#\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TravForm_1_RochePapierCiseaux.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R04 Constante et assignation composée\_Code C#\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R04 Constante et assignation composée\_Code C#\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R04 Constante et assignation composée\_Code C#\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TravForm_1_RochePapierCiseaux.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R04 Constante et assignation composée\_Code C#\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TravForm_1_RochePapierCiseaux.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R04 Constante et assignation composée\_Code C#\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TravForm_1_RochePapierCiseaux.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R04 Constante et assignation composée\_Code C#\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.exe
+J:\A20 1N6 Les Capsules\R04 Constante et assignation composée\_Code C#\TravForm1 RPC (Solution - correcteur) v14.1.1\TP1RochePapierCiseaux\obj\x86\Debug\TP1RochePapierCiseaux.pdb

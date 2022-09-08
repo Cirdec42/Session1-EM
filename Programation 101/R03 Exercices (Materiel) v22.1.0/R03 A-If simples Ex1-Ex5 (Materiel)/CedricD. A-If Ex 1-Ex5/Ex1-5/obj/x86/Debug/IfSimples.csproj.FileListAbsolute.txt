@@ -1,0 +1,180 @@
+K:\106 A10\2-Sélections simples\If simples\IfSimples\obj\x86\Debug\OperateursAffectation.exe
+K:\106 A10\2-Sélections simples\If simples\IfSimples\obj\x86\Debug\OperateursAffectation.pdb
+K:\106 A10\2-Sélections simples\If simples\IfSimples\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\106 A10\2-Sélections simples\If simples\IfSimples\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\106 A10\2-Sélections simples\If simples\IfSimples\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\106 A10\2-Sélections simples\If simples\IfSimples\bin\Debug\OperateursAffectation.exe
+K:\106 A10\2-Sélections simples\If simples\IfSimples\bin\Debug\OperateursAffectation.pdb
+K:\106 A10\2-Sélections simples\If simples\IfSimples\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+K:\106 A10\2-Sélections simples\If simples\IfSimples\obj\x86\Debug\IfSimples.Properties.Resources.resources
+N:\106 A10\02 Sélections\If simples\IfSimples\obj\x86\Debug\OperateursAffectation.exe
+N:\106 A10\02 Sélections\If simples\IfSimples\obj\x86\Debug\OperateursAffectation.pdb
+N:\106 A10\02 Sélections\If simples V2.0\IfSimples\obj\x86\Debug\OperateursAffectation.exe
+N:\106 A10\02 Sélections\If simples V2.0\IfSimples\obj\x86\Debug\OperateursAffectation.pdb
+N:\106 A10\02 Sélections\If simples V2.0\IfSimples\bin\Debug\OperateursAffectation.exe
+N:\106 A10\02 Sélections\If simples V2.0\IfSimples\bin\Debug\OperateursAffectation.pdb
+N:\106 A10\02 Sélections\If simples V2.0\IfSimples\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\106 A10\02 Sélections\If simples V2.0\IfSimples\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+N:\106 A10\02 Sélections\If simples V2.0\IfSimples\obj\x86\Debug\IfSimples.Properties.Resources.resources
+N:\106 A10\02 Sélections\If simples V2.0\IfSimples\obj\x86\Debug\GenerateResource.read.1.tlog
+N:\106 A10\02 Sélections\If simples V2.0\IfSimples\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\106 A10\02 Sélections\If simples Case à cocher\IfSimples\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\106 A10\02 Sélections\If simples Case à cocher\IfSimples\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+J:\106 A10\02 Sélections\If simples Case à cocher\IfSimples\obj\x86\Debug\IfSimples.Properties.Resources.resources
+J:\106 A10\02 Sélections\If simples Case à cocher\IfSimples\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\106 A10\02 Sélections\If simples Case à cocher\IfSimples\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\106 A10\02 Sélections\If simples Case à cocher\IfSimples\bin\Debug\IfSimples.exe
+J:\106 A10\02 Sélections\If simples Case à cocher\IfSimples\bin\Debug\IfSimples.pdb
+J:\106 A10\02 Sélections\If simples Case à cocher\IfSimples\obj\x86\Debug\IfSimples.exe
+J:\106 A10\02 Sélections\If simples Case à cocher\IfSimples\obj\x86\Debug\IfSimples.pdb
+N:\106 A10\02 Sélections\If simples Case à cocher\IfSimples\obj\x86\Debug\IfSimples.exe
+N:\106 A10\02 Sélections\If simples Case à cocher\IfSimples\obj\x86\Debug\IfSimples.pdb
+F:\106 A10\2-Sélections simples\If simples Case à cocher\IfSimples\obj\x86\Debug\IfSimples.exe
+F:\106 A10\2-Sélections simples\If simples Case à cocher\IfSimples\obj\x86\Debug\IfSimples.pdb
+F:\106 A10\2-Sélections simples\If simples Case à cocher\IfSimples\bin\Debug\IfSimples.exe
+F:\106 A10\2-Sélections simples\If simples Case à cocher\IfSimples\bin\Debug\IfSimples.pdb
+F:\106 A10\2-Sélections simples\If simples Case à cocher\IfSimples\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\106 A10\2-Sélections simples\If simples Case à cocher\IfSimples\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+F:\106 A10\2-Sélections simples\If simples Case à cocher\IfSimples\obj\x86\Debug\IfSimples.Properties.Resources.resources
+F:\106 A10\2-Sélections simples\If simples Case à cocher\IfSimples\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\106 A10\2-Sélections simples\If simples Case à cocher\IfSimples\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\106 A10\02-Sélections simples\Exercices\If simples Case à cocher\IfSimples\obj\x86\Debug\IfSimples.exe
+F:\106 A10\02-Sélections simples\Exercices\If simples Case à cocher\IfSimples\obj\x86\Debug\IfSimples.pdb
+F:\106 A10\02-Sélections simples\Exercices\If simples Case à cocher\IfSimples\bin\Debug\IfSimples.exe
+F:\106 A10\02-Sélections simples\Exercices\If simples Case à cocher\IfSimples\bin\Debug\IfSimples.pdb
+F:\106 A10\02-Sélections simples\Exercices\If simples Case à cocher\IfSimples\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\106 A10\02-Sélections simples\Exercices\If simples Case à cocher\IfSimples\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+F:\106 A10\02-Sélections simples\Exercices\If simples Case à cocher\IfSimples\obj\x86\Debug\IfSimples.Properties.Resources.resources
+F:\106 A10\02-Sélections simples\Exercices\If simples Case à cocher\IfSimples\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\106 A10\02-Sélections simples\Exercices\If simples Case à cocher\IfSimples\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\106 A10\02-Sélections simples\Exercices\If simples\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\IfSimples.exe
+F:\106 A10\02-Sélections simples\Exercices\If simples\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\IfSimples.pdb
+O:\106 A10\02-Sélections simples\Exercices\If simples\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\IfSimples.exe
+O:\106 A10\02-Sélections simples\Exercices\If simples\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\IfSimples.pdb
+O:\106 A10\02-Sélections simples\Exercices\If simples\If simples Case à cocher SOL\IfSimples\bin\Debug\IfSimples.exe
+O:\106 A10\02-Sélections simples\Exercices\If simples\If simples Case à cocher SOL\IfSimples\bin\Debug\IfSimples.pdb
+O:\106 A10\02-Sélections simples\Exercices\If simples\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\106 A10\02-Sélections simples\Exercices\If simples\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+O:\106 A10\02-Sélections simples\Exercices\If simples\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\IfSimples.Properties.Resources.resources
+O:\106 A10\02-Sélections simples\Exercices\If simples\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\GenerateResource.read.1.tlog
+O:\106 A10\02-Sélections simples\Exercices\If simples\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\GenerateResource.write.1.tlog
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\IfSimples.exe
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\IfSimples.pdb
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\IfSimples.Properties.Resources.resources
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\GenerateResource.read.1.tlog
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimples\obj\x86\Debug\GenerateResource.write.1.tlog
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimples\bin\Debug\IfSimples.exe
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimples\bin\Debug\IfSimples.pdb
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimple\obj\x86\Debug\IfSimples.exe
+O:\106 A11\02-Sélections\If simples Case à cocher SOL\IfSimple\obj\x86\Debug\IfSimples.pdb
+E:\106 A11\02-Sélections\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.exe
+E:\106 A11\02-Sélections\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.pdb
+H:\106 A11\02-Sélections\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.exe
+H:\106 A11\02-Sélections\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.pdb
+H:\106 A11\02-Sélections\If simples SOL\IfSimples\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\106 A11\02-Sélections\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+H:\106 A11\02-Sélections\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.Properties.Resources.resources
+H:\106 A11\02-Sélections\If simples SOL\IfSimples\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\106 A11\02-Sélections\If simples SOL\IfSimples\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\106 A11\02-Sélections\If simples SOL\IfSimples\bin\Debug\IfSimples.exe.config
+H:\106 A11\02-Sélections\If simples SOL\IfSimples\bin\Debug\IfSimples.exe
+H:\106 A11\02-Sélections\If simples SOL\IfSimples\bin\Debug\IfSimples.pdb
+H:\106 A11\02-Sélections\If simples SOL\IfSimples\bin\Debug\VisualArrays.xml
+E:\If simples SOL\IfSimples\bin\Debug\IfSimples.exe.config
+E:\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.exe
+E:\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.pdb
+E:\If simples SOL\IfSimples\bin\Debug\IfSimples.exe
+E:\If simples SOL\IfSimples\bin\Debug\IfSimples.pdb
+E:\If simples SOL\IfSimples\bin\Debug\VisualArrays.xml
+E:\If simples SOL\IfSimples\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+E:\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.Properties.Resources.resources
+E:\If simples SOL\IfSimples\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\If simples SOL\IfSimples\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\106 A11\02-Sélections\If simples SOL\If simples SOL\IfSimples\bin\Debug\IfSimples.exe.config
+H:\106 A11\02-Sélections\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.exe
+H:\106 A11\02-Sélections\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.pdb
+H:\106 A11\02-Sélections\If simples SOL\If simples SOL\IfSimples\bin\Debug\IfSimples.exe
+H:\106 A11\02-Sélections\If simples SOL\If simples SOL\IfSimples\bin\Debug\IfSimples.pdb
+H:\106 A11\02-Sélections\If simples SOL\If simples SOL\IfSimples\bin\Debug\VisualArrays.xml
+H:\106 A11\02-Sélections\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\106 A11\02-Sélections\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+H:\106 A11\02-Sélections\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.Properties.Resources.resources
+H:\106 A11\02-Sélections\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\106 A11\02-Sélections\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\bin\Debug\IfSimples.exe.config
+H:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.exe
+H:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.pdb
+H:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\bin\Debug\IfSimples.exe
+H:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\bin\Debug\IfSimples.pdb
+H:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\bin\Debug\VisualArrays.xml
+H:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+H:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.Properties.Resources.resources
+H:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\bin\Debug\IfSimples.exe.config
+E:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.exe
+E:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.pdb
+E:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\bin\Debug\IfSimples.exe
+E:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\bin\Debug\IfSimples.pdb
+E:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\bin\Debug\VisualArrays.xml
+E:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+E:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.Properties.Resources.resources
+E:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\bin\Debug\IfSimples.exe.config
+J:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.exe
+J:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.pdb
+J:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\bin\Debug\IfSimples.exe
+J:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\bin\Debug\IfSimples.pdb
+J:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\bin\Debug\VisualArrays.xml
+J:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+J:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.Properties.Resources.resources
+J:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\106 A11\02-Sélections\A-Ifs simples\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\106 A12\02-Sélections\If simples SOL\If simples SOL\IfSimples\bin\Debug\IfSimples.exe.config
+H:\106 A12\02-Sélections\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.exe
+H:\106 A12\02-Sélections\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.pdb
+H:\106 A12\02-Sélections\If simples SOL\If simples SOL\IfSimples\bin\Debug\IfSimples.exe
+H:\106 A12\02-Sélections\If simples SOL\If simples SOL\IfSimples\bin\Debug\IfSimples.pdb
+H:\106 A12\02-Sélections\If simples SOL\If simples SOL\IfSimples\bin\Debug\VisualArrays.xml
+H:\106 A12\02-Sélections\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\106 A12\02-Sélections\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+H:\106 A12\02-Sélections\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\IfSimples.Properties.Resources.resources
+H:\106 A12\02-Sélections\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\106 A12\02-Sélections\If simples SOL\If simples SOL\IfSimples\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\106 A12\02-Sélections\A-if Simples\If simples SOL\If simples SOL\IfSimples\bin\Debug\IfSimples.exe.config
+E:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\bin\Debug\IfSimples.exe.config
+E:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\bin\Debug\IfSimples.exe
+E:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\bin\Debug\IfSimples.pdb
+E:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+E:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\obj\x86\Debug\IfSimples.Properties.Resources.resources
+E:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\obj\x86\Debug\IfSimples.exe
+E:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\obj\x86\Debug\IfSimples.pdb
+F:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\bin\Debug\IfSimples.exe.config
+F:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\obj\x86\Debug\IfSimples.exe
+F:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\obj\x86\Debug\IfSimples.pdb
+F:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\bin\Debug\IfSimples.exe
+F:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\bin\Debug\IfSimples.pdb
+F:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\obj\x86\Debug\IfSimples.FrmPrincipal.resources
+F:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\obj\x86\Debug\IfSimples.Properties.Resources.resources
+F:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Cours 106-A12\Stock Claire\A-If simples SOL\IfSimples\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\106 A12\02-Sélections\Selection Simple Ex1-Ex6 SD\Ex1-Ex5 Selection simple\IfSimples\bin\Debug\IfSimples.exe.config
+E:\106 A12\02-Sélections\Selection Simple Ex1-Ex6 SD\Ex1-Ex5 Selection simple\IfSimples\obj\x86\Debug\IfSimples.exe
+E:\106 A12\02-Sélections\Selection Simple Ex1-Ex6 SD\Ex1-Ex5 Selection simple\IfSimples\obj\x86\Debug\IfSimples.pdb
+J:\106 A12\02-Sélections\A-if simples\A-If simples\Ex1-Ex5 Selection simple\IfSimplesEx1-5\bin\Debug\IfSimples.exe.config
+J:\106 A12\02-Sélections\A-if simples\A-If simples\Ex1-Ex5 Selection simple\IfSimplesEx1-5\obj\x86\Debug\IfSimples.exe
+J:\106 A12\02-Sélections\A-if simples\A-If simples\Ex1-Ex5 Selection simple\IfSimplesEx1-5\obj\x86\Debug\IfSimples.pdb
+J:\106 A12\02-Sélections\A-If simples\IfSimplesEx1-5\bin\Debug\IfSimples.exe.config
+J:\106 A12\02-Sélections\A-If simples\IfSimplesEx1-5\obj\x86\Debug\IfSimples.exe
+J:\106 A12\02-Sélections\A-If simples\IfSimplesEx1-5\obj\x86\Debug\IfSimples.pdb

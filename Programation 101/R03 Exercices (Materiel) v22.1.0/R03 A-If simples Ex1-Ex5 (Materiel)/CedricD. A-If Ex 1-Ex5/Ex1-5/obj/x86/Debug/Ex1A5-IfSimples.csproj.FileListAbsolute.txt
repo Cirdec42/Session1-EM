@@ -1,0 +1,145 @@
+J:\106 A12\02-Sélections\A-If simples SOL\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+J:\106 A12\02-Sélections\A-If simples SOL\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+J:\106 A12\02-Sélections\A-If simples SOL\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb
+J:\106 A12\02-Sélections\A-If simples SOL\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe
+J:\106 A12\02-Sélections\A-If simples SOL\Ex1-5\bin\Debug\Ex1A5-IfSimples.pdb
+J:\106 A12\02-Sélections\A-If simples SOL\Ex1-5\bin\Debug\VisualArrays.xml
+J:\106 A12\02-Sélections\A-If simples SOL\Ex1-5\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\106 A12\02-Sélections\A-If simples SOL\Ex1-5\obj\x86\Debug\IfSimples.FrmEx1A5.resources
+J:\106 A12\02-Sélections\A-If simples SOL\Ex1-5\obj\x86\Debug\IfSimples.Properties.Resources.resources
+J:\106 A12\02-Sélections\A-If simples SOL\Ex1-5\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\106 A12\02-Sélections\A-If simples SOL\Ex1-5\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\106 A12\02-Sélections\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+J:\106 A12\02-Sélections\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+J:\106 A12\02-Sélections\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb
+J:\106 A12\02-Sélections\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe
+J:\106 A12\02-Sélections\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\bin\Debug\Ex1A5-IfSimples.pdb
+J:\106 A12\02-Sélections\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\bin\Debug\VisualArrays.xml
+J:\106 A12\02-Sélections\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\106 A12\02-Sélections\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\obj\x86\Debug\IfSimples.FrmEx1A5.resources
+J:\106 A12\02-Sélections\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\obj\x86\Debug\IfSimples.Properties.Resources.resources
+J:\106 A12\02-Sélections\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\106 A12\02-Sélections\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\bin\Debug\Ex1A5-IfSimples.pdb
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\obj\x86\Debug\IfSimples.FrmEx1A5.resources
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\obj\x86\Debug\IfSimples.Properties.Resources.resources
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex6 SOL CB\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A1-If simples Ex 1-Ex5 SOL V1.2 PC - Copie\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A1-If simples Ex 1-Ex5 SOL V1.2 PC - Copie\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A1-If simples Ex 1-Ex5 SOL V1.2 PC - Copie\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A1-If simples Ex 1-Ex5 SOL V1.2 PC - Copie\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A1-If simples Ex 1-Ex5 SOL V1.2 PC - Copie\Ex1-5\bin\Debug\Ex1A5-IfSimples.pdb
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A1-If simples Ex 1-Ex5 SOL V1.2 PC - Copie\Ex1-5\bin\Debug\VisualArrays.dll
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A1-If simples Ex 1-Ex5 SOL V1.2 PC - Copie\Ex1-5\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A1-If simples Ex 1-Ex5 SOL V1.2 PC - Copie\Ex1-5\obj\x86\Debug\IfSimples.FrmEx1A5.resources
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A1-If simples Ex 1-Ex5 SOL V1.2 PC - Copie\Ex1-5\obj\x86\Debug\IfSimples.Properties.Resources.resources
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A1-If simples Ex 1-Ex5 SOL V1.2 PC - Copie\Ex1-5\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A1-If simples Ex 1-Ex5 SOL V1.2 PC - Copie\Ex1-5\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.2 PC\A-If simples Ex 1-Ex5 SOL V1.2 PC\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.2 PC\A-If simples Ex 1-Ex5 SOL V1.2 PC\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.2 PC\A-If simples Ex 1-Ex5 SOL V1.2 PC\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.3 PC\A-If simples Ex 1-Ex5 SOL V1.2 PC\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.3 PC\A-If simples Ex 1-Ex5 SOL V1.2 PC\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+J:\_Mes Cours\420-106 A12\C02Lab01(theorie)\A-If simples Kit V1.3 PC\A-If simples Ex 1-Ex5 SOL V1.2 PC\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb
+F:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples Ex 1-Ex5 SOL V1.2 PC\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+F:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples Ex 1-Ex5 SOL V1.2 PC\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+F:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples Ex 1-Ex5 SOL V1.2 PC\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples Ex 1-Ex5 SOL V1.2.1 PC\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples Ex 1-Ex5 SOL V1.2.1 PC\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples Ex 1-Ex5 SOL V1.2.1 PC\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex5 SOL V1.2.1 PC\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex5 SOL V1.2.1 PC\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex5 SOL V1.2.1 PC\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex5 SOL V1.2.1 PC\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex5 SOL V1.2.1 PC\Ex1-5\bin\Debug\Ex1A5-IfSimples.pdb
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex5 SOL V1.2.1 PC\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex5 SOL V1.2.1 PC\Ex1-5\obj\x86\Debug\IfSimples.FrmEx1A5.resources
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex5 SOL V1.2.1 PC\Ex1-5\obj\x86\Debug\IfSimples.Properties.Resources.resources
+C:\Users\Paul\Desktop\A-If simples Ex 1-Ex5 SOL V1.2.1 PC\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 1-Ex5 SOL V1.4 PC\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 1-Ex5 SOL V1.4 PC\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 1-Ex5 SOL V1.4 PC\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 1-Ex5 SOL V1.4 PC\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 1-Ex5 SOL V1.4 PC\Ex1-5\bin\Debug\Ex1A5-IfSimples.pdb
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 1-Ex5 SOL V1.4 PC\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 1-Ex5 SOL V1.4 PC\Ex1-5\obj\x86\Debug\IfSimples.FrmEx1A5.resources
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 1-Ex5 SOL V1.4 PC\Ex1-5\obj\x86\Debug\IfSimples.Properties.Resources.resources
+G:\__Cours\420-116 A13\Module 1\R02 L If - opérateur logique\A-If simples Kit V1.3.1 PC\A-If simples ex1-Ex6 Matériel V1.4\A-If simples Ex 1-Ex5 SOL V1.4 PC\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Mat) V1.4\nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Mat) V1.4\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Mat) V1.4\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Mat) V1.4\nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Mat) V1.4\nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\Ex1A5-IfSimples.pdb
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Mat) V1.4\nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Mat) V1.4\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Mat) V1.4\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\IfSimples.FrmEx1A5.resources
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Mat) V1.4\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\IfSimples.Properties.Resources.resources
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Mat) V1.4\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Materiel) V1.5 PC\nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Materiel) V1.5 PC\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+G:\__Cours\420-116 A14\Module 1\R02- T Instruction if\R02 A-If simples Ex1-Ex6 (Materiel) V1.5 PC\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\Ex1A5-IfSimples.pdb
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\VisualArrays.xml
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csprojResolveAssemblyReference.cache
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\IfSimples.FrmEx1A5.resources
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\IfSimples.Properties.Resources.resources
+I:\_420-116 A16\Module 1\R02(L) Instruction if v15.0\R02 A-If simples Ex1-Ex6 (Materiel) v14.1.1\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csproj.GenerateResource.Cache
+G:\AUT2020\1N6_20\Module1\R03 Instruction de selection if\R02 Materiels\R02 A-If simples Ex1-Ex6 (Materiel) v16.1.0\nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+G:\AUT2020\1N6_20\Module1\R03 Instruction de selection if\R02 Materiels\R02 A-If simples Ex1-Ex6 (Materiel) v16.1.0\nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe
+G:\AUT2020\1N6_20\Module1\R03 Instruction de selection if\R02 Materiels\R02 A-If simples Ex1-Ex6 (Materiel) v16.1.0\nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\Ex1A5-IfSimples.pdb
+G:\AUT2020\1N6_20\Module1\R03 Instruction de selection if\R02 Materiels\R02 A-If simples Ex1-Ex6 (Materiel) v16.1.0\nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\VisualArrays.xml
+G:\AUT2020\1N6_20\Module1\R03 Instruction de selection if\R02 Materiels\R02 A-If simples Ex1-Ex6 (Materiel) v16.1.0\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csprojAssemblyReference.cache
+G:\AUT2020\1N6_20\Module1\R03 Instruction de selection if\R02 Materiels\R02 A-If simples Ex1-Ex6 (Materiel) v16.1.0\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\IfSimples.FrmEx1A5.resources
+G:\AUT2020\1N6_20\Module1\R03 Instruction de selection if\R02 Materiels\R02 A-If simples Ex1-Ex6 (Materiel) v16.1.0\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\IfSimples.Properties.Resources.resources
+G:\AUT2020\1N6_20\Module1\R03 Instruction de selection if\R02 Materiels\R02 A-If simples Ex1-Ex6 (Materiel) v16.1.0\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csproj.GenerateResource.cache
+G:\AUT2020\1N6_20\Module1\R03 Instruction de selection if\R02 Materiels\R02 A-If simples Ex1-Ex6 (Materiel) v16.1.0\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csproj.CopyComplete
+G:\AUT2020\1N6_20\Module1\R03 Instruction de selection if\R02 Materiels\R02 A-If simples Ex1-Ex6 (Materiel) v16.1.0\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+G:\AUT2020\1N6_20\Module1\R03 Instruction de selection if\R02 Materiels\R02 A-If simples Ex1-Ex6 (Materiel) v16.1.0\nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\Ex1A5-IfSimples.pdb
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\IfSimples.FrmEx1A5.resources
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\IfSimples.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+J:\A20 1N6 Les Capsules\R03 Sélection simple\_Code C#\R03 Materiels v20.1.1\R03 A-If simples Ex1-Ex6 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\Ex1A5-IfSimples.pdb
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\VisualArrays.xml
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csproj.AssemblyReference.cache
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csproj.SuggestedBindingRedirects.cache
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\IfSimples.FrmEx1A5.resources
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\IfSimples.Properties.Resources.resources
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csproj.GenerateResource.cache
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csproj.CopyComplete
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+C:\Users\jamil.gammoudi\OneDrive - Cégep Édouard-Montpetit\A22\1N6\Materiel\R03\R03 Exercices (Materiel) v20.1.1\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\Ex1A5-IfSimples.pdb
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\bin\Debug\VisualArrays.xml
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csproj.AssemblyReference.cache
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csproj.SuggestedBindingRedirects.cache
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\IfSimples.FrmEx1A5.resources
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\IfSimples.Properties.Resources.resources
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csproj.GenerateResource.cache
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csproj.CoreCompileInputs.cache
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.csproj.CopyComplete
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+C:\Users\cedri\OneDrive\Bureau\R03 Exercices (Materiel) v22.1.0\R03 A-If simples Ex1-Ex5 (Materiel)\Nom prenom A-If Ex 1-Ex5\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb

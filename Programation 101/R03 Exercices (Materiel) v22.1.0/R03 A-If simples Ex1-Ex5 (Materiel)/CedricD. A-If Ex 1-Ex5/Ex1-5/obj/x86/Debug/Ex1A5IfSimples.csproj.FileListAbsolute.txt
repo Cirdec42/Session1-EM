@@ -1,0 +1,17 @@
+J:\106 A12\02-Sélections\A-If simples\IfSimplesEx1-5\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\106 A12\02-Sélections\A-If simples\IfSimplesEx1-5\obj\x86\Debug\IfSimples.FrmEx1A5.resources
+J:\106 A12\02-Sélections\A-If simples\IfSimplesEx1-5\obj\x86\Debug\IfSimples.Properties.Resources.resources
+J:\106 A12\02-Sélections\A-If simples\IfSimplesEx1-5\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\106 A12\02-Sélections\A-If simples\IfSimplesEx1-5\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\106 A12\02-Sélections\A-If simples\IfSimplesEx1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+J:\106 A12\02-Sélections\A-If simples\IfSimplesEx1-5\bin\Debug\Ex1A5-IfSimples.exe
+J:\106 A12\02-Sélections\A-If simples\IfSimplesEx1-5\bin\Debug\Ex1A5-IfSimples.pdb
+J:\106 A12\02-Sélections\A-If simples\IfSimplesEx1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+J:\106 A12\02-Sélections\A-If simples\IfSimplesEx1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb
+J:\106 A12\02-Sélections\A-If simples\IfSimplesEx1-5\bin\Debug\VisualArrays.xml
+J:\106 A12\02-Sélections\A-If simples\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+J:\106 A12\02-Sélections\A-If simples\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+J:\106 A12\02-Sélections\A-If simples\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb
+J:\106 A12\02-Sélections\A-If simples SOL\Ex1-5\bin\Debug\Ex1A5-IfSimples.exe.config
+J:\106 A12\02-Sélections\A-If simples SOL\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.exe
+J:\106 A12\02-Sélections\A-If simples SOL\Ex1-5\obj\x86\Debug\Ex1A5-IfSimples.pdb

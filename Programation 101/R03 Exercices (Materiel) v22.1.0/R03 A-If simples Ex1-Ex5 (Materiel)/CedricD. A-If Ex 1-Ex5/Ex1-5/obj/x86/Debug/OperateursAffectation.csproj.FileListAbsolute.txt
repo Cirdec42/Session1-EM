@@ -1,0 +1,45 @@
+K:\106 A10\1-Notions de base\OperateursAffectation\OperateursAffectation\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\106 A10\1-Notions de base\OperateursAffectation\OperateursAffectation\obj\x86\Debug\OperateursAffectation.Properties.Resources.resources
+K:\106 A10\1-Notions de base\OperateursAffectation\OperateursAffectation\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\106 A10\1-Notions de base\OperateursAffectation\OperateursAffectation\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\106 A10\1-Notions de base\OperateursAffectation\OperateursAffectation\bin\Debug\OperateursAffectation.exe
+K:\106 A10\1-Notions de base\OperateursAffectation\OperateursAffectation\bin\Debug\OperateursAffectation.pdb
+K:\106 A10\1-Notions de base\OperateursAffectation\OperateursAffectation\obj\x86\Debug\OperateursAffectation.exe
+K:\106 A10\1-Notions de base\OperateursAffectation\OperateursAffectation\obj\x86\Debug\OperateursAffectation.pdb
+K:\106 A10\1-Notions de base\OperateursAffectation\OperateursAffectation\obj\x86\Debug\OperateursAffectation.FrmPrincipal.resources
+K:\106 A10\1-Notions de base\OperateurAffectation\OperateursAffectation\obj\x86\Debug\OperateursAffectation.exe
+K:\106 A10\1-Notions de base\OperateurAffectation\OperateursAffectation\obj\x86\Debug\OperateursAffectation.pdb
+K:\106 A10\1-Notions de base\OperateurAffectation\OperateursAffectation\bin\Debug\OperateursAffectation.exe
+K:\106 A10\1-Notions de base\OperateurAffectation\OperateursAffectation\bin\Debug\OperateursAffectation.pdb
+K:\106 A10\1-Notions de base\OperateurAffectation\OperateursAffectation\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\106 A10\1-Notions de base\OperateurAffectation\OperateursAffectation\obj\x86\Debug\OperateursAffectation.FrmPrincipal.resources
+K:\106 A10\1-Notions de base\OperateurAffectation\OperateursAffectation\obj\x86\Debug\OperateursAffectation.Properties.Resources.resources
+K:\106 A10\1-Notions de base\OperateurAffectation\OperateursAffectation\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\106 A10\1-Notions de base\OperateurAffectation\OperateursAffectation\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Mes Cours\_420-106 A10(nouveau)\Module 1\1-Projets\1-6 OperateurAffectation\OperateursAffectation\obj\x86\Debug\OperateursAffectation.exe
+F:\_Mes Cours\_420-106 A10(nouveau)\Module 1\1-Projets\1-6 OperateurAffectation\OperateursAffectation\obj\x86\Debug\OperateursAffectation.pdb
+F:\_Mes Cours\_420-106 A10(nouveau)\Module 1\1-Projets\1-6 OperateurAffectation\OperateursAffectation\bin\Debug\OperateursAffectation.exe
+F:\_Mes Cours\_420-106 A10(nouveau)\Module 1\1-Projets\1-6 OperateurAffectation\OperateursAffectation\bin\Debug\OperateursAffectation.pdb
+F:\_Mes Cours\_420-106 A10(nouveau)\Module 1\1-Projets\1-6 OperateurAffectation\OperateursAffectation\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Mes Cours\_420-106 A10(nouveau)\Module 1\1-Projets\1-6 OperateurAffectation\OperateursAffectation\obj\x86\Debug\OperateursAffectation.FrmPrincipal.resources
+F:\_Mes Cours\_420-106 A10(nouveau)\Module 1\1-Projets\1-6 OperateurAffectation\OperateursAffectation\obj\x86\Debug\OperateursAffectation.Properties.Resources.resources
+F:\_Mes Cours\_420-106 A10(nouveau)\Module 1\1-Projets\1-6 OperateurAffectation\OperateursAffectation\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Mes Cours\_420-106 A10(nouveau)\Module 1\1-Projets\1-6 OperateurAffectation\OperateursAffectation\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\106 A10\1-Notions de base\1-6 OperateurAffectation(version onglet)\OperateursAffectation\obj\x86\Debug\OperateursAffectation.exe
+K:\106 A10\1-Notions de base\1-6 OperateurAffectation(version onglet)\OperateursAffectation\obj\x86\Debug\OperateursAffectation.pdb
+K:\106 A10\1-Notions de base\1-6 OperateurAffectation(version onglet)\OperateursAffectation\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\106 A10\1-Notions de base\1-6 OperateurAffectation(version onglet)\OperateursAffectation\obj\x86\Debug\OperateursAffectation.FrmPrincipal.resources
+K:\106 A10\1-Notions de base\1-6 OperateurAffectation(version onglet)\OperateursAffectation\obj\x86\Debug\OperateursAffectation.Properties.Resources.resources
+K:\106 A10\1-Notions de base\1-6 OperateurAffectation(version onglet)\OperateursAffectation\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\106 A10\1-Notions de base\1-6 OperateurAffectation(version onglet)\OperateursAffectation\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\106 A10\1-Notions de base\1-6 OperateurAffectation(version onglet)\OperateursAffectation\bin\Debug\OperateursAffectation.exe
+K:\106 A10\1-Notions de base\1-6 OperateurAffectation(version onglet)\OperateursAffectation\bin\Debug\OperateursAffectation.pdb
+K:\106 A10\2-Sélections simples\1-6 Operateur et Affectation\OperateursAffectation\obj\x86\Debug\OperateursAffectation.exe
+K:\106 A10\2-Sélections simples\1-6 Operateur et Affectation\OperateursAffectation\obj\x86\Debug\OperateursAffectation.pdb
+K:\106 A10\2-Sélections simples\1-6 Operateur et Affectation\OperateursAffectation\bin\Debug\OperateursAffectation.exe
+K:\106 A10\2-Sélections simples\1-6 Operateur et Affectation\OperateursAffectation\bin\Debug\OperateursAffectation.pdb
+K:\106 A10\2-Sélections simples\1-6 Operateur et Affectation\OperateursAffectation\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\106 A10\2-Sélections simples\1-6 Operateur et Affectation\OperateursAffectation\obj\x86\Debug\OperateursAffectation.FrmPrincipal.resources
+K:\106 A10\2-Sélections simples\1-6 Operateur et Affectation\OperateursAffectation\obj\x86\Debug\OperateursAffectation.Properties.Resources.resources
+K:\106 A10\2-Sélections simples\1-6 Operateur et Affectation\OperateursAffectation\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\106 A10\2-Sélections simples\1-6 Operateur et Affectation\OperateursAffectation\obj\x86\Debug\GenerateResource.write.1.tlog
