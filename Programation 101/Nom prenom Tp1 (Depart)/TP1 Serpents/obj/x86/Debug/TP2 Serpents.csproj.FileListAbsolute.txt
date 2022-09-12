@@ -1,0 +1,342 @@
+J:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+J:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+J:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+I:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+I:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+I:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+I:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+I:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\bin\Debug\VisualArrays.dll
+I:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\bin\Debug\VisualArrays.xml
+I:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+I:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+E:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+E:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+E:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+E:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+E:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+E:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\bin\Debug\VisualArrays.xml
+E:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+E:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+E:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\106 A10\02 Sélections\TP2 serpents V1.0\TP2 Serpents\TP2 Serpents\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\106 A10\02 Sélections\TP2 Serpents v1.0\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+J:\106 A10\02 Sélections\TP2 Serpents v1.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+J:\106 A10\02 Sélections\TP2 Serpents v1.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.0\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.0\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.0\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.0\TP2 Serpents\bin\Debug\VisualArrays.xml
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.0\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.0\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.0\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.0\TP2 Serpents\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.0\TP2 Serpents\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.1\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.1\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.1\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.2\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.2\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.2\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.2\TP2 Serpents\bin\Debug\VisualArrays.xml
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.2\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.2\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.2\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.2\TP2 Serpents\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\106 A10\02 Sélections\Tp2 Serpents\TP2 Serpents v1.2\TP2 Serpents\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Cours CEB-A10\_Semaine #3\TP2 Serpents v1.2\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+F:\_Cours CEB-A10\_Semaine #3\TP2 Serpents v1.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+F:\_Cours CEB-A10\_Semaine #3\TP2 Serpents v1.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+F:\_Cours CEB-A10\_Semaine #3\TP2 Serpents v1.2\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+F:\_Cours CEB-A10\_Semaine #3\TP2 Serpents v1.2\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+F:\_Cours CEB-A10\_Semaine #3\TP2 Serpents v1.2\TP2 Serpents\bin\Debug\VisualArrays.xml
+F:\_Cours CEB-A10\_Semaine #3\TP2 Serpents v1.2\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Cours CEB-A10\_Semaine #3\TP2 Serpents v1.2\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+F:\_Cours CEB-A10\_Semaine #3\TP2 Serpents v1.2\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+F:\_Cours CEB-A10\_Semaine #3\TP2 Serpents v1.2\TP2 Serpents\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Cours CEB-A10\_Semaine #3\TP2 Serpents v1.2\TP2 Serpents\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Mes Cours\_420-CEB A10\_Semaine #3\Sol_TP2 A10 Serpents v1.3\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+E:\_Mes Cours\_420-CEB A10\_Semaine #3\Sol_TP2 A10 Serpents v1.3\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+E:\_Mes Cours\_420-CEB A10\_Semaine #3\Sol_TP2 A10 Serpents v1.3\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+E:\_Mes Cours\_420-CEB A10\_Semaine #3\Sol_TP2 A10 Serpents v1.3\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+E:\_Mes Cours\_420-CEB A10\_Semaine #3\Sol_TP2 A10 Serpents v1.3\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+E:\_Mes Cours\_420-CEB A10\_Semaine #3\Sol_TP2 A10 Serpents v1.3\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Mes Cours\_420-CEB A10\_Semaine #3\Sol_TP2 A10 Serpents v1.3\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+E:\_Mes Cours\_420-CEB A10\_Semaine #3\Sol_TP2 A10 Serpents v1.3\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+E:\_Mes Cours\_420-CEB A10\_Semaine #3\Sol_TP2 A10 Serpents v1.3\TP2 Serpents\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Mes Cours\_420-CEB A10\_Semaine #3\Sol_TP2 A10 Serpents v1.3\TP2 Serpents\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Mes Cours\_420-CEB A10\_Semaine #3\Sol_TP2 A10 Serpents v1.3\TP2 Serpents\bin\Debug\TP2 Serpents.exe.CodeAnalysisLog.xml
+E:\_Mes Cours\_420-CEB A10\_Semaine #3\Sol_TP2 A10 Serpents v1.3\TP2 Serpents\bin\Debug\TP2 Serpents.exe.lastcodeanalysissucceeded
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.4\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.4\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.4\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.4\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.4\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.4\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.4\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.4\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.4\TP2 Serpents\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.4\TP2 Serpents\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+I:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v1.5\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v2.0\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v2.0\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v2.0\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v2.0\TP2 Serpents\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v2.0\TP2 Serpents\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v2.0\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v2.0\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v2.0\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v2.0\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v2.0\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v2.0\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v2.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+E:\_Cours CEB-A10\_Semaine #3\Sol_TP2 A10 Serpents v2.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+E:\_Cours CEB-H11\TP2 Serpents v0.9\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+E:\_Cours CEB-H11\TP2 Serpents v0.9\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+E:\_Cours CEB-H11\TP2 Serpents v0.9\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+E:\_Cours CEB-H11\TP2 Serpents v0.9\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-H11\TP2 Serpents v0.9\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+E:\_Cours CEB-H11\TP2 Serpents v0.9\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+E:\_Cours CEB-H11\TP2 Serpents v0.9\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours CEB-H11\TP2 Serpents v0.9\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours CEB-H11\TP2 Serpents v0.9\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours CEB-H11\TP2 Serpents v0.9\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+E:\_Cours CEB-H11\TP2 Serpents v0.9\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+E:\_Cours CEB-H11\TP2 Serpents v0.9\TP2 Serpents\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-H11\TP2 Serpents v0.9\TP2 Serpents\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-H11\TP2 Serpents v0.9\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 kit complet\Tp2 Serpents v0.99\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 kit complet\Tp2 Serpents v0.99\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 kit complet\Tp2 Serpents v0.99\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v0.99\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v0.99\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v0.99\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v0.99\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v0.99\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v0.99\TP2 Serpents\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v0.99\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v0.99\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v0.99\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v0.99\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v0.99\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v0.99\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v0.99\TP2 Serpents\obj\x86\Debug\GenerateResource.read.46.tlog
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v0.99\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v1.0\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v1.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+E:\_Cours CEB-H11\Semaine 3 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v1.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v1.0\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v1.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+E:\_Cours CEB-H11\Semaine 03 - Kit complet\Tp2 Kit complet\Solution Tp2 H11 Serpents v1.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Tp2 Kit complet\Solution Tp2 H12 v.0.1\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Tp2 Kit complet\Solution Tp2 H12 v.0.1\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Tp2 Kit complet\Solution Tp2 H12 v.0.1\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Tp2 Kit complet\Solution Tp2 H12 v.0.1\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Tp2 Kit complet\Solution Tp2 H12 v.0.1\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Tp2 Kit complet\Solution Tp2 H12 v.0.1\TP2 Serpents\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Tp2 Kit complet\Solution Tp2 H12 v.0.1\TP2 Serpents\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Tp2 Kit complet\Solution Tp2 H12 v.0.1\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Tp2 Kit complet\Solution Tp2 H12 v.0.1\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Tp2 Kit complet\Solution Tp2 H12 v.0.1\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Tp2 Kit complet\Solution Tp2 H12 v.0.1\TP2 Serpents\obj\x86\Debug\ResGen.read.1.tlog
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Tp2 Kit complet\Solution Tp2 H12 v.0.1\TP2 Serpents\obj\x86\Debug\ResGen.write.1.tlog
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Tp2 Kit complet\Solution Tp2 H12 v.1.0\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Tp2 Kit complet\Solution Tp2 H12 v.1.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\Tp2 Kit complet\Solution Tp2 H12 v.1.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\obj\x86\Debug\ResGen.read.1.tlog
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\obj\x86\Debug\ResGen.write.1.tlog
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\obj\x86\Debug\ResGen.read.1.tlog
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 03 - Kit complet _H12\H12 TP2 Kit complet\H12 Solution Tp2 v.1.0\TP2 Serpents\obj\x86\Debug\ResGen.write.1.tlog
+F:\_Cours 106-A12\_Matériel Tps\A12 Tp2 Serpents et échelles v.1.0\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+F:\_Cours 106-A12\_Matériel Tps\A12 Tp2 Serpents et échelles v.1.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+F:\_Cours 106-A12\_Matériel Tps\A12 Tp2 Serpents et échelles v.1.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+F:\_Cours 106-A12\_Matériel Tps\A12 Tp2 Serpents et échelles v.1.0\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Cours 106-A12\_Matériel Tps\A12 Tp2 Serpents et échelles v.1.0\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+F:\_Cours 106-A12\_Matériel Tps\A12 Tp2 Serpents et échelles v.1.0\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+F:\_Cours 106-A12\_Matériel Tps\A12 Tp2 Serpents et échelles v.1.0\TP2 Serpents\obj\x86\Debug\ResGen.read.1.tlog
+F:\_Cours 106-A12\_Matériel Tps\A12 Tp2 Serpents et échelles v.1.0\TP2 Serpents\obj\x86\Debug\ResGen.write.1.tlog
+F:\_Cours 106-A12\_Matériel Tps\A12 Tp2 Serpents et échelles v.1.0\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+F:\_Cours 106-A12\_Matériel Tps\A12 Tp2 Serpents et échelles v.1.0\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+F:\_Cours 106-A12\_Matériel Tps\A12 Tp2 Serpents et échelles v.1.0\TP2 Serpents\bin\Debug\VisualArrays.dll
+F:\_Cours 106-A12\_Matériel Tps\A12 Tp2 Serpents et échelles v.1.0\TP2 Serpents\bin\Debug\VisualArrays.xml
+F:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+F:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+F:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+F:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+F:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+F:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\bin\Debug\VisualArrays.xml
+F:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+F:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+F:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+F:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\ResGen.read.1.tlog
+F:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\ResGen.write.1.tlog
+C:\EspaceLabo\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+C:\EspaceLabo\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+C:\EspaceLabo\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+C:\EspaceLabo\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+C:\EspaceLabo\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+C:\EspaceLabo\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\bin\Debug\VisualArrays.xml
+C:\EspaceLabo\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\EspaceLabo\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+C:\EspaceLabo\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+C:\EspaceLabo\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\EspaceLabo\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\EspaceLabo\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\ResGen.read.1.tlog
+C:\EspaceLabo\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\EspaceLabo\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.1\TP2 Serpents\obj\x86\Debug\ResGen.write.1.tlog
+E:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+E:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+E:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+E:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+E:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+E:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\bin\Debug\VisualArrays.xml
+E:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+E:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+E:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+E:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\ResGen.read.1.tlog
+E:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.1\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\ResGen.write.1.tlog
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\bin\Debug\VisualArrays.xml
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\ResGen.read.1.tlog
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.2\TP2 Serpents\obj\x86\Debug\ResGen.write.1.tlog
+J:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.2.1\A12 Tp2 Serpents et echelles v.1.2.1 Correcteur\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+J:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.2.1\A12 Tp2 Serpents et echelles v.1.2.1 Correcteur\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+J:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.2.1\A12 Tp2 Serpents et echelles v.1.2.1 Correcteur\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+J:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.2.1\A12 Tp2 Serpents et echelles v.1.2.1 Correcteur\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+J:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.2.1\A12 Tp2 Serpents et echelles v.1.2.1 Correcteur\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+J:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.2.1\A12 Tp2 Serpents et echelles v.1.2.1 Correcteur\TP2 Serpents\bin\Debug\VisualArrays.xml
+J:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.2.1\A12 Tp2 Serpents et echelles v.1.2.1 Correcteur\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.2.1\A12 Tp2 Serpents et echelles v.1.2.1 Correcteur\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+J:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.2.1\A12 Tp2 Serpents et echelles v.1.2.1 Correcteur\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+J:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.2.1\A12 Tp2 Serpents et echelles v.1.2.1 Correcteur\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+J:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.2.1\A12 Tp2 Serpents et echelles v.1.2.1 Correcteur\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+J:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.2.1\A12 Tp2 Serpents et echelles v.1.2.1 Correcteur\TP2 Serpents\obj\x86\Debug\ResGen.read.1.tlog
+J:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.2.1\A12 Tp2 Serpents et echelles v.1.2.1 Correcteur\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+J:\_Mes Cours\420-106 A12\TP\A12 Tp2 Serpents et echelles Kit 1.2.1\A12 Tp2 Serpents et echelles v.1.2.1 Correcteur\TP2 Serpents\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.2.1 PC Correcteur\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.2.1 PC Correcteur\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.2.1 PC Correcteur\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.2.1 PC Correcteur\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.2.1 PC Correcteur\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.2.1 PC Correcteur\TP2 Serpents\bin\Debug\VisualArrays.xml
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.2.1 PC Correcteur\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.2.1 PC Correcteur\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.2.1 PC Correcteur\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.2.1 PC Correcteur\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.2.1 PC Correcteur\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.2.1 PC Correcteur\TP2 Serpents\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.2.1 PC Correcteur\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.2.1 PC Correcteur\TP2 Serpents\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\bin\Debug\VisualArrays.xml
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Paul\Desktop\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\ResGen.write.1.tlog
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\ResGen.read.1.tlog
+C:\EspaceLabo\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\ResGen.write.1.tlog
+C:\EspaceLabo\coor 1 nov\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+C:\EspaceLabo\coor 1 nov\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+C:\EspaceLabo\coor 1 nov\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+C:\EspaceLabo\coor 1 nov\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+C:\EspaceLabo\coor 1 nov\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+C:\EspaceLabo\coor 1 nov\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\EspaceLabo\coor 1 nov\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+C:\EspaceLabo\coor 1 nov\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+C:\EspaceLabo\coor 1 nov\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\ResGen.read.1.tlog
+C:\EspaceLabo\coor 1 nov\A12 Tp2 Serpents et echelles v.1.3 PC Correcteur\TP2 Serpents\obj\x86\Debug\ResGen.write.1.tlog
+F:\__Cours\420-116 A13\Module 1\A12 Tp2 Serpents et echelles v.1.3 PC CorrecteurV3.2\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+F:\__Cours\420-116 A13\Module 1\A12 Tp2 Serpents et echelles v.1.3 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+F:\__Cours\420-116 A13\Module 1\A12 Tp2 Serpents et echelles v.1.3 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+F:\__Cours\420-116 A13\Module 1\A12 Tp2 Serpents et echelles v.1.3 PC CorrecteurV3.2\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+F:\__Cours\420-116 A13\Module 1\A12 Tp2 Serpents et echelles v.1.3 PC CorrecteurV3.2\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+F:\__Cours\420-116 A13\Module 1\A12 Tp2 Serpents et echelles v.1.3 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.csprojResolveAssemblyReference.cache
+F:\__Cours\420-116 A13\Module 1\A12 Tp2 Serpents et echelles v.1.3 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+F:\__Cours\420-116 A13\Module 1\A12 Tp2 Serpents et echelles v.1.3 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+F:\__Cours\420-116 A13\Module 1\A12 Tp2 Serpents et echelles v.1.3 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A13\Module 1\R05 L Tp1 Serpents et echelles v.1.4 PC CorrecteurV3.2\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+G:\__Cours\420-116 A13\Module 1\R05 L Tp1 Serpents et echelles v.1.4 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+G:\__Cours\420-116 A13\Module 1\R05 L Tp1 Serpents et echelles v.1.4 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb

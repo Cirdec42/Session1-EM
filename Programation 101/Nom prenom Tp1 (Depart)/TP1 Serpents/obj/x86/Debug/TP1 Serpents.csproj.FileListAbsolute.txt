@@ -1,0 +1,142 @@
+G:\__Cours\420-116 A13\Module 1\R05 L Tp1 Serpents et echelles v.1.4 PC CorrecteurV3.2\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+G:\__Cours\420-116 A13\Module 1\R05 L Tp1 Serpents et echelles v.1.4 PC CorrecteurV3.2\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+G:\__Cours\420-116 A13\Module 1\R05 L Tp1 Serpents et echelles v.1.4 PC CorrecteurV3.2\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+G:\__Cours\420-116 A13\Module 1\R05 L Tp1 Serpents et echelles v.1.4 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP1 Serpents.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A13\Module 1\R05 L Tp1 Serpents et echelles v.1.4 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+G:\__Cours\420-116 A13\Module 1\R05 L Tp1 Serpents et echelles v.1.4 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+G:\__Cours\420-116 A13\Module 1\R05 L Tp1 Serpents et echelles v.1.4 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP1 Serpents.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A13\Module 1\R05 L Tp1 Serpents et echelles v.1.4 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+G:\__Cours\420-116 A13\Module 1\R05 L Tp1 Serpents et echelles v.1.4 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+G:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.5 PC CorrecteurV3.2\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+G:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.5 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+G:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.5 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+G:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.5 PC CorrecteurV3.2\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+G:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.5 PC CorrecteurV3.2\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+G:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.5 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP1 Serpents.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.5 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+G:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.5 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+G:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.5 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP1 Serpents.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.6 PC CorrecteurV3.2\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+G:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.6 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+G:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.6 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+E:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.6 PC CorrecteurV3.2\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+E:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.6 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+E:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.6 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+E:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.6 PC CorrecteurV3.2\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+E:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.6 PC CorrecteurV3.2\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+E:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.6 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP1 Serpents.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.6 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+E:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.6 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+E:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.6 PC CorrecteurV3.2\TP2 Serpents\obj\x86\Debug\TP1 Serpents.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.6.1 PC CorrecteurV3.2.1\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+E:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.6.1 PC CorrecteurV3.2.1\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+E:\__Cours\420-116 A13\Module 1\R05 L TP1 Serpents et echelles (Sol) v.1.6.1 PC CorrecteurV3.2.1\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Sol) v.1.6.1 PC CorrecteurV3.2.1\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Sol) v.1.6.1 PC CorrecteurV3.2.1\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Sol) v.1.6.1 PC CorrecteurV3.2.1\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Sol) v.1.6.1 PC CorrecteurV3.2.1\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Sol) v.1.6.1 PC CorrecteurV3.2.1\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Sol) v.1.6.1 PC CorrecteurV3.2.1\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Sol) v.1.6.1 PC CorrecteurV3.2.1\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Sol) v.1.6.1 PC CorrecteurV3.2.1\TP2 Serpents\obj\x86\Debug\TP1 Serpents.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Sol) v.1.6.1 PC CorrecteurV3.2.1\TP2 Serpents\obj\x86\Debug\TP1 Serpents.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Solution) v14.1.0 CorrecteurV3.3\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Solution) v14.1.0 CorrecteurV3.3\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Solution) v14.1.0 CorrecteurV3.3\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Solution) v14.1.0 CorrecteurV3.3\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Solution) v14.1.0 CorrecteurV3.3\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Solution) v14.1.0 CorrecteurV3.3\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Solution) v14.1.0 CorrecteurV3.3\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Solution) v14.1.0 CorrecteurV3.3\TP2 Serpents\obj\x86\Debug\TP1 Serpents.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Solution) v14.1.0 CorrecteurV3.3\TP2 Serpents\obj\x86\Debug\TP1 Serpents.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Materiel) PC\Nom Prenom TP1 Serpents v14.1.0\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Materiel) PC\Nom Prenom TP1 Serpents v14.1.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Materiel) PC\Nom Prenom TP1 Serpents v14.1.0\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Materiel) PC\Nom Prenom TP1 Serpents v14.1.0\TP2 Serpents\bin\Debug\TP2 Serpents.exe
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Materiel) PC\Nom Prenom TP1 Serpents v14.1.0\TP2 Serpents\bin\Debug\TP2 Serpents.pdb
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Materiel) PC\Nom Prenom TP1 Serpents v14.1.0\TP2 Serpents\obj\x86\Debug\TP1 Serpents.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Materiel) PC\Nom Prenom TP1 Serpents v14.1.0\TP2 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Materiel) PC\Nom Prenom TP1 Serpents v14.1.0\TP2 Serpents\obj\x86\Debug\TP2_Serpents.Properties.Resources.resources
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents et echelles Kit v.1.6.1 PC CorrecteurV3.2.1\TP1 Serpents et echelles (Materiel) PC\Nom Prenom TP1 Serpents v14.1.0\TP2 Serpents\obj\x86\Debug\TP1 Serpents.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents Kit v.14.1.0\TP1 Serpents-echelles (Materiel) v14.1.0\Nom Prenom TP1 Serpents\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents Kit v.14.1.0\TP1 Serpents-echelles (Materiel) v14.1.0\Nom Prenom TP1 Serpents\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+G:\__Cours\420-116 A14\Module 1\Tp1 Serpents Kit v.14.1.0\TP1 Serpents-echelles (Materiel) v14.1.0\Nom Prenom TP1 Serpents\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+E:\_420-116 A16\Module 1\Tp1 Serpents Kit v.14.1.0\TP1 Serpents-echelles (Materiel) v14.1.1\Nom Prenom TP1 Serpents\TP2 Serpents\bin\Debug\TP2 Serpents.exe.config
+E:\_420-116 A16\Module 1\Tp1 Serpents Kit v.14.1.0\TP1 Serpents-echelles (Materiel) v14.1.1\Nom Prenom TP1 Serpents\TP2 Serpents\obj\x86\Debug\TP2 Serpents.exe
+E:\_420-116 A16\Module 1\Tp1 Serpents Kit v.14.1.0\TP1 Serpents-echelles (Materiel) v14.1.1\Nom Prenom TP1 Serpents\TP2 Serpents\obj\x86\Debug\TP2 Serpents.pdb
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Solution) v20.1.0\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Solution) v20.1.0\TP1 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Solution) v20.1.0\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Solution) v20.1.0\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Solution) v20.1.0\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Solution) v20.1.0\TP1 Serpents\bin\Debug\SerpentsEchelles.exe.config
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Solution) v20.1.0\TP1 Serpents\bin\Debug\SerpentsEchelles.exe
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Solution) v20.1.0\TP1 Serpents\bin\Debug\SerpentsEchelles.pdb
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Solution) v20.1.0\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Solution) v20.1.0\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.exe
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Solution) v20.1.0\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.pdb
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.exe
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.pdb
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\bin\Debug\SerpentsEchelles.exe.config
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\bin\Debug\SerpentsEchelles.exe
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\bin\Debug\SerpentsEchelles.pdb
+J:\A20 1N6 Les Capsules\R06 Travail Pratique #1\_Code C#\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\bin\Debug\SerpentsEchelles.exe.config
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\bin\Debug\SerpentsEchelles.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\bin\Debug\SerpentsEchelles.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.Properties.Resources.resources
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.GenerateResource.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\bin\Debug\SerpentsEchelles.exe.config
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\bin\Debug\SerpentsEchelles.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\bin\Debug\SerpentsEchelles.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.Properties.Resources.resources
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.GenerateResource.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.pdb
+G:\AUT2020\1N6_20\Module1\R06V TP1 Serpent echelle\TP1 Serpents-echelles (Matériel) v20.2.1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\bin\Debug\SerpentsEchelles.exe.config
+G:\AUT2020\1N6_20\Module1\R06V TP1 Serpent echelle\TP1 Serpents-echelles (Matériel) v20.2.1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\bin\Debug\SerpentsEchelles.exe
+G:\AUT2020\1N6_20\Module1\R06V TP1 Serpent echelle\TP1 Serpents-echelles (Matériel) v20.2.1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\bin\Debug\SerpentsEchelles.pdb
+G:\AUT2020\1N6_20\Module1\R06V TP1 Serpent echelle\TP1 Serpents-echelles (Matériel) v20.2.1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csprojAssemblyReference.cache
+G:\AUT2020\1N6_20\Module1\R06V TP1 Serpent echelle\TP1 Serpents-echelles (Matériel) v20.2.1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+G:\AUT2020\1N6_20\Module1\R06V TP1 Serpent echelle\TP1 Serpents-echelles (Matériel) v20.2.1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.Properties.Resources.resources
+G:\AUT2020\1N6_20\Module1\R06V TP1 Serpent echelle\TP1 Serpents-echelles (Matériel) v20.2.1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.GenerateResource.cache
+G:\AUT2020\1N6_20\Module1\R06V TP1 Serpent echelle\TP1 Serpents-echelles (Matériel) v20.2.1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.CopyComplete
+G:\AUT2020\1N6_20\Module1\R06V TP1 Serpent echelle\TP1 Serpents-echelles (Matériel) v20.2.1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.exe
+G:\AUT2020\1N6_20\Module1\R06V TP1 Serpent echelle\TP1 Serpents-echelles (Matériel) v20.2.1\TP1 Serpents-echelles (Matériel) v20.2.1\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.pdb
+E:\A20_1N6\R06\V20_2_3\TP1 Serpents-echelles (Matériel) v20.2.3\Nom prenom Tp1 (Depart)\TP1 Serpents\bin\Debug\SerpentsEchelles.exe.config
+E:\A20_1N6\R06\V20_2_3\TP1 Serpents-echelles (Matériel) v20.2.3\Nom prenom Tp1 (Depart)\TP1 Serpents\bin\Debug\SerpentsEchelles.exe
+E:\A20_1N6\R06\V20_2_3\TP1 Serpents-echelles (Matériel) v20.2.3\Nom prenom Tp1 (Depart)\TP1 Serpents\bin\Debug\SerpentsEchelles.pdb
+E:\A20_1N6\R06\V20_2_3\TP1 Serpents-echelles (Matériel) v20.2.3\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csprojAssemblyReference.cache
+E:\A20_1N6\R06\V20_2_3\TP1 Serpents-echelles (Matériel) v20.2.3\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+E:\A20_1N6\R06\V20_2_3\TP1 Serpents-echelles (Matériel) v20.2.3\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.Properties.Resources.resources
+E:\A20_1N6\R06\V20_2_3\TP1 Serpents-echelles (Matériel) v20.2.3\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.GenerateResource.cache
+E:\A20_1N6\R06\V20_2_3\TP1 Serpents-echelles (Matériel) v20.2.3\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.CoreCompileInputs.cache
+E:\A20_1N6\R06\V20_2_3\TP1 Serpents-echelles (Matériel) v20.2.3\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.CopyComplete
+E:\A20_1N6\R06\V20_2_3\TP1 Serpents-echelles (Matériel) v20.2.3\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.exe
+E:\A20_1N6\R06\V20_2_3\TP1 Serpents-echelles (Matériel) v20.2.3\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.pdb
+C:\Users\2132903\Downloads\Travail Pratique #1 (Matériel) v22.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\bin\Debug\SerpentsEchelles.exe.config
+C:\Users\2132903\Downloads\Travail Pratique #1 (Matériel) v22.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\bin\Debug\SerpentsEchelles.exe
+C:\Users\2132903\Downloads\Travail Pratique #1 (Matériel) v22.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\bin\Debug\SerpentsEchelles.pdb
+C:\Users\2132903\Downloads\Travail Pratique #1 (Matériel) v22.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.AssemblyReference.cache
+C:\Users\2132903\Downloads\Travail Pratique #1 (Matériel) v22.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP2_Serpents.FrmPrincipal.resources
+C:\Users\2132903\Downloads\Travail Pratique #1 (Matériel) v22.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.Properties.Resources.resources
+C:\Users\2132903\Downloads\Travail Pratique #1 (Matériel) v22.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.GenerateResource.cache
+C:\Users\2132903\Downloads\Travail Pratique #1 (Matériel) v22.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Downloads\Travail Pratique #1 (Matériel) v22.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\TP1 Serpents.csproj.CopyComplete
+C:\Users\2132903\Downloads\Travail Pratique #1 (Matériel) v22.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.exe
+C:\Users\2132903\Downloads\Travail Pratique #1 (Matériel) v22.1.0\Nom prenom Tp1 (Depart)\TP1 Serpents\obj\x86\Debug\SerpentsEchelles.pdb
