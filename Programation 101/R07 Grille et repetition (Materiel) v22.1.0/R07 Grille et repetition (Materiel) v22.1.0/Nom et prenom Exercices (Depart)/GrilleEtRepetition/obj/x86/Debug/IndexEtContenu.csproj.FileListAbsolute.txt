@@ -1,0 +1,123 @@
+E:\_Cours 106-A12\Rencontre #06\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\bin\Debug\IndexEtContenu.exe.config
+E:\_Cours 106-A12\Rencontre #06\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\bin\Debug\IndexEtContenu.exe
+E:\_Cours 106-A12\Rencontre #06\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\bin\Debug\IndexEtContenu.pdb
+E:\_Cours 106-A12\Rencontre #06\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\bin\Debug\VisualArrays.dll
+E:\_Cours 106-A12\Rencontre #06\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Rencontre #06\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\obj\x86\Debug\IndexEtContenu.FrmPrincipal.resources
+E:\_Cours 106-A12\Rencontre #06\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\obj\x86\Debug\IndexEtContenu.Properties.Resources.resources
+E:\_Cours 106-A12\Rencontre #06\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Rencontre #06\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours 106-A12\Rencontre #06\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\obj\x86\Debug\IndexEtContenu.exe
+E:\_Cours 106-A12\Rencontre #06\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\obj\x86\Debug\IndexEtContenu.pdb
+J:\_Mes Cours\420-106 A12\R06 Theo\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\bin\Debug\IndexEtContenu.exe.config
+J:\_Mes Cours\420-106 A12\R06 Theo\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\obj\x86\Debug\IndexEtContenu.exe
+J:\_Mes Cours\420-106 A12\R06 Theo\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\obj\x86\Debug\IndexEtContenu.pdb
+J:\_Mes Cours\420-106 A12\R06 Theo\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\bin\Debug\IndexEtContenu.exe
+J:\_Mes Cours\420-106 A12\R06 Theo\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\bin\Debug\IndexEtContenu.pdb
+J:\_Mes Cours\420-106 A12\R06 Theo\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\_Mes Cours\420-106 A12\R06 Theo\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\obj\x86\Debug\IndexEtContenu.FrmPrincipal.resources
+J:\_Mes Cours\420-106 A12\R06 Theo\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\obj\x86\Debug\IndexEtContenu.Properties.Resources.resources
+J:\_Mes Cours\420-106 A12\R06 Theo\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\_Mes Cours\420-106 A12\R06 Theo\A12-Ex1-Index et Contenu v1.1 SD\IndexEtContenu\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\__Cours\420-116 A13\Module 1\R06 T\A12-Ex1-Index et Contenu v1.2 PC\IndexEtContenu\bin\Debug\IndexEtContenu.exe.config
+E:\__Cours\420-116 A13\Module 1\R06 T\A12-Ex1-Index et Contenu v1.2 PC\IndexEtContenu\obj\x86\Debug\IndexEtContenu.exe
+E:\__Cours\420-116 A13\Module 1\R06 T\A12-Ex1-Index et Contenu v1.2 PC\IndexEtContenu\obj\x86\Debug\IndexEtContenu.pdb
+E:\__Cours\420-116 A13\Module 1\R06 T\A12-Ex1-Index et Contenu v1.2 PC\IndexEtContenu\bin\Debug\IndexEtContenu.exe
+E:\__Cours\420-116 A13\Module 1\R06 T\A12-Ex1-Index et Contenu v1.2 PC\IndexEtContenu\bin\Debug\IndexEtContenu.pdb
+E:\__Cours\420-116 A13\Module 1\R06 T\A12-Ex1-Index et Contenu v1.2 PC\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A13\Module 1\R06 T\A12-Ex1-Index et Contenu v1.2 PC\IndexEtContenu\obj\x86\Debug\IndexEtContenu.FrmPrincipal.resources
+E:\__Cours\420-116 A13\Module 1\R06 T\A12-Ex1-Index et Contenu v1.2 PC\IndexEtContenu\obj\x86\Debug\IndexEtContenu.Properties.Resources.resources
+E:\__Cours\420-116 A13\Module 1\R06 T\A12-Ex1-Index et Contenu v1.2 PC\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A13\Module 1\R06 T\Ex1-Index et Contenu v1.2 PC\IndexEtContenu\bin\Debug\IndexEtContenu.exe.config
+E:\__Cours\420-116 A13\Module 1\R06 T\Ex1-Index et Contenu v1.2 PC\IndexEtContenu\obj\x86\Debug\IndexEtContenu.exe
+E:\__Cours\420-116 A13\Module 1\R06 T\Ex1-Index et Contenu v1.2 PC\IndexEtContenu\obj\x86\Debug\IndexEtContenu.pdb
+E:\__Cours\420-116 A13\Module 1\R06 T Répétition for\R06 Exercices 1A5 (Sol)\Ex1-Index et Contenu (Sol)v1.2 PC\IndexEtContenu\bin\Debug\IndexEtContenu.exe.config
+E:\__Cours\420-116 A13\Module 1\R06 T Répétition for\R06 Exercices 1A5 (Sol)\Ex1-Index et Contenu (Sol)v1.2 PC\IndexEtContenu\obj\x86\Debug\IndexEtContenu.exe
+E:\__Cours\420-116 A13\Module 1\R06 T Répétition for\R06 Exercices 1A5 (Sol)\Ex1-Index et Contenu (Sol)v1.2 PC\IndexEtContenu\obj\x86\Debug\IndexEtContenu.pdb
+E:\__Cours\420-116 A13\Module 1\R06 T Répétition for\R06 Exercices 1A5 (Sol)\A Exr-Index et Contenu (Sol)v1.2 PC\IndexEtContenu\bin\Debug\IndexEtContenu.exe.config
+E:\__Cours\420-116 A13\Module 1\R06 T Répétition for\R06 Exercices 1A5 (Sol)\A Exr-Index et Contenu (Sol)v1.2 PC\IndexEtContenu\obj\x86\Debug\IndexEtContenu.exe
+E:\__Cours\420-116 A13\Module 1\R06 T Répétition for\R06 Exercices 1A5 (Sol)\A Exr-Index et Contenu (Sol)v1.2 PC\IndexEtContenu\obj\x86\Debug\IndexEtContenu.pdb
+G:\__Cours\420-116 A14\Module 1\R06- T Répétition for\R06 Exercices  (Sol)\A Exr-Index et Contenu (Sol)v1.2 PC\IndexEtContenu\bin\Debug\IndexEtContenu.exe.config
+G:\__Cours\420-116 A14\Module 1\R06- T Répétition for\R06 Exercices  (Sol)\A Exr-Index et Contenu (Sol)v1.2 PC\IndexEtContenu\obj\x86\Debug\IndexEtContenu.exe
+G:\__Cours\420-116 A14\Module 1\R06- T Répétition for\R06 Exercices  (Sol)\A Exr-Index et Contenu (Sol)v1.2 PC\IndexEtContenu\obj\x86\Debug\IndexEtContenu.pdb
+G:\__Cours\420-116 A14\Module 1\R06- T Répétition for\R06 Exercices  (Sol)\A Exr-Index et Contenu (Sol)v1.2 PC\IndexEtContenu\bin\Debug\IndexEtContenu.exe
+G:\__Cours\420-116 A14\Module 1\R06- T Répétition for\R06 Exercices  (Sol)\A Exr-Index et Contenu (Sol)v1.2 PC\IndexEtContenu\bin\Debug\IndexEtContenu.pdb
+G:\__Cours\420-116 A14\Module 1\R06- T Répétition for\R06 Exercices  (Sol)\A Exr-Index et Contenu (Sol)v1.2 PC\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A14\Module 1\R06- T Répétition for\R06 Exercices  (Sol)\A Exr-Index et Contenu (Sol)v1.2 PC\IndexEtContenu\obj\x86\Debug\IndexEtContenu.FrmPrincipal.resources
+G:\__Cours\420-116 A14\Module 1\R06- T Répétition for\R06 Exercices  (Sol)\A Exr-Index et Contenu (Sol)v1.2 PC\IndexEtContenu\obj\x86\Debug\IndexEtContenu.Properties.Resources.resources
+G:\__Cours\420-116 A14\Module 1\R06- T Répétition for\R06 Exercices  (Sol)\A Exr-Index et Contenu (Sol)v1.2 PC\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A14\Module 1\R06- T Répétition for\R06 Exercices  (Sol)\A Exr-Index et Contenu (Sol)v1.2 PC\IndexEtContenu\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A14\Module 1\R06(T) Répétition for\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\bin\Debug\IndexEtContenu.exe.config
+G:\__Cours\420-116 A14\Module 1\R06(T) Répétition for\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.exe
+G:\__Cours\420-116 A14\Module 1\R06(T) Répétition for\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.pdb
+G:\__Cours\420-116 A14\Module 1\R06(T) Répétition for\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\bin\Debug\IndexEtContenu.exe
+G:\__Cours\420-116 A14\Module 1\R06(T) Répétition for\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\bin\Debug\IndexEtContenu.pdb
+G:\__Cours\420-116 A14\Module 1\R06(T) Répétition for\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A14\Module 1\R06(T) Répétition for\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A14\Module 1\R06(T) Répétition for\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.FrmPrincipal.resources
+G:\__Cours\420-116 A14\Module 1\R06(T) Répétition for\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.Properties.Resources.resources
+G:\__Cours\420-116 A14\Module 1\R06(T) Répétition for\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csproj.GenerateResource.Cache
+E:\_420-116 A15\Module 1\R06(T) Répétition for\R06 Exercices A-E (Solutions)\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\bin\Debug\IndexEtContenu.exe.config
+E:\_420-116 A15\Module 1\R06(T) Répétition for\R06 Exercices A-E (Solutions)\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.exe
+E:\_420-116 A15\Module 1\R06(T) Répétition for\R06 Exercices A-E (Solutions)\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.pdb
+E:\_420-116 A16\Module 1\R06(T) Répétition for\R06 Exercices A-D (Solutions)\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\bin\Debug\IndexEtContenu.exe.config
+E:\_420-116 A16\Module 1\R06(T) Répétition for\R06 Exercices A-D (Solutions)\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.exe
+E:\_420-116 A16\Module 1\R06(T) Répétition for\R06 Exercices A-D (Solutions)\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.pdb
+E:\_420-116 A16\Module 1\R07(T) Répétition for\R06 Exercices A-D (Solutions)\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\bin\Debug\IndexEtContenu.exe.config
+E:\_420-116 A16\Module 1\R07(T) Répétition for\R06 Exercices A-D (Solutions)\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.exe
+E:\_420-116 A16\Module 1\R07(T) Répétition for\R06 Exercices A-D (Solutions)\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.pdb
+E:\_420-116 A16\Module 1\R07(T) Répétition for\R06 Exercices A-D (Solutions)\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\bin\Debug\IndexEtContenu.exe
+E:\_420-116 A16\Module 1\R07(T) Répétition for\R06 Exercices A-D (Solutions)\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\bin\Debug\IndexEtContenu.pdb
+E:\_420-116 A16\Module 1\R07(T) Répétition for\R06 Exercices A-D (Solutions)\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\bin\Debug\VisualArrays.xml
+E:\_420-116 A16\Module 1\R07(T) Répétition for\R06 Exercices A-D (Solutions)\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csprojResolveAssemblyReference.cache
+E:\_420-116 A16\Module 1\R07(T) Répétition for\R06 Exercices A-D (Solutions)\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.FrmPrincipal.resources
+E:\_420-116 A16\Module 1\R07(T) Répétition for\R06 Exercices A-D (Solutions)\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.Properties.Resources.resources
+E:\_420-116 A16\Module 1\R07(T) Répétition for\R06 Exercices A-D (Solutions)\R06 A Ex Index et Contenu (Solution) v14.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csproj.GenerateResource.Cache
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Exercices A-D (Solution)\R07 A Ex Index et Contenu (Solution) v20.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Exercices A-D (Solution)\R07 A Ex Index et Contenu (Solution) v20.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Exercices A-D (Solution)\R07 A Ex Index et Contenu (Solution) v20.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Exercices A-D (Solution)\R07 A Ex Index et Contenu (Solution) v20.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Exercices A-D (Solution)\R07 A Ex Index et Contenu (Solution) v20.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Exercices A-D (Solution)\R07 A Ex Index et Contenu (Solution) v20.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.exe
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Exercices A-D (Solution)\R07 A Ex Index et Contenu (Solution) v20.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.pdb
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Exercices A-D (Solution)\R07 A Ex Index et Contenu (Solution) v20.1.0\IndexEtContenu\bin\Debug\IndexEtContenu.exe.config
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Exercices A-D (Solution)\R07 A Ex Index et Contenu (Solution) v20.1.0\IndexEtContenu\bin\Debug\IndexEtContenu.exe
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Exercices A-D (Solution)\R07 A Ex Index et Contenu (Solution) v20.1.0\IndexEtContenu\bin\Debug\IndexEtContenu.pdb
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Exercices A-D (Solution)\R07 A Ex Index et Contenu (Solution) v20.1.0\IndexEtContenu\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Exercices A-D (Solution)\R07 A Ex Index et Contenu (Solution) v20.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.0\IndexEtContenu\bin\Debug\IndexEtContenu.exe.config
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.0\IndexEtContenu\bin\Debug\IndexEtContenu.exe
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.0\IndexEtContenu\bin\Debug\IndexEtContenu.pdb
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.0\IndexEtContenu\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.exe
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.0\IndexEtContenu\obj\x86\Debug\IndexEtContenu.pdb
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.1\IndexEtContenu\bin\Debug\IndexEtContenu.exe.config
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.1\IndexEtContenu\bin\Debug\IndexEtContenu.exe
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.1\IndexEtContenu\bin\Debug\IndexEtContenu.pdb
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.1\IndexEtContenu\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.1\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.1\IndexEtContenu\obj\x86\Debug\IndexEtContenu.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.1\IndexEtContenu\obj\x86\Debug\IndexEtContenu.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.1\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.1\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.1\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.1\IndexEtContenu\obj\x86\Debug\IndexEtContenu.exe
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Solution) v20.1.1\IndexEtContenu\obj\x86\Debug\IndexEtContenu.pdb
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Materiel) v20.1.1\Nom et prenom Exercices (Depart)\IndexEtContenu\bin\Debug\IndexEtContenu.exe.config
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Materiel) v20.1.1\Nom et prenom Exercices (Depart)\IndexEtContenu\bin\Debug\IndexEtContenu.exe
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Materiel) v20.1.1\Nom et prenom Exercices (Depart)\IndexEtContenu\bin\Debug\IndexEtContenu.pdb
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Materiel) v20.1.1\Nom et prenom Exercices (Depart)\IndexEtContenu\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Materiel) v20.1.1\Nom et prenom Exercices (Depart)\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Materiel) v20.1.1\Nom et prenom Exercices (Depart)\IndexEtContenu\obj\x86\Debug\IndexEtContenu.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Materiel) v20.1.1\Nom et prenom Exercices (Depart)\IndexEtContenu\obj\x86\Debug\IndexEtContenu.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Materiel) v20.1.1\Nom et prenom Exercices (Depart)\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Materiel) v20.1.1\Nom et prenom Exercices (Depart)\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Materiel) v20.1.1\Nom et prenom Exercices (Depart)\IndexEtContenu\obj\x86\Debug\IndexEtContenu.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Materiel) v20.1.1\Nom et prenom Exercices (Depart)\IndexEtContenu\obj\x86\Debug\IndexEtContenu.exe
+J:\A20 1N6 Les Capsules\R07 Tableau 1D et boucle for\_Code C#\R07 Index et Contenu (Materiel) v20.1.1\Nom et prenom Exercices (Depart)\IndexEtContenu\obj\x86\Debug\IndexEtContenu.pdb
