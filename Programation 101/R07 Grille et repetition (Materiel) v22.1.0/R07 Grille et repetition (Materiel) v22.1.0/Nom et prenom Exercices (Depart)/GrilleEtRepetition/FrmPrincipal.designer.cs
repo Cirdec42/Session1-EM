@@ -611,6 +611,7 @@
             this.vbaLumières.SpecialValueAppearance.Style = VisualArrays.enuBkgStyle.Image;
             this.vbaLumières.TabIndex = 23;
             this.vbaLumières.Text = "visualBoolArray1";
+            this.vbaLumières.Click += new System.EventHandler(this.vbaLumières_Click);
             // 
             // lblExercice1
             // 
