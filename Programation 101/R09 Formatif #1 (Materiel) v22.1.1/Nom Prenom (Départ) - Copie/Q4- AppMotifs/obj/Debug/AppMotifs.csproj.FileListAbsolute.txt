@@ -1,0 +1,12 @@
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\AppMotifs\AppMotifs\bin\Debug\AppMotifs.exe.config
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\AppMotifs\AppMotifs\bin\Debug\AppMotifs.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\AppMotifs\AppMotifs\bin\Debug\AppMotifs.pdb
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\AppMotifs\AppMotifs\bin\Debug\VisualArrays.dll
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\AppMotifs\AppMotifs\obj\Debug\AppMotifs.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\AppMotifs\AppMotifs\obj\Debug\AppMotifs.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\AppMotifs\AppMotifs\obj\Debug\AppMotifs.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\AppMotifs\AppMotifs\obj\Debug\AppMotifs.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\AppMotifs\AppMotifs\obj\Debug\AppMotifs.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\AppMotifs\AppMotifs\obj\Debug\AppMotifs.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\AppMotifs\AppMotifs\obj\Debug\AppMotifs.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\AppMotifs\AppMotifs\obj\Debug\AppMotifs.pdb

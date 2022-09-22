@@ -17,7 +17,10 @@ namespace AppMotifs
             vbaGrilleBooléens.Clear();
 
             // À COMPLÉTER...
-
+            for (int i = 0; i < vbaGrilleBooléens.Length/2; i++)
+            {
+                vbaGrilleBooléens[i] = true;
+            }
 
 
         }
@@ -28,7 +31,10 @@ namespace AppMotifs
             vbaGrilleBooléens.Clear();
 
             // À COMPLÉTER...
-
+            for (int i = 1; i < vbaGrilleBooléens.Length-1; i++)
+            {
+                vbaGrilleBooléens[i] = true;
+            }
 
 
 
@@ -41,7 +47,10 @@ namespace AppMotifs
             vbaGrilleBooléens.Clear();
 
             // À COMPLÉTER...
-
+            for (int i = 0; i < vbaGrilleBooléens.Length; i+=2)
+            {
+                vbaGrilleBooléens[i] = true;
+            }
 
 
         }
@@ -52,6 +61,10 @@ namespace AppMotifs
             vbaGrilleBooléens.Clear();
 
             // À COMPLÉTER...
+            for (int i = 1; i < vbaGrilleBooléens.Length; i += 2)
+            {
+                vbaGrilleBooléens[i] = true;
+            }
 
 
         }
@@ -62,7 +75,17 @@ namespace AppMotifs
             vbaGrilleBooléens.Clear();
 
             // À COMPLÉTER...
-
+            for (int i = 0; i < vbaGrilleBooléens.Length; i++)
+            {
+                if (i % 5 != 0)
+                {
+                    vbaGrilleBooléens[i] = true;
+                }
+                else
+                {
+                    vbaGrilleBooléens[i] = false;
+                }
+            }
 
         }
         #endregion
@@ -74,7 +97,10 @@ namespace AppMotifs
             vcaGrilleCaractères.Clear();
 
             // À COMPLÉTER...
-
+            for (int i = 0; i <5; i++)
+            {
+                vcaGrilleCaractères[i] = 'X';
+            }
 
 
         }
@@ -85,7 +111,10 @@ namespace AppMotifs
             vcaGrilleCaractères.Clear();
 
             // À COMPLÉTER...
-
+            for (int i = 0; i < vcaGrilleCaractères.Length; i++)
+            {
+                vcaGrilleCaractères[i] = 'X';
+            }
 
 
         }
@@ -96,9 +125,23 @@ namespace AppMotifs
             vcaGrilleCaractères.Clear();
 
             // À COMPLÉTER...
+            for (int i = 0; i < vcaGrilleCaractères.Length; i++)
+            {
+                switch (i)
+                {
+                    case 12:
+                    case 13:
+                    case 14:
+                    case 15:
+                    case 16:
+                        vcaGrilleCaractères[i] = 'X';
+                        break;
 
+                    default:
+                        break;
+                }
 
-
+            }
         }
 
         private void BtnQuatrièmeMotifCaractères_Click(object sender, EventArgs e)
@@ -107,7 +150,12 @@ namespace AppMotifs
             vcaGrilleCaractères.Clear();
 
             // À COMPLÉTER...
-
+            char lettre = 'A';
+            for (int i = 0; i < vcaGrilleCaractères.Length;i++)
+            {
+                vcaGrilleCaractères[i] = lettre;
+                lettre++;
+            }
 
         }
 
@@ -117,6 +165,26 @@ namespace AppMotifs
             vcaGrilleCaractères.Clear();
 
             // À COMPLÉTER...
+            char lettre = 'A';
+            for (int i = 0; i < vcaGrilleCaractères.Length; i++)
+            {
+                if (i<vcaGrilleCaractères.Length/2)
+                {
+                    vcaGrilleCaractères[i] = lettre;
+                    lettre++;
+                }
+                else if (i == vcaGrilleCaractères.Length/2)
+                {
+                    vcaGrilleCaractères[i] = '.';
+                    lettre--;
+                }
+                else
+                {
+                    vcaGrilleCaractères[i]= lettre;
+                    lettre--;
+                }
+                
+            }
 
 
 
@@ -132,7 +200,10 @@ namespace AppMotifs
             viaGrilleNumérique.Clear();
 
             // À COMPLÉTER...
-
+            for (int i = 0; i < viaGrilleNumérique.Length; i++)
+            {
+                viaGrilleNumérique[i] = 99;
+            }
 
 
 
@@ -144,7 +215,12 @@ namespace AppMotifs
             viaGrilleNumérique.Clear();
 
             // À COMPLÉTER...
-
+            int num = 1;
+            for (int i = 0; i < viaGrilleNumérique.Length; i++)
+            {
+                viaGrilleNumérique[i] = num;
+                num++;
+            }
 
 
 
@@ -157,7 +233,12 @@ namespace AppMotifs
             viaGrilleNumérique.Clear();
 
             // À COMPLÉTER...
-
+            int num = 1;
+            for (int i = 0; i < viaGrilleNumérique.Length; i++)
+            {
+                viaGrilleNumérique[i] = num;
+                num += 4;
+            }
 
 
 
@@ -171,7 +252,10 @@ namespace AppMotifs
             viaGrilleNumérique.Clear();
 
             // À COMPLÉTER...
-
+            for (int i = 0; i < viaGrilleNumérique.Length; i++)
+            {
+                viaGrilleNumérique[i] = tabNombres[i];
+            }
 
 
 
@@ -185,11 +269,34 @@ namespace AppMotifs
             viaGrilleNumérique.Clear();
 
             // À COMPLÉTER...
+            for (int i = 0; i < viaGrilleNumérique.Length; i++)
+            {
+                switch (i)
+                {   
+                    case 0:
+                    case 3:
+                    case 6:
+                    case 7:
+                    case 8:
+                    case 11:
+                    case 12:
+                    case 13:
+                        viaGrilleNumérique [i] = tabNombres[i];
+                        break;
+                    default:
+                        break;
+                }
+            }
 
 
 
 
         }
         #endregion
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
