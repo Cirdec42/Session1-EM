@@ -1,0 +1,98 @@
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1\Q3-IndexEtContenu\bin\Debug\Q3-IndexEtContenu.exe.config
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1\Q3-IndexEtContenu\bin\Debug\Q3-IndexEtContenu.exe
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1\Q3-IndexEtContenu\bin\Debug\Q3-IndexEtContenu.pdb
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1\Q3-IndexEtContenu\bin\Debug\VisualArrays.xml
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1\Q3-IndexEtContenu\obj\x86\Debug\Q3-IndexEtContenu.csprojResolveAssemblyReference.cache
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1\Q3-IndexEtContenu\obj\x86\Debug\IndexEtContenu.FrmQ3.resources
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1\Q3-IndexEtContenu\obj\x86\Debug\IndexEtContenu.Properties.Resources.resources
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1\Q3-IndexEtContenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.GenerateResource.Cache
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1\Q3-IndexEtContenu\obj\x86\Debug\Q3-IndexEtContenu.exe
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1\Q3-IndexEtContenu\obj\x86\Debug\Q3-IndexEtContenu.pdb
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1 SOL\Q3-IndexEtContenu\bin\Debug\Q3-IndexEtContenu.exe.config
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1 SOL\Q3-IndexEtContenu\obj\x86\Debug\Q3-IndexEtContenu.exe
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1 SOL\Q3-IndexEtContenu\obj\x86\Debug\Q3-IndexEtContenu.pdb
+C:\Users\Paul\Desktop\Formatif 1 SOL\Q3-IndexEtContenu\bin\Debug\Q3-IndexEtContenu.exe.config
+C:\Users\Paul\Desktop\Formatif 1 SOL\Q3-IndexEtContenu\obj\x86\Debug\Q3-IndexEtContenu.exe
+C:\Users\Paul\Desktop\Formatif 1 SOL\Q3-IndexEtContenu\obj\x86\Debug\Q3-IndexEtContenu.pdb
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q3-IndexEtContenu\bin\Debug\Q3-IndexEtContenu.exe.config
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q3-IndexEtContenu\obj\x86\Debug\Q3-IndexEtContenu.exe
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q3-IndexEtContenu\obj\x86\Debug\Q3-IndexEtContenu.pdb
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q3-IndexEtContenu\bin\Debug\Q3-IndexEtContenu.exe
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q3-IndexEtContenu\bin\Debug\Q3-IndexEtContenu.pdb
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q3-IndexEtContenu\bin\Debug\VisualArrays.xml
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q3-IndexEtContenu\obj\x86\Debug\Q3-IndexEtContenu.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q3-IndexEtContenu\obj\x86\Debug\IndexEtContenu.FrmQ3.resources
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q3-IndexEtContenu\obj\x86\Debug\IndexEtContenu.Properties.Resources.resources
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q3-IndexEtContenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.GenerateResource.Cache
+E:\_420-116 A15\Module 1\Formatif 1 A15\Q1 a Q4 (Solution) v14.1.0\Q3-IndexEtContenu\bin\Debug\Q3-IndexEtContenu.exe.config
+E:\_420-116 A15\Module 1\Formatif 1 A15\Q1 a Q4 (Solution) v14.1.0\Q3-IndexEtContenu\obj\x86\Debug\Q3-IndexEtContenu.exe
+E:\_420-116 A15\Module 1\Formatif 1 A15\Q1 a Q4 (Solution) v14.1.0\Q3-IndexEtContenu\obj\x86\Debug\Q3-IndexEtContenu.pdb
+I:\_Cours 116 A15\R10 Formatif 1 Partie 1\Q1 a Q5 (Solution) v14.1.0\Q3-IndexEtContenu\bin\Debug\Q3-IndexEtContenu.exe.config
+I:\_Cours 116 A15\R10 Formatif 1 Partie 1\Q1 a Q5 (Solution) v14.1.0\Q3-IndexEtContenu\obj\x86\Debug\Q3-IndexEtContenu.exe
+I:\_Cours 116 A15\R10 Formatif 1 Partie 1\Q1 a Q5 (Solution) v14.1.0\Q3-IndexEtContenu\obj\x86\Debug\Q3-IndexEtContenu.pdb
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q3-Index et Contenu\bin\Debug\Q3-IndexEtContenu.exe.config
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.exe
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.pdb
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q3-Index et Contenu\bin\Debug\Q3-IndexEtContenu.exe
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q3-Index et Contenu\bin\Debug\Q3-IndexEtContenu.pdb
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q3-Index et Contenu\bin\Debug\VisualArrays.xml
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csprojResolveAssemblyReference.cache
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q3-Index et Contenu\obj\x86\Debug\IndexEtContenu.FrmQ3.resources
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q3-Index et Contenu\obj\x86\Debug\IndexEtContenu.Properties.Resources.resources
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.GenerateResource.Cache
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q3-Index et Contenu\bin\Debug\Q3-IndexEtContenu.exe.config
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.exe
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.pdb
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q3-Index et Contenu\bin\Debug\Q3-IndexEtContenu.exe
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q3-Index et Contenu\bin\Debug\Q3-IndexEtContenu.pdb
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q3-Index et Contenu\bin\Debug\VisualArrays.xml
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csprojResolveAssemblyReference.cache
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q3-Index et Contenu\obj\x86\Debug\IndexEtContenu.FrmQ3.resources
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q3-Index et Contenu\obj\x86\Debug\IndexEtContenu.Properties.Resources.resources
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.GenerateResource.Cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q3-Index et Contenu\bin\Debug\Q3-IndexEtContenu.exe.config
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q3-Index et Contenu\bin\Debug\Q3-IndexEtContenu.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q3-Index et Contenu\bin\Debug\Q3-IndexEtContenu.pdb
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q3-Index et Contenu\obj\x86\Debug\IndexEtContenu.FrmQ3.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q3-Index et Contenu\obj\x86\Debug\IndexEtContenu.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q3-Index et Contenu\bin\Debug\Q3-IndexEtContenu.exe.config
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q3-Index et Contenu\bin\Debug\Q3-IndexEtContenu.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q3-Index et Contenu\bin\Debug\Q3-IndexEtContenu.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q3-Index et Contenu\obj\x86\Debug\IndexEtContenu.FrmQ3.resources
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q3-Index et Contenu\obj\x86\Debug\IndexEtContenu.Properties.Resources.resources
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.GenerateResource.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.pdb
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q3-Index et Contenu\bin\Debug\Q3-IndexEtContenu.exe.config
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q3-Index et Contenu\bin\Debug\Q3-IndexEtContenu.exe
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q3-Index et Contenu\bin\Debug\Q3-IndexEtContenu.pdb
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q3-Index et Contenu\obj\x86\Debug\IndexEtContenu.FrmQ3.resources
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q3-Index et Contenu\obj\x86\Debug\IndexEtContenu.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.exe
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.pdb
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.1\Nom Prenom (Départ)\Q3-Index et Contenu\bin\Debug\Q3-IndexEtContenu.exe.config
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.1\Nom Prenom (Départ)\Q3-Index et Contenu\bin\Debug\Q3-IndexEtContenu.exe
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.1\Nom Prenom (Départ)\Q3-Index et Contenu\bin\Debug\Q3-IndexEtContenu.pdb
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.1\Nom Prenom (Départ)\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.1\Nom Prenom (Départ)\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.1\Nom Prenom (Départ)\Q3-Index et Contenu\obj\x86\Debug\IndexEtContenu.FrmQ3.resources
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.1\Nom Prenom (Départ)\Q3-Index et Contenu\obj\x86\Debug\IndexEtContenu.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.1\Nom Prenom (Départ)\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.1\Nom Prenom (Départ)\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.1\Nom Prenom (Départ)\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.1\Nom Prenom (Départ)\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.exe
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.1\Nom Prenom (Départ)\Q3-Index et Contenu\obj\x86\Debug\Q3-IndexEtContenu.pdb

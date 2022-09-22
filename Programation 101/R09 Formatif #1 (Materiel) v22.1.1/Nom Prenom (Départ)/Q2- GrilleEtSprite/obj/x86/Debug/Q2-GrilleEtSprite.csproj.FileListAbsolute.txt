@@ -1,0 +1,49 @@
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q2- GrilleEtSprite (Solution) v20.1.0\bin\Debug\ExemGrilleEtSprite.exe.config
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q2- GrilleEtSprite (Solution) v20.1.0\bin\Debug\ExemGrilleEtSprite.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q2- GrilleEtSprite (Solution) v20.1.0\bin\Debug\ExemGrilleEtSprite.pdb
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q2- GrilleEtSprite (Solution) v20.1.0\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q2- GrilleEtSprite (Solution) v20.1.0\obj\x86\Debug\Q2-GrilleEtSprite.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q2- GrilleEtSprite (Solution) v20.1.0\obj\x86\Debug\ExemGrilleEtSprite.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q2- GrilleEtSprite (Solution) v20.1.0\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q2- GrilleEtSprite (Solution) v20.1.0\obj\x86\Debug\Q2-GrilleEtSprite.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q2- GrilleEtSprite (Solution) v20.1.0\obj\x86\Debug\Q2-GrilleEtSprite.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q2- GrilleEtSprite (Solution) v20.1.0\obj\x86\Debug\Q2-GrilleEtSprite.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q2- GrilleEtSprite (Solution) v20.1.0\obj\x86\Debug\ExemGrilleEtSprite.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q2- GrilleEtSprite (Solution) v20.1.0\obj\x86\Debug\ExemGrilleEtSprite.pdb
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q2- GrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q2- GrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q2- GrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q2- GrilleEtSprite\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q2- GrilleEtSprite\obj\x86\Debug\Q2-GrilleEtSprite.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q2- GrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmQ2.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q2- GrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q2- GrilleEtSprite\obj\x86\Debug\Q2-GrilleEtSprite.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q2- GrilleEtSprite\obj\x86\Debug\Q2-GrilleEtSprite.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q2- GrilleEtSprite\obj\x86\Debug\Q2-GrilleEtSprite.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q2- GrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q2- GrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q2- GrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q2- GrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q2- GrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q2- GrilleEtSprite\bin\Debug\VisualArrays.xml
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q2- GrilleEtSprite\obj\x86\Debug\Q2-GrilleEtSprite.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q2- GrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmQ2.resources
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q2- GrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q2- GrilleEtSprite\obj\x86\Debug\Q2-GrilleEtSprite.csproj.GenerateResource.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q2- GrilleEtSprite\obj\x86\Debug\Q2-GrilleEtSprite.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q2- GrilleEtSprite\obj\x86\Debug\Q2-GrilleEtSprite.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q2- GrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q2- GrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q2- GrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe.config
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q2- GrilleEtSprite\bin\Debug\ExemGrilleEtSprite.exe
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q2- GrilleEtSprite\bin\Debug\ExemGrilleEtSprite.pdb
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q2- GrilleEtSprite\bin\Debug\VisualArrays.xml
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q2- GrilleEtSprite\obj\x86\Debug\Q2-GrilleEtSprite.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q2- GrilleEtSprite\obj\x86\Debug\Q2-GrilleEtSprite.csproj.SuggestedBindingRedirects.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q2- GrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.FrmQ2.resources
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q2- GrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q2- GrilleEtSprite\obj\x86\Debug\Q2-GrilleEtSprite.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q2- GrilleEtSprite\obj\x86\Debug\Q2-GrilleEtSprite.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q2- GrilleEtSprite\obj\x86\Debug\Q2-GrilleEtSprite.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q2- GrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.exe
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q2- GrilleEtSprite\obj\x86\Debug\ExemGrilleEtSprite.pdb

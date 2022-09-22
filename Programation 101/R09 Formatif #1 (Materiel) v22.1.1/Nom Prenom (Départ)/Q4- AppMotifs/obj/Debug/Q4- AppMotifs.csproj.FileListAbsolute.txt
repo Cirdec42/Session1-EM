@@ -1,0 +1,56 @@
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q4- AppMotifs (Solution) v20.1.0\bin\Debug\AppMotifs.exe.config
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q4- AppMotifs (Solution) v20.1.0\bin\Debug\AppMotifs.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q4- AppMotifs (Solution) v20.1.0\bin\Debug\AppMotifs.pdb
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q4- AppMotifs (Solution) v20.1.0\obj\Debug\Q4- AppMotifs.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q4- AppMotifs (Solution) v20.1.0\obj\Debug\AppMotifs.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q4- AppMotifs (Solution) v20.1.0\obj\Debug\AppMotifs.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q4- AppMotifs (Solution) v20.1.0\obj\Debug\Q4- AppMotifs.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q4- AppMotifs (Solution) v20.1.0\obj\Debug\Q4- AppMotifs.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q4- AppMotifs (Solution) v20.1.0\obj\Debug\Q4- AppMotifs.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q4- AppMotifs (Solution) v20.1.0\obj\Debug\AppMotifs.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q4- AppMotifs (Solution) v20.1.0\obj\Debug\AppMotifs.pdb
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q4- AppMotifs\bin\Debug\AppMotifs.exe.config
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q4- AppMotifs\bin\Debug\AppMotifs.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q4- AppMotifs\bin\Debug\AppMotifs.pdb
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q4- AppMotifs\obj\Debug\Q4- AppMotifs.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q4- AppMotifs\obj\Debug\AppMotifs.FrmQ4.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q4- AppMotifs\obj\Debug\AppMotifs.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q4- AppMotifs\obj\Debug\Q4- AppMotifs.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q4- AppMotifs\obj\Debug\Q4- AppMotifs.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q4- AppMotifs\obj\Debug\Q4- AppMotifs.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q4- AppMotifs\obj\Debug\AppMotifs.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q4- AppMotifs\obj\Debug\AppMotifs.pdb
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Formatif #1 (Solution) v20.1.0\Q4- AppMotifs\bin\Debug\AppMotifs.exe.config
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Formatif #1 (Solution) v20.1.0\Q4- AppMotifs\bin\Debug\AppMotifs.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Formatif #1 (Solution) v20.1.0\Q4- AppMotifs\bin\Debug\AppMotifs.pdb
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Formatif #1 (Solution) v20.1.0\Q4- AppMotifs\obj\Debug\Q4- AppMotifs.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Formatif #1 (Solution) v20.1.0\Q4- AppMotifs\obj\Debug\AppMotifs.FrmQ4.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Formatif #1 (Solution) v20.1.0\Q4- AppMotifs\obj\Debug\AppMotifs.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Formatif #1 (Solution) v20.1.0\Q4- AppMotifs\obj\Debug\Q4- AppMotifs.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Formatif #1 (Solution) v20.1.0\Q4- AppMotifs\obj\Debug\Q4- AppMotifs.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Formatif #1 (Solution) v20.1.0\Q4- AppMotifs\obj\Debug\Q4- AppMotifs.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Formatif #1 (Solution) v20.1.0\Q4- AppMotifs\obj\Debug\AppMotifs.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Formatif #1 (Solution) v20.1.0\Q4- AppMotifs\obj\Debug\AppMotifs.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q4- AppMotifs\bin\Debug\AppMotifs.exe.config
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q4- AppMotifs\bin\Debug\AppMotifs.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q4- AppMotifs\bin\Debug\AppMotifs.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q4- AppMotifs\obj\Debug\Q4- AppMotifs.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q4- AppMotifs\obj\Debug\AppMotifs.FrmQ4.resources
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q4- AppMotifs\obj\Debug\AppMotifs.Properties.Resources.resources
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q4- AppMotifs\obj\Debug\Q4- AppMotifs.csproj.GenerateResource.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q4- AppMotifs\obj\Debug\Q4- AppMotifs.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q4- AppMotifs\obj\Debug\Q4- AppMotifs.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q4- AppMotifs\obj\Debug\AppMotifs.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q4- AppMotifs\obj\Debug\AppMotifs.pdb
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q4- AppMotifs\bin\Debug\AppMotifs.exe.config
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q4- AppMotifs\bin\Debug\AppMotifs.exe
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q4- AppMotifs\bin\Debug\AppMotifs.pdb
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q4- AppMotifs\obj\Debug\Q4- AppMotifs.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q4- AppMotifs\obj\Debug\Q4- AppMotifs.csproj.SuggestedBindingRedirects.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q4- AppMotifs\obj\Debug\AppMotifs.FrmQ4.resources
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q4- AppMotifs\obj\Debug\AppMotifs.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q4- AppMotifs\obj\Debug\Q4- AppMotifs.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q4- AppMotifs\obj\Debug\Q4- AppMotifs.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q4- AppMotifs\obj\Debug\Q4- AppMotifs.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q4- AppMotifs\obj\Debug\AppMotifs.exe
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q4- AppMotifs\obj\Debug\AppMotifs.pdb

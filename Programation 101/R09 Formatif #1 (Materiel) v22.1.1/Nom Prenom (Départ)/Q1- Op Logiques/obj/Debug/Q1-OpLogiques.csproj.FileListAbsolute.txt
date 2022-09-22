@@ -1,0 +1,164 @@
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1 SOL\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe.config
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1 SOL\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1 SOL\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.pdb
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1 SOL\Q1-Op Logiques\bin\Debug\VisualArrays.xml
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csprojResolveAssemblyReference.cache
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\OpLogiques.FrmQ1.resources
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\OpLogiques.Properties.Resources.resources
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csproj.GenerateResource.Cache
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.exe
+K:\116 A13\C-Évaluations\1-Formatif\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.pdb
+C:\Users\Paul\Desktop\Formatif 1 SOL\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe.config
+C:\Users\Paul\Desktop\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.exe
+C:\Users\Paul\Desktop\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.pdb
+E:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe.config
+E:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.exe
+E:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.pdb
+E:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe
+E:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.pdb
+E:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\bin\Debug\VisualArrays.xml
+E:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\OpLogiques.FrmQ1.resources
+E:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\OpLogiques.Properties.Resources.resources
+E:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csproj.GenerateResource.Cache
+F:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe.config
+F:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.exe
+F:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.pdb
+F:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe
+F:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.pdb
+F:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\bin\Debug\VisualArrays.xml
+F:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csprojResolveAssemblyReference.cache
+F:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\OpLogiques.FrmQ1.resources
+F:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\OpLogiques.Properties.Resources.resources
+F:\__Cours\420-116 A13\Module 1\R12 Formatif 1\Formatif 1 SOL\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe.config
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.exe
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.pdb
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.pdb
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q1-Op Logiques\bin\Debug\VisualArrays.xml
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q1-Op Logiques\obj\Debug\OpLogiques.FrmQ1.resources
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q1-Op Logiques\obj\Debug\OpLogiques.Properties.Resources.resources
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\A13 Formatif 1\Formatif 1 (Solution)\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\Q1 a Q4 et Q6 (Solution) v14.1.0\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe.config
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\Q1 a Q4 et Q6 (Solution) v14.1.0\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.exe
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\Q1 a Q4 et Q6 (Solution) v14.1.0\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.pdb
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\Q1 a Q4 (Solution) v14.1.0\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe.config
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\Q1 a Q4 (Solution) v14.1.0\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.exe
+E:\__Cours\420-116 A14\Évaluations\Formatif 1\Q1 a Q4 (Solution) v14.1.0\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.pdb
+E:\_420-116 A15\Module 1\Formatif 1 A15\Q1 a Q4 (Solution) v14.1.0\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe.config
+E:\_420-116 A15\Module 1\Formatif 1 A15\Q1 a Q4 (Solution) v14.1.0\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.exe
+E:\_420-116 A15\Module 1\Formatif 1 A15\Q1 a Q4 (Solution) v14.1.0\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.pdb
+E:\_420-116 A15\Module 1\Formatif 1 A15\Q1 a Q4 (Solution) v14.1.0\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe
+E:\_420-116 A15\Module 1\Formatif 1 A15\Q1 a Q4 (Solution) v14.1.0\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.pdb
+E:\_420-116 A15\Module 1\Formatif 1 A15\Q1 a Q4 (Solution) v14.1.0\Q1-Op Logiques\bin\Debug\VisualArrays.xml
+E:\_420-116 A15\Module 1\Formatif 1 A15\Q1 a Q4 (Solution) v14.1.0\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csprojResolveAssemblyReference.cache
+E:\_420-116 A15\Module 1\Formatif 1 A15\Q1 a Q4 (Solution) v14.1.0\Q1-Op Logiques\obj\Debug\OpLogiques.FrmQ1.resources
+E:\_420-116 A15\Module 1\Formatif 1 A15\Q1 a Q4 (Solution) v14.1.0\Q1-Op Logiques\obj\Debug\OpLogiques.Properties.Resources.resources
+E:\_420-116 A15\Module 1\Formatif 1 A15\Q1 a Q4 (Solution) v14.1.0\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csproj.GenerateResource.Cache
+I:\_Cours 116 A15\R10 Formatif 1 Partie 1\Q1 a Q5 (Solution) v14.1.0\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe.config
+I:\_Cours 116 A15\R10 Formatif 1 Partie 1\Q1 a Q5 (Solution) v14.1.0\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.exe
+I:\_Cours 116 A15\R10 Formatif 1 Partie 1\Q1 a Q5 (Solution) v14.1.0\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.pdb
+I:\_Cours 116 A15\R10 Formatif 1 Partie 1\Q1 a Q5 (Solution) v14.1.0\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe
+I:\_Cours 116 A15\R10 Formatif 1 Partie 1\Q1 a Q5 (Solution) v14.1.0\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.pdb
+I:\_Cours 116 A15\R10 Formatif 1 Partie 1\Q1 a Q5 (Solution) v14.1.0\Q1-Op Logiques\bin\Debug\VisualArrays.xml
+I:\_Cours 116 A15\R10 Formatif 1 Partie 1\Q1 a Q5 (Solution) v14.1.0\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csprojResolveAssemblyReference.cache
+I:\_Cours 116 A15\R10 Formatif 1 Partie 1\Q1 a Q5 (Solution) v14.1.0\Q1-Op Logiques\obj\Debug\OpLogiques.FrmQ1.resources
+I:\_Cours 116 A15\R10 Formatif 1 Partie 1\Q1 a Q5 (Solution) v14.1.0\Q1-Op Logiques\obj\Debug\OpLogiques.Properties.Resources.resources
+I:\_Cours 116 A15\R10 Formatif 1 Partie 1\Q1 a Q5 (Solution) v14.1.0\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csproj.GenerateResource.Cache
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe.config
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.exe
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.pdb
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.pdb
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q1-Op Logiques\bin\Debug\VisualArrays.xml
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csprojResolveAssemblyReference.cache
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q1-Op Logiques\obj\Debug\OpLogiques.FrmQ1.resources
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q1-Op Logiques\obj\Debug\OpLogiques.Properties.Resources.resources
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À VÉRIFIER)\Formatif #1 (Solution) v.17.0.9\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csproj.GenerateResource.Cache
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.0.9\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe.config
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.0.9\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.exe
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.0.9\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.pdb
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe.config
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.exe
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.pdb
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.pdb
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q1-Op Logiques\bin\Debug\VisualArrays.xml
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csprojResolveAssemblyReference.cache
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q1-Op Logiques\obj\Debug\OpLogiques.FrmQ1.resources
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q1-Op Logiques\obj\Debug\OpLogiques.Properties.Resources.resources
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.0\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csproj.GenerateResource.Cache
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.1\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe.config
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.1\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.exe
+H:\_Cours 116 A17\A17 R08 Formatif #1 (À FINALISER)\Formatif #1 (Solution) v.17.1.1\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.pdb
+E:\_Cours 1N6 A19\R08 Formatif #1\Formatif #1 (Solution) v.17.1.1\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe.config
+E:\_Cours 1N6 A19\R08 Formatif #1\Formatif #1 (Solution) v.17.1.1\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.exe
+E:\_Cours 1N6 A19\R08 Formatif #1\Formatif #1 (Solution) v.17.1.1\Q1-Op Logiques\bin\Debug\Q1-OpLogiques.pdb
+E:\_Cours 1N6 A19\R08 Formatif #1\Formatif #1 (Solution) v.17.1.1\Q1-Op Logiques\bin\Debug\VisualArrays.xml
+E:\_Cours 1N6 A19\R08 Formatif #1\Formatif #1 (Solution) v.17.1.1\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csprojAssemblyReference.cache
+E:\_Cours 1N6 A19\R08 Formatif #1\Formatif #1 (Solution) v.17.1.1\Q1-Op Logiques\obj\Debug\OpLogiques.FrmQ1.resources
+E:\_Cours 1N6 A19\R08 Formatif #1\Formatif #1 (Solution) v.17.1.1\Q1-Op Logiques\obj\Debug\OpLogiques.Properties.Resources.resources
+E:\_Cours 1N6 A19\R08 Formatif #1\Formatif #1 (Solution) v.17.1.1\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csproj.GenerateResource.cache
+E:\_Cours 1N6 A19\R08 Formatif #1\Formatif #1 (Solution) v.17.1.1\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csproj.CoreCompileInputs.cache
+E:\_Cours 1N6 A19\R08 Formatif #1\Formatif #1 (Solution) v.17.1.1\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.csproj.CopyComplete
+E:\_Cours 1N6 A19\R08 Formatif #1\Formatif #1 (Solution) v.17.1.1\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.exe
+E:\_Cours 1N6 A19\R08 Formatif #1\Formatif #1 (Solution) v.17.1.1\Q1-Op Logiques\obj\Debug\Q1-OpLogiques.pdb
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Q1-Op Logiques (Solution) v20.1.0\bin\Debug\Q1-OpLogiques.exe.config
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Q1-Op Logiques (Solution) v20.1.0\bin\Debug\Q1-OpLogiques.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Q1-Op Logiques (Solution) v20.1.0\bin\Debug\Q1-OpLogiques.pdb
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Q1-Op Logiques (Solution) v20.1.0\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Q1-Op Logiques (Solution) v20.1.0\obj\Debug\Q1-OpLogiques.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Q1-Op Logiques (Solution) v20.1.0\obj\Debug\OpLogiques.FrmQ1.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Q1-Op Logiques (Solution) v20.1.0\obj\Debug\OpLogiques.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Q1-Op Logiques (Solution) v20.1.0\obj\Debug\Q1-OpLogiques.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Q1-Op Logiques (Solution) v20.1.0\obj\Debug\Q1-OpLogiques.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Q1-Op Logiques (Solution) v20.1.0\obj\Debug\Q1-OpLogiques.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Q1-Op Logiques (Solution) v20.1.0\obj\Debug\Q1-OpLogiques.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\R09 Q1-Op Logiques (Solution) v20.1.0\obj\Debug\Q1-OpLogiques.pdb
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q1- Op Logiques (Solution) v20.1.0\bin\Debug\Q1-OpLogiques.exe.config
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q1- Op Logiques (Solution) v20.1.0\bin\Debug\Q1-OpLogiques.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q1- Op Logiques (Solution) v20.1.0\bin\Debug\Q1-OpLogiques.pdb
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q1- Op Logiques (Solution) v20.1.0\obj\Debug\Q1-OpLogiques.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q1- Op Logiques (Solution) v20.1.0\obj\Debug\OpLogiques.FrmQ1.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q1- Op Logiques (Solution) v20.1.0\obj\Debug\OpLogiques.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q1- Op Logiques (Solution) v20.1.0\obj\Debug\Q1-OpLogiques.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q1- Op Logiques (Solution) v20.1.0\obj\Debug\Q1-OpLogiques.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q1- Op Logiques (Solution) v20.1.0\obj\Debug\Q1-OpLogiques.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q1- Op Logiques (Solution) v20.1.0\obj\Debug\Q1-OpLogiques.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Q1- Op Logiques (Solution) v20.1.0\obj\Debug\Q1-OpLogiques.pdb
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q1- Op Logiques\bin\Debug\Q1-OpLogiques.exe.config
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q1- Op Logiques\bin\Debug\Q1-OpLogiques.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q1- Op Logiques\bin\Debug\Q1-OpLogiques.pdb
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q1- Op Logiques\obj\Debug\Q1-OpLogiques.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q1- Op Logiques\obj\Debug\OpLogiques.FrmQ1.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q1- Op Logiques\obj\Debug\OpLogiques.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q1- Op Logiques\obj\Debug\Q1-OpLogiques.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q1- Op Logiques\obj\Debug\Q1-OpLogiques.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q1- Op Logiques\obj\Debug\Q1-OpLogiques.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q1- Op Logiques\obj\Debug\Q1-OpLogiques.exe
+J:\A20 1N6 Les Capsules\R09 Formatif #1\_Code C#\Formatif #1 v20.1.0\Q1- Op Logiques\obj\Debug\Q1-OpLogiques.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q1- Op Logiques\bin\Debug\Q1-OpLogiques.exe.config
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q1- Op Logiques\bin\Debug\Q1-OpLogiques.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q1- Op Logiques\bin\Debug\Q1-OpLogiques.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q1- Op Logiques\obj\Debug\Q1-OpLogiques.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q1- Op Logiques\obj\Debug\OpLogiques.FrmQ1.resources
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q1- Op Logiques\obj\Debug\OpLogiques.Properties.Resources.resources
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q1- Op Logiques\obj\Debug\Q1-OpLogiques.csproj.GenerateResource.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q1- Op Logiques\obj\Debug\Q1-OpLogiques.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q1- Op Logiques\obj\Debug\Q1-OpLogiques.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q1- Op Logiques\obj\Debug\Q1-OpLogiques.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R09\R09 Formatif #1 (Materiel) v20.1.1\Q1- Op Logiques\obj\Debug\Q1-OpLogiques.pdb
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q1- Op Logiques\bin\Debug\Q1-OpLogiques.exe.config
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q1- Op Logiques\bin\Debug\Q1-OpLogiques.exe
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q1- Op Logiques\bin\Debug\Q1-OpLogiques.pdb
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q1- Op Logiques\obj\Debug\Q1-OpLogiques.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q1- Op Logiques\obj\Debug\Q1-OpLogiques.csproj.SuggestedBindingRedirects.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q1- Op Logiques\obj\Debug\OpLogiques.FrmQ1.resources
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q1- Op Logiques\obj\Debug\OpLogiques.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q1- Op Logiques\obj\Debug\Q1-OpLogiques.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q1- Op Logiques\obj\Debug\Q1-OpLogiques.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q1- Op Logiques\obj\Debug\Q1-OpLogiques.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q1- Op Logiques\obj\Debug\Q1-OpLogiques.exe
+C:\Users\stephane.desmeules\Downloads\R09 Formatif #1 (Materiel) v22.1.0\Q1- Op Logiques\obj\Debug\Q1-OpLogiques.pdb
