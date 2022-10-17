@@ -83,7 +83,7 @@ namespace AppSudoku
 
         #endregion
 
-        #region PréparerNouvellePartie
+        #region PréparerNouvellePartie //fini
         //================================================================================================
         /// <summary>
         /// TODO 01 : Copier uniquement les valeurs négatives (à rendre positive) du tableau m_tabSudokuMoyen 
@@ -92,28 +92,11 @@ namespace AppSudoku
         /// </summary>
         private void PréparerNouvellePartie()
         {
-            // À COMPLÉTER...
-            /*for (int row = 0; row < m_tabSudokuMoyen.Length; row++)
-            {
-                for (int col = 0;  col < m_tabSudokuMoyen.Length; col++)
-                {
-                    if (m_tabSudokuMoyen[row,col]<0)
-                    {
-                        m_tabSudokuMoyen[row, col] = m_tabSudokuMoyen[row, col] * -1;
-                    }
-                    viaGrille[row, col] = m_tabSudokuMoyen[row, col];
-                }
-            }*/
-            if (m_tabSudokuMoyen[0,0]<0) //ça marche
-            {
-                m_tabSudokuMoyen[0, 0] = m_tabSudokuMoyen[0, 0] * -1;
-                viaGrille[0, 0] = m_tabSudokuMoyen[0, 0];
-            }
-            
+            remplirGrille();
         }
         #endregion
 
-        #region Solutionner le Sudoku
+        #region Solutionner le Sudoku //fini
         //================================================================================================
         /// <summary>
         /// TODO 02 : Afficher la solution du Sudoku en copiant toutes les valeurs du tableau m_tabSudokuMoyen
@@ -122,12 +105,23 @@ namespace AppSudoku
         /// </summary>
         private void mnuAideSolutionner_Click(object sender, EventArgs e)
         {
-			// À COMPLÉTER...
+            // À COMPLÉTER...
+            for (int range = 0; range < viaGrille.RowCount; range++)
+            {
+                for (int colonne = 0; colonne < viaGrille.ColumnCount; colonne++)
+                {
+                    if (m_tabSudokuMoyen[range,colonne]<0)
+                    {
+                        m_tabSudokuMoyen[range, colonne] = m_tabSudokuMoyen[range, colonne] * -1;
+                    }
+                    viaGrille[range,colonne]=m_tabSudokuMoyen[range,colonne];
+                }
+            }
 
         }
         #endregion
 
-        #region VérifierLaFinDeLaPartie
+        #region VérifierLaFinDeLaPartie //fini
         /// <summary>
         /// TODO 03 : Vérifier la fin d'une partie, vous devez compter le nombre de valeurs égale à 0,
         /// S'il n'y a aucune valeur à 0 et que : panJeu.BackColor == Color.Green alors la partie est terminée
@@ -136,7 +130,23 @@ namespace AppSudoku
         /// </summary>
         private void VérifierLaFinDeLaPartie()
         {
-			// À COMPLÉTER...
+            // À COMPLÉTER...
+            for (int range = 0; range < viaGrille.RowCount; range++)
+            {
+                for (int colonne = 0; colonne < viaGrille.ColumnCount; colonne++)
+                {
+                    if (m_tabSudokuMoyen[range,colonne]>0 && panJeu.BackColor == Color.Green)
+                    {
+                        viaGrille.Enabled=false;
+                        panJeu.BackColor = Color.Orange;
+                    }
+                    else
+                    {
+                        viaGrille.Enabled=true;
+                        panJeu.BackColor = Color.Green;
+                    }
+                }
+            }
 
         }
         #endregion
@@ -163,12 +173,27 @@ namespace AppSudoku
         /// que la valeur spéciale se retrouvent sur une même colonne. 
         /// 
         /// Voici le tableau de booléens à utiliser :
-        /// bool[] tabDesChiffresPrésents = { false, false, false, false, false, false, false, false, false, false };
         /// </summary>
         private void VérifierToutesLesColonnes()
         {
-			// À COMPLÉTER...
-
+            // À COMPLÉTER...
+            for (int col = 0; col < viaGrille.ColumnCount; col++)
+            {
+                for (int ran = 0; ran < viaGrille.RowCount; ran++)
+                {                    
+                    bool[] tabDesChiffresPrésents = { false, false, false, false, false, false, false, false, false, false };
+                    int nombre = viaGrille[ran,col];
+                    if (nombre !=0 && nombre != m_tabSudokuMoyen[ran,col])
+                    {
+                        panJeu.BackColor = Color.Green;
+                        tabDesChiffresPrésents[nombre] = true;
+                    }
+                    else
+                    {
+                        panJeu.BackColor=Color.Red;
+                    }
+                }
+            }
         }
         //================================================================================================
         /// <summary>
@@ -200,5 +225,19 @@ namespace AppSudoku
             VérifierLaFinDeLaPartie();
         }
         #endregion
+        private void remplirGrille()
+        {
+            for (int range = 0; range < viaGrille.RowCount; range++)
+            {
+                for (int colonne = 0; colonne < viaGrille.ColumnCount; colonne++)
+                {
+                    if (m_tabSudokuMoyen[range, colonne] < 0)
+                    {
+                        viaGrille[range, colonne] = -m_tabSudokuMoyen[range, colonne];
+                    }
+
+                }
+            }
+        }
     }
 }
