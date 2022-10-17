@@ -1,0 +1,478 @@
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku\bin\Debug\AppSudoku.exe
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku\bin\Debug\AppSudoku.pdb
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku\bin\Debug\OutilsGrilles.dll
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku\bin\Debug\OutilsGrilles.xml
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku\obj\Debug\ResolveAssemblyReference.cache
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku\obj\Debug\AppSudoku.csproj.GenerateResource.Cache
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku\obj\Debug\AppSudoku.exe
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku\obj\Debug\AppSudoku.pdb
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.1\obj\Debug\AppSudoku.exe
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.1\obj\Debug\AppSudoku.pdb
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.1\bin\Debug\AppSudoku.exe
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.1\bin\Debug\AppSudoku.pdb
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.1\bin\Debug\OutilsGrilles.dll
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.1\bin\Debug\OutilsGrilles.xml
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.1\obj\Debug\ResolveAssemblyReference.cache
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.1\obj\Debug\AppSudoku.FrmPrincipal.resources
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.1\obj\Debug\AppSudoku.Properties.Resources.resources
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.1\obj\Debug\AppSudoku.csproj.GenerateResource.Cache
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.8\obj\Debug\AppSudoku.exe
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.8\obj\Debug\AppSudoku.pdb
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.8\obj\Debug\ResolveAssemblyReference.cache
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.8\obj\Debug\AppSudoku.FrmPrincipal.resources
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.8\obj\Debug\AppSudoku.Properties.Resources.resources
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.8\obj\Debug\AppSudoku.csproj.GenerateResource.Cache
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.8\bin\Debug\AppSudoku.exe
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.8\bin\Debug\AppSudoku.pdb
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.8\bin\Debug\OutilsGrilles.dll
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v0.8\bin\Debug\OutilsGrilles.xml
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v1.0\obj\Debug\AppSudoku.exe
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v1.0\obj\Debug\AppSudoku.pdb
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v1.0\bin\Debug\AppSudoku.exe
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v1.0\bin\Debug\AppSudoku.pdb
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v1.0\bin\Debug\OutilsGrilles.dll
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v1.0\bin\Debug\OutilsGrilles.xml
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v1.0\obj\Debug\AppSudoku.FrmPrincipal.resources
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v1.0\obj\Debug\AppSudoku.Properties.Resources.resources
+D:\Mes documents\Backup A09\Problèmes résolus\AppSudoku v1.0\obj\Debug\AppSudoku.csproj.GenerateResource.Cache
+E:\_Cours 106-A09\Problèmes résolus\AppSudoku v1.0\obj\Debug\AppSudoku.exe
+E:\_Cours 106-A09\Problèmes résolus\AppSudoku v1.0\obj\Debug\AppSudoku.pdb
+E:\_Cours 106-A09\_Module 2\AppSudoku v1.0\obj\Debug\AppSudoku.exe
+E:\_Cours 106-A09\_Module 2\AppSudoku v1.0\obj\Debug\AppSudoku.pdb
+E:\_Cours 106-A09\_Module 2\AppSudoku v1.1\obj\Debug\AppSudoku.exe
+E:\_Cours 106-A09\_Module 2\AppSudoku v1.1\obj\Debug\AppSudoku.pdb
+E:\_Cours 106-A09\_Module 2\AppSudoku v1.1\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A09\_Module 2\AppSudoku v1.1\obj\Debug\AppSudoku.FrmPrincipal.resources
+E:\_Cours 106-A09\_Module 2\AppSudoku v1.1\obj\Debug\AppSudoku.Properties.Resources.resources
+E:\_Cours 106-A09\_Module 2\AppSudoku v1.1\obj\Debug\AppSudoku.csproj.GenerateResource.Cache
+E:\_Cours 106-A09\_Module 2\AppSudoku v1.1\bin\Debug\AppSudoku.exe
+E:\_Cours 106-A09\_Module 2\AppSudoku v1.1\bin\Debug\AppSudoku.pdb
+E:\_Cours 106-A09\_Module 2\AppSudoku v1.1\bin\Debug\OutilsGrilles.dll
+E:\_Cours 106-A09\_Module 2\AppSudoku v1.1\bin\Debug\OutilsGrilles.xml
+E:\_Cours 106-A09\_Module 2\AppSudoku v2.0\obj\Debug\AppSudoku.exe
+E:\_Cours 106-A09\_Module 2\AppSudoku v2.0\obj\Debug\AppSudoku.pdb
+E:\_Cours 106-A09\_Module 2\AppSudoku v2.0\bin\Debug\AppSudoku.exe
+E:\_Cours 106-A09\_Module 2\AppSudoku v2.0\bin\Debug\AppSudoku.pdb
+E:\_Cours 106-A09\_Module 2\AppSudoku v2.0\bin\Debug\OutilsGrilles.dll
+E:\_Cours 106-A09\_Module 2\AppSudoku v2.0\bin\Debug\OutilsGrilles.xml
+E:\_Cours 106-A09\_Module 2\AppSudoku v2.0\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A09\_Module 2\AppSudoku v2.0\obj\Debug\AppSudoku.FrmPrincipal.resources
+E:\_Cours 106-A09\_Module 2\AppSudoku v2.0\obj\Debug\AppSudoku.Properties.Resources.resources
+E:\_Cours 106-A09\_Module 2\AppSudoku v2.0\obj\Debug\AppSudoku.csproj.GenerateResource.Cache
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppSudoku v2.0\obj\Debug\AppSudoku.exe
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppSudoku v2.0\obj\Debug\AppSudoku.pdb
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppSudoku v2.0\bin\Debug\AppSudoku.exe
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppSudoku v2.0\bin\Debug\AppSudoku.pdb
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppSudoku v2.0\bin\Debug\OutilsGrilles.dll
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppSudoku v2.0\bin\Debug\OutilsGrilles.xml
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppSudoku v2.0\obj\Debug\ResolveAssemblyReference.cache
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppSudoku v2.0\obj\Debug\AppSudoku.FrmPrincipal.resources
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppSudoku v2.0\obj\Debug\AppSudoku.Properties.Resources.resources
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppSudoku v2.0\obj\Debug\AppSudoku.csproj.GenerateResource.Cache
+M:\106 A09\5-Tableau 2D Boucles imbriquées\TP6\TP6 Sudoku SOL\obj\Debug\AppSudoku.exe
+M:\106 A09\5-Tableau 2D Boucles imbriquées\TP6\TP6 Sudoku SOL\obj\Debug\AppSudoku.pdb
+M:\106 A09\5-Tableau 2D Boucles imbriquées\TP6\TP6 Sudoku SOL\bin\Debug\AppSudoku.exe
+M:\106 A09\5-Tableau 2D Boucles imbriquées\TP6\TP6 Sudoku SOL\bin\Debug\AppSudoku.pdb
+M:\106 A09\5-Tableau 2D Boucles imbriquées\TP6\TP6 Sudoku SOL\bin\Debug\OutilsGrilles.dll
+M:\106 A09\5-Tableau 2D Boucles imbriquées\TP6\TP6 Sudoku SOL\bin\Debug\OutilsGrilles.xml
+M:\106 A09\5-Tableau 2D Boucles imbriquées\TP6\TP6 Sudoku SOL\obj\Debug\ResolveAssemblyReference.cache
+M:\106 A09\5-Tableau 2D Boucles imbriquées\TP6\TP6 Sudoku SOL\obj\Debug\AppSudoku.FrmPrincipal.resources
+M:\106 A09\5-Tableau 2D Boucles imbriquées\TP6\TP6 Sudoku SOL\obj\Debug\AppSudoku.Properties.Resources.resources
+M:\106 A09\5-Tableau 2D Boucles imbriquées\TP6\TP6 Sudoku SOL\obj\Debug\AppSudoku.csproj.GenerateResource.Cache
+E:\_Cours 106-A09\_Module 2\TP6\TP6 Sudoku SOL\obj\Debug\AppSudoku.exe
+E:\_Cours 106-A09\_Module 2\TP6\TP6 Sudoku SOL\obj\Debug\AppSudoku.pdb
+E:\_Cours 106-A09\_Module 2\TP6\TP6 Sudoku SOL\bin\Debug\AppSudoku.exe
+E:\_Cours 106-A09\_Module 2\TP6\TP6 Sudoku SOL\bin\Debug\AppSudoku.pdb
+E:\_Cours 106-A09\_Module 2\TP6\TP6 Sudoku SOL\bin\Debug\OutilsGrilles.dll
+E:\_Cours 106-A09\_Module 2\TP6\TP6 Sudoku SOL\bin\Debug\OutilsGrilles.xml
+E:\_Cours 106-A09\_Module 2\TP6\TP6 Sudoku SOL\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A09\_Module 2\TP6\TP6 Sudoku SOL\obj\Debug\AppSudoku.FrmPrincipal.resources
+E:\_Cours 106-A09\_Module 2\TP6\TP6 Sudoku SOL\obj\Debug\AppSudoku.Properties.Resources.resources
+E:\_Cours 106-A09\_Module 2\TP6\TP6 Sudoku SOL\obj\Debug\AppSudoku.csproj.GenerateResource.Cache
+E:\_Cours 106-A09\_Module 2\TP6 v3.1\TP6 Sudoku SOL\obj\Debug\AppSudoku.exe
+E:\_Cours 106-A09\_Module 2\TP6 v3.1\TP6 Sudoku SOL\obj\Debug\AppSudoku.pdb
+E:\_Cours 106-A09\_Module 2\TP6 v3.1\TP6 Sudoku SOL\bin\Debug\AppSudoku.exe
+E:\_Cours 106-A09\_Module 2\TP6 v3.1\TP6 Sudoku SOL\bin\Debug\AppSudoku.pdb
+E:\_Cours 106-A09\_Module 2\TP6 v3.1\TP6 Sudoku SOL\bin\Debug\OutilsGrilles.dll
+E:\_Cours 106-A09\_Module 2\TP6 v3.1\TP6 Sudoku SOL\bin\Debug\OutilsGrilles.xml
+E:\_Cours 106-A09\_Module 2\TP6 v3.1\TP6 Sudoku SOL\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A09\_Module 2\TP6 v3.1\TP6 Sudoku SOL\obj\Debug\AppSudoku.FrmPrincipal.resources
+E:\_Cours 106-A09\_Module 2\TP6 v3.1\TP6 Sudoku SOL\obj\Debug\AppSudoku.Properties.Resources.resources
+E:\_Cours 106-A09\_Module 2\TP6 v3.1\TP6 Sudoku SOL\obj\Debug\AppSudoku.csproj.GenerateResource.Cache
+E:\_Autres cours\_Cours 106-A09\_Module 2\TP6 v3.1\TP6 Sudoku SOL\obj\Debug\AppSudoku.exe
+E:\_Autres cours\_Cours 106-A09\_Module 2\TP6 v3.1\TP6 Sudoku SOL\obj\Debug\AppSudoku.pdb
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.1\obj\Debug\AppSudoku.exe
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.1\obj\Debug\AppSudoku.pdb
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.1\bin\Debug\AppSudoku.exe
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.1\bin\Debug\AppSudoku.pdb
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.1\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.1\obj\Debug\AppSudoku.FrmPrincipal.resources
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.1\obj\Debug\AppSudoku.Properties.Resources.resources
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.1\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.1\bin\Debug\VisualArrays.dll
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.1\bin\Debug\VisualArrays.xml
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.9\obj\Debug\AppSudoku.exe
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.9\obj\Debug\AppSudoku.pdb
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.9\bin\Debug\AppSudoku.exe
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.9\bin\Debug\AppSudoku.pdb
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.9\bin\Debug\VisualArrays.dll
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.9\bin\Debug\VisualArrays.xml
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.9\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.9\obj\Debug\AppSudoku.FrmPrincipal.resources
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.9\obj\Debug\AppSudoku.Properties.Resources.resources
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.9\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.9\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours 206-H11\Sol TP1 Sudoku v0.9\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.0\AppSudoku\bin\Debug\AppSudoku.exe
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.0\AppSudoku\bin\Debug\AppSudoku.pdb
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.0\AppSudoku\obj\Debug\ResolveAssemblyReference.cache
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.0\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.0\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.0\AppSudoku\obj\Debug\ResGen.read.1.tlog
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.0\AppSudoku\obj\Debug\ResGen.write.1.tlog
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.0\AppSudoku\obj\Debug\AppSudoku.exe
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.0\AppSudoku\obj\Debug\AppSudoku.pdb
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.0\AppSudoku\bin\Debug\VisualArrays.xml
+F:\_Cours 206-H11\Sol TP1 Sudoku v1.2\AppSudoku\obj\Debug\AppSudoku.exe
+F:\_Cours 206-H11\Sol TP1 Sudoku v1.2\AppSudoku\obj\Debug\AppSudoku.pdb
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.2\AppSudoku\obj\Debug\AppSudoku.exe
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.2\AppSudoku\obj\Debug\AppSudoku.pdb
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.2\AppSudoku\bin\Debug\AppSudoku.exe
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.2\AppSudoku\bin\Debug\AppSudoku.pdb
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.2\AppSudoku\bin\Debug\VisualArrays.xml
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.2\AppSudoku\obj\Debug\ResolveAssemblyReference.cache
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.2\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.2\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.2\AppSudoku\obj\Debug\ResGen.read.1.tlog
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.2\AppSudoku\obj\Debug\ResGen.write.1.tlog
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.3\AppSudoku\obj\Debug\AppSudoku.exe
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.3\AppSudoku\obj\Debug\AppSudoku.pdb
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.3\AppSudoku\bin\Debug\AppSudoku.exe
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.3\AppSudoku\bin\Debug\AppSudoku.pdb
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.3\AppSudoku\bin\Debug\VisualArrays.xml
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.3\AppSudoku\obj\Debug\ResolveAssemblyReference.cache
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.3\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.3\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.3\AppSudoku\obj\Debug\ResGen.read.1.tlog
+F:\_Mes Cours\_420-206 H11\Sol TP1 Sudoku v1.3\AppSudoku\obj\Debug\ResGen.write.1.tlog
+E:\_Mes Cours\_420-206 H11\Module 1\Tp1 Sudoku\sol_TP1 Sudoku v1.3\AppSudoku\obj\Debug\AppSudoku.exe
+E:\_Mes Cours\_420-206 H11\Module 1\Tp1 Sudoku\sol_TP1 Sudoku v1.3\AppSudoku\obj\Debug\AppSudoku.pdb
+E:\_Mes Cours\_420-206 H11\Module 1\Tp1 Sudoku\sol_TP1 Sudoku v1.3\AppSudoku\obj\Debug\ResolveAssemblyReference.cache
+E:\_Mes Cours\_420-206 H11\Module 1\Tp1 Sudoku\sol_TP1 Sudoku v1.3\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+E:\_Mes Cours\_420-206 H11\Module 1\Tp1 Sudoku\sol_TP1 Sudoku v1.3\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+E:\_Mes Cours\_420-206 H11\Module 1\Tp1 Sudoku\sol_TP1 Sudoku v1.3\AppSudoku\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Mes Cours\_420-206 H11\Module 1\Tp1 Sudoku\sol_TP1 Sudoku v1.3\AppSudoku\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Mes Cours\_420-206 H11\Module 1\Tp1 Sudoku\sol_TP1 Sudoku v1.3\AppSudoku\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Mes Cours\_420-206 H11\Module 1\Tp1 Sudoku\sol_TP1 Sudoku v1.3\AppSudoku\bin\Debug\AppSudoku.exe
+E:\_Mes Cours\_420-206 H11\Module 1\Tp1 Sudoku\sol_TP1 Sudoku v1.3\AppSudoku\bin\Debug\AppSudoku.pdb
+E:\_Mes Cours\_420-206 H11\Module 1\Tp1 Sudoku\sol_TP1 Sudoku v1.3\AppSudoku\bin\Debug\VisualArrays.xml
+F:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\AppSudoku.exe
+F:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\AppSudoku.pdb
+F:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\bin\Debug\AppSudoku.exe
+F:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\bin\Debug\AppSudoku.pdb
+F:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\ResolveAssemblyReference.cache
+F:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+F:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+F:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\GenerateResource-ResGen.read.4.tlog
+F:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\ResGen.read.1.tlog
+F:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\ResGen.write.1.tlog
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\AppSudoku.exe
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\AppSudoku.pdb
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\bin\Debug\AppSudoku.exe
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\bin\Debug\AppSudoku.pdb
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\ResolveAssemblyReference.cache
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\ResGen.read.1.tlog
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\sol_TP1 Sudoku v1.5\AppSudoku\obj\Debug\ResGen.write.1.tlog
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\NomPrenom_TP1 Sudoku_Depart\AppSudoku\obj\Debug\AppSudoku.exe
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\NomPrenom_TP1 Sudoku_Depart\AppSudoku\obj\Debug\AppSudoku.pdb
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\NomPrenom_TP1 Sudoku_Depart\AppSudoku\bin\Debug\AppSudoku.exe
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\NomPrenom_TP1 Sudoku_Depart\AppSudoku\bin\Debug\AppSudoku.pdb
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\NomPrenom_TP1 Sudoku_Depart\AppSudoku\obj\Debug\ResolveAssemblyReference.cache
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\NomPrenom_TP1 Sudoku_Depart\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\NomPrenom_TP1 Sudoku_Depart\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\NomPrenom_TP1 Sudoku_Depart\AppSudoku\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\NomPrenom_TP1 Sudoku_Depart\AppSudoku\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Mes Cours\_420-206 H11\Module 1\TP\Tp1 Sudoku\NomPrenom_TP1 Sudoku_Depart\AppSudoku\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Mes Cours\_420-206 H12\TP1 Sudoku Kit V1.0\TP1 Sudoku Materiel\NomPrenom_TP1 Sudoku_Depart\AppSudoku\obj\Debug\AppSudoku.exe
+E:\_Mes Cours\_420-206 H12\TP1 Sudoku Kit V1.0\TP1 Sudoku Materiel\NomPrenom_TP1 Sudoku_Depart\AppSudoku\obj\Debug\AppSudoku.pdb
+E:\_Mes Cours\_420-206 H12\TP1 Sudoku Kit V1.0\TP1 Sudoku Materiel\NomPrenom_TP1 Sudoku_Depart\AppSudoku\bin\Debug\AppSudoku.exe
+E:\_Mes Cours\_420-206 H12\TP1 Sudoku Kit V1.0\TP1 Sudoku Materiel\NomPrenom_TP1 Sudoku_Depart\AppSudoku\bin\Debug\AppSudoku.pdb
+E:\_Mes Cours\_420-206 H12\TP1 Sudoku Kit V1.0\TP1 Sudoku Materiel\NomPrenom_TP1 Sudoku_Depart\AppSudoku\obj\Debug\ResolveAssemblyReference.cache
+E:\_Mes Cours\_420-206 H12\TP1 Sudoku Kit V1.0\TP1 Sudoku Materiel\NomPrenom_TP1 Sudoku_Depart\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+E:\_Mes Cours\_420-206 H12\TP1 Sudoku Kit V1.0\TP1 Sudoku Materiel\NomPrenom_TP1 Sudoku_Depart\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+E:\_Mes Cours\_420-206 H12\TP1 Sudoku Kit V1.0\TP1 Sudoku Materiel\NomPrenom_TP1 Sudoku_Depart\AppSudoku\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Mes Cours\_420-206 H12\TP1 Sudoku Kit V1.0\TP1 Sudoku Materiel\NomPrenom_TP1 Sudoku_Depart\AppSudoku\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Mes Cours\_420-206 H12\TP1 Sudoku Kit V1.0\TP1 Sudoku Materiel\NomPrenom_TP1 Sudoku_Depart\AppSudoku\obj\Debug\ResGen.read.1.tlog
+E:\_Mes Cours\_420-206 H12\TP1 Sudoku Kit V1.0\TP1 Sudoku Materiel\NomPrenom_TP1 Sudoku_Depart\AppSudoku\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Mes Cours\_420-206 H12\TP1 Sudoku Kit V1.0\TP1 Sudoku Materiel\NomPrenom_TP1 Sudoku_Depart\AppSudoku\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 106-A12\Materiel Exercices\A12_Ex_Sudoku_Sol\AppSudoku\obj\Debug\AppSudoku.exe
+E:\_Cours 106-A12\Materiel Exercices\A12_Ex_Sudoku_Sol\AppSudoku\obj\Debug\AppSudoku.pdb
+E:\_Cours 106-A12\Materiel Exercices\A12_Ex_Sudoku_Sol\AppSudoku\bin\Debug\AppSudoku.exe
+E:\_Cours 106-A12\Materiel Exercices\A12_Ex_Sudoku_Sol\AppSudoku\bin\Debug\AppSudoku.pdb
+E:\_Cours 106-A12\Materiel Exercices\A12_Ex_Sudoku_Sol\AppSudoku\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Materiel Exercices\A12_Ex_Sudoku_Sol\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+E:\_Cours 106-A12\Materiel Exercices\A12_Ex_Sudoku_Sol\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+E:\_Cours 106-A12\Materiel Exercices\A12_Ex_Sudoku_Sol\AppSudoku\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 106-A12\Materiel Exercices\A12_Ex_Sudoku_Sol\AppSudoku\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours 106-A12\Materiel Exercices\A12_Ex_Sudoku_Sol\AppSudoku\obj\Debug\ResGen.read.1.tlog
+E:\_Cours 106-A12\Materiel Exercices\A12_Ex_Sudoku_Sol\AppSudoku\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 106-A12\Materiel Exercices\A12_Ex_Sudoku_Sol\AppSudoku\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_Sudoku\AppSudoku\obj\Debug\AppSudoku.exe
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_Sudoku\AppSudoku\obj\Debug\AppSudoku.pdb
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_Sudoku\AppSudoku\bin\Debug\AppSudoku.exe
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_Sudoku\AppSudoku\bin\Debug\AppSudoku.pdb
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_Sudoku\AppSudoku\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_Sudoku\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_Sudoku\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_Sudoku\AppSudoku\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_Sudoku\AppSudoku\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_Sudoku\AppSudoku\obj\Debug\ResGen.read.1.tlog
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_Sudoku\AppSudoku\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_Sudoku\AppSudoku\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #24\QX_Sudoku (SPLIT)\AppSudoku\obj\Debug\AppSudoku.exe
+E:\_Cours 106-A12\Module 2\Rencontre #24\QX_Sudoku (SPLIT)\AppSudoku\obj\Debug\AppSudoku.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #24\QX_Sudoku (SPLIT)\AppSudoku\bin\Debug\AppSudoku.exe
+E:\_Cours 106-A12\Module 2\Rencontre #24\QX_Sudoku (SPLIT)\AppSudoku\bin\Debug\AppSudoku.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #24\QX_Sudoku (SPLIT)\AppSudoku\bin\Debug\VisualArrays.dll
+E:\_Cours 106-A12\Module 2\Rencontre #24\QX_Sudoku (SPLIT)\AppSudoku\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Module 2\Rencontre #24\QX_Sudoku (SPLIT)\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+E:\_Cours 106-A12\Module 2\Rencontre #24\QX_Sudoku (SPLIT)\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+E:\_Cours 106-A12\Module 2\Rencontre #24\QX_Sudoku (SPLIT)\AppSudoku\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #24\QX_Sudoku (SPLIT)\AppSudoku\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #24\QX_Sudoku (SPLIT)\AppSudoku\obj\Debug\ResGen.read.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #24\QX_Sudoku (SPLIT)\AppSudoku\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #24\QX_Sudoku (SPLIT)\AppSudoku\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #24\QX_Sudoku (SPLIT)\AppSudoku\bin\Debug\VisualArrays.xml
+E:\_Cours 106-A12\Module 2\Rencontre #24\Q3 Sudoku (Fichier,Split,Tab2D) v1.0 SD\AppSudoku\obj\Debug\AppSudoku.exe
+E:\_Cours 106-A12\Module 2\Rencontre #24\Q3 Sudoku (Fichier,Split,Tab2D) v1.0 SD\AppSudoku\obj\Debug\AppSudoku.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #24\Q3 Sudoku (Fichier,Split,Tab2D) v1.0 SD\AppSudoku\bin\Debug\AppSudoku.exe
+E:\_Cours 106-A12\Module 2\Rencontre #24\Q3 Sudoku (Fichier,Split,Tab2D) v1.0 SD\AppSudoku\bin\Debug\AppSudoku.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #24\Q3 Sudoku (Fichier,Split,Tab2D) v1.0 SD\AppSudoku\bin\Debug\VisualArrays.dll
+E:\_Cours 106-A12\Module 2\Rencontre #24\Q3 Sudoku (Fichier,Split,Tab2D) v1.0 SD\AppSudoku\bin\Debug\VisualArrays.xml
+E:\_Cours 106-A12\Module 2\Rencontre #24\Q3 Sudoku (Fichier,Split,Tab2D) v1.0 SD\AppSudoku\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Module 2\Rencontre #24\Q3 Sudoku (Fichier,Split,Tab2D) v1.0 SD\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+E:\_Cours 106-A12\Module 2\Rencontre #24\Q3 Sudoku (Fichier,Split,Tab2D) v1.0 SD\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+E:\_Cours 106-A12\Module 2\Rencontre #24\Q3 Sudoku (Fichier,Split,Tab2D) v1.0 SD\AppSudoku\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #24\Q3 Sudoku (Fichier,Split,Tab2D) v1.0 SD\AppSudoku\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #24\Q3 Sudoku (Fichier,Split,Tab2D) v1.0 SD\AppSudoku\obj\Debug\ResGen.read.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #24\Q3 Sudoku (Fichier,Split,Tab2D) v1.0 SD\AppSudoku\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #24\Q3 Sudoku (Fichier,Split,Tab2D) v1.0 SD\AppSudoku\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit v0.8\H13 Tp1 Sudoku Solution v0.9\AppSudoku\obj\Debug\AppSudoku.exe
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit v0.8\H13 Tp1 Sudoku Solution v0.9\AppSudoku\obj\Debug\AppSudoku.pdb
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit v0.8\H13 Tp1 Sudoku Solution v0.9\AppSudoku\bin\Debug\AppSudoku.exe
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit v0.8\H13 Tp1 Sudoku Solution v0.9\AppSudoku\bin\Debug\AppSudoku.pdb
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit v0.8\H13 Tp1 Sudoku Solution v0.9\AppSudoku\bin\Debug\VisualArrays.dll
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit v0.8\H13 Tp1 Sudoku Solution v0.9\AppSudoku\bin\Debug\VisualArrays.xml
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit v0.8\H13 Tp1 Sudoku Solution v0.9\AppSudoku\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit v0.8\H13 Tp1 Sudoku Solution v0.9\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit v0.8\H13 Tp1 Sudoku Solution v0.9\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit v0.8\H13 Tp1 Sudoku Solution v0.9\AppSudoku\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit v0.8\H13 Tp1 Sudoku Solution v0.9\AppSudoku\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit v0.8\H13 Tp1 Sudoku Solution v0.9\AppSudoku\obj\Debug\ResGen.read.1.tlog
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit v0.8\H13 Tp1 Sudoku Solution v0.9\AppSudoku\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit v0.8\H13 Tp1 Sudoku Solution v0.9\AppSudoku\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit v0.8\H13 Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\AppSudoku.exe
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit v0.8\H13 Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\AppSudoku.pdb
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit\H13 Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\AppSudoku.exe
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit\H13 Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\AppSudoku.pdb
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit\H13 Tp1 Sudoku Solution v1.0\AppSudoku\bin\Debug\AppSudoku.exe
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit\H13 Tp1 Sudoku Solution v1.0\AppSudoku\bin\Debug\AppSudoku.pdb
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit\H13 Tp1 Sudoku Solution v1.0\AppSudoku\bin\Debug\VisualArrays.dll
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit\H13 Tp1 Sudoku Solution v1.0\AppSudoku\bin\Debug\VisualArrays.xml
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit\H13 Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit\H13 Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit\H13 Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit\H13 Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit\H13 Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit\H13 Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\ResGen.read.1.tlog
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit\H13 Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 206-H13\H13 TP1 Sudoku Kit\H13 Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\ResGen.write.1.tlog
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\AppSudoku.exe
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\AppSudoku.pdb
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.0\AppSudoku\bin\Debug\AppSudoku.exe
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.0\AppSudoku\bin\Debug\AppSudoku.pdb
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.0\AppSudoku\bin\Debug\VisualArrays.xml
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\ResolveAssemblyReference.cache
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\GenerateResource-ResGen.read.1.tlog
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\GenerateResource-ResGen.read.4.tlog
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\ResGen.read.1.tlog
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\GenerateResource-ResGen.write.1.tlog
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.0\AppSudoku\obj\Debug\ResGen.write.1.tlog
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.1\AppSudoku\obj\Debug\AppSudoku.exe
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.1\AppSudoku\obj\Debug\AppSudoku.pdb
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.1\AppSudoku\bin\Debug\AppSudoku.exe
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.1\AppSudoku\bin\Debug\AppSudoku.pdb
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.1\AppSudoku\bin\Debug\VisualArrays.xml
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.1\AppSudoku\obj\Debug\ResolveAssemblyReference.cache
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.1\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.1\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.1\AppSudoku\obj\Debug\GenerateResource-ResGen.read.1.tlog
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.1\AppSudoku\obj\Debug\GenerateResource-ResGen.read.4.tlog
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.1\AppSudoku\obj\Debug\ResGen.read.1.tlog
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.1\AppSudoku\obj\Debug\GenerateResource-ResGen.write.1.tlog
+J:\__Cours\420-206 H13\Module 1\H13 Tp1 Sudoku kit V 1.0\Tp1 Sudoku Solution v1.1\AppSudoku\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.2\AppSudoku\obj\Debug\AppSudoku.exe
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.2\AppSudoku\obj\Debug\AppSudoku.pdb
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.2\AppSudoku\bin\Debug\AppSudoku.exe
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.2\AppSudoku\bin\Debug\AppSudoku.pdb
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.2\AppSudoku\bin\Debug\VisualArrays.dll
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.2\AppSudoku\bin\Debug\VisualArrays.xml
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.2\AppSudoku\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.2\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.2\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.2\AppSudoku\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.2\AppSudoku\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.2\AppSudoku\obj\Debug\ResGen.read.1.tlog
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.2\AppSudoku\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.2\AppSudoku\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.3\AppSudoku\obj\Debug\AppSudoku.exe
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.3\AppSudoku\obj\Debug\AppSudoku.pdb
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.3\AppSudoku\bin\Debug\AppSudoku.exe
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.3\AppSudoku\bin\Debug\AppSudoku.pdb
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.3\AppSudoku\bin\Debug\VisualArrays.dll
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.3\AppSudoku\bin\Debug\VisualArrays.xml
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.3\AppSudoku\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.3\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.3\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.3\AppSudoku\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.3\AppSudoku\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.3\AppSudoku\obj\Debug\ResGen.read.1.tlog
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.3\AppSudoku\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 206-H13\R01 TP1 Sudoku Kit\TP1 Sudoku (Solution) v1.3\AppSudoku\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 206-H13\_Module #1\R01 TP1 Sudoku (Solution) v1.4\AppSudoku\obj\Debug\AppSudoku.exe
+E:\_Cours 206-H13\_Module #1\R01 TP1 Sudoku (Solution) v1.4\AppSudoku\obj\Debug\AppSudoku.pdb
+H:\_Cours 116 A17\A17 R23 Exercices (À PRÉPARER)\A17 TF5 Sudoku (Solution) v0.9\AppSudoku\obj\Debug\AppSudoku.exe
+H:\_Cours 116 A17\A17 R23 Exercices (À PRÉPARER)\A17 TF5 Sudoku (Solution) v0.9\AppSudoku\obj\Debug\AppSudoku.pdb
+H:\_Cours 116 A17\A17 R23 Exercices (À PRÉPARER)\A17 TF5 Sudoku (Solution) v0.9\AppSudoku\bin\Debug\AppSudoku.exe
+H:\_Cours 116 A17\A17 R23 Exercices (À PRÉPARER)\A17 TF5 Sudoku (Solution) v0.9\AppSudoku\bin\Debug\AppSudoku.pdb
+H:\_Cours 116 A17\A17 R23 Exercices (À PRÉPARER)\A17 TF5 Sudoku (Solution) v0.9\AppSudoku\bin\Debug\VisualArrays.xml
+H:\_Cours 116 A17\A17 R23 Exercices (À PRÉPARER)\A17 TF5 Sudoku (Solution) v0.9\AppSudoku\obj\Debug\AppSudoku.csprojResolveAssemblyReference.cache
+H:\_Cours 116 A17\A17 R23 Exercices (À PRÉPARER)\A17 TF5 Sudoku (Solution) v0.9\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+H:\_Cours 116 A17\A17 R23 Exercices (À PRÉPARER)\A17 TF5 Sudoku (Solution) v0.9\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+H:\_Cours 116 A17\A17 R23 Exercices (À PRÉPARER)\A17 TF5 Sudoku (Solution) v0.9\AppSudoku\obj\Debug\AppSudoku.csproj.GenerateResource.Cache
+I:\_Cours 116 A17\A17 R23 Exercices (À PRÉPARER)\A17 TF5 Sudoku (Solution) v1.0\AppSudoku\obj\Debug\AppSudoku.exe
+I:\_Cours 116 A17\A17 R23 Exercices (À PRÉPARER)\A17 TF5 Sudoku (Solution) v1.0\AppSudoku\obj\Debug\AppSudoku.pdb
+H:\AUT2017\116_17\R23\A17 TF5 Sudoku (Solution) v1.0\AppSudoku\obj\Debug\AppSudoku.exe
+H:\AUT2017\116_17\R23\A17 TF5 Sudoku (Solution) v1.0\AppSudoku\obj\Debug\AppSudoku.pdb
+H:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Materiel) v1.0\AppSudoku\obj\Debug\AppSudoku.exe
+H:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Materiel) v1.0\AppSudoku\obj\Debug\AppSudoku.pdb
+H:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Materiel) v1.0\AppSudoku\bin\Debug\AppSudoku.exe
+H:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Materiel) v1.0\AppSudoku\bin\Debug\AppSudoku.pdb
+H:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Materiel) v1.0\AppSudoku\bin\Debug\VisualArrays.xml
+H:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Materiel) v1.0\AppSudoku\obj\Debug\AppSudoku.csprojResolveAssemblyReference.cache
+H:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Materiel) v1.0\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+H:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Materiel) v1.0\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+H:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Materiel) v1.0\AppSudoku\obj\Debug\AppSudoku.csproj.GenerateResource.Cache
+F:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Materiel) v1.0\AppSudoku\obj\Debug\AppSudoku.exe
+F:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Materiel) v1.0\AppSudoku\obj\Debug\AppSudoku.pdb
+F:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Materiel) v1.0\AppSudoku\obj\Debug\AppSudoku.csprojResolveAssemblyReference.cache
+F:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Materiel) v1.0\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+F:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Materiel) v1.0\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+F:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Materiel) v1.0\AppSudoku\obj\Debug\AppSudoku.csproj.GenerateResource.Cache
+F:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Materiel) v1.0\AppSudoku\bin\Debug\AppSudoku.exe
+F:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Materiel) v1.0\AppSudoku\bin\Debug\AppSudoku.pdb
+F:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Materiel) v1.0\AppSudoku\bin\Debug\VisualArrays.xml
+H:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Solution) v1.1\AppSudoku\obj\Debug\AppSudoku.exe
+H:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Solution) v1.1\AppSudoku\obj\Debug\AppSudoku.pdb
+H:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Solution) v1.1\AppSudoku\bin\Debug\AppSudoku.exe
+H:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Solution) v1.1\AppSudoku\bin\Debug\AppSudoku.pdb
+H:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Solution) v1.1\AppSudoku\bin\Debug\VisualArrays.xml
+H:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Solution) v1.1\AppSudoku\obj\Debug\AppSudoku.csprojResolveAssemblyReference.cache
+H:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Solution) v1.1\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+H:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Solution) v1.1\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+H:\AUT2017\116_17\R23 Sudoku\A17 TF5 Sudoku (Solution) v1.1\AppSudoku\obj\Debug\AppSudoku.csproj.GenerateResource.Cache
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Formatif #5 Sudoku (Solution) v1.1\AppSudoku\obj\Debug\AppSudoku.exe
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Formatif #5 Sudoku (Solution) v1.1\AppSudoku\obj\Debug\AppSudoku.pdb
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Formatif #5 Sudoku (Solution) v1.1\AppSudoku\bin\Debug\AppSudoku.exe
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Formatif #5 Sudoku (Solution) v1.1\AppSudoku\bin\Debug\AppSudoku.pdb
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Formatif #5 Sudoku (Solution) v1.1\AppSudoku\bin\Debug\VisualArrays.xml
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Formatif #5 Sudoku (Solution) v1.1\AppSudoku\obj\Debug\AppSudoku.csprojResolveAssemblyReference.cache
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Formatif #5 Sudoku (Solution) v1.1\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Formatif #5 Sudoku (Solution) v1.1\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Formatif #5 Sudoku (Solution) v1.1\AppSudoku\obj\Debug\AppSudoku.csproj.GenerateResource.Cache
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Formatif #5 Sudoku (Solution) v1.3\AppSudoku\obj\Debug\AppSudoku.exe
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Formatif #5 Sudoku (Solution) v1.3\AppSudoku\obj\Debug\AppSudoku.pdb
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 TravForm #5 Sudoku (Solution) v1.3\AppSudoku\obj\Debug\AppSudoku.exe
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 TravForm #5 Sudoku (Solution) v1.3\AppSudoku\obj\Debug\AppSudoku.pdb
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\obj\Debug\AppSudoku.exe
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\obj\Debug\AppSudoku.pdb
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\bin\Debug\AppSudoku.exe
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\bin\Debug\AppSudoku.pdb
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\bin\Debug\VisualArrays.xml
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\obj\Debug\AppSudoku.csprojResolveAssemblyReference.cache
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+H:\_Cours 116 A17\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\obj\Debug\AppSudoku.csproj.GenerateResource.Cache
+H:\_Cours 116 A18\_Cours 116 A17\_Module 3\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\bin\Debug\AppSudoku.exe
+H:\_Cours 116 A18\_Cours 116 A17\_Module 3\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\bin\Debug\AppSudoku.pdb
+H:\_Cours 116 A18\_Cours 116 A17\_Module 3\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\bin\Debug\VisualArrays.xml
+H:\_Cours 116 A18\_Cours 116 A17\_Module 3\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\obj\Debug\AppSudoku.csprojAssemblyReference.cache
+H:\_Cours 116 A18\_Cours 116 A17\_Module 3\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+H:\_Cours 116 A18\_Cours 116 A17\_Module 3\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+H:\_Cours 116 A18\_Cours 116 A17\_Module 3\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\obj\Debug\AppSudoku.csproj.GenerateResource.cache
+H:\_Cours 116 A18\_Cours 116 A17\_Module 3\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\obj\Debug\AppSudoku.csproj.CoreCompileInputs.cache
+H:\_Cours 116 A18\_Cours 116 A17\_Module 3\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\obj\Debug\AppSudoku.csproj.CopyComplete
+H:\_Cours 116 A18\_Cours 116 A17\_Module 3\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\obj\Debug\AppSudoku.exe
+H:\_Cours 116 A18\_Cours 116 A17\_Module 3\A17 R23 TravForm5 Sudoku\A17 Sudoku Fusion (Solution) v1.0\AppSudoku\obj\Debug\AppSudoku.pdb
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Solution) v20.1.0\AppSudoku\bin\Debug\AppSudoku.exe
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Solution) v20.1.0\AppSudoku\bin\Debug\AppSudoku.pdb
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Solution) v20.1.0\AppSudoku\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Solution) v20.1.0\AppSudoku\obj\Debug\AppSudoku.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Solution) v20.1.0\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Solution) v20.1.0\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Solution) v20.1.0\AppSudoku\obj\Debug\AppSudoku.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Solution) v20.1.0\AppSudoku\obj\Debug\AppSudoku.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Solution) v20.1.0\AppSudoku\obj\Debug\AppSudoku.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Solution) v20.1.0\AppSudoku\obj\Debug\AppSudoku.exe
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Solution) v20.1.0\AppSudoku\obj\Debug\AppSudoku.pdb
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Solution) v20.1.0\AppSudoku\bin\Debug\AppSudoku.exe.config
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.0\Nom prénom Labo3 (Départ)\AppSudoku\bin\Debug\AppSudoku.exe.config
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.0\Nom prénom Labo3 (Départ)\AppSudoku\bin\Debug\AppSudoku.exe
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.0\Nom prénom Labo3 (Départ)\AppSudoku\bin\Debug\AppSudoku.pdb
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.0\Nom prénom Labo3 (Départ)\AppSudoku\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.0\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.0\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.0\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.0\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.0\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.0\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.0\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.exe
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.0\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.pdb
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.1\Nom prénom Labo3 (Départ)\AppSudoku\bin\Debug\AppSudoku.exe.config
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.1\Nom prénom Labo3 (Départ)\AppSudoku\bin\Debug\AppSudoku.exe
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.1\Nom prénom Labo3 (Départ)\AppSudoku\bin\Debug\AppSudoku.pdb
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.1\Nom prénom Labo3 (Départ)\AppSudoku\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.1\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.1\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.1\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.1\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.1\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.1\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.1\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.exe
+J:\A20 1N6 Les Capsules\R14 Laboratoire #3\_Code C#\R14 Sudoku (Matériel) v20.1.1\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.pdb
+C:\Users\stephane.desmeules\Downloads\R14 Laboratoire #3 (Matériel) v22.1.0\Nom prénom Labo3 (Départ)\AppSudoku\bin\Debug\AppSudoku.exe.config
+C:\Users\stephane.desmeules\Downloads\R14 Laboratoire #3 (Matériel) v22.1.0\Nom prénom Labo3 (Départ)\AppSudoku\bin\Debug\AppSudoku.exe
+C:\Users\stephane.desmeules\Downloads\R14 Laboratoire #3 (Matériel) v22.1.0\Nom prénom Labo3 (Départ)\AppSudoku\bin\Debug\AppSudoku.pdb
+C:\Users\stephane.desmeules\Downloads\R14 Laboratoire #3 (Matériel) v22.1.0\Nom prénom Labo3 (Départ)\AppSudoku\bin\Debug\VisualArrays.xml
+C:\Users\stephane.desmeules\Downloads\R14 Laboratoire #3 (Matériel) v22.1.0\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R14 Laboratoire #3 (Matériel) v22.1.0\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R14 Laboratoire #3 (Matériel) v22.1.0\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R14 Laboratoire #3 (Matériel) v22.1.0\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R14 Laboratoire #3 (Matériel) v22.1.0\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R14 Laboratoire #3 (Matériel) v22.1.0\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\R14 Laboratoire #3 (Matériel) v22.1.0\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.exe
+C:\Users\stephane.desmeules\Downloads\R14 Laboratoire #3 (Matériel) v22.1.0\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.pdb
