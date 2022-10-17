@@ -476,3 +476,15 @@ C:\Users\stephane.desmeules\Downloads\R14 Laboratoire #3 (Matériel) v22.1.0\Nom
 C:\Users\stephane.desmeules\Downloads\R14 Laboratoire #3 (Matériel) v22.1.0\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.csproj.CopyComplete
 C:\Users\stephane.desmeules\Downloads\R14 Laboratoire #3 (Matériel) v22.1.0\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.exe
 C:\Users\stephane.desmeules\Downloads\R14 Laboratoire #3 (Matériel) v22.1.0\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R14 Laboratoire #3 (Matériel) v22.1.1\R14 Laboratoire #3 (Matériel) v22.1.1\Nom prénom Labo3 (Départ)\AppSudoku\bin\Debug\AppSudoku.exe.config
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R14 Laboratoire #3 (Matériel) v22.1.1\R14 Laboratoire #3 (Matériel) v22.1.1\Nom prénom Labo3 (Départ)\AppSudoku\bin\Debug\AppSudoku.exe
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R14 Laboratoire #3 (Matériel) v22.1.1\R14 Laboratoire #3 (Matériel) v22.1.1\Nom prénom Labo3 (Départ)\AppSudoku\bin\Debug\AppSudoku.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R14 Laboratoire #3 (Matériel) v22.1.1\R14 Laboratoire #3 (Matériel) v22.1.1\Nom prénom Labo3 (Départ)\AppSudoku\bin\Debug\VisualArrays.xml
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R14 Laboratoire #3 (Matériel) v22.1.1\R14 Laboratoire #3 (Matériel) v22.1.1\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.csproj.AssemblyReference.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R14 Laboratoire #3 (Matériel) v22.1.1\R14 Laboratoire #3 (Matériel) v22.1.1\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.FrmPrincipal.resources
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R14 Laboratoire #3 (Matériel) v22.1.1\R14 Laboratoire #3 (Matériel) v22.1.1\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.Properties.Resources.resources
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R14 Laboratoire #3 (Matériel) v22.1.1\R14 Laboratoire #3 (Matériel) v22.1.1\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.csproj.GenerateResource.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R14 Laboratoire #3 (Matériel) v22.1.1\R14 Laboratoire #3 (Matériel) v22.1.1\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R14 Laboratoire #3 (Matériel) v22.1.1\R14 Laboratoire #3 (Matériel) v22.1.1\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.csproj.CopyComplete
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R14 Laboratoire #3 (Matériel) v22.1.1\R14 Laboratoire #3 (Matériel) v22.1.1\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.exe
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R14 Laboratoire #3 (Matériel) v22.1.1\R14 Laboratoire #3 (Matériel) v22.1.1\Nom prénom Labo3 (Départ)\AppSudoku\obj\Debug\AppSudoku.pdb

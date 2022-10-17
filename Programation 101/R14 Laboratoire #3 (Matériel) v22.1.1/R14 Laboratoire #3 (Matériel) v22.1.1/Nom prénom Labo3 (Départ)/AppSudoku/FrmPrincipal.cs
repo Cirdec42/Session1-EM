@@ -92,8 +92,24 @@ namespace AppSudoku
         /// </summary>
         private void PréparerNouvellePartie()
         {
-			// À COMPLÉTER...
-
+            // À COMPLÉTER...
+            /*for (int row = 0; row < m_tabSudokuMoyen.Length; row++)
+            {
+                for (int col = 0;  col < m_tabSudokuMoyen.Length; col++)
+                {
+                    if (m_tabSudokuMoyen[row,col]<0)
+                    {
+                        m_tabSudokuMoyen[row, col] = m_tabSudokuMoyen[row, col] * -1;
+                    }
+                    viaGrille[row, col] = m_tabSudokuMoyen[row, col];
+                }
+            }*/
+            if (m_tabSudokuMoyen[0,0]<0) //ça marche
+            {
+                m_tabSudokuMoyen[0, 0] = m_tabSudokuMoyen[0, 0] * -1;
+                viaGrille[0, 0] = m_tabSudokuMoyen[0, 0];
+            }
+            
         }
         #endregion
 
