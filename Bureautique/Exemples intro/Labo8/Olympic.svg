@@ -1,0 +1,7 @@
+<svg height="1000" width="1000">
+    <circle cx="510" cy="400" r="40" stroke="blue"    stroke-width="6" fill="none" />
+    <circle cx="600" cy="400" r="40" stroke="white"   stroke-width="6" fill="none" />
+    <circle cx="690" cy="400" r="40" stroke="red"     stroke-width="6" fill="none" />
+    <circle cx="550" cy="450" r="40" stroke="yellow"  stroke-width="6" fill="none" />
+    <circle cx="650" cy="450" r="40" stroke="green"   stroke-width="6" fill="none" />
+</svg>

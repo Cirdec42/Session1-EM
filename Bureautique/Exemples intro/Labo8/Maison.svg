@@ -1,0 +1,13 @@
+<svg width="1000" height="1000">
+    <rect x="500" y="500" width="200" height="205" fill="white"/>
+    <rect x="515" y="400" width="25" height="70" fill="white"/>
+    <!--Porte -->
+    <rect x="625" y="600" width="50" height="100" fill="black"/>
+    <!-- Fenetre-->
+    <rect x="515" y="600" width="20" height="20"/>
+    <rect x="545" y="600" width="20" height="20"/>
+    <rect x="515" y="625" width="20" height="20"/>
+    <rect x="545" y="625" width="20" height="20"/>
+    <!-- Toit-->
+    <path d="M 450 510 L 750 500 L 598 410 " fill="white"/>
+</svg>

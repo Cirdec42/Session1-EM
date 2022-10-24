@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+     width="320" height="320" >
+  <circle cx="155" cy="155" r="150" stroke="black" stroke-width="5" fill="#3bbe3b"></circle>
+  <circle cx="75" cy="100" r="40" fill="white"></circle>
+  <circle cx="200" cy="100" r="60" fill="white"></circle>
+  <circle cx="65" cy="115" r="15" fill="black"></circle>
+  <circle cx="225" cy="75" r="15" fill="black"></circle>  
+  <path d="M 65,250 l 30,-70 l 30,70 l 30,-70 l 30,70 l 30,-70 l 30,70" 
+  fill="none" stroke="#3b5f02" stroke-width="10"/>
+</svg>
