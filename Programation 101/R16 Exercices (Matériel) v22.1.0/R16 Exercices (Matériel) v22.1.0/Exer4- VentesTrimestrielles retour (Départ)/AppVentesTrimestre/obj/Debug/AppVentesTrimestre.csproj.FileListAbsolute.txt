@@ -1,0 +1,274 @@
+E:\_Cours 106-A09\_Module 2\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+E:\_Cours 106-A09\_Module 2\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+E:\_Cours 106-A09\_Module 2\AppVentesTrimestre\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A09\_Module 2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+E:\_Cours 106-A09\_Module 2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+E:\_Cours 106-A09\_Module 2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.Cache
+E:\_Cours 106-A09\_Module 2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+E:\_Cours 106-A09\_Module 2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+E:\_Cours 106-A09\_Module 2\AppVentesTrimestre\bin\Debug\OutilsGrilles.dll
+E:\_Cours 106-A09\_Module 2\AppVentesTrimestre\bin\Debug\OutilsGrilles.xml
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppVentesTrimestre v1.0\obj\Debug\AppVentesTrimestre.exe
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppVentesTrimestre v1.0\obj\Debug\AppVentesTrimestre.pdb
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppVentesTrimestre v1.0\obj\Debug\ResolveAssemblyReference.cache
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppVentesTrimestre v1.0\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppVentesTrimestre v1.0\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppVentesTrimestre v1.0\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.Cache
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppVentesTrimestre v1.0\bin\Debug\AppVentesTrimestre.exe
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppVentesTrimestre v1.0\bin\Debug\AppVentesTrimestre.pdb
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppVentesTrimestre v1.0\bin\Debug\OutilsGrilles.dll
+M:\106 A09\5-Tableau 2D Boucles imbriquées\AppVentesTrimestre v1.0\bin\Debug\OutilsGrilles.xml
+M:\106 A09\7-Fichiers\Exercices\7-Exer1 VentesTrimestre SOL v1.0\obj\Debug\AppVentesTrimestre.exe
+M:\106 A09\7-Fichiers\Exercices\7-Exer1 VentesTrimestre SOL v1.0\obj\Debug\AppVentesTrimestre.pdb
+M:\106 A09\7-Fichiers\Exercices\7-Exer1 VentesTrimestre SOL v1.0\bin\Debug\AppVentesTrimestre.exe
+M:\106 A09\7-Fichiers\Exercices\7-Exer1 VentesTrimestre SOL v1.0\bin\Debug\AppVentesTrimestre.pdb
+M:\106 A09\7-Fichiers\Exercices\7-Exer1 VentesTrimestre SOL v1.0\bin\Debug\OutilsGrilles.dll
+M:\106 A09\7-Fichiers\Exercices\7-Exer1 VentesTrimestre SOL v1.0\bin\Debug\OutilsGrilles.xml
+M:\106 A09\7-Fichiers\Exercices\7-Exer1 VentesTrimestre SOL v1.0\obj\Debug\ResolveAssemblyReference.cache
+M:\106 A09\7-Fichiers\Exercices\7-Exer1 VentesTrimestre SOL v1.0\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+M:\106 A09\7-Fichiers\Exercices\7-Exer1 VentesTrimestre SOL v1.0\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+M:\106 A09\7-Fichiers\Exercices\7-Exer1 VentesTrimestre SOL v1.0\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.Cache
+E:\_Grille AppDémos\Pour 106 A10\H10_VA AppVentesTrimestre v0.0\obj\Debug\AppVentesTrimestre.exe
+E:\_Grille AppDémos\Pour 106 A10\H10_VA AppVentesTrimestre v0.0\obj\Debug\AppVentesTrimestre.pdb
+E:\_Grille AppDémos\Pour 106 A10\H10_VA AppVentesTrimestre v0.0\bin\Debug\AppVentesTrimestre.exe
+E:\_Grille AppDémos\Pour 106 A10\H10_VA AppVentesTrimestre v0.0\bin\Debug\AppVentesTrimestre.pdb
+E:\_Grille AppDémos\Pour 106 A10\H10_VA AppVentesTrimestre v0.0\obj\Debug\ResolveAssemblyReference.cache
+E:\_Grille AppDémos\Pour 106 A10\H10_VA AppVentesTrimestre v0.0\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+E:\_Grille AppDémos\Pour 106 A10\H10_VA AppVentesTrimestre v0.0\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+E:\_Grille AppDémos\Pour 106 A10\H10_VA AppVentesTrimestre v0.0\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.Cache
+E:\_Grille AppDémos\Pour 106 A10\H10_VA AppVentesTrimestre v0.0\bin\Debug\VisualArray.dll
+E:\_Grille AppDémos\Pour 106 A10\H10_VA AppVentesTrimestre v0.0\bin\Debug\VisualArray.xml
+F:\TI-CEM v03\1-Presentation\4-VisualDecimalArray\Sol_VentesTrimestre v0.2\obj\Debug\AppVentesTrimestre.exe
+F:\TI-CEM v03\1-Presentation\4-VisualDecimalArray\Sol_VentesTrimestre v0.2\obj\Debug\AppVentesTrimestre.pdb
+F:\TI-CEM v03\1-Presentation\4-VisualDecimalArray\Sol_VentesTrimestre v0.2\obj\Debug\ResolveAssemblyReference.cache
+F:\TI-CEM v03\1-Presentation\4-VisualDecimalArray\Sol_VentesTrimestre v0.2\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+F:\TI-CEM v03\1-Presentation\4-VisualDecimalArray\Sol_VentesTrimestre v0.2\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+F:\TI-CEM v03\1-Presentation\4-VisualDecimalArray\Sol_VentesTrimestre v0.2\obj\Debug\ResGen.read.1.tlog
+F:\TI-CEM v03\1-Presentation\4-VisualDecimalArray\Sol_VentesTrimestre v0.2\obj\Debug\ResGen.write.1.tlog
+F:\TI-CEM v03\1-Presentation\4-VisualDecimalArray\Sol_VentesTrimestre v0.2\bin\Debug\AppVentesTrimestre.exe
+F:\TI-CEM v03\1-Presentation\4-VisualDecimalArray\Sol_VentesTrimestre v0.2\bin\Debug\AppVentesTrimestre.pdb
+F:\TI-CEM v03\1-Presentation\4-VisualDecimalArray\Sol_VentesTrimestre v0.2\bin\Debug\VisualArrays.dll
+F:\TI-CEM v03\1-Presentation\4-VisualDecimalArray\Sol_VentesTrimestre v0.2\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 11 - Kit incomplet\1- Sol_VentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 11 - Kit incomplet\1- Sol_VentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 11 - Kit incomplet\1- Sol_VentesTrimestre\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 11 - Kit incomplet\1- Sol_VentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 11 - Kit incomplet\1- Sol_VentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 11 - Kit incomplet\1- Sol_VentesTrimestre\obj\Debug\ResGen.read.1.tlog
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 11 - Kit incomplet\1- Sol_VentesTrimestre\obj\Debug\ResGen.write.1.tlog
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 11 - Kit incomplet\1- Sol_VentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 11 - Kit incomplet\1- Sol_VentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 11 - Kit incomplet\1- Sol_VentesTrimestre\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 11 - Kit incomplet\1- Sol_VentesTrimestre\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit incomplet\Exer_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit incomplet\Exer_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit incomplet\Exer_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit incomplet\Exer_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit incomplet\Exer_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit incomplet\Exer_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\ResGen.read.1.tlog
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit incomplet\Exer_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\ResGen.write.1.tlog
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit incomplet\Exer_VentesTrimestre 2D\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit incomplet\Exer_VentesTrimestre 2D\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit incomplet\Exer_VentesTrimestre 2D\AppVentesTrimestre\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit incomplet\Exer_VentesTrimestre 2D\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit incomplet\Exem2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit incomplet\Exem2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit complet\Exem2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit complet\Exem2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit complet\Exem2_VentesTrimestre 2D\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit complet\Exem2_VentesTrimestre 2D\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit complet\Exem2_VentesTrimestre 2D\AppVentesTrimestre\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit complet\Exem2_VentesTrimestre 2D\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit complet\Exem2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit complet\Exem2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit complet\Exem2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit complet\Exem2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\ResGen.read.1.tlog
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 12 - Kit complet\Exem2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #14\Exem2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+E:\_Cours 106-A12\Module 2\Rencontre #14\Exem2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #14\Exem2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Module 2\Rencontre #14\Exem2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+E:\_Cours 106-A12\Module 2\Rencontre #14\Exem2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+E:\_Cours 106-A12\Module 2\Rencontre #14\Exem2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\ResGen.read.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #14\Exem2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #14\Exem2_VentesTrimestre 2D\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+E:\_Cours 106-A12\Module 2\Rencontre #14\Exem2_VentesTrimestre 2D\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #14\Exem2_VentesTrimestre 2D\AppVentesTrimestre\bin\Debug\VisualArrays.dll
+E:\_Cours 106-A12\Module 2\Rencontre #14\Exem2_VentesTrimestre 2D\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+E:\_Cours 106-A12\Module 2\Rencontre #14\A12 Ex2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+E:\_Cours 106-A12\Module 2\Rencontre #14\A12 Ex2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #14\A12 Ex2_VentesTrimestre 2D\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+E:\_Cours 106-A12\Module 2\Rencontre #14\A12 Ex2_VentesTrimestre 2D\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #14\A12 Ex2_VentesTrimestre 2D\AppVentesTrimestre\bin\Debug\VisualArrays.dll
+E:\_Cours 106-A12\Module 2\Rencontre #14\A12 Ex2_VentesTrimestre 2D\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+E:\_Cours 106-A12\Module 2\Rencontre #14\A12 Ex2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Module 2\Rencontre #14\A12 Ex2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+E:\_Cours 106-A12\Module 2\Rencontre #14\A12 Ex2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+E:\_Cours 106-A12\Module 2\Rencontre #14\A12 Ex2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\ResGen.read.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #14\A12 Ex2_VentesTrimestre 2D\AppVentesTrimestre\obj\Debug\ResGen.write.1.tlog
+F:\_Mes Cours\420-106 A12\R14\R14 Ex2_VentesTrimestre 2D v1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+F:\_Mes Cours\420-106 A12\R14\R14 Ex2_VentesTrimestre 2D v1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+F:\_Mes Cours\420-106 A12\R14\R14 Ex2_VentesTrimestre 2D v1.0\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+F:\_Mes Cours\420-106 A12\R14\R14 Ex2_VentesTrimestre 2D v1.0\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+F:\_Mes Cours\420-106 A12\R14\R14 Ex2_VentesTrimestre 2D v1.0\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+F:\_Mes Cours\420-106 A12\R14\R14 Ex2_VentesTrimestre 2D v1.0\AppVentesTrimestre\obj\Debug\ResolveAssemblyReference.cache
+F:\_Mes Cours\420-106 A12\R14\R14 Ex2_VentesTrimestre 2D v1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+F:\_Mes Cours\420-106 A12\R14\R14 Ex2_VentesTrimestre 2D v1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+F:\_Mes Cours\420-106 A12\R14\R14 Ex2_VentesTrimestre 2D v1.0\AppVentesTrimestre\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\_Mes Cours\420-106 A12\R14\R14 Ex2_VentesTrimestre 2D v1.0\AppVentesTrimestre\obj\Debug\ResGen.read.1.tlog
+F:\_Mes Cours\420-106 A12\R14\R14 Ex2_VentesTrimestre 2D v1.0\AppVentesTrimestre\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\_Mes Cours\420-106 A12\R14\R14 Ex2_VentesTrimestre 2D v1.0\AppVentesTrimestre\obj\Debug\ResGen.write.1.tlog
+K:\_Mes Cours\420-106 A12\R14\R14 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+K:\_Mes Cours\420-106 A12\R14\R14 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+G:\__Cours\420-116 A13\Module 2\R16\R14 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+G:\__Cours\420-116 A13\Module 2\R16\R14 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+G:\__Cours\420-116 A13\Module 2\R16\R14 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+G:\__Cours\420-116 A13\Module 2\R16\R14 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+G:\__Cours\420-116 A13\Module 2\R16\R14 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A13\Module 2\R16\R14 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A13\Module 2\R16\R14 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+G:\__Cours\420-116 A13\Module 2\R16\R14 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+G:\__Cours\420-116 A13\Module 2\R16\R14 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A13\Module 2\R16\R16 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+G:\__Cours\420-116 A13\Module 2\R16\R16 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+G:\__Cours\420-116 A13\Module 2\R16\R16 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+G:\__Cours\420-116 A13\Module 2\R16\R16 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+G:\__Cours\420-116 A13\Module 2\R16\R16 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A13\Module 2\R16\R16 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A13\Module 2\R16\R16 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+G:\__Cours\420-116 A13\Module 2\R16\R16 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+G:\__Cours\420-116 A13\Module 2\R16\R16 Ex2_VentesTrimestre 2D v1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A13\Module 2\R16\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+G:\__Cours\420-116 A13\Module 2\R16\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+G:\__Cours\420-116 A13\Module 2\R16\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+G:\__Cours\420-116 A13\Module 2\R16\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+G:\__Cours\420-116 A13\Module 2\R16\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A13\Module 2\R16\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A13\Module 2\R16\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+G:\__Cours\420-116 A13\Module 2\R16\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+G:\__Cours\420-116 A13\Module 2\R16\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A13\Module 2\R16 Méthode paramètre\R16 Exercices 0-3(Solutions)\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+E:\__Cours\420-116 A13\Module 2\R16 Méthode paramètre\R16 Exercices 0-3(Solutions)\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+G:\__Cours\420-116 A13\Module 2\R16 Méthode paramètre\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+G:\__Cours\420-116 A13\Module 2\R16 Méthode paramètre\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+G:\__Cours\420-116 A13\Module 2\R16 Méthode paramètre\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+G:\__Cours\420-116 A13\Module 2\R16 Méthode paramètre\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+G:\__Cours\420-116 A13\Module 2\R16 Méthode paramètre\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A13\Module 2\R16 Méthode paramètre\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A13\Module 2\R16 Méthode paramètre\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+G:\__Cours\420-116 A13\Module 2\R16 Méthode paramètre\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+G:\__Cours\420-116 A13\Module 2\R16 Méthode paramètre\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A14\420-116 A13(final)\Module 2\R16 Méthode paramètre\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+G:\__Cours\420-116 A14\420-116 A13(final)\Module 2\R16 Méthode paramètre\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+E:\__Cours\420-116 A14\Module 2\R16- Méthode paramètre\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+E:\__Cours\420-116 A14\Module 2\R16- Méthode paramètre\R16 Ex2_VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+G:\__Cours\420-116 A14\Module 2\R16- While-do while-Méthode param\R16 Ex2 VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+G:\__Cours\420-116 A14\Module 2\R16- While-do while-Méthode param\R16 Ex2 VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+G:\__Cours\420-116 A14\Module 2\R16- While-do while-Méthode param\R16 Ex2 VentesTrimestre 2D v1.2\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+G:\__Cours\420-116 A14\Module 2\R16- While-do while-Méthode param\R16 Ex2 VentesTrimestre 2D v1.2\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+G:\__Cours\420-116 A14\Module 2\R16- While-do while-Méthode param\R16 Ex2 VentesTrimestre 2D v1.2\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A14\Module 2\R16- While-do while-Méthode param\R16 Ex2 VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A14\Module 2\R16- While-do while-Méthode param\R16 Ex2 VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+G:\__Cours\420-116 A14\Module 2\R16- While-do while-Méthode param\R16 Ex2 VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+G:\__Cours\420-116 A14\Module 2\R16- While-do while-Méthode param\R16 Ex2 VentesTrimestre 2D v1.2\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.Cache
+F:\_Cours 116-A14\R16 Parametres (Theorie)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+F:\_Cours 116-A14\R16 Parametres (Theorie)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+E:\__Cours\420-116 A14\Module 2\R16\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+E:\__Cours\420-116 A14\Module 2\R16\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+G:\_420-116 A15\Module 2\R16 - Méthode param while do while\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+G:\_420-116 A15\Module 2\R16 - Méthode param while do while\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+E:\_420-116 A15\Module 2\R16 - Méthode param while do while\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+E:\_420-116 A15\Module 2\R16 - Méthode param while do while\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+E:\_420-116 A15\Module 2\R16 - Méthode param while do while\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+E:\_420-116 A15\Module 2\R16 - Méthode param while do while\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+E:\_420-116 A15\Module 2\R16 - Méthode param while do while\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+E:\_420-116 A15\Module 2\R16 - Méthode param while do while\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csprojResolveAssemblyReference.cache
+E:\_420-116 A15\Module 2\R16 - Méthode param while do while\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+E:\_420-116 A15\Module 2\R16 - Méthode param while do while\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+E:\_420-116 A15\Module 2\R16 - Méthode param while do while\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.Cache
+C:\Espace Labo\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+C:\Espace Labo\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+C:\Espace Labo\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+C:\Espace Labo\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+C:\Espace Labo\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+C:\Espace Labo\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csprojResolveAssemblyReference.cache
+C:\Espace Labo\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+C:\Espace Labo\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+C:\Espace Labo\R16 Exercice 1 à 6 (Solutions)\R16 Ex2 VentesTrimestre 2D (Solution) v14.1.0\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.Cache
+E:\_420-116 A16\Module 2\R17 - Méthode param while do while\R16 Exercice 1 à 6 (Solutions)V15.1\R16 Ex2 VentesTrimestre 2D (Solution) v15.1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+E:\_420-116 A16\Module 2\R17 - Méthode param while do while\R16 Exercice 1 à 6 (Solutions)V15.1\R16 Ex2 VentesTrimestre 2D (Solution) v15.1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+H:\_Cours 116 A17\A17 R14 Param while et do while (À REVOIR)\R14 Exercice 1 à 6 (Solutions)V16.1\R14 Ex2 VentesTrimestre 2D (Solution) v15.1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+H:\_Cours 116 A17\A17 R14 Param while et do while (À REVOIR)\R14 Exercice 1 à 6 (Solutions)V16.1\R14 Ex2 VentesTrimestre 2D (Solution) v15.1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+I:\_Cours 116 A17\A17 R14 Param while et do while (À REVOIR)\R14 Exercice 1 à 6 (Solutions)V16.1\R14 Ex2 VentesTrimestre 2D (Solution) v15.1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+I:\_Cours 116 A17\A17 R14 Param while et do while (À REVOIR)\R14 Exercice 1 à 6 (Solutions)V16.1\R14 Ex2 VentesTrimestre 2D (Solution) v15.1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+C:\EspaceLabo\R13 Exercice 1 à 6 (Solution) v.17.1.0\R13 Ex2 VentesTrimestre 2D (Solution) v15.1.1\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+C:\EspaceLabo\R13 Exercice 1 à 6 (Solution) v.17.1.0\R13 Ex2 VentesTrimestre 2D (Solution) v15.1.1\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+C:\EspaceLabo\R13 Exercice 1 à 6 (Solution) v.17.1.0\R13 Ex2 VentesTrimestre 2D (Solution) v15.1.1\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+C:\EspaceLabo\R13 Exercice 1 à 6 (Solution) v.17.1.0\R13 Ex2 VentesTrimestre 2D (Solution) v15.1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csprojAssemblyReference.cache
+C:\EspaceLabo\R13 Exercice 1 à 6 (Solution) v.17.1.0\R13 Ex2 VentesTrimestre 2D (Solution) v15.1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+C:\EspaceLabo\R13 Exercice 1 à 6 (Solution) v.17.1.0\R13 Ex2 VentesTrimestre 2D (Solution) v15.1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+C:\EspaceLabo\R13 Exercice 1 à 6 (Solution) v.17.1.0\R13 Ex2 VentesTrimestre 2D (Solution) v15.1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.cache
+C:\EspaceLabo\R13 Exercice 1 à 6 (Solution) v.17.1.0\R13 Ex2 VentesTrimestre 2D (Solution) v15.1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\R13 Exercice 1 à 6 (Solution) v.17.1.0\R13 Ex2 VentesTrimestre 2D (Solution) v15.1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.CopyComplete
+C:\EspaceLabo\R13 Exercice 1 à 6 (Solution) v.17.1.0\R13 Ex2 VentesTrimestre 2D (Solution) v15.1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+C:\EspaceLabo\R13 Exercice 1 à 6 (Solution) v.17.1.0\R13 Ex2 VentesTrimestre 2D (Solution) v15.1.1\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+J:\A20 1N6 Les Capsules\R13 Tableau 2D et boucles imbriquées\_Code C#\R13 Adressage 2D (Solution) v20.1.0\Exer3- Adressage 2D avec VDA\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+J:\A20 1N6 Les Capsules\R13 Tableau 2D et boucles imbriquées\_Code C#\R13 Adressage 2D (Solution) v20.1.0\Exer3- Adressage 2D avec VDA\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+J:\A20 1N6 Les Capsules\R13 Tableau 2D et boucles imbriquées\_Code C#\R13 Adressage 2D (Solution) v20.1.0\Exer3- Adressage 2D avec VDA\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R13 Tableau 2D et boucles imbriquées\_Code C#\R13 Adressage 2D (Solution) v20.1.0\Exer3- Adressage 2D avec VDA\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R13 Tableau 2D et boucles imbriquées\_Code C#\R13 Adressage 2D (Solution) v20.1.0\Exer3- Adressage 2D avec VDA\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R13 Tableau 2D et boucles imbriquées\_Code C#\R13 Adressage 2D (Solution) v20.1.0\Exer3- Adressage 2D avec VDA\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R13 Tableau 2D et boucles imbriquées\_Code C#\R13 Adressage 2D (Solution) v20.1.0\Exer3- Adressage 2D avec VDA\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R13 Tableau 2D et boucles imbriquées\_Code C#\R13 Adressage 2D (Solution) v20.1.0\Exer3- Adressage 2D avec VDA\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R13 Tableau 2D et boucles imbriquées\_Code C#\R13 Adressage 2D (Solution) v20.1.0\Exer3- Adressage 2D avec VDA\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R13 Tableau 2D et boucles imbriquées\_Code C#\R13 Adressage 2D (Solution) v20.1.0\Exer3- Adressage 2D avec VDA\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+J:\A20 1N6 Les Capsules\R13 Tableau 2D et boucles imbriquées\_Code C#\R13 Adressage 2D (Solution) v20.1.0\Exer3- Adressage 2D avec VDA\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+J:\A20 1N6 Les Capsules\R13 Tableau 2D et boucles imbriquées\_Code C#\R13 Adressage 2D (Solution) v20.1.0\Exer3- Adressage 2D avec VDA\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe.config
+H:\_Cours 1N6 A20\R16 Valeur de retour (NON)\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe.config
+H:\_Cours 1N6 A20\R16 Valeur de retour (NON)\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+H:\_Cours 1N6 A20\R16 Valeur de retour (NON)\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+H:\_Cours 1N6 A20\R16 Valeur de retour (NON)\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+H:\_Cours 1N6 A20\R16 Valeur de retour (NON)\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csprojAssemblyReference.cache
+H:\_Cours 1N6 A20\R16 Valeur de retour (NON)\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+H:\_Cours 1N6 A20\R16 Valeur de retour (NON)\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+H:\_Cours 1N6 A20\R16 Valeur de retour (NON)\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.cache
+H:\_Cours 1N6 A20\R16 Valeur de retour (NON)\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.CoreCompileInputs.cache
+H:\_Cours 1N6 A20\R16 Valeur de retour (NON)\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.CopyComplete
+H:\_Cours 1N6 A20\R16 Valeur de retour (NON)\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+H:\_Cours 1N6 A20\R16 Valeur de retour (NON)\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe.config
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C4- Adressage 2D avec VDA v20.0.5\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe.config
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe.config
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.exe
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\bin\Debug\AppVentesTrimestre.pdb
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\bin\Debug\VisualArrays.xml
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.exe
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer4- VentesTrimestrielles retour (Départ)\AppVentesTrimestre\obj\Debug\AppVentesTrimestre.pdb

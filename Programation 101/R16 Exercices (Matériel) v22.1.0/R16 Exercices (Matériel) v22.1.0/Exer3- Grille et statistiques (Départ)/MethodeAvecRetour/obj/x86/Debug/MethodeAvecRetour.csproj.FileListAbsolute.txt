@@ -1,0 +1,211 @@
+E:\_Cours 106-A12\Module 2\Rencontre #18\MethodeAvecRetour\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe
+E:\_Cours 106-A12\Module 2\Rencontre #18\MethodeAvecRetour\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #18\MethodeAvecRetour\MethodeAvecRetour\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Module 2\Rencontre #18\MethodeAvecRetour\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.Properties.Resources.resources
+E:\_Cours 106-A12\Module 2\Rencontre #18\MethodeAvecRetour\MethodeAvecRetour\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #18\MethodeAvecRetour\MethodeAvecRetour\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #18\MethodeAvecRetour\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+E:\_Cours 106-A12\Module 2\Rencontre #18\MethodeAvecRetour\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #18\MethodeAvecRetour\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.FrmPrincipal.resources
+E:\_Cours 106-A12\Module 2\Rencontre #18\MethodeAvecRetour\MethodeAvecRetour\bin\Debug\VisualArrays.dll
+E:\_Cours 106-A12\Module 2\Rencontre #18\MethodeAvecRetour\MethodeAvecRetour\bin\Debug\VisualArrays.xml
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.3 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.3 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.3 SD\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.3 SD\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.3 SD\MethodeAvecRetour\bin\Debug\VisualArrays.dll
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.3 SD\MethodeAvecRetour\bin\Debug\VisualArrays.xml
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.3 SD\MethodeAvecRetour\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.3 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.FrmPrincipal.resources
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.3 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.Properties.Resources.resources
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.3 SD\MethodeAvecRetour\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.3 SD\MethodeAvecRetour\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.9 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.9 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.9 SD\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.9 SD\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.9 SD\MethodeAvecRetour\bin\Debug\VisualArrays.dll
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.9 SD\MethodeAvecRetour\bin\Debug\VisualArrays.xml
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.9 SD\MethodeAvecRetour\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.9 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.FrmPrincipal.resources
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.9 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.Properties.Resources.resources
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.9 SD\MethodeAvecRetour\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v0.9 SD\MethodeAvecRetour\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v1.0 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v1.0 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v1.0 SD\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v1.0 SD\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v1.0 SD\MethodeAvecRetour\bin\Debug\VisualArrays.dll
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v1.0 SD\MethodeAvecRetour\bin\Debug\VisualArrays.xml
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v1.0 SD\MethodeAvecRetour\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v1.0 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.FrmPrincipal.resources
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v1.0 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.Properties.Resources.resources
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v1.0 SD\MethodeAvecRetour\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #18\R18 MethodeAvecRetour v1.0 SD\MethodeAvecRetour\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.pdb
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\bin\Debug\VisualArrays.xml
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.FrmPrincipal.resources
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.Properties.Resources.resources
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+K:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+K:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe
+K:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.pdb
+K:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\bin\Debug\VisualArrays.xml
+K:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.FrmPrincipal.resources
+K:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.Properties.Resources.resources
+K:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.1 SD\MethodeAvecRetour\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.2 PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.2 PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.2 PC\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.2 PC\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.pdb
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.2 PC\MethodeAvecRetour\bin\Debug\VisualArrays.xml
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.2 PC\MethodeAvecRetour\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.2 PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.FrmPrincipal.resources
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.2 PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.Properties.Resources.resources
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.2 PC\MethodeAvecRetour\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Mes Cours\420-106 A12\R18 méthodes avec return\R18 MethodeAvecRetour v1.2 PC\MethodeAvecRetour\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\__Cours\420-116 A13\Module 2\A12 R18 méthodes avec return\R18 MethodeAvecRetour v1.2.1PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+G:\__Cours\420-116 A13\Module 2\A12 R18 méthodes avec return\R18 MethodeAvecRetour v1.2.1PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+G:\__Cours\420-116 A13\Module 2\A12 R18 méthodes avec return\R18 MethodeAvecRetour v1.2.1PC\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe
+G:\__Cours\420-116 A13\Module 2\A12 R18 méthodes avec return\R18 MethodeAvecRetour v1.2.1PC\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.pdb
+G:\__Cours\420-116 A13\Module 2\A12 R18 méthodes avec return\R18 MethodeAvecRetour v1.2.1PC\MethodeAvecRetour\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A13\Module 2\A12 R18 méthodes avec return\R18 MethodeAvecRetour v1.2.1PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A13\Module 2\A12 R18 méthodes avec return\R18 MethodeAvecRetour v1.2.1PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.FrmPrincipal.resources
+G:\__Cours\420-116 A13\Module 2\A12 R18 méthodes avec return\R18 MethodeAvecRetour v1.2.1PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.Properties.Resources.resources
+G:\__Cours\420-116 A13\Module 2\A12 R18 méthodes avec return\R18 MethodeAvecRetour v1.2.1PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.GenerateResource.Cache
+F:\__Cours\420-116 A13\Module 2\R20 méthodes avec return\R18 MethodeAvecRetour v1.2.1PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+F:\__Cours\420-116 A13\Module 2\R20 méthodes avec return\R18 MethodeAvecRetour v1.2.1PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+F:\__Cours\420-116 A13\Module 2\R20 méthodes avec return\R18 MethodeAvecRetour v1.2.1PC\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe
+F:\__Cours\420-116 A13\Module 2\R20 méthodes avec return\R18 MethodeAvecRetour v1.2.1PC\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.pdb
+F:\__Cours\420-116 A13\Module 2\R20 méthodes avec return\R18 MethodeAvecRetour v1.2.1PC\MethodeAvecRetour\bin\Debug\VisualArrays.xml
+F:\__Cours\420-116 A13\Module 2\R20 méthodes avec return\R18 MethodeAvecRetour v1.2.1PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csprojResolveAssemblyReference.cache
+F:\__Cours\420-116 A13\Module 2\R20 méthodes avec return\R18 MethodeAvecRetour v1.2.1PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.FrmPrincipal.resources
+F:\__Cours\420-116 A13\Module 2\R20 méthodes avec return\R18 MethodeAvecRetour v1.2.1PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.Properties.Resources.resources
+F:\__Cours\420-116 A13\Module 2\R20 méthodes avec return\R18 MethodeAvecRetour v1.2.1PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A14\420-116 A13(final)\Module 2\R20 méthodes avec return\R20 MethodeAvecRetour (Sol) v1.2.2PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+G:\__Cours\420-116 A14\420-116 A13(final)\Module 2\R20 méthodes avec return\R20 MethodeAvecRetour (Sol) v1.2.2PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R20 MethodeAvecRetour (Sol) v1.2.2PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R20 MethodeAvecRetour (Sol) v1.2.2PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R20 MethodeAvecRetour (Sol) v1.2.2PC\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R20 MethodeAvecRetour (Sol) v1.2.2PC\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.pdb
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R20 MethodeAvecRetour (Sol) v1.2.2PC\MethodeAvecRetour\bin\Debug\VisualArrays.xml
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R20 MethodeAvecRetour (Sol) v1.2.2PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R20 MethodeAvecRetour (Sol) v1.2.2PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.FrmPrincipal.resources
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R20 MethodeAvecRetour (Sol) v1.2.2PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.Properties.Resources.resources
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R20 MethodeAvecRetour (Sol) v1.2.2PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\Ex1 MethodeAvecRetour (Solution) v1.2.2PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\Ex1 MethodeAvecRetour (Solution) v1.2.2PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\Ex1 MethodeAvecRetour (Solution) v1.2.2PC\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\Ex1 MethodeAvecRetour (Solution) v1.2.2PC\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.pdb
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\Ex1 MethodeAvecRetour (Solution) v1.2.2PC\MethodeAvecRetour\bin\Debug\VisualArrays.xml
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\Ex1 MethodeAvecRetour (Solution) v1.2.2PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\Ex1 MethodeAvecRetour (Solution) v1.2.2PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.FrmPrincipal.resources
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\Ex1 MethodeAvecRetour (Solution) v1.2.2PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.Properties.Resources.resources
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\Ex1 MethodeAvecRetour (Solution) v1.2.2PC\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+G:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+G:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe
+G:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.pdb
+G:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0\MethodeAvecRetour\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.FrmPrincipal.resources
+G:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.Properties.Resources.resources
+G:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.1\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.1\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.pdb
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\bin\Debug\VisualArrays.xml
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.FrmPrincipal.resources
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.Properties.Resources.resources
+E:\__Cours\420-116 A14\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.GenerateResource.Cache
+I:\_420-116 A15\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+I:\_420-116 A15\Module 2\R18- Methode param val de retour\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+I:\_420-116 A15\Module 2\R18- Methode param val de retour\R18 Ex1 à 4 (Solution) V15.1\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+I:\_420-116 A15\Module 2\R18- Methode param val de retour\R18 Ex1 à 4 (Solution) V15.1\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+E:\_420-116 A15\Module 2\R18- Methode param val de retour\R18 Ex1 à 4 (Solution) V15.1\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+E:\_420-116 A15\Module 2\R18- Methode param val de retour\R18 Ex1 à 4 (Solution) V15.1\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+E:\_420-116 A16\Module 2\R19- Methode param val de retour\R19 Ex1 à 4 (Solution) V15.1\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+E:\_420-116 A16\Module 2\R19- Methode param val de retour\R19 Ex1 à 4 (Solution) V15.1\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+E:\_420-116 A16\Module 2\R19- Methode param val de retour\R19 Ex1 à 4 (Solution) V15.1\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe
+E:\_420-116 A16\Module 2\R19- Methode param val de retour\R19 Ex1 à 4 (Solution) V15.1\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.pdb
+E:\_420-116 A16\Module 2\R19- Methode param val de retour\R19 Ex1 à 4 (Solution) V15.1\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\bin\Debug\VisualArrays.xml
+E:\_420-116 A16\Module 2\R19- Methode param val de retour\R19 Ex1 à 4 (Solution) V15.1\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csprojResolveAssemblyReference.cache
+E:\_420-116 A16\Module 2\R19- Methode param val de retour\R19 Ex1 à 4 (Solution) V15.1\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.FrmPrincipal.resources
+E:\_420-116 A16\Module 2\R19- Methode param val de retour\R19 Ex1 à 4 (Solution) V15.1\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.Properties.Resources.resources
+E:\_420-116 A16\Module 2\R19- Methode param val de retour\R19 Ex1 à 4 (Solution) V15.1\R18 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.GenerateResource.Cache
+E:\_Cours 116 A16\R19 Valeur de retour (Theorie)\R19 Ex1 à 4 (Solution) V16.1\R19 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+E:\_Cours 116 A16\R19 Valeur de retour (Theorie)\R19 Ex1 à 4 (Solution) V16.1\R19 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+I:\_Cours 116 A17\A17 R16 Valeur de retour (Theorie)\R16 Ex1 à 4 (Solution) V16.1\R19 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+I:\_Cours 116 A17\A17 R16 Valeur de retour (Theorie)\R16 Ex1 à 4 (Solution) V16.1\R19 Ex1 MethodeAvecRetour (Solution) v14.1.0.2\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C3 MethodeAvecRetour\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe.config
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C3 MethodeAvecRetour\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C3 MethodeAvecRetour\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.pdb
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C3 MethodeAvecRetour\MethodeAvecRetour\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C3 MethodeAvecRetour\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C3 MethodeAvecRetour\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C3 MethodeAvecRetour\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C3 MethodeAvecRetour\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C3 MethodeAvecRetour\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C3 MethodeAvecRetour\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C3 MethodeAvecRetour\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution)\C3 MethodeAvecRetour\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution) v20.0.8\Exer3- Grille et statistiques\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution) v20.0.8\Exer3- Grille et statistiques\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution) v20.0.8\Exer3- Grille et statistiques\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution) v20.0.8\Exer3- Grille et statistiques\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution) v20.0.8\Exer3- Grille et statistiques\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution) v20.0.8\Exer3- Grille et statistiques\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution) v20.0.8\Exer3- Grille et statistiques\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution) v20.0.8\Exer3- Grille et statistiques\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe.config
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution) v20.0.8\Exer3- Grille et statistiques\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution) v20.0.8\Exer3- Grille et statistiques\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.pdb
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution) v20.0.8\Exer3- Grille et statistiques\MethodeAvecRetour\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Solution) v20.0.8\Exer3- Grille et statistiques\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe.config
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.pdb
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+J:\A20 1N6 Les Capsules\R16 Méthode avec retour\_Code C#\R16 Exercices (Matériel) v20.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe.config
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.pdb
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\bin\Debug\VisualArrays.xml
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+C:\Users\stephane.desmeules\Downloads\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
+C:\Users\2132903\Desktop\R16 Exercices (Matériel) v22.1.0\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe.config
+C:\Users\2132903\Desktop\R16 Exercices (Matériel) v22.1.0\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.exe
+C:\Users\2132903\Desktop\R16 Exercices (Matériel) v22.1.0\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\bin\Debug\MethodeAvecRetour.pdb
+C:\Users\2132903\Desktop\R16 Exercices (Matériel) v22.1.0\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\bin\Debug\VisualArrays.xml
+C:\Users\2132903\Desktop\R16 Exercices (Matériel) v22.1.0\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.AssemblyReference.cache
+C:\Users\2132903\Desktop\R16 Exercices (Matériel) v22.1.0\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.FrmPrincipal.resources
+C:\Users\2132903\Desktop\R16 Exercices (Matériel) v22.1.0\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.Properties.Resources.resources
+C:\Users\2132903\Desktop\R16 Exercices (Matériel) v22.1.0\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.GenerateResource.cache
+C:\Users\2132903\Desktop\R16 Exercices (Matériel) v22.1.0\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Desktop\R16 Exercices (Matériel) v22.1.0\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.csproj.CopyComplete
+C:\Users\2132903\Desktop\R16 Exercices (Matériel) v22.1.0\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.exe
+C:\Users\2132903\Desktop\R16 Exercices (Matériel) v22.1.0\R16 Exercices (Matériel) v22.1.0\Exer3- Grille et statistiques (Départ)\MethodeAvecRetour\obj\x86\Debug\MethodeAvecRetour.pdb
