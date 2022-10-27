@@ -1,0 +1,40 @@
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\bin\Debug\CorrecteurBingo.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\bin\Debug\CorrecteurBingo.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\bin\Debug\AppBingo.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\bin\Debug\AppBingo.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\bin\Debug\AppBingo.exe.config
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\obj\Debug\CorrecteurBingo.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\obj\Debug\CorrecteurBingo.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\obj\Debug\CorrecteurBingo.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\obj\Debug\CorrecteurBingo.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Solution) v20.2.1\CorrecteurBingo\obj\Debug\CorrecteurBingo.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\obj\Debug\CorrecteurBingo.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\obj\Debug\CorrecteurBingo.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\obj\Debug\CorrecteurBingo.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\obj\Debug\CorrecteurBingo.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\bin\Debug\CorrecteurBingo.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\bin\Debug\CorrecteurBingo.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\bin\Debug\AppBingo.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\bin\Debug\AppBingo.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\bin\Debug\AppBingo.exe.config
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\CorrecteurBingo\obj\Debug\CorrecteurBingo.csproj.CopyComplete

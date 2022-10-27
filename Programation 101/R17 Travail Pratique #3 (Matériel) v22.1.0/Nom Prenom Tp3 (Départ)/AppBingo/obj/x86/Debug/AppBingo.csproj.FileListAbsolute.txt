@@ -1,0 +1,523 @@
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo\AppBingo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo\AppBingo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo\AppBingo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo\AppBingo\bin\Debug\AppBingo.exe.config
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo\AppBingo\bin\Debug\AppBingo.exe
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo\AppBingo\bin\Debug\AppBingo.pdb
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo\AppBingo\bin\Debug\VisualArrays.dll
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo\AppBingo\bin\Debug\VisualArrays.xml
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo\AppBingo\obj\x86\Debug\AppBingo.exe
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo\AppBingo\obj\x86\Debug\AppBingo.pdb
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo (Segment Sprite)\AppBingo\bin\Debug\AppBingo.exe.config
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo (Segment Sprite)\AppBingo\obj\x86\Debug\AppBingo.exe
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo (Segment Sprite)\AppBingo\obj\x86\Debug\AppBingo.pdb
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo (Segment Sprite)\AppBingo\bin\Debug\AppBingo.exe
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo (Segment Sprite)\AppBingo\bin\Debug\AppBingo.pdb
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo (Segment Sprite)\AppBingo\bin\Debug\VisualArrays.dll
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo (Segment Sprite)\AppBingo\bin\Debug\VisualArrays.xml
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo (Segment Sprite)\AppBingo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo (Segment Sprite)\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo (Segment Sprite)\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo (Segment Sprite)\AppBingo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_VisualArrayStuff\_AUTOMNE 2011 v005\AppBingo (Segment Sprite)\AppBingo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppBingo (Segment Sprite)\AppBingo\bin\Debug\AppBingo.exe.config
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppBingo (Segment Sprite)\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppBingo (Segment Sprite)\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppBingo (Segment Sprite)\AppBingo\bin\Debug\AppBingo.exe
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppBingo (Segment Sprite)\AppBingo\bin\Debug\AppBingo.pdb
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppBingo (Segment Sprite)\AppBingo\bin\Debug\VisualArrays.dll
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppBingo (Segment Sprite)\AppBingo\bin\Debug\VisualArrays.xml
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppBingo (Segment Sprite)\AppBingo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppBingo (Segment Sprite)\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppBingo (Segment Sprite)\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppBingo (Segment Sprite)\AppBingo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppBingo (Segment Sprite)\AppBingo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppBingo V2 (Segment Sprite)\AppBingo\bin\Debug\AppBingo.exe.config
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppBingo V2 (Segment Sprite)\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\_VisualArrayStuff\_AUTOMNE 2011 v006\AppBingo V2 (Segment Sprite)\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\Solution Tp6\AppBingo\bin\Debug\AppBingo.exe.config
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\Solution Tp6\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\Solution Tp6\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\Solution Tp6\AppBingo\bin\Debug\AppBingo.exe
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\Solution Tp6\AppBingo\bin\Debug\AppBingo.pdb
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\Solution Tp6\AppBingo\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\Solution Tp6\AppBingo\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\Solution Tp6\AppBingo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\Solution Tp6\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\Solution Tp6\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\Solution Tp6\AppBingo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\Solution Tp6\AppBingo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Depart\AppBingo\bin\Debug\AppBingo.exe.config
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Depart\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Depart\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Depart\AppBingo\bin\Debug\AppBingo.exe
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Depart\AppBingo\bin\Debug\AppBingo.pdb
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Depart\AppBingo\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Depart\AppBingo\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Depart\AppBingo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Depart\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Depart\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Depart\AppBingo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Depart\AppBingo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Solution\AppBingo\bin\Debug\AppBingo.exe.config
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Solution\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Solution\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Solution\AppBingo\bin\Debug\AppBingo.exe
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Solution\AppBingo\bin\Debug\AppBingo.pdb
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Solution\AppBingo\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Solution\AppBingo\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Solution\AppBingo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Solution\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Solution\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Solution\AppBingo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit incomplet\A11 Tp6 Solution\AppBingo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit complet\A11 Tp6 Solution\AppBingo\bin\Debug\AppBingo.exe.config
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit complet\A11 Tp6 Solution\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\_Cours CEB-A11\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit complet\A11 Tp6 Solution\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\_Cours CEB-A12\_Cours CEB-H12\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit complet\A11 Tp6 Solution\AppBingo\bin\Debug\AppBingo.exe.config
+E:\_Cours CEB-A12\_Cours CEB-H12\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit complet\A11 Tp6 Solution\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\_Cours CEB-A12\_Cours CEB-H12\_Module 2 (Sem 08 a 15)\Semaine 13 - Kit complet\A11 Tp6 Solution\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\_Cours 106-A12\_Stock Stephane\A12 Tp6 JeuBingo\AppBingo\bin\Debug\AppBingo.exe.config
+E:\_Cours 106-A12\_Stock Stephane\A12 Tp6 JeuBingo\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\_Cours 106-A12\_Stock Stephane\A12 Tp6 JeuBingo\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\_Cours 106-A12\_Stock Stephane\A12 Tp6 JeuBingo\AppBingo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\_Stock Stephane\A12 Tp6 JeuBingo\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+E:\_Cours 106-A12\_Stock Stephane\A12 Tp6 JeuBingo\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+E:\_Cours 106-A12\_Stock Stephane\A12 Tp6 JeuBingo\AppBingo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\_Stock Stephane\A12 Tp6 JeuBingo\AppBingo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours 106-A12\_Stock Stephane\A12 Tp6 JeuBingo\AppBingo\bin\Debug\AppBingo.exe
+E:\_Cours 106-A12\_Stock Stephane\A12 Tp6 JeuBingo\AppBingo\bin\Debug\AppBingo.pdb
+E:\_Cours 106-A12\_Stock Stephane\A12 Tp6 JeuBingo\AppBingo\bin\Debug\VisualArrays.dll
+E:\_Cours 106-A12\_Stock Stephane\A12 Tp6 JeuBingo\AppBingo\bin\Debug\VisualArrays.xml
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.1\AppBingo\bin\Debug\AppBingo.exe.config
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.1\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.1\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.1\AppBingo\bin\Debug\AppBingo.exe
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.1\AppBingo\bin\Debug\AppBingo.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.1\AppBingo\bin\Debug\VisualArrays.xml
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.1\AppBingo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.1\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.1\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.1\AppBingo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.1\AppBingo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.2\AppBingo\bin\Debug\AppBingo.exe.config
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.2\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.2\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.2\AppBingo\bin\Debug\AppBingo.exe
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.2\AppBingo\bin\Debug\AppBingo.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.2\AppBingo\bin\Debug\VisualArrays.xml
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.2\AppBingo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.2\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.2\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.2\AppBingo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.2\AppBingo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.3\AppBingo\bin\Debug\AppBingo.exe.config
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.3\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.3\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.3\AppBingo\bin\Debug\AppBingo.exe
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.3\AppBingo\bin\Debug\AppBingo.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.3\AppBingo\bin\Debug\VisualArrays.xml
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.3\AppBingo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.3\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.3\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.3\AppBingo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.3\AppBingo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.4\AppBingo\bin\Debug\AppBingo.exe.config
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.4\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.4\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.4\AppBingo\bin\Debug\AppBingo.exe
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.4\AppBingo\bin\Debug\AppBingo.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.4\AppBingo\bin\Debug\VisualArrays.xml
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.4\AppBingo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.4\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.4\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.4\AppBingo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.4\AppBingo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.5\AppBingo\bin\Debug\AppBingo.exe.config
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.5\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\_Cours 106-A12\Module 2\Rencontre #17\A12 Tp6 JeuBingo v1.5\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\_Mes Cours\420-106 A12\TP\A12 Tp6 Kit Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 SD\AppBingo\bin\Debug\AppBingo.exe.config
+E:\_Mes Cours\420-106 A12\TP\A12 Tp6 Kit Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 SD\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\_Mes Cours\420-106 A12\TP\A12 Tp6 Kit Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 SD\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\__Cours\420-106 A12\TP\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC Correcteur\AppBingo\bin\Debug\AppBingo.exe.config
+E:\__Cours\420-106 A12\TP\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC Correcteur\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\__Cours\420-106 A12\TP\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC Correcteur\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\__Cours\420-106 A12\TP\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC Correcteur\AppBingo\bin\Debug\AppBingo.exe
+E:\__Cours\420-106 A12\TP\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC Correcteur\AppBingo\bin\Debug\AppBingo.pdb
+E:\__Cours\420-106 A12\TP\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC Correcteur\AppBingo\bin\Debug\VisualArrays.dll
+E:\__Cours\420-106 A12\TP\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC Correcteur\AppBingo\bin\Debug\VisualArrays.xml
+E:\__Cours\420-106 A12\TP\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC Correcteur\AppBingo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\__Cours\420-106 A12\TP\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC Correcteur\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+E:\__Cours\420-106 A12\TP\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC Correcteur\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+E:\__Cours\420-106 A12\TP\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC Correcteur\AppBingo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\__Cours\420-106 A12\TP\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC Correcteur\AppBingo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\EspaceLabo\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\bin\Debug\AppBingo.exe.config
+C:\EspaceLabo\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\obj\x86\Debug\AppBingo.exe
+C:\EspaceLabo\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\obj\x86\Debug\AppBingo.pdb
+C:\EspaceLabo\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\bin\Debug\AppBingo.exe
+C:\EspaceLabo\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\bin\Debug\AppBingo.pdb
+C:\EspaceLabo\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\bin\Debug\VisualArrays.dll
+C:\EspaceLabo\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\bin\Debug\VisualArrays.xml
+C:\EspaceLabo\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\EspaceLabo\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+C:\EspaceLabo\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+C:\EspaceLabo\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\EspaceLabo\A12 Tp6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paul\Desktop\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\bin\Debug\AppBingo.exe.config
+C:\Users\Paul\Desktop\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\obj\x86\Debug\AppBingo.exe
+C:\Users\Paul\Desktop\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\obj\x86\Debug\AppBingo.pdb
+C:\Users\Paul\Desktop\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\bin\Debug\AppBingo.exe
+C:\Users\Paul\Desktop\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\bin\Debug\AppBingo.pdb
+C:\Users\Paul\Desktop\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\bin\Debug\VisualArrays.dll
+C:\Users\Paul\Desktop\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\bin\Debug\VisualArrays.xml
+C:\Users\Paul\Desktop\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+C:\Users\Paul\Desktop\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+C:\Users\Paul\Desktop\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paul\Desktop\A12 Tp6 JeuBingo (Solution) v1.5 PC CorrecteurV0.2\AppBingo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.9\AppBingo\bin\Debug\AppBingo.exe.config
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.9\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.9\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.9\AppBingo\bin\Debug\AppBingo.exe
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.9\AppBingo\bin\Debug\AppBingo.pdb
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.9\AppBingo\bin\Debug\VisualArrays.dll
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.9\AppBingo\bin\Debug\VisualArrays.xml
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.9\AppBingo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.9\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.9\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.9\AppBingo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.9\AppBingo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.95\AppBingo\bin\Debug\AppBingo.exe.config
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.95\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.95\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.95\AppBingo\bin\Debug\AppBingo.exe
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.95\AppBingo\bin\Debug\AppBingo.pdb
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.95\AppBingo\bin\Debug\VisualArrays.dll
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.95\AppBingo\bin\Debug\VisualArrays.xml
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.95\AppBingo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.95\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.95\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.95\AppBingo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC CorrecteurV0.95\AppBingo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.1\AppBingo\bin\Debug\AppBingo.exe.config
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.1\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.1\AppBingo\obj\x86\Debug\AppBingo.pdb
+K:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.1\AppBingo\bin\Debug\AppBingo.exe.config
+K:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.1\AppBingo\obj\x86\Debug\AppBingo.exe
+K:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.1\AppBingo\obj\x86\Debug\AppBingo.pdb
+K:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.1\AppBingo\bin\Debug\AppBingo.exe
+K:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.1\AppBingo\bin\Debug\AppBingo.pdb
+K:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.1\AppBingo\bin\Debug\VisualArrays.dll
+K:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.1\AppBingo\bin\Debug\VisualArrays.xml
+K:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.1\AppBingo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.1\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+K:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.1\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+K:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.1\AppBingo\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\__Cours\420-106 A12\TP\A12 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.1\AppBingo\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\__Cours\420-116 A13\Module 2\R19 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.3\AppBingo\bin\Debug\AppBingo.exe.config
+G:\__Cours\420-116 A13\Module 2\R19 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.exe
+G:\__Cours\420-116 A13\Module 2\R19 TP6 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.pdb
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.3\AppBingo\bin\Debug\AppBingo.exe.config
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.exe
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.pdb
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.3\AppBingo\bin\Debug\AppBingo.exe
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.3\AppBingo\bin\Debug\AppBingo.pdb
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.3\AppBingo\bin\Debug\VisualArrays.dll
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.3\AppBingo\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.5 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\bin\Debug\AppBingo.exe.config
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.exe
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.pdb
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\bin\Debug\AppBingo.exe
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\bin\Debug\AppBingo.pdb
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\bin\Debug\VisualArrays.dll
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+G:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.1\A12 Tp6 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.6\Tp4 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\bin\Debug\AppBingo.exe.config
+E:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.6\Tp4 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\__Cours\420-116 A13\TP\TP4 Kit Bingo Complet v1.6\Tp4 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.pdb
+G:\__Cours\420-116 A14\420-116 A13(final)\TP\Tp4 Kit Bingo Complet v1.6\Tp4 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\bin\Debug\AppBingo.exe.config
+G:\__Cours\420-116 A14\420-116 A13(final)\TP\Tp4 Kit Bingo Complet v1.6\Tp4 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.exe
+G:\__Cours\420-116 A14\420-116 A13(final)\TP\Tp4 Kit Bingo Complet v1.6\Tp4 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.pdb
+G:\__Cours\420-116 A14\420-116 A13(final) en VS2012\TP\Tp4 Kit Bingo Complet v1.6\Tp4 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\bin\Debug\AppBingo.exe.config
+G:\__Cours\420-116 A14\420-116 A13(final) en VS2012\TP\Tp4 Kit Bingo Complet v1.6\Tp4 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.exe
+G:\__Cours\420-116 A14\420-116 A13(final) en VS2012\TP\Tp4 Kit Bingo Complet v1.6\Tp4 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\__Cours\420-116 A14\Module 2\Tp4 Kit Bingo Complet v1.6\Tp4 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\bin\Debug\AppBingo.exe.config
+E:\__Cours\420-116 A14\Module 2\Tp4 Kit Bingo Complet v1.6\Tp4 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\__Cours\420-116 A14\Module 2\Tp4 Kit Bingo Complet v1.6\Tp4 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.pdb
+G:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v1.6\Tp3 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\bin\Debug\AppBingo.exe.config
+G:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v1.6\Tp3 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.exe
+G:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v1.6\Tp3 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.pdb
+G:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v1.6\Tp3 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\bin\Debug\AppBingo.exe
+G:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v1.6\Tp3 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\bin\Debug\AppBingo.pdb
+G:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v1.6\Tp3 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\bin\Debug\VisualArrays.dll
+G:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v1.6\Tp3 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v1.6\Tp3 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v1.6\Tp3 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+G:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v1.6\Tp3 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+G:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v1.6\Tp3 JeuBingo v1.6 PC Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v1.6\Tp3 JeuBingo v14.1.0 Correcteur V1.3\AppBingo\bin\Debug\AppBingo.exe.config
+G:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v1.6\Tp3 JeuBingo v14.1.0 Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.exe
+G:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v1.6\Tp3 JeuBingo v14.1.0 Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.pdb
+G:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v1.6\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3\AppBingo\bin\Debug\AppBingo.exe.config
+G:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v1.6\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.exe
+G:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v1.6\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v14.1.0\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3\AppBingo\bin\Debug\AppBingo.exe.config
+E:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v14.1.0\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\__Cours\420-116 A14\Module 2\Tp3 Kit Bingo Complet v14.1.0\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.pdb
+C:\Espace Labo\TP3 Bingo (env corr) v1\_Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3\AppBingo\bin\Debug\AppBingo.exe.config
+C:\Espace Labo\TP3 Bingo (env corr) v1\_Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.exe
+C:\Espace Labo\TP3 Bingo (env corr) v1\_Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.pdb
+C:\Espace Labo\TP3 Bingo (env corr) v1\_Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3\AppBingo\bin\Debug\AppBingo.exe
+C:\Espace Labo\TP3 Bingo (env corr) v1\_Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3\AppBingo\bin\Debug\AppBingo.pdb
+C:\Espace Labo\TP3 Bingo (env corr) v1\_Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3\AppBingo\bin\Debug\VisualArrays.dll
+C:\Espace Labo\TP3 Bingo (env corr) v1\_Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3\AppBingo\bin\Debug\VisualArrays.xml
+C:\Espace Labo\TP3 Bingo (env corr) v1\_Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+C:\Espace Labo\TP3 Bingo (env corr) v1\_Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+C:\Espace Labo\TP3 Bingo (env corr) v1\_Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.Cache
+E:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\bin\Debug\AppBingo.exe.config
+E:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.pdb
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\bin\Debug\AppBingo.exe.config
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.exe
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.pdb
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\bin\Debug\AppBingo.exe
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\bin\Debug\AppBingo.pdb
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\bin\Debug\VisualArrays.dll
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\bin\Debug\VisualArrays.xml
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.Cache
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.csprojResolveAssemblyReference.cache
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\bin\Debug\AppBingo.exe.config
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.exe
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.pdb
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\bin\Debug\AppBingo.exe
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\bin\Debug\AppBingo.pdb
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\bin\Debug\VisualArrays.dll
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\bin\Debug\VisualArrays.xml
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.csprojResolveAssemblyReference.cache
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.0 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.Cache
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.1 Correcteur V1.3.1\AppBingo\bin\Debug\AppBingo.exe.config
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.1 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.exe
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.1 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.pdb
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.1 Correcteur V1.3.1\AppBingo\bin\Debug\AppBingo.exe
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.1 Correcteur V1.3.1\AppBingo\bin\Debug\AppBingo.pdb
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.1 Correcteur V1.3.1\AppBingo\bin\Debug\VisualArrays.dll
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.1 Correcteur V1.3.1\AppBingo\bin\Debug\VisualArrays.xml
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.1 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.csprojResolveAssemblyReference.cache
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.1 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.1 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+C:\Espace Labo\Tp3 test JeuBingo (Solution) v14.1.1 Correcteur V1.3.1\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.Cache
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 test JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\AppBingo.exe.config
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 test JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.exe
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 test JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.pdb
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 test JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\AppBingo.exe
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 test JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\AppBingo.pdb
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 test JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\VisualArrays.dll
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 test JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\VisualArrays.xml
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 test JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.csprojResolveAssemblyReference.cache
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 test JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 test JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+G:\_420-116 A15\Module 2\TP3 Kit Bingo Complet v14.1.0\Tp3 test JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.Cache
+E:\_Cours 116 A16\R18 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\AppBingo.exe.config
+E:\_Cours 116 A16\R18 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\_Cours 116 A16\R18 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.pdb
+E:\_Cours 116 A16\R18 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\AppBingo.exe
+E:\_Cours 116 A16\R18 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\AppBingo.pdb
+E:\_Cours 116 A16\R18 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\VisualArrays.dll
+E:\_Cours 116 A16\R18 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\VisualArrays.xml
+E:\_Cours 116 A16\R18 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.csprojResolveAssemblyReference.cache
+E:\_Cours 116 A16\R18 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+E:\_Cours 116 A16\R18 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+E:\_Cours 116 A16\R18 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.Cache
+E:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\AppBingo.exe.config
+E:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.exe
+E:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.pdb
+H:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\AppBingo.exe.config
+H:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.exe
+H:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.pdb
+H:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\AppBingo.exe
+H:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\AppBingo.pdb
+H:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\VisualArrays.dll
+H:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\VisualArrays.xml
+H:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.csprojResolveAssemblyReference.cache
+H:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+H:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+H:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.Cache
+I:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\AppBingo.exe.config
+I:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.exe
+I:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.pdb
+I:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\AppBingo.exe
+I:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\AppBingo.pdb
+I:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\VisualArrays.dll
+I:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\bin\Debug\VisualArrays.xml
+I:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.csprojResolveAssemblyReference.cache
+I:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+I:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+I:\_Cours 116 A17\A17 R15 TP3 Kit Bingo Complet v16.1.0\Tp3 JeuBingo (Solution) v14.1.2 Correcteur V2.0\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.Cache
+D:\_Cours 1N6 A20\R16 Travail Pratique #3\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\bin\Debug\AppBingo.exe.config
+D:\_Cours 1N6 A20\R16 Travail Pratique #3\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\bin\Debug\AppBingo.exe
+D:\_Cours 1N6 A20\R16 Travail Pratique #3\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\bin\Debug\AppBingo.pdb
+D:\_Cours 1N6 A20\R16 Travail Pratique #3\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\bin\Debug\VisualArrays.dll
+D:\_Cours 1N6 A20\R16 Travail Pratique #3\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\bin\Debug\VisualArrays.xml
+D:\_Cours 1N6 A20\R16 Travail Pratique #3\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\obj\x86\Debug\AppBingo.csprojAssemblyReference.cache
+D:\_Cours 1N6 A20\R16 Travail Pratique #3\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+D:\_Cours 1N6 A20\R16 Travail Pratique #3\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+D:\_Cours 1N6 A20\R16 Travail Pratique #3\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.cache
+D:\_Cours 1N6 A20\R16 Travail Pratique #3\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\obj\x86\Debug\AppBingo.csproj.CoreCompileInputs.cache
+D:\_Cours 1N6 A20\R16 Travail Pratique #3\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\obj\x86\Debug\AppBingo.csproj.CopyComplete
+D:\_Cours 1N6 A20\R16 Travail Pratique #3\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\obj\x86\Debug\AppBingo.exe
+D:\_Cours 1N6 A20\R16 Travail Pratique #3\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\obj\x86\Debug\AppBingo.pdb
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\bin\Debug\AppBingo.exe.config
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\bin\Debug\AppBingo.exe
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\bin\Debug\AppBingo.pdb
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\bin\Debug\VisualArrays.dll
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\obj\x86\Debug\AppBingo.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\obj\x86\Debug\AppBingo.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\obj\x86\Debug\AppBingo.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\obj\x86\Debug\AppBingo.exe
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.0\AppBingo\obj\x86\Debug\AppBingo.pdb
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.2\AppBingo\bin\Debug\AppBingo.exe.config
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.2\AppBingo\bin\Debug\AppBingo.exe
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.2\AppBingo\bin\Debug\AppBingo.pdb
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.2\AppBingo\bin\Debug\VisualArrays.dll
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.2\AppBingo\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.2\AppBingo\obj\x86\Debug\AppBingo.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.2\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.2\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.2\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.2\AppBingo\obj\x86\Debug\AppBingo.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.2\AppBingo\obj\x86\Debug\AppBingo.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.2\AppBingo\obj\x86\Debug\AppBingo.exe
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.2\AppBingo\obj\x86\Debug\AppBingo.pdb
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.3\AppBingo\bin\Debug\AppBingo.exe.config
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.3\AppBingo\bin\Debug\AppBingo.exe
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.3\AppBingo\bin\Debug\AppBingo.pdb
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.3\AppBingo\bin\Debug\VisualArrays.dll
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.3\AppBingo\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.3\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.3\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.3\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.3\AppBingo\obj\x86\Debug\AppBingo.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.3\AppBingo\obj\x86\Debug\AppBingo.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.3\AppBingo\obj\x86\Debug\AppBingo.exe
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.3\AppBingo\obj\x86\Debug\AppBingo.pdb
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.3\AppBingo\obj\x86\Debug\AppBingo.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4\AppBingo\bin\Debug\AppBingo.exe.config
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4\AppBingo\bin\Debug\AppBingo.exe
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4\AppBingo\bin\Debug\AppBingo.pdb
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4\AppBingo\bin\Debug\VisualArrays.dll
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4\AppBingo\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4\AppBingo\obj\x86\Debug\AppBingo.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4\AppBingo\obj\x86\Debug\AppBingo.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4\AppBingo\obj\x86\Debug\AppBingo.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4\AppBingo\obj\x86\Debug\AppBingo.exe
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4\AppBingo\obj\x86\Debug\AppBingo.pdb
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4B\AppBingo\bin\Debug\AppBingo.exe.config
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4B\AppBingo\bin\Debug\AppBingo.exe
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4B\AppBingo\bin\Debug\AppBingo.pdb
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4B\AppBingo\bin\Debug\VisualArrays.dll
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4B\AppBingo\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4B\AppBingo\obj\x86\Debug\AppBingo.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4B\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4B\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4B\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4B\AppBingo\obj\x86\Debug\AppBingo.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4B\AppBingo\obj\x86\Debug\AppBingo.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4B\AppBingo\obj\x86\Debug\AppBingo.exe
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Solution) v20.1.4B\AppBingo\obj\x86\Debug\AppBingo.pdb
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Matériel) v20.2.1\Nom prénom Tp3 (Départ)\AppBingo\bin\Debug\AppBingo.exe.config
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Matériel) v20.2.1\Nom prénom Tp3 (Départ)\AppBingo\bin\Debug\AppBingo.exe
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Matériel) v20.2.1\Nom prénom Tp3 (Départ)\AppBingo\bin\Debug\AppBingo.pdb
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Matériel) v20.2.1\Nom prénom Tp3 (Départ)\AppBingo\bin\Debug\VisualArrays.dll
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Matériel) v20.2.1\Nom prénom Tp3 (Départ)\AppBingo\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Matériel) v20.2.1\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Matériel) v20.2.1\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Matériel) v20.2.1\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Matériel) v20.2.1\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Matériel) v20.2.1\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Matériel) v20.2.1\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Matériel) v20.2.1\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.exe
+J:\A20 1N6 Les Capsules\R17 Travail Pratique #3 (SegmentSprite)\_Code C#\Tp3 JeuBingo (Matériel) v20.2.1\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\bin\Debug\AppBingo.exe.config
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\bin\Debug\AppBingo.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\bin\Debug\AppBingo.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\bin\Debug\VisualArrays.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\bin\Debug\VisualArrays.xml
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\bin\Debug\AppBingo.exe.config
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\bin\Debug\AppBingo.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\bin\Debug\AppBingo.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\bin\Debug\VisualArrays.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\bin\Debug\VisualArrays.xml
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\TP03\Tp3 JeuBingo (Matériel avec correcteur) v20.2.2\Nom prénom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csprojAssemblyReference.cache
+C:\EspaceLabo\Tp3 JeuBingo (Matériel) v21.1.0\Nom prenom Tp3 (Départ)\AppBingo\bin\Debug\AppBingo.exe.config
+C:\EspaceLabo\Tp3 JeuBingo (Matériel) v21.1.0\Nom prenom Tp3 (Départ)\AppBingo\bin\Debug\AppBingo.exe
+C:\EspaceLabo\Tp3 JeuBingo (Matériel) v21.1.0\Nom prenom Tp3 (Départ)\AppBingo\bin\Debug\AppBingo.pdb
+C:\EspaceLabo\Tp3 JeuBingo (Matériel) v21.1.0\Nom prenom Tp3 (Départ)\AppBingo\bin\Debug\VisualArrays.dll
+C:\EspaceLabo\Tp3 JeuBingo (Matériel) v21.1.0\Nom prenom Tp3 (Départ)\AppBingo\bin\Debug\VisualArrays.xml
+C:\EspaceLabo\Tp3 JeuBingo (Matériel) v21.1.0\Nom prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.AssemblyReference.cache
+C:\EspaceLabo\Tp3 JeuBingo (Matériel) v21.1.0\Nom prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+C:\EspaceLabo\Tp3 JeuBingo (Matériel) v21.1.0\Nom prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+C:\EspaceLabo\Tp3 JeuBingo (Matériel) v21.1.0\Nom prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.cache
+C:\EspaceLabo\Tp3 JeuBingo (Matériel) v21.1.0\Nom prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\Tp3 JeuBingo (Matériel) v21.1.0\Nom prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.CopyComplete
+C:\EspaceLabo\Tp3 JeuBingo (Matériel) v21.1.0\Nom prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.exe
+C:\EspaceLabo\Tp3 JeuBingo (Matériel) v21.1.0\Nom prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.pdb
+C:\Users\stephane.desmeules\Downloads\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\bin\Debug\AppBingo.exe.config
+C:\Users\stephane.desmeules\Downloads\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\bin\Debug\AppBingo.exe
+C:\Users\stephane.desmeules\Downloads\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\bin\Debug\AppBingo.pdb
+C:\Users\stephane.desmeules\Downloads\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\bin\Debug\VisualArrays.dll
+C:\Users\stephane.desmeules\Downloads\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\bin\Debug\VisualArrays.xml
+C:\Users\stephane.desmeules\Downloads\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.exe
+C:\Users\stephane.desmeules\Downloads\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\bin\Debug\AppBingo.exe.config
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\bin\Debug\AppBingo.exe
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\bin\Debug\AppBingo.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\bin\Debug\VisualArrays.dll
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\bin\Debug\VisualArrays.xml
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.AssemblyReference.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.FrmPrincipal.resources
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.Properties.Resources.resources
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.GenerateResource.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.csproj.CopyComplete
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.exe
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R17 Travail Pratique #3 (Matériel) v22.1.0\Nom Prenom Tp3 (Départ)\AppBingo\obj\x86\Debug\AppBingo.pdb
