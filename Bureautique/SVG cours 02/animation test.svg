@@ -1,0 +1,6 @@
+<svg width="1000" height="1000">
+        <rect x="300" y="300" rx="0" ry="0" height="100" width="200" fill="white" stroke="red" stroke-width="3">
+    <animate attributeName="width" attributeType="xml" from="200" to="400" begin="0s" dur="0.7" fill="remove" repeatCount="indefinite" />
+    </rect>
+
+</svg>
