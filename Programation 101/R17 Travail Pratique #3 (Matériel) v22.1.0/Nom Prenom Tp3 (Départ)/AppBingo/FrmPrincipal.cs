@@ -323,6 +323,7 @@ namespace AppBingo
             // comme index dans viaBoulier et augmenter le nombre de boules retirées.
             // Désactiver la boule retirée dans le boulier
             int colone=0;
+            
 
 
             
@@ -335,13 +336,10 @@ namespace AppBingo
 
 
             // Afficher la boule retirée ainsi que sa lettre correspondante (voir démo)
-
+            vsiBoule.Value = viaBoulier[colone, vsiNbBoulesRetirées.Value];
 
 
             // Compléter le TODO 08 et ajouter ensuite les appels à TraiterLaBouleRetirée pour chacune des cartes.
-
-
-
         }
         #endregion
 
