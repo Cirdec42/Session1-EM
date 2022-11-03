@@ -1,50 +1,86 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 width="1000" height="1000">
     <!--Sol-->
-    <rect x="0" y="200" rx="0" ry="0" height="50" width="300" fill="green"/>
+      <g>
+            <rect x="0" y="200" rx="0" ry="0" height="50" width="300" fill="green"/>
+        </g>
     <!--Soleil-->
-    <circle cx="50" cy="50" r="30" fill="yellow">
-      <animate id="SoleilGrandir" attributeType="XML" attributeName="r" dur="1s" begin="0s; SoleilRéduire.end"
-        from="25" to="35" />
-      <animate id="SoleilRéduire" attributeType="XML" attributeName="r" dur="1s" begin="SoleilGrandir.end" from="35"
-        to="25" />
-    </circle>
+      <g>
+          <circle cx="50" cy="50" r="30" fill="yellow">
+        <animate id="SoleilGrandir" attributeType="XML" attributeName="r" dur="1s" begin="0s; SoleilRéduire.end"
+          from="25" to="35" />
+        <animate id="SoleilRéduire" attributeType="XML" attributeName="r" dur="1s" begin="SoleilGrandir.end" from="35"
+          to="25" />
+          </circle>
+        </g>
     <!--Les Jean-->
-    <g id="Jean1" transform="scale(0.1) translate(222,1050)">
-                <text x="400" y="300" stroke="red" transform="scale(2) translate(-200,-100)">Jean-Michel Castor</text>
-        <circle cx="500" cy="500" r="50" stroke="white" stroke-width="3" fill="none" />
-        <line x1="500" y1="550" x2="500" y2="800" stroke="white" stroke-width="3"/>
-        <!-- Bras-->
-        <line x1="500" y1="600" x2="400" y2="560" stroke="white" stroke-width="3"/>
-        <line  x1="500" y1="600" x2="600" y2="560" stroke="white" stroke-width="3"/>
-        <!--Jambes-->
-        <line x1="500" y1="800" x2="450" y2="950" stroke="white" stroke-width="3"/>
-        <line x1="500" y1="800" x2="550" y2="950" stroke="white" stroke-width="3"/>
-        <!--Yeux-->
-        <circle cx="480" cy="490" r="10" stroke="white" stroke-width="3"/>
-        <circle cx="520" cy="490" r="10" stroke="white" stroke-width="3"/>
-        <!--Bouche-->
-        <path d="M 475 525 Q 500 550 525 520" stroke="white" stroke-width="3" fill="none"></path>
+      <g>
+            <g id="Jean1" transform="scale(0.1) translate(222,1050)">
+              <circle cx="500" cy="500" r="50" stroke=" Black" stroke-width="5" fill="none" />
+              <line x1="500" y1="550" x2="500" y2="800" stroke=" Black" stroke-width="5"/>
+              <!-- Bras-->
+              <line x1="500" y1="600" x2="400" y2="560" stroke=" Black" stroke-width="5"/>
+              <line  x1="500" y1="600" x2="600" y2="560" stroke=" Black" stroke-width="5"/>
+              <!--Jambes-->
+              <line x1="500" y1="800" x2="450" y2="950" stroke=" Black" stroke-width="5"/>
+              <line x1="500" y1="800" x2="550" y2="950" stroke=" Black" stroke-width="5"/>
+              <!--Yeux-->
+              <circle cx="480" cy="490" r="10" stroke=" Black" stroke-width="5"/>
+              <circle cx="520" cy="490" r="10" stroke=" Black" stroke-width="5"/>
+              <!--Bouche-->
+              <path d="M 475 525 Q 500 550 525 520" stroke=" Black" stroke-width="5" fill="none"></path>
+              </g>
 
-    </g>
-    <g id="Jean2" transform="scale(0.1) translate(777,1050)">
-                <text x="400" y="300" stroke="red" transform="scale(2) translate(-200,-100)">Jean-Michel Castor</text>
-        <circle cx="500" cy="500" r="50" stroke="white" stroke-width="3" fill="none" />
-        <line x1="500" y1="550" x2="500" y2="800" stroke="white" stroke-width="3"/>
-        <!-- Bras-->
-        <line x1="500" y1="600" x2="400" y2="560" stroke="white" stroke-width="3"/>
-        <line  x1="500" y1="600" x2="600" y2="560" stroke="white" stroke-width="3"/>
-        <!--Jambes-->
-        <line x1="500" y1="800" x2="450" y2="950" stroke="white" stroke-width="3"/>
-        <line x1="500" y1="800" x2="550" y2="950" stroke="white" stroke-width="3"/>
-        <!--Yeux-->
-        <circle cx="480" cy="490" r="10" stroke="white" stroke-width="3"/>
-        <circle cx="520" cy="490" r="10" stroke="white" stroke-width="3"/>
-        <!--Bouche-->
-        <path d="M 475 525 Q 500 550 525 520" stroke="white" stroke-width="3" fill="none"></path>
+            <g id="Jean2" transform="scale(0.1) translate(600,1050), rotate(35 550,950 )">
+                <circle cx="500" cy="500" r="50" stroke=" Black" stroke-width="5" fill="none" />
+                <line x1="500" y1="550" x2="500" y2="800" stroke=" Black" stroke-width="5"/>
+                <!-- Bras-->
+                <line x1="500" y1="600" x2="400" y2="560" stroke=" Black" stroke-width="5"/>
+                <line  x1="500" y1="600" x2="600" y2="560" stroke=" Black" stroke-width="5"/>
+                <!--Jambes-->
+                <line x1="500" y1="800" x2="450" y2="950" stroke=" Black" stroke-width="5"/>
+                <line x1="500" y1="800" x2="550" y2="950" stroke=" Black" stroke-width="5"/>
+                <!--Yeux-->
+                <circle cx="480" cy="490" r="10" stroke=" Black" stroke-width="5"/>
+                <circle cx="520" cy="490" r="10" stroke=" Black" stroke-width="5"/>
+                <!--Bouche-->
+                <path d="M 475 525 Q 500 550 525 520" stroke=" Black" stroke-width="5" fill="none"></path>
+              </g>
+          
 
-    </g>
+        </g>
     <!--Arbre-->
-        <rect width="20" height="50" x="225" y="150" fill="#3f1c02" />
-        
+      <g>
+          <g id="tronc">
+              <rect width="20" height="25" x="225" y="175" fill="#3f1c02" />
+            </g>
+        <g id="feuille" transform="translate(0,20)">
+                        <g id="feuilleBas">
+                        <polygon points="200,160 235,125 270,160" style="fill:forestgreen;"/>
+              </g>
+              <g id="feuilleMillieu" transform="translate(47,15), scale(0.8)">
+                        <polygon points="200,160 235,125 270,160" style="fill:forestgreen;"/>
+              </g>
+              <g id="feuilleHaut" transform="translate(70,20), scale(0.7)">
+                        <polygon points="200,160,235,125 270,160" style="fill:forestgreen;"/>
+              </g>
+
+            </g>
+          </g>
+        <!--Oiseux Cheloux -->
+          <g style="fill:none;stroke:black;stroke-width:7" transform="scale(0.1), translate(0,400)">      
+
+              <path d="M 50 50 Q 250 0 150 100 Q 250 100 200 150" >
+                <animateTransform id="vole1" attributeName="transform" attributeType="XML" type="translate" from="0,0" to="3000,0" begin="0; vole2.end" dur="3s" />
+                <animateTransform id="vole2" attributeName="transform" attributeType="XML" type="translate" from="0,0" to="3000,0" begin="0; vole1.end" dur="3s"/>
+                </path>
+            </g>
 </svg>
+
+
+
+
+
+
+
+<!--Création de Cédric D. (Cirdec)-->

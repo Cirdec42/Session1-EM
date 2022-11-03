@@ -253,7 +253,7 @@ namespace AppBingo
         {
 
             // À COMPLÉTER...
-            return pNuméroBoule-1 /NB_VALEURS_PAR_COLONNE;
+            return (pNuméroBoule-1)/NB_VALEURS_PAR_COLONNE;
         }
         #endregion
 
@@ -293,6 +293,8 @@ namespace AppBingo
             int col = ColonneDeLaBouleSurLaCarte(pNuméroBoule);
             int ran = RangéeDeLaBouleSurLaCarte(pCarte,pNuméroBoule);
             bool bingo = BingoExisteSurLaCarte(pCarte);
+
+
         }
         #endregion
 
@@ -307,6 +309,32 @@ namespace AppBingo
         public bool BingoExisteSurLaCarte(VisualIntArray pCarte)
         {
             // À COMPLÉTER...
+            //rangée
+            if (true)
+            {
+
+            }
+            SuiteGaganteSurLaCarte(pCarte, 0, 0, 0, 4);
+            SuiteGaganteSurLaCarte(pCarte, 1, 0, 0, 4);
+            SuiteGaganteSurLaCarte(pCarte, 2, 0, 0, 4);
+            SuiteGaganteSurLaCarte(pCarte, 3, 0, 0, 4); 
+            SuiteGaganteSurLaCarte(pCarte, 4, 0, 0, 4);
+
+            //colone
+            SuiteGaganteSurLaCarte(pCarte, 0, 0, 4, 0);
+            SuiteGaganteSurLaCarte(pCarte, 0, 1, 4, 0);
+            SuiteGaganteSurLaCarte(pCarte, 0, 2, 4, 0);
+            SuiteGaganteSurLaCarte(pCarte, 0, 3, 4, 0);
+            SuiteGaganteSurLaCarte(pCarte, 0, 4, 4, 0);
+
+            //diagonale
+            SuiteGaganteSurLaCarte(pCarte, 0, 0, 4, 4);
+            SuiteGaganteSurLaCarte(pCarte, 4, 0, 0, 4);
+
+
+
+
+
             return false;
         }
         #endregion
@@ -322,24 +350,23 @@ namespace AppBingo
             // Récupérer un numéro de boule du boulier, en utilisant vsiNbBoulesRetirées.Value 
             // comme index dans viaBoulier et augmenter le nombre de boules retirées.
             // Désactiver la boule retirée dans le boulier
-            int colone=0;
-            
-
-
-            
-            vsiBoule.Value = viaBoulier[colone, vsiNbBoulesRetirées.Value];
-            viaBoulier.DisableCell(colone, vsiNbBoulesRetirées.Value);
-            vsiNbBoulesRetirées.Value++;
             // Déterminer la rangée ainsi que la colonne de la boule retirée sur la carte maîtresse
             // afin de la désactiver. Appeler la méthode ColonneDeLaBouleSurLaCarte
+ 
+            int index = vsiNbBoulesRetirées.Value;
+            int boule = viaBoulier[index];
+            viaBoulier.DisableCell(index);
+            vsiBoule.Value = boule;
+            vsiNbBoulesRetirées.Value++;
 
-
-
+            viaCarteMaîtresse.DisableCell(RangéeDeLaBouleSurLaCarte(viaCarteMaîtresse,boule), ColonneDeLaBouleSurLaCarte(boule));
             // Afficher la boule retirée ainsi que sa lettre correspondante (voir démo)
-            vsiBoule.Value = viaBoulier[colone, vsiNbBoulesRetirées.Value];
-
-
+            vscBoule.Value = NOM_JEU[ColonneDeLaBouleSurLaCarte(boule)];
             // Compléter le TODO 08 et ajouter ensuite les appels à TraiterLaBouleRetirée pour chacune des cartes.
+            TraiterLaBouleRetirée(viaCarte1, boule);
+            TraiterLaBouleRetirée(viaCarte2, boule);
+            TraiterLaBouleRetirée(viaCarte3, boule);
+            TraiterLaBouleRetirée(viaCarte4, boule);
         }
         #endregion
 
