@@ -71,6 +71,9 @@ namespace AppBingo
         public void PréparerUneNouvellePartie()
         {
             // À COMPLÉTER...
+            viaCarteMaîtresse.Clear();
+            viaBoulier.Clear();
+            vsiNbBoulesRetirées.Value = 0;
             PréparerCarteMaîtresse();
             PréparerBoulier();
             PréparerCarteDeBingo(viaCarte1);
@@ -78,6 +81,7 @@ namespace AppBingo
             PréparerCarteDeBingo(viaCarte3);
             PréparerCarteDeBingo(viaCarte4);
 
+            btnRetirer.Enabled = true;
 
 
 
@@ -289,6 +293,15 @@ namespace AppBingo
         /// <param name="pNuméroBoule">Numéro de la boule entre 1 et 75</param>
         public void TraiterLaBouleRetirée(VisualIntArray pCarte, int pNuméroBoule)
         {
+            if (RangéeDeLaBouleSurLaCarte(pCarte,pNuméroBoule) !=-1)
+            {
+                pCarte.DisableCell(RangéeDeLaBouleSurLaCarte(pCarte, vsiBoule.Value), ColonneDeLaBouleSurLaCarte(vsiBoule.Value));
+            }
+            if (BingoExisteSurLaCarte(pCarte))
+            {
+                btnRetirer.Enabled = false;
+                
+            }
             // À COMPLÉTER...
             int col = ColonneDeLaBouleSurLaCarte(pNuméroBoule);
             int ran = RangéeDeLaBouleSurLaCarte(pCarte,pNuméroBoule);
@@ -310,26 +323,30 @@ namespace AppBingo
         {
             // À COMPLÉTER...
             //rangée
-            if (true)
+            //rangée
+            for (int i = 0; i < 5; i++)
             {
-
+                if (SuiteGaganteSurLaCarte(pCarte, i, 0, i, 4))
+                {
+                    return true;
+                }
             }
-            SuiteGaganteSurLaCarte(pCarte, 0, 0, 0, 4);
-            SuiteGaganteSurLaCarte(pCarte, 1, 0, 0, 4);
-            SuiteGaganteSurLaCarte(pCarte, 2, 0, 0, 4);
-            SuiteGaganteSurLaCarte(pCarte, 3, 0, 0, 4); 
-            SuiteGaganteSurLaCarte(pCarte, 4, 0, 0, 4);
 
             //colone
-            SuiteGaganteSurLaCarte(pCarte, 0, 0, 4, 0);
-            SuiteGaganteSurLaCarte(pCarte, 0, 1, 4, 0);
-            SuiteGaganteSurLaCarte(pCarte, 0, 2, 4, 0);
-            SuiteGaganteSurLaCarte(pCarte, 0, 3, 4, 0);
-            SuiteGaganteSurLaCarte(pCarte, 0, 4, 4, 0);
-
+            for (int i = 0; i < 5; i++)
+            {
+                
+                if (SuiteGaganteSurLaCarte(pCarte, 0, i, 4, i))
+                {
+                return true;
+                }
+            }
             //diagonale
-            SuiteGaganteSurLaCarte(pCarte, 0, 0, 4, 4);
-            SuiteGaganteSurLaCarte(pCarte, 4, 0, 0, 4);
+            if (SuiteGaganteSurLaCarte(pCarte, 0, 0, 4, 4) || SuiteGaganteSurLaCarte(pCarte, 4, 0, 0, 4))
+            {
+                return true;
+            }
+            
 
 
 
