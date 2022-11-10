@@ -1,0 +1,186 @@
+K:\_Cours 206-H10\_Module 1\Kit jeudi V0.5\Exem_Montre\Montre\obj\Debug\ApplicationMontre.exe
+K:\_Cours 206-H10\_Module 1\Kit jeudi V0.5\Exem_Montre\Montre\obj\Debug\ApplicationMontre.pdb
+K:\_Cours 206-H10\_Module 1\Kit jeudi V0.5\Exem_Montre\Montre\bin\Debug\ApplicationMontre.exe
+K:\_Cours 206-H10\_Module 1\Kit jeudi V0.5\Exem_Montre\Montre\bin\Debug\ApplicationMontre.pdb
+K:\_Cours 206-H10\_Module 1\Kit jeudi V0.5\Exem_Montre\Montre\obj\Debug\ResolveAssemblyReference.cache
+K:\_Cours 206-H10\_Module 1\Kit jeudi V0.5\Exem_Montre\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+K:\_Cours 206-H10\_Module 1\Kit jeudi V0.5\Exem_Montre\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+K:\_Cours 206-H10\_Module 1\Kit jeudi V0.5\Exem_Montre\Montre\obj\Debug\AppMontre.csproj.GenerateResource.Cache
+N:\206 H10\02-Intro aux classes\Kit classes CT1 v1.0\ExemB_Montre\Montre\obj\Debug\ApplicationMontre.exe
+N:\206 H10\02-Intro aux classes\Kit classes CT1 v1.0\ExemB_Montre\Montre\obj\Debug\ApplicationMontre.pdb
+N:\206 H10\02-Intro aux classes\Kit classes CT1 v1.0\ExemB_Montre\Montre\bin\Debug\ApplicationMontre.exe
+N:\206 H10\02-Intro aux classes\Kit classes CT1 v1.0\ExemB_Montre\Montre\bin\Debug\ApplicationMontre.pdb
+N:\206 H10\02-Intro aux classes\Kit classes CT1 v1.0\ExemB_Montre\Montre\obj\Debug\ResolveAssemblyReference.cache
+N:\206 H10\02-Intro aux classes\Kit classes CT1 v1.0\ExemB_Montre\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+N:\206 H10\02-Intro aux classes\Kit classes CT1 v1.0\ExemB_Montre\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+N:\206 H10\02-Intro aux classes\Kit classes CT1 v1.0\ExemB_Montre\Montre\obj\Debug\AppMontre.csproj.GenerateResource.Cache
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExemB_Montre\Sol_ExemB_Montre\Montre\obj\Debug\ApplicationMontre.exe
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExemB_Montre\Sol_ExemB_Montre\Montre\obj\Debug\ApplicationMontre.pdb
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExemB_Montre\Sol_ExemB_Montre\Montre\bin\Debug\ApplicationMontre.exe
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExemB_Montre\Sol_ExemB_Montre\Montre\bin\Debug\ApplicationMontre.pdb
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExemB_Montre\Sol_ExemB_Montre\Montre\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExemB_Montre\Sol_ExemB_Montre\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExemB_Montre\Sol_ExemB_Montre\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExemB_Montre\Sol_ExemB_Montre\Montre\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExemB_Montre\Sol_ExemB_Montre\Montre\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExemB_Montre vs2010\Sol_ExemB_Montre\Montre\obj\Debug\ApplicationMontre.exe
+E:\_Cours 206-H11\_Module 1\Temp VA\02-Intro aux classes\ExemB_Montre vs2010\Sol_ExemB_Montre\Montre\obj\Debug\ApplicationMontre.pdb
+E:\_Cours 206-H13\R04 Intro Classes\ExerB_Montre\Theo03_ExerB_Montre (Solution) v1.0\Montre\obj\Debug\ApplicationMontre.exe
+E:\_Cours 206-H13\R04 Intro Classes\ExerB_Montre\Theo03_ExerB_Montre (Solution) v1.0\Montre\obj\Debug\ApplicationMontre.pdb
+E:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.0\ExerC_Montre v1.0\Montre\obj\Debug\ApplicationMontre.exe
+E:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.0\ExerC_Montre v1.0\Montre\obj\Debug\ApplicationMontre.pdb
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerC_Montre v1.0\Montre\obj\Debug\ApplicationMontre.exe
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerC_Montre v1.0\Montre\obj\Debug\ApplicationMontre.pdb
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerC_Montre v1.0\Montre\bin\Debug\ApplicationMontre.exe
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerC_Montre v1.0\Montre\bin\Debug\ApplicationMontre.pdb
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerC_Montre v1.0\Montre\obj\Debug\ResolveAssemblyReference.cache
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerC_Montre v1.0\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerC_Montre v1.0\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerC_Montre v1.0\Montre\obj\Debug\GenerateResource-ResGen.read.1.tlog
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerC_Montre v1.0\Montre\obj\Debug\ResGen.read.1.tlog
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerC_Montre v1.0\Montre\obj\Debug\GenerateResource-ResGen.write.1.tlog
+J:\__Cours\420-206 H13\Module 1\R04 Intro Classes (Solution) v1.2\ExerC_Montre v1.0\Montre\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExC Montre (Solution)\Montre\obj\Debug\ApplicationMontre.exe
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExC Montre (Solution)\Montre\obj\Debug\ApplicationMontre.pdb
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExC Montre (Solution)\Montre\bin\Debug\ApplicationMontre.exe
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExC Montre (Solution)\Montre\bin\Debug\ApplicationMontre.pdb
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExC Montre (Solution)\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExC Montre (Solution)\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+E:\_Cours 206-H14\_Module #1\R03 Intro Classes (Solution) v1.0\ExC Montre (Solution)\Montre\obj\Debug\AppMontre.csproj.GenerateResource.Cache
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExC Montre (Solution)\Montre\obj\Debug\ApplicationMontre.exe
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExC Montre (Solution)\Montre\obj\Debug\ApplicationMontre.pdb
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExC Montre (Solution)\Montre\bin\Debug\ApplicationMontre.exe
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExC Montre (Solution)\Montre\bin\Debug\ApplicationMontre.pdb
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExC Montre (Solution)\Montre\obj\Debug\AppMontre.csprojResolveAssemblyReference.cache
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExC Montre (Solution)\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExC Montre (Solution)\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExC Montre (Solution)\Montre\obj\Debug\AppMontre.csproj.GenerateResource.Cache
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExC1 Montre (Solution) H15.1.0\Montre\obj\Debug\ApplicationMontre.exe
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExC1 Montre (Solution) H15.1.0\Montre\obj\Debug\ApplicationMontre.pdb
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExC1 Montre (Solution) H15.1.0\Montre\bin\Debug\ApplicationMontre.exe
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExC1 Montre (Solution) H15.1.0\Montre\bin\Debug\ApplicationMontre.pdb
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExC1 Montre (Solution) H15.1.0\Montre\obj\Debug\AppMontre.csprojResolveAssemblyReference.cache
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExC1 Montre (Solution) H15.1.0\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExC1 Montre (Solution) H15.1.0\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) v1.0\ExC1 Montre (Solution) H15.1.0\Montre\obj\Debug\AppMontre.csproj.GenerateResource.Cache
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.0\ExC1 Montre (Solution) H15.1.0\Montre\obj\Debug\ApplicationMontre.exe
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.0\ExC1 Montre (Solution) H15.1.0\Montre\obj\Debug\ApplicationMontre.pdb
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.0\ExC1 Montre (Solution) H15.1.0\Montre\bin\Debug\ApplicationMontre.exe
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.0\ExC1 Montre (Solution) H15.1.0\Montre\bin\Debug\ApplicationMontre.pdb
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.0\ExC1 Montre (Solution) H15.1.0\Montre\obj\Debug\AppMontre.csprojResolveAssemblyReference.cache
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.0\ExC1 Montre (Solution) H15.1.0\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.0\ExC1 Montre (Solution) H15.1.0\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.0\ExC1 Montre (Solution) H15.1.0\Montre\obj\Debug\AppMontre.csproj.GenerateResource.Cache
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.0\ExC1 Montre (Solution) H15.1.1\Montre\obj\Debug\ApplicationMontre.exe
+G:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.0\ExC1 Montre (Solution) H15.1.1\Montre\obj\Debug\ApplicationMontre.pdb
+E:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.1\ExC1 Montre (Solution) H15.1.1\Montre\obj\Debug\ApplicationMontre.exe
+E:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.1\ExC1 Montre (Solution) H15.1.1\Montre\obj\Debug\ApplicationMontre.pdb
+E:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.1\ExC1 Montre (Solution) H15.1.1\Montre\bin\Debug\ApplicationMontre.exe
+E:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.1\ExC1 Montre (Solution) H15.1.1\Montre\bin\Debug\ApplicationMontre.pdb
+E:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.1\ExC1 Montre (Solution) H15.1.1\Montre\obj\Debug\AppMontre.csprojResolveAssemblyReference.cache
+E:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.1\ExC1 Montre (Solution) H15.1.1\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+E:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.1\ExC1 Montre (Solution) H15.1.1\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+E:\_420-206 H15\Module 1\R03 Intro Classes (Solution) H15.1.1\ExC1 Montre (Solution) H15.1.1\Montre\obj\Debug\AppMontre.csproj.GenerateResource.Cache
+G:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExC1 Montre (Solution) H15.1.1.1\Montre\obj\Debug\ApplicationMontre.exe
+G:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExC1 Montre (Solution) H15.1.1.1\Montre\obj\Debug\ApplicationMontre.pdb
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExC1 Montre (Solution) H15.1.1.1\Montre\obj\Debug\ApplicationMontre.exe
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExC1 Montre (Solution) H15.1.1.1\Montre\obj\Debug\ApplicationMontre.pdb
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExC1 Montre (Solution) H15.1.1.1\Montre\bin\Debug\ApplicationMontre.exe
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExC1 Montre (Solution) H15.1.1.1\Montre\bin\Debug\ApplicationMontre.pdb
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExC1 Montre (Solution) H15.1.1.1\Montre\obj\Debug\AppMontre.csprojResolveAssemblyReference.cache
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExC1 Montre (Solution) H15.1.1.1\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExC1 Montre (Solution) H15.1.1.1\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+E:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExC1 Montre (Solution) H15.1.1.1\Montre\obj\Debug\AppMontre.csproj.GenerateResource.Cache
+G:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExC1 Montre (Solution) H16.1.0\Montre\obj\Debug\ApplicationMontre.exe
+G:\_420-206 A16\Module 1\R03 Intro Classes (Solution) H15.1.2\ExC1 Montre (Solution) H16.1.0\Montre\obj\Debug\ApplicationMontre.pdb
+H:\_Cours 206 H18\_H18 Module #1\R04 Intro Classes\R04 Intro Classes (Solution) H16.1.0\ExC1 Montre (Solution) H16.1.0\Montre\obj\Debug\ApplicationMontre.exe
+H:\_Cours 206 H18\_H18 Module #1\R04 Intro Classes\R04 Intro Classes (Solution) H16.1.0\ExC1 Montre (Solution) H16.1.0\Montre\obj\Debug\ApplicationMontre.pdb
+H:\_Cours 206 H18\_H18 Module #1\R04 Intro Classes\R04 Intro Classes (Solution) H16.1.0\ExC1 Montre (Solution) H16.1.0\Montre\bin\Debug\ApplicationMontre.exe
+H:\_Cours 206 H18\_H18 Module #1\R04 Intro Classes\R04 Intro Classes (Solution) H16.1.0\ExC1 Montre (Solution) H16.1.0\Montre\bin\Debug\ApplicationMontre.pdb
+H:\_Cours 206 H18\_H18 Module #1\R04 Intro Classes\R04 Intro Classes (Solution) H16.1.0\ExC1 Montre (Solution) H16.1.0\Montre\obj\Debug\AppMontre.csprojResolveAssemblyReference.cache
+H:\_Cours 206 H18\_H18 Module #1\R04 Intro Classes\R04 Intro Classes (Solution) H16.1.0\ExC1 Montre (Solution) H16.1.0\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+H:\_Cours 206 H18\_H18 Module #1\R04 Intro Classes\R04 Intro Classes (Solution) H16.1.0\ExC1 Montre (Solution) H16.1.0\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+H:\_Cours 206 H18\_H18 Module #1\R04 Intro Classes\R04 Intro Classes (Solution) H16.1.0\ExC1 Montre (Solution) H16.1.0\Montre\obj\Debug\AppMontre.csproj.GenerateResource.Cache
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex3 Montre\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex3 Montre\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex3 Montre\Montre\obj\Debug\AppMontre.csproj.GenerateResource.cache
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex3 Montre\Montre\obj\Debug\AppMontre.csproj.CoreCompileInputs.cache
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex3 Montre\Montre\obj\Debug\ApplicationMontre.exe
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex3 Montre\Montre\obj\Debug\ApplicationMontre.pdb
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex3 Montre\Montre\bin\Debug\ApplicationMontre.exe
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex3 Montre\Montre\bin\Debug\ApplicationMontre.pdb
+F:\_Cours 2N6 H20\R03 Introduction aux classes\R03 Intro Classes (Solution) H20.1.0\Ex3 Montre\Montre\obj\Debug\AppMontre.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R03 Intro Classes (Solution) H20.2.1\Ex3 Montre\Montre\obj\Debug\AppMontre.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R03 Intro Classes (Solution) H20.2.1\Ex3 Montre\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R03 Intro Classes (Solution) H20.2.1\Ex3 Montre\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R03 Intro Classes (Solution) H20.2.1\Ex3 Montre\Montre\obj\Debug\AppMontre.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R03 Intro Classes (Solution) H20.2.1\Ex3 Montre\Montre\obj\Debug\AppMontre.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R03 Intro Classes (Solution) H20.2.1\Ex3 Montre\Montre\bin\Debug\ApplicationMontre.exe
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R03 Intro Classes (Solution) H20.2.1\Ex3 Montre\Montre\bin\Debug\ApplicationMontre.pdb
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R03 Intro Classes (Solution) H20.2.1\Ex3 Montre\Montre\obj\Debug\ApplicationMontre.exe
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R03 Intro Classes (Solution) H20.2.1\Ex3 Montre\Montre\obj\Debug\ApplicationMontre.pdb
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\Montre (avec DLL)\Montre\obj\Debug\AppMontre.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\Montre (avec DLL)\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\Montre (avec DLL)\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\Montre (avec DLL)\Montre\obj\Debug\AppMontre.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\Montre (avec DLL)\Montre\obj\Debug\AppMontre.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\Montre (avec DLL)\Montre\obj\Debug\ApplicationMontre.exe
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\Montre (avec DLL)\Montre\obj\Debug\ApplicationMontre.pdb
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\Montre (avec DLL)\Montre\bin\Debug\ApplicationMontre.exe.config
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\Montre (avec DLL)\Montre\bin\Debug\ApplicationMontre.exe
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\Montre (avec DLL)\Montre\bin\Debug\ApplicationMontre.pdb
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\Montre (avec DLL)\Montre\bin\Debug\Librairie1N6.dll
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\Montre (avec DLL)\Montre\bin\Debug\Librairie1N6.pdb
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\Montre (avec DLL)\Montre\obj\Debug\AppMontre.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R21 Exercices (Solution)\Exer3 - Montre\Montre\bin\Debug\ApplicationMontre.exe.config
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R21 Exercices (Solution)\Exer3 - Montre\Montre\bin\Debug\ApplicationMontre.exe
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R21 Exercices (Solution)\Exer3 - Montre\Montre\bin\Debug\ApplicationMontre.pdb
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R21 Exercices (Solution)\Exer3 - Montre\Montre\bin\Debug\Librairie1N6.pdb
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R21 Exercices (Solution)\Exer3 - Montre\Montre\obj\Debug\AppMontre.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R21 Exercices (Solution)\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R21 Exercices (Solution)\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R21 Exercices (Solution)\Exer3 - Montre\Montre\obj\Debug\AppMontre.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R21 Exercices (Solution)\Exer3 - Montre\Montre\obj\Debug\AppMontre.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R21 Exercices (Solution)\Exer3 - Montre\Montre\obj\Debug\AppMontre.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R21 Exercices (Solution)\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.exe
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R21 Exercices (Solution)\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.pdb
+J:\A20 1N6 Les Capsules\R21 Instanciation avec new\_Code C#\R21 Exercices (Solution)\Exer3 - Montre\Montre\bin\Debug\Librairie1N6.xml
+E:\A20_1N6\R21 Objets et instanciation\v20.1.0\Nouveau dossier\R21 Exercices (Solution) v20.1.1\Exer3 - Montre\Montre\bin\Debug\ApplicationMontre.exe.config
+E:\A20_1N6\R21 Objets et instanciation\v20.1.0\Nouveau dossier\R21 Exercices (Solution) v20.1.1\Exer3 - Montre\Montre\bin\Debug\ApplicationMontre.exe
+E:\A20_1N6\R21 Objets et instanciation\v20.1.0\Nouveau dossier\R21 Exercices (Solution) v20.1.1\Exer3 - Montre\Montre\bin\Debug\ApplicationMontre.pdb
+E:\A20_1N6\R21 Objets et instanciation\v20.1.0\Nouveau dossier\R21 Exercices (Solution) v20.1.1\Exer3 - Montre\Montre\bin\Debug\Librairie1N6.pdb
+E:\A20_1N6\R21 Objets et instanciation\v20.1.0\Nouveau dossier\R21 Exercices (Solution) v20.1.1\Exer3 - Montre\Montre\bin\Debug\Librairie1N6.xml
+E:\A20_1N6\R21 Objets et instanciation\v20.1.0\Nouveau dossier\R21 Exercices (Solution) v20.1.1\Exer3 - Montre\Montre\obj\Debug\AppMontre.csprojAssemblyReference.cache
+E:\A20_1N6\R21 Objets et instanciation\v20.1.0\Nouveau dossier\R21 Exercices (Solution) v20.1.1\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+E:\A20_1N6\R21 Objets et instanciation\v20.1.0\Nouveau dossier\R21 Exercices (Solution) v20.1.1\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+E:\A20_1N6\R21 Objets et instanciation\v20.1.0\Nouveau dossier\R21 Exercices (Solution) v20.1.1\Exer3 - Montre\Montre\obj\Debug\AppMontre.csproj.GenerateResource.cache
+E:\A20_1N6\R21 Objets et instanciation\v20.1.0\Nouveau dossier\R21 Exercices (Solution) v20.1.1\Exer3 - Montre\Montre\obj\Debug\AppMontre.csproj.CoreCompileInputs.cache
+E:\A20_1N6\R21 Objets et instanciation\v20.1.0\Nouveau dossier\R21 Exercices (Solution) v20.1.1\Exer3 - Montre\Montre\obj\Debug\AppMontre.csproj.CopyComplete
+E:\A20_1N6\R21 Objets et instanciation\v20.1.0\Nouveau dossier\R21 Exercices (Solution) v20.1.1\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.exe
+E:\A20_1N6\R21 Objets et instanciation\v20.1.0\Nouveau dossier\R21 Exercices (Solution) v20.1.1\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.pdb
+D:\R21 Instanciation\R21 Exercices (Matériel) v21.1.1\Exer3 - Montre\Montre\bin\Debug\ApplicationMontre.exe.config
+D:\R21 Instanciation\R21 Exercices (Matériel) v21.1.1\Exer3 - Montre\Montre\bin\Debug\ApplicationMontre.exe
+D:\R21 Instanciation\R21 Exercices (Matériel) v21.1.1\Exer3 - Montre\Montre\bin\Debug\ApplicationMontre.pdb
+D:\R21 Instanciation\R21 Exercices (Matériel) v21.1.1\Exer3 - Montre\Montre\bin\Debug\Librairie1N6.pdb
+D:\R21 Instanciation\R21 Exercices (Matériel) v21.1.1\Exer3 - Montre\Montre\bin\Debug\Librairie1N6.xml
+D:\R21 Instanciation\R21 Exercices (Matériel) v21.1.1\Exer3 - Montre\Montre\obj\Debug\AppMontre.csproj.AssemblyReference.cache
+D:\R21 Instanciation\R21 Exercices (Matériel) v21.1.1\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+D:\R21 Instanciation\R21 Exercices (Matériel) v21.1.1\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+D:\R21 Instanciation\R21 Exercices (Matériel) v21.1.1\Exer3 - Montre\Montre\obj\Debug\AppMontre.csproj.GenerateResource.cache
+D:\R21 Instanciation\R21 Exercices (Matériel) v21.1.1\Exer3 - Montre\Montre\obj\Debug\AppMontre.csproj.CoreCompileInputs.cache
+D:\R21 Instanciation\R21 Exercices (Matériel) v21.1.1\Exer3 - Montre\Montre\obj\Debug\AppMontre.csproj.CopyComplete
+D:\R21 Instanciation\R21 Exercices (Matériel) v21.1.1\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.exe
+D:\R21 Instanciation\R21 Exercices (Matériel) v21.1.1\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.pdb
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\bin\Debug\ApplicationMontre.exe.config
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\bin\Debug\ApplicationMontre.exe
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\bin\Debug\ApplicationMontre.pdb
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\bin\Debug\Librairie1N6.pdb
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\bin\Debug\Librairie1N6.xml
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\obj\Debug\AppMontre.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\obj\Debug\AppMontre.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\obj\Debug\AppMontre.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\obj\Debug\AppMontre.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.exe
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.pdb

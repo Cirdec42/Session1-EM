@@ -1,0 +1,42 @@
+C:\Users\stephane.desmeules\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\stephane.desmeules\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\stephane.desmeules\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\stephane.desmeules\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Librairie1N6.dll
+C:\Users\stephane.desmeules\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Librairie1N6.pdb
+C:\Users\stephane.desmeules\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Librairie1N6.xml
+C:\Users\stephane.desmeules\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\stephane.desmeules\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\stephane.desmeules\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\stephane.desmeules\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\EspaceLabo\Tp3 Surplus\R21 Exercices (Solution) v20.1.1\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\EspaceLabo\Tp3 Surplus\R21 Exercices (Solution) v20.1.1\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\EspaceLabo\Tp3 Surplus\R21 Exercices (Solution) v20.1.1\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\EspaceLabo\Tp3 Surplus\R21 Exercices (Solution) v20.1.1\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\Librairie1N6.dll
+C:\EspaceLabo\Tp3 Surplus\R21 Exercices (Solution) v20.1.1\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\Librairie1N6.pdb
+C:\EspaceLabo\Tp3 Surplus\R21 Exercices (Solution) v20.1.1\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\Librairie1N6.xml
+C:\EspaceLabo\Tp3 Surplus\R21 Exercices (Solution) v20.1.1\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\Tp3 Surplus\R21 Exercices (Solution) v20.1.1\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\EspaceLabo\Tp3 Surplus\R21 Exercices (Solution) v20.1.1\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\EspaceLabo\Tp3 Surplus\R21 Exercices (Solution) v20.1.1\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+D:\A21_1N6\R21\R21 Exercices (Matériel) v21.1.0\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\A21_1N6\R21\R21 Exercices (Matériel) v21.1.0\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\A21_1N6\R21\R21 Exercices (Matériel) v21.1.0\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\A21_1N6\R21\R21 Exercices (Matériel) v21.1.0\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\Librairie1N6.pdb
+D:\A21_1N6\R21\R21 Exercices (Matériel) v21.1.0\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\Librairie1N6.xml
+D:\A21_1N6\R21\R21 Exercices (Matériel) v21.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+D:\A21_1N6\R21\R21 Exercices (Matériel) v21.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\A21_1N6\R21\R21 Exercices (Matériel) v21.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+D:\A21_1N6\R21\R21 Exercices (Matériel) v21.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\A21_1N6\R21\R21 Exercices (Matériel) v21.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\Librairie1N6.pdb
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\Librairie1N6.xml
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
