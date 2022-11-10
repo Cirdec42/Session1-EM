@@ -183,3 +183,16 @@ C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer4 - 
 C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer4 - MultiThermostat\Thermostat\obj\Debug\AppMultiThermostat.csproj.CopyComplete
 C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer4 - MultiThermostat\Thermostat\obj\Debug\MultiThermostat.exe
 C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer4 - MultiThermostat\Thermostat\obj\Debug\MultiThermostat.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer4 - MultiThermostat\Thermostat\bin\Debug\MultiThermostat.exe.config
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer4 - MultiThermostat\Thermostat\bin\Debug\MultiThermostat.exe
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer4 - MultiThermostat\Thermostat\bin\Debug\MultiThermostat.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer4 - MultiThermostat\Thermostat\bin\Debug\Librairie1N6.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer4 - MultiThermostat\Thermostat\bin\Debug\Librairie1N6.xml
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer4 - MultiThermostat\Thermostat\obj\Debug\AppMultiThermostat.csproj.AssemblyReference.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer4 - MultiThermostat\Thermostat\obj\Debug\MultiThermostat.FrmPrincipal.resources
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer4 - MultiThermostat\Thermostat\obj\Debug\MultiThermostat.Properties.Resources.resources
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer4 - MultiThermostat\Thermostat\obj\Debug\AppMultiThermostat.csproj.GenerateResource.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer4 - MultiThermostat\Thermostat\obj\Debug\AppMultiThermostat.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer4 - MultiThermostat\Thermostat\obj\Debug\AppMultiThermostat.csproj.CopyComplete
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer4 - MultiThermostat\Thermostat\obj\Debug\MultiThermostat.exe
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer4 - MultiThermostat\Thermostat\obj\Debug\MultiThermostat.pdb

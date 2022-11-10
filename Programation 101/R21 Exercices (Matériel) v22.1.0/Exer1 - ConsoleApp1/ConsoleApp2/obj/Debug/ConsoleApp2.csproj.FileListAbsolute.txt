@@ -40,3 +40,14 @@ C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer1 - 
 C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
 C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\Librairie1N6.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\bin\Debug\Librairie1N6.xml
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer1 - ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

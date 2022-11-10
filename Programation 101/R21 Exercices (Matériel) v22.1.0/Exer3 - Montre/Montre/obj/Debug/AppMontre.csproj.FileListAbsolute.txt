@@ -184,3 +184,16 @@ C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer3 - 
 C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\obj\Debug\AppMontre.csproj.CopyComplete
 C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.exe
 C:\Users\stephane.desmeules\Downloads\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\bin\Debug\ApplicationMontre.exe.config
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\bin\Debug\ApplicationMontre.exe
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\bin\Debug\ApplicationMontre.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\bin\Debug\Librairie1N6.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\bin\Debug\Librairie1N6.xml
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\obj\Debug\AppMontre.csproj.AssemblyReference.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.FrmPrincipal.resources
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.Properties.Resources.resources
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\obj\Debug\AppMontre.csproj.GenerateResource.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\obj\Debug\AppMontre.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\obj\Debug\AppMontre.csproj.CopyComplete
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.exe
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R21 Exercices (Matériel) v22.1.0\Exer3 - Montre\Montre\obj\Debug\ApplicationMontre.pdb

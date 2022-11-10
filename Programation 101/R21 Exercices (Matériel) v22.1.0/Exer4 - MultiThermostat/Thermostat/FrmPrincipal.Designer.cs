@@ -201,6 +201,7 @@
             this.Name = "FrmPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MultiThermostat  ";
+            this.Load += new System.EventHandler(this.FrmPrincipal_Load);
             this.mnuPrincipal.ResumeLayout(false);
             this.mnuPrincipal.PerformLayout();
             this.ResumeLayout(false);
