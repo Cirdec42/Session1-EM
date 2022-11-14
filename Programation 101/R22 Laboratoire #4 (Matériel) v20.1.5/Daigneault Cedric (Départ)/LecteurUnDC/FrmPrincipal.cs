@@ -15,7 +15,7 @@ namespace LecteurUnDC
         // TODO 01 : Déclarer et initialiser à null une variable membre m_objDisqueCourant pour le disque courant.
         //           Déclarer et initialiser à -1 une variable membre m_indexPisteCourante pour l'index de la piste courante.
         DisqueCompact m_objDisqueCourant = null;
-        DisqueCompact m_indexPisteCourante;
+        int m_indexPisteCourante = -1;
         //À compléter
 
 
@@ -31,7 +31,7 @@ namespace LecteurUnDC
             MettreAJourSelonContexte();
 
             // Mettre vos tests ici
-            InitialiserAffichageDuLecteur();
+          //  InitialiserAffichageDuLecteur();
             // À compléter
             
 
@@ -91,7 +91,8 @@ namespace LecteurUnDC
         {
             // TODO 04: Instanciez un nouveau disque de la sorte pSorteDeDisque, 
             //   initialisez la piste courant à 0
-            m_objDisqueCourant = new DisqueCompact(pSorteDeDisque) ;
+            m_objDisqueCourant = new DisqueCompact() ;
+            m_indexPisteCourante = 0;
             //   puis appelez la méthode AfficherInfosDisqueCourant 
             AfficherInfosDisqueCourant();
             //             et la méthode MettreAJourSelonContexte
@@ -116,17 +117,21 @@ namespace LecteurUnDC
             // TODO 05: Afficher les infos du disque courant
             //       Vérifiez s'il y a un disque dans le lecteur
             //           Si oui,  
-            if (true)
+            if (m_objDisqueCourant != null)
             {
+                //             -	Affichez la durée totale en minutes et secondes
+                txtDureeTotaleMMSS.Text = m_objDisqueCourant.Durée.ToString("00:00"); ;
+                //             -    Affichez la piste courante
+                txtPisteCourante.Text = m_indexPisteCourante.ToString("00") +  "/" + m_objDisqueCourant.Pistes.Length ;
+                //  ATTENTION, pour afficher un nombre avec deux chiffres, utilisez .ToString("00")  au lieu de .ToString()
+                txtGenre.Text = m_objDisqueCourant.Genre.ToString();
+                //             -    Appelez la méthode TempsRestant et affichez le temps restant en minutes et secondes
 
             }
-            //             -	Affichez la durée totale en minutes et secondes
-            txtDureeTotaleMMSS.Text = m_objDisqueCourant.Durée.ToString("0000");
-            //             -    Affichez la piste courante
-            txtPisteCourante.Text = m_objDisqueCourant.Pistes.ToString();
-			//  ATTENTION, pour afficher un nombre avec deux chiffres, utilisez .ToString("00")  au lieu de .ToString()
- 			//
-            //             -    Appelez la méthode TempsRestant et affichez le temps restant en minutes et secondes
+            else
+            {
+                InitialiserAffichageDuLecteur();
+            }
             //           Si non,
             //             -	Appelez la méthode InitialiserAffichageDuLecteur
 
@@ -134,7 +139,7 @@ namespace LecteurUnDC
             //             Et faites l'appel de la méthode InsererUnDisque(SorteDeDisque.Test1)
             //             Remarquez qu'on peut voir les infos du disque 
             //             et qu'un disque est inséré dans le lecteur
-			
+
             //À compléter
 
         }
@@ -172,6 +177,7 @@ namespace LecteurUnDC
         {
             // TODO 07A: Appel de la méthode InsererUnDisque avec la SorteDeDisque Normal
             //    ATTENTION: Enlever les deux appels qu'on avait mis dans le constructeur FrmPrincipal()
+            InsererUnDisque(SorteDeDisque.Normal);
 
             //À compléter
         }
@@ -180,7 +186,7 @@ namespace LecteurUnDC
         private void mnuEditionInsererDisqueTest1_Click(object sender, System.EventArgs e)
         {
             // TODO 07B: Appel de la méthode InsererUnDisque avec la SorteDeDisque Test1
-
+            InsererUnDisque(SorteDeDisque.Test1);
             //À compléter
         }
 
@@ -188,7 +194,7 @@ namespace LecteurUnDC
         private void mnuEditionInsererDisqueTest2_Click(object sender, System.EventArgs e)
         {
             // TODO 07C: Appel de la méthode InsererUnDisque avec la SorteDeDisque Test2
-
+            InsererUnDisque(SorteDeDisque.Test2);
             //À compléter
         }
 
@@ -196,7 +202,7 @@ namespace LecteurUnDC
         private void mnuEditionInsererDisqueTest3_Click(object sender, System.EventArgs e)
         {
             // TODO 07D: Appel de la méthode InsererUnDisque avec la SorteDeDisque Test3
-
+            InsererUnDisque(SorteDeDisque.Test3);
             //À compléter
         }
 
@@ -210,9 +216,14 @@ namespace LecteurUnDC
             // TODO 08:   Bouton pour voir la piste suivante
             //     faites les 3 étapes suivantes:
             //           1. Avancez à la piste suivante
+            m_indexPisteCourante += 1;
             //           2. Si vous êtes rendus à la fin du disque courant, revenez à la piste du début
+            if (m_indexPisteCourante > m_objDisqueCourant.Pistes.Length)
+            {
+                m_indexPisteCourante = 0;
+            }
             //           3. Appelez la méthode AfficherInfosDisqueCourant pour que l'affichage s'ajuste
-
+            AfficherInfosDisqueCourant();
             //À compléter
 
         }
@@ -226,17 +237,17 @@ namespace LecteurUnDC
         private void MettreAJourSelonContexte()
         {
             panInfos.Visible = chkPower.Checked;  //Enlever le commentaire comme spécifié dans le todo 02 
-            //panDisque.Visible = chkPower.Checked && m_objDisqueCourant != null; //Enlever le commentaire comme spécifié dans le todo 05 
+            panDisque.Visible = chkPower.Checked && m_objDisqueCourant != null; //Enlever le commentaire comme spécifié dans le todo 05 
 
             //   Suite du TODO 3
-           // --- Menu Édition ------------------------------------------------------------ 			
-			// À compléter
-			
-			
-			
-			
-			
-         
+            // --- Menu Édition ------------------------------------------------------------ 			
+            // À compléter
+
+
+
+
+
+
             //TODO 09:    Mettre à jour les menus et les boutons selon le contexte
             //      Faites les étapes suivantes:
             //           1. Créez une variable bool qui vérifiera que le disque est allumé et s'il y a un disque dans le lecteur
@@ -249,7 +260,23 @@ namespace LecteurUnDC
             //  
 
             // À compléter
+            if (panDisque.Visible = chkPower.Checked && m_objDisqueCourant != null)
+            {
+                btnPistePrecedente.Enabled = true;
+                btnPisteSuivante.Enabled = true;
+                mnuEditionEjecter.Enabled = true;
+                mnuEditionPisteSuivante.Enabled = true;
+                mnuEditionPistePrecedente.Enabled = true;
+            }
+            else
+            {
+                btnPistePrecedente.Enabled = false;
+                btnPisteSuivante.Enabled = false;
+                mnuEditionEjecter.Enabled = false;
+                mnuEditionPisteSuivante.Enabled = false;
+                mnuEditionPistePrecedente.Enabled = false;
 
+            }
 
         }
 
@@ -259,9 +286,14 @@ namespace LecteurUnDC
             // TODO 10:   Bouton pour voir la piste précédente
             //      faites les 3 étapes suivantes:
             //           1. Reculez à la piste suivante
+            m_indexPisteCourante -= 1;
             //           2. Si vous êtes rendus au début du disque courant, revenez à la piste de la fin
+            if (m_indexPisteCourante <0)
+            {
+                m_indexPisteCourante = m_objDisqueCourant.Pistes.Length;
+            }
             //           3. Appelez la méthode AfficherInfosDisqueCourant pour que l'affichage s'ajuste
-
+            AfficherInfosDisqueCourant();
             //À compléter
 
         }
@@ -274,9 +306,12 @@ namespace LecteurUnDC
             // TODO 11:  Éjecter un disque du lecteur
             //     Faites les étapes suivantes:
             //          On met l’index de la piste courante à -1
+            m_indexPisteCourante = -1;
             //          et le disque courant à null 
+            m_objDisqueCourant = null;
             //          Appellez les méthodes AfficherInfosDisqueCourant et MettreAJourSelonContexte
-
+            AfficherInfosDisqueCourant();
+            MettreAJourSelonContexte();
             //À compléter
 
 
