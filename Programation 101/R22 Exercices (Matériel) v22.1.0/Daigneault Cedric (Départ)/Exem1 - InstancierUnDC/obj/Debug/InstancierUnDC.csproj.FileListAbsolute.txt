@@ -1,0 +1,60 @@
+E:\106 A08\6-Objets\Exemples\Instanciations\Code Exem\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+E:\106 A08\6-Objets\Exemples\Instanciations\Code Exem\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+E:\106 A08\6-Objets\Exemples\Instanciations\Code Exem\Exem2 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+E:\106 A08\6-Objets\Exemples\Instanciations\Code Exem\Exem2 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+E:\106 A08\6-Objets\Exemples\Instanciations\Code Exem\Exem2 - InstancierUnDC\InstancierUnDC\bin\Debug\IntroObjets.xml
+E:\106 A08\6-Objets\Exemples\Instanciations\Code Exem\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\ResolveAssemblyReference.cache
+E:\106 A08\6-Objets\Exemples\Instanciations\Code Exem\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmInstancierUnDC.resources
+E:\106 A08\6-Objets\Exemples\Instanciations\Code Exem\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+E:\106 A08\6-Objets\Exemples\Instanciations\Code Exem\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.csproj.GenerateResource.Cache
+M:\BU 106 2008-10-10\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+M:\BU 106 2008-10-10\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+M:\BU 106 2008-10-22\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+M:\BU 106 2008-10-22\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+M:\BU 106 2008-10-22\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+M:\BU 106 2008-10-22\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+M:\BU 106 2008-10-22\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\bin\Debug\IntroObjets.xml
+M:\BU 106 2008-10-22\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\ResolveAssemblyReference.cache
+M:\BU 106 2008-10-22\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmInstancierUnDC.resources
+M:\BU 106 2008-10-22\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+M:\BU 106 2008-10-22\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.csproj.GenerateResource.Cache
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\ResolveAssemblyReference.cache
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmInstancierUnDC.resources
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.csproj.GenerateResource.Cache
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\bin\Debug\IntroObjets.xml
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\bin\Debug\IntroObjets.xml
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\ResolveAssemblyReference.cache
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmInstancierUnDC.resources
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\Exemples\Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.csproj.GenerateResource.Cache
+M:\BU 106 2008-11-11\106 A08 2008 08\6-Objets\Exemples\6.1 Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+M:\BU 106 2008-11-11\106 A08 2008 08\6-Objets\Exemples\6.1 Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+I:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\Exemples\6.1 Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+I:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\Exemples\6.1 Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+I:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\Exemples\6.1 Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+I:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\Exemples\6.1 Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+I:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\Exemples\6.1 Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\bin\Debug\IntroObjets.xml
+I:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\Exemples\6.1 Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\ResolveAssemblyReference.cache
+I:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\Exemples\6.1 Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmInstancierUnDC.resources
+I:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\Exemples\6.1 Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+I:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\Exemples\6.1 Instanciations\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.csproj.GenerateResource.Cache
+I:\106 A09\11-Objets\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+I:\106 A09\11-Objets\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+M:\106 A09\11-Objets\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+M:\106 A09\11-Objets\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+M:\106 A09\11-Objets\Solution\Exem2 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+M:\106 A09\11-Objets\Solution\Exem2 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+M:\106 A09\11-Objets\Solution\Exem2 - InstancierUnDC\InstancierUnDC\bin\Debug\IntroObjets.xml
+M:\106 A09\11-Objets\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\ResolveAssemblyReference.cache
+M:\106 A09\11-Objets\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmInstancierUnDC.resources
+M:\106 A09\11-Objets\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+M:\106 A09\11-Objets\Solution\Exem2 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.csproj.GenerateResource.Cache

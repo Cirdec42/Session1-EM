@@ -1,0 +1,33 @@
+M:\BU 106 2008-10-22\106 A08 2008 08\6-Objets\Exercices\A07 Exercices\Solution\Exer1_AfficherInfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+M:\BU 106 2008-10-22\106 A08 2008 08\6-Objets\Exercices\A07 Exercices\Solution\Exer1_AfficherInfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+M:\BU 106 2008-10-22\106 A08 2008 08\6-Objets\Exercices\A07 Exercices\Solution\Exer1_AfficherInfosPistes\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+M:\BU 106 2008-10-22\106 A08 2008 08\6-Objets\Exercices\A07 Exercices\Solution\Exer1_AfficherInfosPistes\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+M:\BU 106 2008-10-22\106 A08 2008 08\6-Objets\Exercices\A07 Exercices\Solution\Exer1_AfficherInfosPistes\AfficherInfosPistes\bin\Debug\IntroObjets.xml
+M:\BU 106 2008-10-22\106 A08 2008 08\6-Objets\Exercices\A07 Exercices\Solution\Exer1_AfficherInfosPistes\AfficherInfosPistes\obj\Debug\ResolveAssemblyReference.cache
+M:\BU 106 2008-10-22\106 A08 2008 08\6-Objets\Exercices\A07 Exercices\Solution\Exer1_AfficherInfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmAfficherInfosPistes.resources
+M:\BU 106 2008-10-22\106 A08 2008 08\6-Objets\Exercices\A07 Exercices\Solution\Exer1_AfficherInfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+M:\BU 106 2008-10-22\106 A08 2008 08\6-Objets\Exercices\A07 Exercices\Solution\Exer1_AfficherInfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.csproj.GenerateResource.Cache
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1_AfficherInfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1_AfficherInfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1_AfficherInfosPistes\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1_AfficherInfosPistes\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1_AfficherInfosPistes\AfficherInfosPistes\bin\Debug\IntroObjets.xml
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1_AfficherInfosPistes\AfficherInfosPistes\obj\Debug\ResolveAssemblyReference.cache
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1_AfficherInfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmAfficherInfosPistes.resources
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1_AfficherInfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1_AfficherInfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.csproj.GenerateResource.Cache
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1 InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+M:\BU 106 2008-11-01\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1 InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1 InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1 InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+M:\BU 106 2008-11-11\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1 InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+M:\BU 106 2008-11-11\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1 InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+M:\BU 106 2008-11-11\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1 InfosPistes\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+M:\BU 106 2008-11-11\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1 InfosPistes\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+M:\BU 106 2008-11-11\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1 InfosPistes\AfficherInfosPistes\bin\Debug\IntroObjets.xml
+M:\BU 106 2008-11-11\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1 InfosPistes\AfficherInfosPistes\obj\Debug\ResolveAssemblyReference.cache
+M:\BU 106 2008-11-11\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1 InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmAfficherInfosPistes.resources
+M:\BU 106 2008-11-11\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1 InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+M:\BU 106 2008-11-11\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1 InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.csproj.GenerateResource.Cache
+M:\BU 106 2008-11-20\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1 InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+M:\BU 106 2008-11-20\106 A08 2008 08\6-Objets\Exercices\Solution\Exer1 InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb

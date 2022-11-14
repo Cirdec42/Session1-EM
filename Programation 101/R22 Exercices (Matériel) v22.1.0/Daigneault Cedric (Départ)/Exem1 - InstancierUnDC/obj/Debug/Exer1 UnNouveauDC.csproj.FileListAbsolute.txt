@@ -1,0 +1,64 @@
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe.config
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\Librairie1N6.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\Librairie1N6.xml
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmEx1UnDC.resources
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exer1 UnNouveauDC.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exer1 UnNouveauDC.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exer1 UnNouveauDC.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\bin\Debug\InstancierUnDC.exe.config
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\bin\Debug\InstancierUnDC.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\bin\Debug\Librairie1N6.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\bin\Debug\Librairie1N6.xml
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\obj\Debug\Exer1 UnNouveauDC.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\obj\Debug\InstancierUnDC.FrmEx1UnDC.resources
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\obj\Debug\Exer1 UnNouveauDC.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\obj\Debug\Exer1 UnNouveauDC.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\obj\Debug\Exer1 UnNouveauDC.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\obj\Debug\InstancierUnDC.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem1 - InstancierUnDC\bin\Debug\InstancierUnDC.exe.config
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem1 - InstancierUnDC\bin\Debug\InstancierUnDC.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem1 - InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem1 - InstancierUnDC\bin\Debug\Librairie1N6.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem1 - InstancierUnDC\bin\Debug\Librairie1N6.xml
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem1 - InstancierUnDC\obj\Debug\Exer1 UnNouveauDC.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem1 - InstancierUnDC\obj\Debug\InstancierUnDC.FrmEx1UnDC.resources
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem1 - InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem1 - InstancierUnDC\obj\Debug\Exer1 UnNouveauDC.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem1 - InstancierUnDC\obj\Debug\Exer1 UnNouveauDC.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem1 - InstancierUnDC\obj\Debug\Exer1 UnNouveauDC.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem1 - InstancierUnDC\obj\Debug\InstancierUnDC.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem1 - InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\bin\Debug\InstancierUnDC.exe.config
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\bin\Debug\InstancierUnDC.exe
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\bin\Debug\Librairie1N6.pdb
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\bin\Debug\Librairie1N6.xml
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\obj\Debug\Exer1 UnNouveauDC.csprojAssemblyReference.cache
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\obj\Debug\InstancierUnDC.FrmEx1UnDC.resources
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\obj\Debug\Exer1 UnNouveauDC.csproj.GenerateResource.cache
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\obj\Debug\Exer1 UnNouveauDC.csproj.CoreCompileInputs.cache
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\obj\Debug\Exer1 UnNouveauDC.csproj.CopyComplete
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\obj\Debug\InstancierUnDC.exe
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\bin\Debug\InstancierUnDC.exe.config
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\bin\Debug\InstancierUnDC.exe
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\bin\Debug\Librairie1N6.pdb
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\bin\Debug\Librairie1N6.xml
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\obj\Debug\Exer1 UnNouveauDC.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\obj\Debug\InstancierUnDC.FrmEx1UnDC.resources
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\obj\Debug\Exer1 UnNouveauDC.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\obj\Debug\Exer1 UnNouveauDC.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\obj\Debug\Exer1 UnNouveauDC.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\obj\Debug\InstancierUnDC.exe
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem1 - InstancierUnDC\obj\Debug\InstancierUnDC.pdb

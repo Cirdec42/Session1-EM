@@ -1,0 +1,9 @@
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 1.0\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 1.0\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 1.0\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\IntroObjets.xml
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResolveAssemblyReference.cache
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmInstancierUnDC.resources
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exem1 1DC.csproj.GenerateResource.Cache
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb

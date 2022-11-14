@@ -1,0 +1,92 @@
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe.config
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\Librairie1N6.dll
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\Librairie1N6.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\Librairie1N6.xml
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exer2 InfosPistes.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmEx2InfosPistes.resources
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exer2 InfosPistes.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exer2 InfosPistes.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exer2 InfosPistes.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem2 - AfficherInfosPistesDC\bin\Debug\AfficherInfosPistes.exe.config
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem2 - AfficherInfosPistesDC\bin\Debug\AfficherInfosPistes.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem2 - AfficherInfosPistesDC\bin\Debug\AfficherInfosPistes.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem2 - AfficherInfosPistesDC\bin\Debug\Librairie1N6.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem2 - AfficherInfosPistesDC\bin\Debug\Librairie1N6.xml
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.FrmEx2InfosPistes.resources
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\AfficherInfosPistes.exe.config
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\AfficherInfosPistes.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\AfficherInfosPistes.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\Librairie1N6.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\Librairie1N6.xml
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.FrmEx2InfosPistes.resources
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Matériel) v20.1.0\Nom Prénom InstanciationDC (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.pdb
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\AfficherInfosPistes.exe.config
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\AfficherInfosPistes.exe
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\AfficherInfosPistes.pdb
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\Librairie1N6.pdb
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\Librairie1N6.xml
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csprojAssemblyReference.cache
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.FrmEx2InfosPistes.resources
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.GenerateResource.cache
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.CoreCompileInputs.cache
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.CopyComplete
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.exe
+E:\A20_1N6\R22\Chantal\R22 Exercices (Matériel) v20.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.pdb
+D:\A21_1N6\R22\Pour préparer le cours\R22 Exercices (Matériel) v20.1.1\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\AfficherInfosPistes.exe.config
+D:\A21_1N6\R22\Pour préparer le cours\R22 Exercices (Matériel) v20.1.1\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\AfficherInfosPistes.exe
+D:\A21_1N6\R22\Pour préparer le cours\R22 Exercices (Matériel) v20.1.1\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\AfficherInfosPistes.pdb
+D:\A21_1N6\R22\Pour préparer le cours\R22 Exercices (Matériel) v20.1.1\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\Librairie1N6.pdb
+D:\A21_1N6\R22\Pour préparer le cours\R22 Exercices (Matériel) v20.1.1\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\Librairie1N6.xml
+D:\A21_1N6\R22\Pour préparer le cours\R22 Exercices (Matériel) v20.1.1\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.AssemblyReference.cache
+D:\A21_1N6\R22\Pour préparer le cours\R22 Exercices (Matériel) v20.1.1\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.FrmEx2InfosPistes.resources
+D:\A21_1N6\R22\Pour préparer le cours\R22 Exercices (Matériel) v20.1.1\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+D:\A21_1N6\R22\Pour préparer le cours\R22 Exercices (Matériel) v20.1.1\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.GenerateResource.cache
+D:\A21_1N6\R22\Pour préparer le cours\R22 Exercices (Matériel) v20.1.1\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.CoreCompileInputs.cache
+D:\A21_1N6\R22\Pour préparer le cours\R22 Exercices (Matériel) v20.1.1\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.CopyComplete
+D:\A21_1N6\R22\Pour préparer le cours\R22 Exercices (Matériel) v20.1.1\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.exe
+D:\A21_1N6\R22\Pour préparer le cours\R22 Exercices (Matériel) v20.1.1\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.pdb
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\AfficherInfosPistes.exe.config
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\AfficherInfosPistes.exe
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\AfficherInfosPistes.pdb
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\Librairie1N6.pdb
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\Librairie1N6.xml
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.FrmEx2InfosPistes.resources
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.exe
+C:\Users\stephane.desmeules\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.pdb
+C:\Users\2132903\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\AfficherInfosPistes.exe.config
+C:\Users\2132903\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\AfficherInfosPistes.exe
+C:\Users\2132903\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\AfficherInfosPistes.pdb
+C:\Users\2132903\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\Librairie1N6.pdb
+C:\Users\2132903\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\bin\Debug\Librairie1N6.xml
+C:\Users\2132903\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.AssemblyReference.cache
+C:\Users\2132903\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.FrmEx2InfosPistes.resources
+C:\Users\2132903\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+C:\Users\2132903\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.GenerateResource.cache
+C:\Users\2132903\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\Exer2 InfosPistes.csproj.CopyComplete
+C:\Users\2132903\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.exe
+C:\Users\2132903\Downloads\R22 Exercices (Matériel) v22.1.0\Nom Prénom (Départ)\Exem2 - AfficherInfosPistesDC\obj\Debug\AfficherInfosPistes.pdb

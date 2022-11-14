@@ -1,0 +1,197 @@
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exer1- InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exer1- InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\IntroObjets.xml
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResolveAssemblyReference.cache
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmAfficherInfosPistes.resources
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exem4 InfosPistes.csproj.GenerateResource.Cache
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+K:\106 A09\11-Objets\11-Exemples\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+K:\106 A09\11-Objets\11-Exemples\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+K:\106 A09\11-Objets\11-Exemples\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+K:\106 A09\11-Objets\11-Exemples\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+K:\106 A09\11-Objets\11-Exemples\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\IntroObjets.xml
+K:\106 A09\11-Objets\11-Exemples\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResolveAssemblyReference.cache
+K:\106 A09\11-Objets\11-Exemples\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+K:\106 A09\11-Objets\11-Exemples\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exem4 InfosPistes.csproj.GenerateResource.Cache
+K:\106 A09\11-Objets\11-Exemples\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Ex4FrmAfficherInfosPistes.resources
+E:\106 A09\11-Objets\11-Exemples\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+E:\106 A09\11-Objets\11-Exemples\11-InstanciationObjet SOL V 2.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\IntroObjets.xml
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResolveAssemblyReference.cache
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResGen.read.1.tlog
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResGen.write.1.tlog
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\VisualArrays.xml
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\IntroObjets.xml
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\VisualArrays.xml
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResolveAssemblyReference.cache
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResGen.read.1.tlog
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResGen.write.1.tlog
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmEx4InfosPistes.resources
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmEx4InfosPistes.resources
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+E:\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+E:\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\VisualArrays.dll
+E:\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\IntroObjets.xml
+E:\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\VisualArrays.xml
+E:\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResolveAssemblyReference.cache
+E:\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmEx4InfosPistes.resources
+E:\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+E:\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResGen.read.1.tlog
+E:\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResGen.write.1.tlog
+E:\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+E:\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+E:\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\GenerateResource.read.3.tlog
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\IntroObjets.xml
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\VisualArrays.xml
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResolveAssemblyReference.cache
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmEx4InfosPistes.resources
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\GenerateResource.read.3.tlog
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResGen.read.1.tlog
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResGen.write.1.tlog
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\IntroObjets.xml
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\VisualArrays.xml
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResolveAssemblyReference.cache
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmEx4InfosPistes.resources
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\GenerateResource.read.3.tlog
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResGen.read.1.tlog
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResGen.write.1.tlog
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\IntroObjets.xml
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\VisualArrays.xml
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResolveAssemblyReference.cache
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmEx4InfosPistes.resources
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\GenerateResource.read.3.tlog
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResGen.read.1.tlog
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResGen.write.1.tlog
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+F:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+F:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\IntroObjets.dll
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\VisualArrays.dll
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\IntroObjets.xml
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\VisualArrays.xml
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResolveAssemblyReference.cache
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmEx4InfosPistes.resources
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\GenerateResource-ResGen.read.1.tlog
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\GenerateResource.read.3.tlog
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResGen.read.1.tlog
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\ResGen.write.1.tlog
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+J:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\Theo 13 Exer instanciation DisqueCompact Sol\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+J:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\Theo 13 Exer instanciation DisqueCompact Sol\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+E:\__Cours\420-116 A13\Module 2\Theo 13 instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+E:\__Cours\420-116 A13\Module 2\Theo 13 instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+E:\__Cours\420-116 A13\Module 2\Theo 13 instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+E:\__Cours\420-116 A13\Module 2\Theo 13 instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+E:\__Cours\420-116 A13\Module 2\Theo 13 instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\IntroObjets.xml
+E:\__Cours\420-116 A13\Module 2\Theo 13 instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\VisualArrays.xml
+E:\__Cours\420-116 A13\Module 2\Theo 13 instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exem4 InfosPistes.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A13\Module 2\Theo 13 instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmEx4InfosPistes.resources
+E:\__Cours\420-116 A13\Module 2\Theo 13 instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+E:\__Cours\420-116 A13\Module 2\Theo 13 instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exem4 InfosPistes.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A13\Module 2\R22 Instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+E:\__Cours\420-116 A13\Module 2\R22 Instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+E:\__Cours\420-116 A13\Module 2\R22 Instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+E:\__Cours\420-116 A13\Module 2\R22 Instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+E:\__Cours\420-116 A13\Module 2\R22 Instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\IntroObjets.xml
+E:\__Cours\420-116 A13\Module 2\R22 Instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\VisualArrays.xml
+E:\__Cours\420-116 A13\Module 2\R22 Instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exem4 InfosPistes.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A13\Module 2\R22 Instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmEx4InfosPistes.resources
+E:\__Cours\420-116 A13\Module 2\R22 Instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+E:\__Cours\420-116 A13\Module 2\R22 Instanciation\Exer instanciation DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exem4 InfosPistes.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\IntroObjets.xml
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\VisualArrays.xml
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exem4 InfosPistes.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmEx4InfosPistes.resources
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Sol)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exem4 InfosPistes.csproj.GenerateResource.Cache
+E:\_Cours 116-A14\R20 Instanciation (Theorie)\Exer 1-4 new DisqueCompact (Solution) v14.0.9)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exem4 InfosPistes.csprojResolveAssemblyReference.cache
+E:\_Cours 116-A14\R20 Instanciation (Theorie)\Exer 1-4 new DisqueCompact (Solution) v14.0.9)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmEx4InfosPistes.resources
+E:\_Cours 116-A14\R20 Instanciation (Theorie)\Exer 1-4 new DisqueCompact (Solution) v14.0.9)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+E:\_Cours 116-A14\R20 Instanciation (Theorie)\Exer 1-4 new DisqueCompact (Solution) v14.0.9)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exem4 InfosPistes.csproj.GenerateResource.Cache
+E:\_Cours 116-A14\R20 Instanciation (Theorie)\Exer 1-4 new DisqueCompact (Solution) v14.0.9)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+E:\_Cours 116-A14\R20 Instanciation (Theorie)\Exer 1-4 new DisqueCompact (Solution) v14.0.9)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+E:\_Cours 116-A14\R20 Instanciation (Theorie)\Exer 1-4 new DisqueCompact (Solution) v14.0.9)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+E:\_Cours 116-A14\R20 Instanciation (Theorie)\Exer 1-4 new DisqueCompact (Solution) v14.0.9)\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Solution) v14.0.99\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Solution) v14.0.99\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Solution) v14.0.99\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Solution) v14.0.99\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Solution) v14.0.99\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exem4 InfosPistes.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Solution) v14.0.99\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmEx4InfosPistes.resources
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Solution) v14.0.99\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Solution) v14.0.99\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exem4 InfosPistes.csproj.GenerateResource.Cache
+E:\_420-116 A15\Module 2\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+E:\_420-116 A15\Module 2\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+E:\_420-116 A16\Module 2\R21- Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+E:\_420-116 A16\Module 2\R21- Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+E:\_420-116 A16\Module 2\R21- Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+E:\_420-116 A16\Module 2\R21- Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+E:\_420-116 A16\Module 2\R21- Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+E:\_420-116 A16\Module 2\R21- Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+E:\_420-116 A16\Module 2\R21- Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exem4 InfosPistes.csprojResolveAssemblyReference.cache
+E:\_420-116 A16\Module 2\R21- Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmEx4InfosPistes.resources
+E:\_420-116 A16\Module 2\R21- Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+E:\_420-116 A16\Module 2\R21- Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exem4 InfosPistes.csproj.GenerateResource.Cache
+E:\_Cours 116 A16\R21 Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+E:\_Cours 116 A16\R21 Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+H:\_Autres\_Autres cours\_Cours 116 A17\A17 R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+H:\_Autres\_Autres cours\_Cours 116 A17\A17 R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exem4 InfosPistes.csprojAssemblyReference.cache
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmEx4InfosPistes.resources
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exem4 InfosPistes.csproj.GenerateResource.cache
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exem4 InfosPistes.csproj.CoreCompileInputs.cache
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\Exem4 InfosPistes.csproj.CopyComplete
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem4 - AfficherInfosPistesDC\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb

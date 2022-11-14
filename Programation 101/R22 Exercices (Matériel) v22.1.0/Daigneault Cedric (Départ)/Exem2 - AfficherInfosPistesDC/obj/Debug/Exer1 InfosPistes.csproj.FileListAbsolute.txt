@@ -1,0 +1,18 @@
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 1.0\Exer1- InfosPistes\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 1.0\Exer1- InfosPistes\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 1.0\Exer1- InfosPistes\AfficherInfosPistes\bin\Debug\IntroObjets.xml
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 1.0\Exer1- InfosPistes\AfficherInfosPistes\obj\Debug\ResolveAssemblyReference.cache
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 1.0\Exer1- InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmAfficherInfosPistes.resources
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 1.0\Exer1- InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 1.0\Exer1- InfosPistes\AfficherInfosPistes\obj\Debug\Exer1 InfosPistes.csproj.GenerateResource.Cache
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 1.0\Exer1- InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 1.0\Exer1- InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exer1- InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.exe
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exer1- InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.pdb
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exer1- InfosPistes\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.exe
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exer1- InfosPistes\AfficherInfosPistes\bin\Debug\AfficherInfosPistes.pdb
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exer1- InfosPistes\AfficherInfosPistes\bin\Debug\IntroObjets.xml
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exer1- InfosPistes\AfficherInfosPistes\obj\Debug\ResolveAssemblyReference.cache
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exer1- InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.FrmAfficherInfosPistes.resources
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exer1- InfosPistes\AfficherInfosPistes\obj\Debug\AfficherInfosPistes.Properties.Resources.resources
+K:\106 A09\11-Objets\11-InstanciationObjet SOL V 2.0\Exer1- InfosPistes\AfficherInfosPistes\obj\Debug\Exer1 InfosPistes.csproj.GenerateResource.Cache

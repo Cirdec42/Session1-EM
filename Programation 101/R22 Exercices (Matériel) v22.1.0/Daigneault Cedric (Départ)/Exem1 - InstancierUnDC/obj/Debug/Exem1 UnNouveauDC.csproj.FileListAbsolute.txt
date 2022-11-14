@@ -1,0 +1,164 @@
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\IntroObjets.xml
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResolveAssemblyReference.cache
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmEx1UnDC.resources
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResGen.read.1.tlog
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResGen.write.1.tlog
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+E:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\IntroObjets.xml
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResolveAssemblyReference.cache
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmEx1UnDC.resources
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResGen.read.1.tlog
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResGen.write.1.tlog
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+G:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+E:\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+E:\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+E:\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+E:\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+E:\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\IntroObjets.xml
+E:\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResolveAssemblyReference.cache
+E:\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmEx1UnDC.resources
+E:\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+E:\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResGen.read.1.tlog
+E:\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResGen.write.1.tlog
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\IntroObjets.xml
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResolveAssemblyReference.cache
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmEx1UnDC.resources
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResGen.read.1.tlog
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\106 A10\05 Objets\Exemples DisqueCompact\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResGen.write.1.tlog
+F:\106 A10\05 Objets\Exemples DisqueCompact VA avec static\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+F:\106 A10\05 Objets\Exemples DisqueCompact VA avec static\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\IntroObjets.xml
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResolveAssemblyReference.cache
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmEx1UnDC.resources
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResGen.read.1.tlog
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResGen.write.1.tlog
+F:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+F:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+F:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+F:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+F:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\IntroObjets.xml
+F:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResolveAssemblyReference.cache
+F:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmEx1UnDC.resources
+F:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+F:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResGen.read.1.tlog
+F:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\_Mes Cours\_420-106 A10\Module 3\Exem DisqueCompact VA\ExemDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResGen.write.1.tlog
+F:\_Mes Cours\_420-106 A10\Module 3\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+F:\_Mes Cours\_420-106 A10\Module 3\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\IntroObjets.dll
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\IntroObjets.xml
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResolveAssemblyReference.cache
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmEx1UnDC.resources
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\GenerateResource-ResGen.read.1.tlog
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResGen.read.1.tlog
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\A)Exem DisqueCompact VA\ExempleDisqueCompact VA\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\ResGen.write.1.tlog
+J:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\Theo 13 Exer instanciation DisqueCompact Sol\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+J:\_Mes Cours\_420-106 A11\_Module 3\Theo 13\Theo 13 Exer instanciation DisqueCompact Sol\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+E:\__Cours\420-116 A13\Module 2\Theo 13 instanciation\Exer instanciation DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+E:\__Cours\420-116 A13\Module 2\Theo 13 instanciation\Exer instanciation DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+E:\__Cours\420-116 A13\Module 2\Theo 13 instanciation\Exer instanciation DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+E:\__Cours\420-116 A13\Module 2\Theo 13 instanciation\Exer instanciation DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+E:\__Cours\420-116 A13\Module 2\Theo 13 instanciation\Exer instanciation DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\IntroObjets.xml
+E:\__Cours\420-116 A13\Module 2\Theo 13 instanciation\Exer instanciation DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exem1 UnNouveauDC.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A13\Module 2\Theo 13 instanciation\Exer instanciation DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmEx1UnDC.resources
+E:\__Cours\420-116 A13\Module 2\Theo 13 instanciation\Exer instanciation DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+E:\__Cours\420-116 A13\Module 2\Theo 13 instanciation\Exer instanciation DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exem1 UnNouveauDC.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A13\Module 2\R22 Instanciation\Exer instanciation DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+E:\__Cours\420-116 A13\Module 2\R22 Instanciation\Exer instanciation DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+G:\__Cours\420-116 A14\420-116 A13(final)\Module 2\R22 Instanciation\Exer 1-4 instanciation DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+G:\__Cours\420-116 A14\420-116 A13(final)\Module 2\R22 Instanciation\Exer 1-4 instanciation DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exem1 UnNouveauDC.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmEx1UnDC.resources
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Sol)\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exem1 UnNouveauDC.csproj.GenerateResource.Cache
+E:\_Cours 116-A14\R20 Instanciation (Theorie)\Exer 1-4 new DisqueCompact (Solution) v14.0.9)\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+E:\_Cours 116-A14\R20 Instanciation (Theorie)\Exer 1-4 new DisqueCompact (Solution) v14.0.9)\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+E:\_Cours 116-A14\R20 Instanciation (Theorie)\Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+E:\_Cours 116-A14\R20 Instanciation (Theorie)\Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Solution) v14.0.99\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Solution) v14.0.99\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Solution) v14.0.99\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Solution) v14.0.99\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Solution) v14.0.99\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exem1 UnNouveauDC.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Solution) v14.0.99\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmEx1UnDC.resources
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Solution) v14.0.99\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+E:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Solution) v14.0.99\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exem1 UnNouveauDC.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+G:\__Cours\420-116 A14\Module 2\R20 Instanciation\Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+E:\_420-116 A15\Module 2\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+E:\_420-116 A15\Module 2\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+E:\_420-116 A16\Module 2\R21- Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+E:\_420-116 A16\Module 2\R21- Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+E:\_420-116 A16\Module 2\R21- Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+E:\_420-116 A16\Module 2\R21- Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+E:\_Cours 116 A16\R21 Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+E:\_Cours 116 A16\R21 Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+E:\_Cours 116 A16\R21 Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+E:\_Cours 116 A16\R21 Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+E:\_Cours 116 A16\R21 Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exem1 UnNouveauDC.csprojResolveAssemblyReference.cache
+E:\_Cours 116 A16\R21 Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmEx1UnDC.resources
+E:\_Cours 116 A16\R21 Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+E:\_Cours 116 A16\R21 Instanciation\R21 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exem1 UnNouveauDC.csproj.GenerateResource.Cache
+H:\_Autres\_Autres cours\_Cours 116 A17\A17 R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+H:\_Autres\_Autres cours\_Cours 116 A17\A17 R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exem1 UnNouveauDC.csprojAssemblyReference.cache
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmEx1UnDC.resources
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exem1 UnNouveauDC.csproj.GenerateResource.cache
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exem1 UnNouveauDC.csproj.CoreCompileInputs.cache
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exem1 UnNouveauDC.csproj.CopyComplete
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+H:\_Cours 1N6 A19\R20 Instanciation\R20 Exer 1-4 new DisqueCompact (Solution) v14.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\bin\Debug\InstancierUnDC.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exem1 UnNouveauDC.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.FrmEx1UnDC.resources
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exem1 UnNouveauDC.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exem1 UnNouveauDC.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\Exem1 UnNouveauDC.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Exercices (Solution) v20.1.0\Exem1 - InstancierUnDC\InstancierUnDC\obj\Debug\InstancierUnDC.pdb
