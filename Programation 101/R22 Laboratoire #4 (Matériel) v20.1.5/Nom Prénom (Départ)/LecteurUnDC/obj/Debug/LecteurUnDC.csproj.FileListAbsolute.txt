@@ -1,0 +1,237 @@
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\TP6\A07\Partie 1 - Un lecteur DC V1.2\Solution Tp6_P1\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\TP6\A07\Partie 1 - Un lecteur DC V1.2\Solution Tp6_P1\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\TP6\P1- Un lecteurDC\Solution TP6 P1\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\TP6\P1- Un lecteurDC\Solution TP6 P1\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\TP6\P1- Un lecteurDC\Solution TP6 P1\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\TP6\P1- Un lecteurDC\Solution TP6 P1\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\TP6\P1- Un lecteurDC\Solution TP6 P1\LecteurUnDC\bin\Debug\IntroObjets.xml
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\TP6\P1- Un lecteurDC\Solution TP6 P1\LecteurUnDC\obj\Debug\ResolveAssemblyReference.cache
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\TP6\P1- Un lecteurDC\Solution TP6 P1\LecteurUnDC\obj\Debug\LecteurUnDC.FrmLecteurUnCD.resources
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\TP6\P1- Un lecteurDC\Solution TP6 P1\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+M:\BU 106 2008-11-05\106 A08 2008 08\6-Objets\TP6\P1- Un lecteurDC\Solution TP6 P1\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.GenerateResource.Cache
+N:\A08-106\6-Objets CB\TP6 P1- Un lecteurDC\Solution TP6 P1\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+N:\A08-106\6-Objets CB\TP6 P1- Un lecteurDC\Solution TP6 P1\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+N:\A08-106\6-Objets CB\TP6 P1- Un lecteurDC\Solution TP6 P1\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+N:\A08-106\6-Objets CB\TP6 P1- Un lecteurDC\Solution TP6 P1\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+N:\A08-106\6-Objets CB\TP6 P1- Un lecteurDC\Solution TP6 P1\LecteurUnDC\bin\Debug\IntroObjets.xml
+N:\A08-106\6-Objets CB\TP6 P1- Un lecteurDC\Solution TP6 P1\LecteurUnDC\obj\Debug\ResolveAssemblyReference.cache
+N:\A08-106\6-Objets CB\TP6 P1- Un lecteurDC\Solution TP6 P1\LecteurUnDC\obj\Debug\LecteurUnDC.FrmLecteurUnCD.resources
+N:\A08-106\6-Objets CB\TP6 P1- Un lecteurDC\Solution TP6 P1\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+N:\A08-106\6-Objets CB\TP6 P1- Un lecteurDC\Solution TP6 P1\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.GenerateResource.Cache
+D:\Claire\6-Objets\TP6\Partie 1\Solution TP6 P1\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+D:\Claire\6-Objets\TP6\Partie 1\Solution TP6 P1\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+D:\Claire\6-Objets\TP6\Partie 1\Solution TP6 P1\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+D:\Claire\6-Objets\TP6\Partie 1\Solution TP6 P1\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+D:\Claire\6-Objets\TP6\Partie 1\Solution TP6 P1\LecteurUnDC\bin\Debug\IntroObjets.xml
+D:\Claire\6-Objets\TP6\Partie 1\Solution TP6 P1\LecteurUnDC\obj\Debug\ResolveAssemblyReference.cache
+D:\Claire\6-Objets\TP6\Partie 1\Solution TP6 P1\LecteurUnDC\obj\Debug\LecteurUnDC.FrmLecteurUnCD.resources
+D:\Claire\6-Objets\TP6\Partie 1\Solution TP6 P1\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+D:\Claire\6-Objets\TP6\Partie 1\Solution TP6 P1\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.GenerateResource.Cache
+M:\BU 106 2008-11-27\106 A08 2008 08\6-Objets\TP6\Partie 1\Solution TP6 P1 V1.0\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+M:\BU 106 2008-11-27\106 A08 2008 08\6-Objets\TP6\Partie 1\Solution TP6 P1 V1.0\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+I:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\TP6\Partie 1\Solution TP6 P1 V1.0\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+I:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\TP6\Partie 1\Solution TP6 P1 V1.0\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+M:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\A08 TP6 Lecteur DC\Solution TP6 P1 V1.0\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+M:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\A08 TP6 Lecteur DC\Solution TP6 P1 V1.0\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+M:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\A08 TP6 Lecteur DC\Solution TP6 P1 V1.0\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+M:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\A08 TP6 Lecteur DC\Solution TP6 P1 V1.0\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+M:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\A08 TP6 Lecteur DC\Solution TP6 P1 V1.0\LecteurUnDC\bin\Debug\IntroObjets.xml
+M:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\A08 TP6 Lecteur DC\Solution TP6 P1 V1.0\LecteurUnDC\obj\Debug\ResolveAssemblyReference.cache
+M:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\A08 TP6 Lecteur DC\Solution TP6 P1 V1.0\LecteurUnDC\obj\Debug\LecteurUnDC.FrmLecteurUnCD.resources
+M:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\A08 TP6 Lecteur DC\Solution TP6 P1 V1.0\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+M:\BU 106 2008-12-10\106 A08 2008 08\6-Objets\A08 TP6 Lecteur DC\Solution TP6 P1 V1.0\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.GenerateResource.Cache
+E:\_Cours 106-A09\_Module 3\A09 TP6 Lecteur DC\P1 Lecteur 1 DC\Solution TP6 P1 V1.0\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+E:\_Cours 106-A09\_Module 3\A09 TP6 Lecteur DC\P1 Lecteur 1 DC\Solution TP6 P1 V1.0\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+K:\106 A09\11-Objets\A09 TP9 Lecteur DC\P1 Lecteur 1 DC\Solution TP6 P1 V1.0\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+K:\106 A09\11-Objets\A09 TP9 Lecteur DC\P1 Lecteur 1 DC\Solution TP6 P1 V1.0\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+K:\106 A09\11-Objets\A09 TP9 Lecteur DC\P1 Lecteur 1 DC\Solution TP6 P1 V1.0\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+K:\106 A09\11-Objets\A09 TP9 Lecteur DC\P1 Lecteur 1 DC\Solution TP6 P1 V1.0\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+K:\106 A09\11-Objets\A09 TP9 Lecteur DC\P1 Lecteur 1 DC\Solution TP6 P1 V1.0\LecteurUnDC\bin\Debug\IntroObjets.xml
+K:\106 A09\11-Objets\A09 TP9 Lecteur DC\P1 Lecteur 1 DC\Solution TP6 P1 V1.0\LecteurUnDC\obj\Debug\ResolveAssemblyReference.cache
+K:\106 A09\11-Objets\A09 TP9 Lecteur DC\P1 Lecteur 1 DC\Solution TP6 P1 V1.0\LecteurUnDC\obj\Debug\LecteurUnDC.FrmLecteurUnCD.resources
+K:\106 A09\11-Objets\A09 TP9 Lecteur DC\P1 Lecteur 1 DC\Solution TP6 P1 V1.0\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+K:\106 A09\11-Objets\A09 TP9 Lecteur DC\P1 Lecteur 1 DC\Solution TP6 P1 V1.0\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.GenerateResource.Cache
+K:\106 A09\11-Objets\Exer1\Exer1 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+K:\106 A09\11-Objets\Exer1\Exer1 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+K:\106 A09\11-Objets\Exer1\Exer1 Lecteur 1 DC SOL\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+K:\106 A09\11-Objets\Exer1\Exer1 Lecteur 1 DC SOL\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+K:\106 A09\11-Objets\Exer1\Exer1 Lecteur 1 DC SOL\LecteurUnDC\bin\Debug\IntroObjets.xml
+K:\106 A09\11-Objets\Exer1\Exer1 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\ResolveAssemblyReference.cache
+K:\106 A09\11-Objets\Exer1\Exer1 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.FrmLecteurUnCD.resources
+K:\106 A09\11-Objets\Exer1\Exer1 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+K:\106 A09\11-Objets\Exer1\Exer1 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.GenerateResource.Cache
+N:\106 A10\11-Objets\Exer1\Exer1 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+N:\106 A10\11-Objets\Exer1\Exer1 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+N:\106 A10\11-Objets\Exer1\Exer1 Lecteur 1 DC SOL\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+N:\106 A10\11-Objets\Exer1\Exer1 Lecteur 1 DC SOL\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+N:\106 A10\11-Objets\Exer1\Exer1 Lecteur 1 DC SOL\LecteurUnDC\bin\Debug\IntroObjets.xml
+N:\106 A10\11-Objets\Exer1\Exer1 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\ResolveAssemblyReference.cache
+N:\106 A10\11-Objets\Exer1\Exer1 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.FrmLecteurUnCD.resources
+N:\106 A10\11-Objets\Exer1\Exer1 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+N:\106 A10\11-Objets\Exer1\Exer1 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\ResGen.read.1.tlog
+N:\106 A10\11-Objets\Exer1\Exer1 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\ResGen.write.1.tlog
+N:\106 A10\00-TPs\TP7 LecteurCD\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+N:\106 A10\00-TPs\TP7 LecteurCD\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+E:\106 A10\00-TPs\TP7 LecteurCD\A10 TP7\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+E:\106 A10\00-TPs\TP7 LecteurCD\A10 TP7\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+E:\_Mes Cours\_420-106 A10\Module 3\A10TP7\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+E:\_Mes Cours\_420-106 A10\Module 3\A10TP7\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+E:\_Mes Cours\_420-106 A10\Module 3\A10TP7\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+E:\_Mes Cours\_420-106 A10\Module 3\A10TP7\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+E:\_Mes Cours\_420-106 A10\Module 3\A10TP7\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\bin\Debug\IntroObjets.xml
+E:\_Mes Cours\_420-106 A10\Module 3\A10TP7\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\ResolveAssemblyReference.cache
+E:\_Mes Cours\_420-106 A10\Module 3\A10TP7\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.FrmLecteurUnCD.resources
+E:\_Mes Cours\_420-106 A10\Module 3\A10TP7\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+E:\_Mes Cours\_420-106 A10\Module 3\A10TP7\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Mes Cours\_420-106 A10\Module 3\A10TP7\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Mes Cours\_420-106 A10\Module 3\A10TP7\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\ResGen.read.1.tlog
+E:\_Mes Cours\_420-106 A10\Module 3\A10TP7\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Mes Cours\_420-106 A10\Module 3\A10TP7\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\ResGen.write.1.tlog
+E:\_Mes Cours\_420-106 A10\Module 3\TP7\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+E:\_Mes Cours\_420-106 A10\Module 3\TP7\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+K:\_Mes Cours\_420-106 A11\_Module 3\TP8 Lecteur 1 DC\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+K:\_Mes Cours\_420-106 A11\_Module 3\TP8 Lecteur 1 DC\A10 TP7 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+E:\_Mes Cours\_420-106 A11\_Module 3\TP8 Lecteur 1 DC\TP8 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+E:\_Mes Cours\_420-106 A11\_Module 3\TP8 Lecteur 1 DC\TP8 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+E:\_Mes Cours\_420-106 A11\_Module 3\TP8 Lecteur 1 DC\TP8 Lecteur 1 DC SOL\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+E:\_Mes Cours\_420-106 A11\_Module 3\TP8 Lecteur 1 DC\TP8 Lecteur 1 DC SOL\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+E:\_Mes Cours\_420-106 A11\_Module 3\TP8 Lecteur 1 DC\TP8 Lecteur 1 DC SOL\LecteurUnDC\bin\Debug\IntroObjets.xml
+E:\_Mes Cours\_420-106 A11\_Module 3\TP8 Lecteur 1 DC\TP8 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\ResolveAssemblyReference.cache
+E:\_Mes Cours\_420-106 A11\_Module 3\TP8 Lecteur 1 DC\TP8 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.FrmLecteurUnCD.resources
+E:\_Mes Cours\_420-106 A11\_Module 3\TP8 Lecteur 1 DC\TP8 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+E:\_Mes Cours\_420-106 A11\_Module 3\TP8 Lecteur 1 DC\TP8 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Mes Cours\_420-106 A11\_Module 3\TP8 Lecteur 1 DC\TP8 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\_Mes Cours\_420-106 A11\_Module 3\TP8 Lecteur 1 DC\TP8 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\ResGen.read.1.tlog
+E:\_Mes Cours\_420-106 A11\_Module 3\TP8 Lecteur 1 DC\TP8 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Mes Cours\_420-106 A11\_Module 3\TP8 Lecteur 1 DC\TP8 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\ResGen.write.1.tlog
+G:\__Cours\420-116 A13\TP\TP5 Lecteur 1 DC\Tp5 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+G:\__Cours\420-116 A13\TP\TP5 Lecteur 1 DC\Tp5 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+G:\__Cours\420-116 A13\TP\TP5 Lecteur 1 DC\Tp5 Lecteur 1 DC SOL\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+G:\__Cours\420-116 A13\TP\TP5 Lecteur 1 DC\Tp5 Lecteur 1 DC SOL\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+G:\__Cours\420-116 A13\TP\TP5 Lecteur 1 DC\Tp5 Lecteur 1 DC SOL\LecteurUnDC\bin\Debug\IntroObjets.xml
+G:\__Cours\420-116 A13\TP\TP5 Lecteur 1 DC\Tp5 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A13\TP\TP5 Lecteur 1 DC\Tp5 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.FrmLecteurUnCD.resources
+G:\__Cours\420-116 A13\TP\TP5 Lecteur 1 DC\Tp5 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+G:\__Cours\420-116 A13\TP\TP5 Lecteur 1 DC\Tp5 Lecteur 1 DC SOL\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A13\TP\TP5 Lecteur 1 DC\Tp5 Lecteur 1 DC (Sol) v1.1\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+E:\__Cours\420-116 A13\TP\TP5 Lecteur 1 DC\Tp5 Lecteur 1 DC (Sol) v1.1\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+G:\__Cours\420-116 A14\420-116 A13(final)\TP\Tp5 Lecteur 1 DC\Tp5 Lecteur 1 DC (Sol) v1.1\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+G:\__Cours\420-116 A14\420-116 A13(final)\TP\Tp5 Lecteur 1 DC\Tp5 Lecteur 1 DC (Sol) v1.1\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+G:\__Cours\420-116 A14\Module 2\Trav Form4 Lecteur 1 DC\TravForm 4 Lecteur 1 DC (Solution) v14.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+G:\__Cours\420-116 A14\Module 2\Trav Form4 Lecteur 1 DC\TravForm 4 Lecteur 1 DC (Solution) v14.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+G:\__Cours\420-116 A14\Module 2\Trav Form4 Lecteur 1 DC\TravForm 4 Lecteur 1 DC (Solution) v14.1.0\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+G:\__Cours\420-116 A14\Module 2\Trav Form4 Lecteur 1 DC\TravForm 4 Lecteur 1 DC (Solution) v14.1.0\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+G:\__Cours\420-116 A14\Module 2\Trav Form4 Lecteur 1 DC\TravForm 4 Lecteur 1 DC (Solution) v14.1.0\LecteurUnDC\bin\Debug\IntroObjets.xml
+G:\__Cours\420-116 A14\Module 2\Trav Form4 Lecteur 1 DC\TravForm 4 Lecteur 1 DC (Solution) v14.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A14\Module 2\Trav Form4 Lecteur 1 DC\TravForm 4 Lecteur 1 DC (Solution) v14.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.FrmLecteurUnCD.resources
+G:\__Cours\420-116 A14\Module 2\Trav Form4 Lecteur 1 DC\TravForm 4 Lecteur 1 DC (Solution) v14.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+G:\__Cours\420-116 A14\Module 2\Trav Form4 Lecteur 1 DC\TravForm 4 Lecteur 1 DC (Solution) v14.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.GenerateResource.Cache
+E:\_Cours 116-A14\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v14.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+E:\_Cours 116-A14\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v14.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+E:\_Cours 116-A14\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v14.1.0\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+E:\_Cours 116-A14\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v14.1.0\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+E:\_Cours 116-A14\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v14.1.0\LecteurUnDC\bin\Debug\IntroObjets.xml
+E:\_Cours 116-A14\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v14.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.csprojResolveAssemblyReference.cache
+E:\_Cours 116-A14\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v14.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.FrmLecteurUnCD.resources
+E:\_Cours 116-A14\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v14.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+E:\_Cours 116-A14\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v14.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.GenerateResource.Cache
+E:\_Cours 116 A15\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v14.1.1\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+E:\_Cours 116 A15\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v14.1.1\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+I:\_Cours 116 A15\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+I:\_Cours 116 A15\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+I:\_Cours 116 A15\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+I:\_Cours 116 A15\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+I:\_Cours 116 A15\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\bin\Debug\IntroObjets.xml
+I:\_Cours 116 A15\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.csprojResolveAssemblyReference.cache
+I:\_Cours 116 A15\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.FrmLecteurUnCD.resources
+I:\_Cours 116 A15\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+I:\_Cours 116 A15\R22 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.GenerateResource.Cache
+H:\_Cours 116 A17\A17 R21 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+H:\_Cours 116 A17\A17 R21 TravForm4 LecteurCD (Labo)\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+H:\_Cours 116 A17\A17 R21 TravForm4 LecteurCD\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+H:\_Cours 116 A17\A17 R21 TravForm4 LecteurCD\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+H:\_Cours 116 A17\A17 R21 TravForm4 LecteurCD\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+H:\_Cours 116 A17\A17 R21 TravForm4 LecteurCD\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+H:\_Cours 116 A17\A17 R21 TravForm4 LecteurCD\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\bin\Debug\IntroObjets.xml
+H:\_Cours 116 A17\A17 R21 TravForm4 LecteurCD\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.csprojResolveAssemblyReference.cache
+H:\_Cours 116 A17\A17 R21 TravForm4 LecteurCD\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.FrmLecteurUnCD.resources
+H:\_Cours 116 A17\A17 R21 TravForm4 LecteurCD\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+H:\_Cours 116 A17\A17 R21 TravForm4 LecteurCD\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.GenerateResource.Cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\bin\Debug\LecteurUnDC.exe.config
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.FrmLecteurUnCD.resources
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\bin\Debug\Librairie1N6.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\TravForm 4 Lecteur 1 DC (Solution) v15.1.0\LecteurUnDC\bin\Debug\Librairie1N6.xml
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Solution) v20.1.0\LecteurUnDC\bin\Debug\LecteurUnDC.exe.config
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Solution) v20.1.0\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Solution) v20.1.0\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Solution) v20.1.0\LecteurUnDC\bin\Debug\Librairie1N6.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Solution) v20.1.0\LecteurUnDC\bin\Debug\Librairie1N6.xml
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Solution) v20.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Solution) v20.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.FrmLecteurUnCD.resources
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Solution) v20.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Solution) v20.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Solution) v20.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Solution) v20.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Solution) v20.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Solution) v20.1.0\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\bin\Debug\LecteurUnDC.exe.config
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\bin\Debug\Librairie1N6.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\bin\Debug\Librairie1N6.xml
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+J:\A20 1N6 Les Capsules\R22 Laboratoire #4\_Code C#\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.FrmPrincipal.resources
+E:\A20_1N6\R22\Chantal\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\bin\Debug\LecteurUnDC.exe.config
+E:\A20_1N6\R22\Chantal\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+E:\A20_1N6\R22\Chantal\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+E:\A20_1N6\R22\Chantal\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\bin\Debug\Librairie1N6.pdb
+E:\A20_1N6\R22\Chantal\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\bin\Debug\Librairie1N6.xml
+E:\A20_1N6\R22\Chantal\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.csprojAssemblyReference.cache
+E:\A20_1N6\R22\Chantal\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.FrmPrincipal.resources
+E:\A20_1N6\R22\Chantal\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+E:\A20_1N6\R22\Chantal\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.GenerateResource.cache
+E:\A20_1N6\R22\Chantal\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.CoreCompileInputs.cache
+E:\A20_1N6\R22\Chantal\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.CopyComplete
+E:\A20_1N6\R22\Chantal\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+E:\A20_1N6\R22\Chantal\R22 Laboratoire #4 (Matériel) v20.1.0\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+E:\A20_1N6\R22\Chantal\v20.1.1\R22 Laboratoire #4 (Matériel) v20.1.1\Nom Prénom (Solution CV)\LecteurUnDC\bin\Debug\LecteurUnDC.exe.config
+E:\A20_1N6\R22\Chantal\v20.1.1\R22 Laboratoire #4 (Matériel) v20.1.1\Nom Prénom (Solution CV)\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+E:\A20_1N6\R22\Chantal\v20.1.1\R22 Laboratoire #4 (Matériel) v20.1.1\Nom Prénom (Solution CV)\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+E:\A20_1N6\R22\Chantal\v20.1.1\R22 Laboratoire #4 (Matériel) v20.1.1\Nom Prénom (Solution CV)\LecteurUnDC\bin\Debug\Librairie1N6.pdb
+E:\A20_1N6\R22\Chantal\v20.1.1\R22 Laboratoire #4 (Matériel) v20.1.1\Nom Prénom (Solution CV)\LecteurUnDC\bin\Debug\Librairie1N6.xml
+E:\A20_1N6\R22\Chantal\v20.1.1\R22 Laboratoire #4 (Matériel) v20.1.1\Nom Prénom (Solution CV)\LecteurUnDC\obj\Debug\LecteurUnDC.csprojAssemblyReference.cache
+E:\A20_1N6\R22\Chantal\v20.1.1\R22 Laboratoire #4 (Matériel) v20.1.1\Nom Prénom (Solution CV)\LecteurUnDC\obj\Debug\LecteurUnDC.FrmPrincipal.resources
+E:\A20_1N6\R22\Chantal\v20.1.1\R22 Laboratoire #4 (Matériel) v20.1.1\Nom Prénom (Solution CV)\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+E:\A20_1N6\R22\Chantal\v20.1.1\R22 Laboratoire #4 (Matériel) v20.1.1\Nom Prénom (Solution CV)\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.GenerateResource.cache
+E:\A20_1N6\R22\Chantal\v20.1.1\R22 Laboratoire #4 (Matériel) v20.1.1\Nom Prénom (Solution CV)\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.CoreCompileInputs.cache
+E:\A20_1N6\R22\Chantal\v20.1.1\R22 Laboratoire #4 (Matériel) v20.1.1\Nom Prénom (Solution CV)\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.CopyComplete
+E:\A20_1N6\R22\Chantal\v20.1.1\R22 Laboratoire #4 (Matériel) v20.1.1\Nom Prénom (Solution CV)\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+E:\A20_1N6\R22\Chantal\v20.1.1\R22 Laboratoire #4 (Matériel) v20.1.1\Nom Prénom (Solution CV)\LecteurUnDC\obj\Debug\LecteurUnDC.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R22 Laboratoire #4 (Matériel) v20.1.5\Nom Prénom (Départ)\LecteurUnDC\bin\Debug\LecteurUnDC.exe.config
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R22 Laboratoire #4 (Matériel) v20.1.5\Nom Prénom (Départ)\LecteurUnDC\bin\Debug\LecteurUnDC.exe
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R22 Laboratoire #4 (Matériel) v20.1.5\Nom Prénom (Départ)\LecteurUnDC\bin\Debug\LecteurUnDC.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R22 Laboratoire #4 (Matériel) v20.1.5\Nom Prénom (Départ)\LecteurUnDC\bin\Debug\Librairie1N6.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R22 Laboratoire #4 (Matériel) v20.1.5\Nom Prénom (Départ)\LecteurUnDC\bin\Debug\Librairie1N6.xml
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R22 Laboratoire #4 (Matériel) v20.1.5\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.AssemblyReference.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R22 Laboratoire #4 (Matériel) v20.1.5\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.FrmPrincipal.resources
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R22 Laboratoire #4 (Matériel) v20.1.5\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.Properties.Resources.resources
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R22 Laboratoire #4 (Matériel) v20.1.5\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.GenerateResource.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R22 Laboratoire #4 (Matériel) v20.1.5\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R22 Laboratoire #4 (Matériel) v20.1.5\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.csproj.CopyComplete
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R22 Laboratoire #4 (Matériel) v20.1.5\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.exe
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R22 Laboratoire #4 (Matériel) v20.1.5\Nom Prénom (Départ)\LecteurUnDC\obj\Debug\LecteurUnDC.pdb

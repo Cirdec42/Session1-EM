@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LecteurUnDC.Properties.Resources.resources
+obj\Debug\LecteurUnDC.csproj.GenerateResource.Cache
+bin\Debug\LecteurUnDC.exe
+bin\Debug\LecteurUnDC.pdb
+obj\Debug\LecteurUnDC.exe
+obj\Debug\LecteurUnDC.pdb
+bin\Debug\IntroObjets.xml
+bin\Debug\IntroObjets.pdb
+obj\Debug\LecteurUnDC.FrmLecteurUnCD.resources
