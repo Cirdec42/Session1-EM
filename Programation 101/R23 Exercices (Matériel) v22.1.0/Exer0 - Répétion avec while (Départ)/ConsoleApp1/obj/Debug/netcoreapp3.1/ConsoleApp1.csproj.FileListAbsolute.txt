@@ -1,0 +1,41 @@
+C:\Users\stephane.desmeules\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\stephane.desmeules\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\stephane.desmeules\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\stephane.desmeules\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\stephane.desmeules\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\stephane.desmeules\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\stephane.desmeules\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\stephane.desmeules\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\stephane.desmeules\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\stephane.desmeules\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\stephane.desmeules\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer0 - Répétion avec while (Départ)\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

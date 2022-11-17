@@ -1,0 +1,173 @@
+E:\_Cours 106-A12\Materiel Exercices\EditeurListeMots\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Materiel Exercices\EditeurListeMots\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Materiel Exercices\EditeurListeMots\EditeurListeMots\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Materiel Exercices\EditeurListeMots\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+E:\_Cours 106-A12\Materiel Exercices\EditeurListeMots\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+E:\_Cours 106-A12\Materiel Exercices\EditeurListeMots\EditeurListeMots\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Materiel Exercices\EditeurListeMots\EditeurListeMots\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours 106-A12\Materiel Exercices\EditeurListeMots\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Materiel Exercices\EditeurListeMots\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots\EditeurListeMots\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots\EditeurListeMots\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots\EditeurListeMots\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots V1\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots V1\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots V1\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots V1\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots V1\EditeurListeMots\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots V1\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots V1\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots V1\EditeurListeMots\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Materiel Exercices\A12_Exercice_EditeurListeMots V1\EditeurListeMots\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #20\A12_Exercice_EditeurListeMots V1\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Module 2\Rencontre #20\A12_Exercice_EditeurListeMots V1\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex1_EditeurListeMots (ListBox)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex1_EditeurListeMots (ListBox)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex1_EditeurListeMots (ListBox)\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex1_EditeurListeMots (ListBox)\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex1_EditeurListeMots (ListBox)\EditeurListeMots\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex1_EditeurListeMots (ListBox)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex1_EditeurListeMots (ListBox)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex1_EditeurListeMots (ListBox)\EditeurListeMots\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #20\Ex1_EditeurListeMots (ListBox)\EditeurListeMots\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\__Cours\420-106 A12\R20\R20 Ex1_EditeurListeMots (ListBox) v1.0 SD\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+F:\__Cours\420-106 A12\R20\R20 Ex1_EditeurListeMots (ListBox) v1.0 SD\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+F:\__Cours\420-106 A12\R20\R20 Ex1_EditeurListeMots (ListBox) v1.0 SD\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+F:\__Cours\420-106 A12\R20\R20 Ex1_EditeurListeMots (ListBox) v1.0 SD\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+F:\__Cours\420-106 A12\R20\R20 Ex1_EditeurListeMots (ListBox) v1.0 SD\EditeurListeMots\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\__Cours\420-106 A12\R20\R20 Ex1_EditeurListeMots (ListBox) v1.0 SD\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+F:\__Cours\420-106 A12\R20\R20 Ex1_EditeurListeMots (ListBox) v1.0 SD\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+F:\__Cours\420-106 A12\R20\R20 Ex1_EditeurListeMots (ListBox) v1.0 SD\EditeurListeMots\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\__Cours\420-106 A12\R20\R20 Ex1_EditeurListeMots (ListBox) v1.0 SD\EditeurListeMots\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\__Cours\420-106 A12\R20\R20 Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+F:\__Cours\420-106 A12\R20\R20 Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+F:\__Cours\420-106 A12\R20\R20 Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+F:\__Cours\420-106 A12\R20\R20 Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+F:\__Cours\420-106 A12\R20\R20 Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\__Cours\420-106 A12\R20\R20 Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+F:\__Cours\420-106 A12\R20\R20 Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+F:\__Cours\420-106 A12\R20\R20 Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\__Cours\420-106 A12\R20\R20 Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\__Cours\420-ZZ Archive locale\420-106 A12(final)\R20 kit V1.2 PC\R20 Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+E:\__Cours\420-ZZ Archive locale\420-106 A12(final)\R20 kit V1.2 PC\R20 Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+E:\__Cours\420-ZZ Archive locale\420-106 A12(final)\R20 kit V1.2 PC\R20 Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+E:\__Cours\420-ZZ Archive locale\420-106 A12(final)\R20 kit V1.2 PC\R20 Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+E:\__Cours\420-ZZ Archive locale\420-106 A12(final)\R20 kit V1.2 PC\R20 Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csprojResolveAssemblyReference.cache
+E:\__Cours\420-ZZ Archive locale\420-106 A12(final)\R20 kit V1.2 PC\R20 Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+E:\__Cours\420-ZZ Archive locale\420-106 A12(final)\R20 kit V1.2 PC\R20 Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+E:\__Cours\420-ZZ Archive locale\420-106 A12(final)\R20 kit V1.2 PC\R20 Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A13\Module 2\R24 kit V1.2 PC\Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+E:\__Cours\420-116 A13\Module 2\R24 kit V1.2 PC\Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+G:\__Cours\420-116 A14\420-116 A13(final)\Module 2\R24 kit V1.2 PC\Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+G:\__Cours\420-116 A14\420-116 A13(final)\Module 2\R24 kit V1.2 PC\Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csprojResolveAssemblyReference.cache
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex1_EditeurListeMots (ListBox) v1.1 PC\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.Cache
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex1_ListeMots -ListBox (Solution) v14.0.9\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex1_ListeMots -ListBox (Solution) v14.0.9\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex1_ListeMots -ListBox (Solution) v14.0.9\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex1_ListeMots -ListBox (Solution) v14.0.9\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex1_ListeMots -ListBox (Solution) v14.0.9\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csprojResolveAssemblyReference.cache
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex1_ListeMots -ListBox (Solution) v14.0.9\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex1_ListeMots -ListBox (Solution) v14.0.9\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers kit V1.2 PC\Ex1_ListeMots -ListBox (Solution) v14.0.9\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.Cache
+G:\_420-116 A15\Module 2\R21- Fichiers\R21 EX1-3 Fichiers (Solutions)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+G:\_420-116 A15\Module 2\R21- Fichiers\R21 EX1-3 Fichiers (Solutions)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+G:\_420-116 A15\Module 2\R21- Fichiers\R21 EX1-3 Fichiers (Solutions)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+G:\_420-116 A15\Module 2\R21- Fichiers\R21 EX1-3 Fichiers (Solutions)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+G:\_420-116 A15\Module 2\R21- Fichiers\R21 EX1-3 Fichiers (Solutions)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csprojResolveAssemblyReference.cache
+G:\_420-116 A15\Module 2\R21- Fichiers\R21 EX1-3 Fichiers (Solutions)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+G:\_420-116 A15\Module 2\R21- Fichiers\R21 EX1-3 Fichiers (Solutions)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+G:\_420-116 A15\Module 2\R21- Fichiers\R21 EX1-3 Fichiers (Solutions)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.Cache
+E:\_420-116 A16\Module 2\R22- Fichiers\R21 EX1-3 Fichiers (Solutions)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+E:\_420-116 A16\Module 2\R22- Fichiers\R21 EX1-3 Fichiers (Solutions)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+E:\_420-116 A16\Module 2\R22- Fichiers\R22 EX1-3 Fichiers (Solutions)\R22 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+E:\_420-116 A16\Module 2\R22- Fichiers\R22 EX1-3 Fichiers (Solutions)\R22 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+C:\Espace Labo\R22 EX1-3 Fichiers (Solutions)\R22 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+C:\Espace Labo\R22 EX1-3 Fichiers (Solutions)\R22 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+C:\Espace Labo\R22 EX1-3 Fichiers (Solutions)\R22 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+C:\Espace Labo\R22 EX1-3 Fichiers (Solutions)\R22 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+C:\Espace Labo\R22 EX1-3 Fichiers (Solutions)\R22 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csprojResolveAssemblyReference.cache
+C:\Espace Labo\R22 EX1-3 Fichiers (Solutions)\R22 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+C:\Espace Labo\R22 EX1-3 Fichiers (Solutions)\R22 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+C:\Espace Labo\R22 EX1-3 Fichiers (Solutions)\R22 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.Cache
+G:\AUT2019\1N6_19\R22 Fichiers texte et zone de liste\R22 EX1-4 (Solution)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\bin\Debug\EditeurListeMots.exe.config
+G:\AUT2019\1N6_19\R22 Fichiers texte et zone de liste\R22 EX1-4 (Solution)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+G:\AUT2019\1N6_19\R22 Fichiers texte et zone de liste\R22 EX1-4 (Solution)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+G:\AUT2019\1N6_19\R22 Fichiers texte et zone de liste\R22 EX1-4 (Solution)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csprojAssemblyReference.cache
+G:\AUT2019\1N6_19\R22 Fichiers texte et zone de liste\R22 EX1-4 (Solution)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+G:\AUT2019\1N6_19\R22 Fichiers texte et zone de liste\R22 EX1-4 (Solution)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+G:\AUT2019\1N6_19\R22 Fichiers texte et zone de liste\R22 EX1-4 (Solution)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.cache
+G:\AUT2019\1N6_19\R22 Fichiers texte et zone de liste\R22 EX1-4 (Solution)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.CoreCompileInputs.cache
+G:\AUT2019\1N6_19\R22 Fichiers texte et zone de liste\R22 EX1-4 (Solution)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+G:\AUT2019\1N6_19\R22 Fichiers texte et zone de liste\R22 EX1-4 (Solution)\R21 Ex1_ListeMots -ListBox (Solution) v14.1.0\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer1 - ListeMots -ListBox\EditeurListeMots\bin\Debug\EditeurListeMots.exe.config
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer1 - ListeMots -ListBox\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer1 - ListeMots -ListBox\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer1 - ListeMots -ListBox\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer1 - ListeMots -ListBox\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer1 - ListeMots -ListBox\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer1 - ListeMots -ListBox\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer1 - ListeMots -ListBox\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer1 - ListeMots -ListBox\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer1 - ListeMots -ListBox\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer2 - ListeMots -StreamWriter\EditeurListeMots\bin\Debug\EditeurListeMots.exe.config
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer2 - ListeMots -StreamWriter\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer2 - ListeMots -StreamWriter\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer2 - ListeMots -StreamWriter\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer2 - ListeMots -StreamWriter\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer2 - ListeMots -StreamWriter\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer2 - ListeMots -StreamWriter\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer2 - ListeMots -StreamWriter\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer2 - ListeMots -StreamWriter\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+J:\A20 1N6 Les Capsules\R23 Fichier texte\_Code C#\R23 Exercices (Solution)\Exer2 - ListeMots -StreamWriter\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+G:\AUT2020\1N6_20\Module3\R23 Fichiers texte et zone de liste\R23 Exercices (Matériel) v20.1.0\Exer2 - ListeMots -StreamWriter\EditeurListeMots\bin\Debug\EditeurListeMots.exe.config
+G:\AUT2020\1N6_20\Module3\R23 Fichiers texte et zone de liste\R23 Exercices (Matériel) v20.1.0\Exer2 - ListeMots -StreamWriter\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+G:\AUT2020\1N6_20\Module3\R23 Fichiers texte et zone de liste\R23 Exercices (Matériel) v20.1.0\Exer2 - ListeMots -StreamWriter\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+G:\AUT2020\1N6_20\Module3\R23 Fichiers texte et zone de liste\R23 Exercices (Matériel) v20.1.0\Exer2 - ListeMots -StreamWriter\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csprojAssemblyReference.cache
+G:\AUT2020\1N6_20\Module3\R23 Fichiers texte et zone de liste\R23 Exercices (Matériel) v20.1.0\Exer2 - ListeMots -StreamWriter\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+G:\AUT2020\1N6_20\Module3\R23 Fichiers texte et zone de liste\R23 Exercices (Matériel) v20.1.0\Exer2 - ListeMots -StreamWriter\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+G:\AUT2020\1N6_20\Module3\R23 Fichiers texte et zone de liste\R23 Exercices (Matériel) v20.1.0\Exer2 - ListeMots -StreamWriter\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.cache
+G:\AUT2020\1N6_20\Module3\R23 Fichiers texte et zone de liste\R23 Exercices (Matériel) v20.1.0\Exer2 - ListeMots -StreamWriter\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+G:\AUT2020\1N6_20\Module3\R23 Fichiers texte et zone de liste\R23 Exercices (Matériel) v20.1.0\Exer2 - ListeMots -StreamWriter\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+C:\Users\stephane.desmeules\Documents\_A21 Prog 1\R23 Intro Fichier texte\R23 Exercices (Matériel) v20.1.1\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\bin\Debug\EditeurListeMots.exe.config
+C:\Users\stephane.desmeules\Documents\_A21 Prog 1\R23 Intro Fichier texte\R23 Exercices (Matériel) v20.1.1\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+C:\Users\stephane.desmeules\Documents\_A21 Prog 1\R23 Intro Fichier texte\R23 Exercices (Matériel) v20.1.1\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+C:\Users\stephane.desmeules\Documents\_A21 Prog 1\R23 Intro Fichier texte\R23 Exercices (Matériel) v20.1.1\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Documents\_A21 Prog 1\R23 Intro Fichier texte\R23 Exercices (Matériel) v20.1.1\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Documents\_A21 Prog 1\R23 Intro Fichier texte\R23 Exercices (Matériel) v20.1.1\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+C:\Users\stephane.desmeules\Documents\_A21 Prog 1\R23 Intro Fichier texte\R23 Exercices (Matériel) v20.1.1\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Documents\_A21 Prog 1\R23 Intro Fichier texte\R23 Exercices (Matériel) v20.1.1\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Documents\_A21 Prog 1\R23 Intro Fichier texte\R23 Exercices (Matériel) v20.1.1\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+C:\Users\stephane.desmeules\Documents\_A21 Prog 1\R23 Intro Fichier texte\R23 Exercices (Matériel) v20.1.1\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\bin\Debug\EditeurListeMots.exe.config
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+C:\Users\stephane.desmeules\Downloads\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\bin\Debug\EditeurListeMots.exe.config
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\bin\Debug\EditeurListeMots.exe
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\bin\Debug\EditeurListeMots.pdb
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.AssemblyReference.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.FrmPrincipal.resources
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.Properties.Resources.resources
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.GenerateResource.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.csproj.CoreCompileInputs.cache
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.exe
+C:\Users\2132903\Desktop\Ecole-EM\Programation 101\R23 Exercices (Matériel) v22.1.0\Exer2 - ListeMots -StreamWriter (Départ)\EditeurListeMots\obj\x86\Debug\EditeurListeMots.pdb
