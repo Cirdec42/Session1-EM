@@ -1,0 +1,13 @@
+E:\_Cours 106-A12\Module 2\Rencontre #22\R22 Ex2_Ventes Tab2D\AppVentesTab2D\bin\Debug\Tab2D_Ventes.exe
+E:\_Cours 106-A12\Module 2\Rencontre #22\R22 Ex2_Ventes Tab2D\AppVentesTab2D\bin\Debug\Tab2D_Ventes.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #22\R22 Ex2_Ventes Tab2D\AppVentesTab2D\obj\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Module 2\Rencontre #22\R22 Ex2_Ventes Tab2D\AppVentesTab2D\obj\Debug\Exercice_Tab2D_Ventes.FrmPrincipal.resources
+E:\_Cours 106-A12\Module 2\Rencontre #22\R22 Ex2_Ventes Tab2D\AppVentesTab2D\obj\Debug\Exercice_Tab2D_Ventes.Properties.Resources.resources
+E:\_Cours 106-A12\Module 2\Rencontre #22\R22 Ex2_Ventes Tab2D\AppVentesTab2D\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #22\R22 Ex2_Ventes Tab2D\AppVentesTab2D\obj\Debug\ResGen.read.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #22\R22 Ex2_Ventes Tab2D\AppVentesTab2D\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #22\R22 Ex2_Ventes Tab2D\AppVentesTab2D\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #22\R22 Ex2_Ventes Tab2D\AppVentesTab2D\obj\Debug\Tab2D_Ventes.exe
+E:\_Cours 106-A12\Module 2\Rencontre #22\R22 Ex2_Ventes Tab2D\AppVentesTab2D\obj\Debug\Tab2D_Ventes.pdb
+E:\_Cours 106-A12\Module 2\Rencontre #22\R22 Ex2_Ventes Tab2D\AppVentesTab2D\bin\Debug\VisualArrays.dll
+E:\_Cours 106-A12\Module 2\Rencontre #22\R22 Ex2_Ventes Tab2D\AppVentesTab2D\bin\Debug\VisualArrays.xml

@@ -1,0 +1,12 @@
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\bin\Debug\AppSudoku.exe.config
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\bin\Debug\AppSudoku.exe
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\bin\Debug\AppSudoku.pdb
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.exe
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.pdb

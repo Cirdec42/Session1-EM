@@ -1,0 +1,195 @@
+F:\_VisualArrayStuff\Exemples Sup VA\AppJeuOccurences\AppJeuOccurences\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_VisualArrayStuff\Exemples Sup VA\AppJeuOccurences\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.FrmPrincipal.resources
+F:\_VisualArrayStuff\Exemples Sup VA\AppJeuOccurences\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.Properties.Resources.resources
+F:\_VisualArrayStuff\Exemples Sup VA\AppJeuOccurences\AppJeuOccurences\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_VisualArrayStuff\Exemples Sup VA\AppJeuOccurences\AppJeuOccurences\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_VisualArrayStuff\Exemples Sup VA\AppJeuOccurences\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+F:\_VisualArrayStuff\Exemples Sup VA\AppJeuOccurences\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe
+F:\_VisualArrayStuff\Exemples Sup VA\AppJeuOccurences\AppJeuOccurences\bin\Debug\AppJeuOccurences.pdb
+F:\_VisualArrayStuff\Exemples Sup VA\AppJeuOccurences\AppJeuOccurences\bin\Debug\VisualArrays.dll
+F:\_VisualArrayStuff\Exemples Sup VA\AppJeuOccurences\AppJeuOccurences\bin\Debug\VisualArrays.xml
+F:\_VisualArrayStuff\Exemples Sup VA\AppJeuOccurences\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+F:\_VisualArrayStuff\Exemples Sup VA\AppJeuOccurences\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb
+F:\_VisualArrayStuff\_AUTOMNE 2011 v001\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+F:\_VisualArrayStuff\_AUTOMNE 2011 v001\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+F:\_VisualArrayStuff\_AUTOMNE 2011 v001\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb
+F:\_VisualArrayStuff\_AUTOMNE 2011 v001\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe
+F:\_VisualArrayStuff\_AUTOMNE 2011 v001\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\AppJeuOccurences.pdb
+F:\_VisualArrayStuff\_AUTOMNE 2011 v001\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\VisualArrays.dll
+F:\_VisualArrayStuff\_AUTOMNE 2011 v001\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\VisualArrays.xml
+F:\_VisualArrayStuff\_AUTOMNE 2011 v001\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_VisualArrayStuff\_AUTOMNE 2011 v001\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.FrmPrincipal.resources
+F:\_VisualArrayStuff\_AUTOMNE 2011 v001\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.Properties.Resources.resources
+F:\_VisualArrayStuff\_AUTOMNE 2011 v001\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_VisualArrayStuff\_AUTOMNE 2011 v001\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_VisualArrayStuff\_AUTOMNE 2011 v002\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+F:\_VisualArrayStuff\_AUTOMNE 2011 v002\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+F:\_VisualArrayStuff\_AUTOMNE 2011 v002\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb
+F:\_VisualArrayStuff\_AUTOMNE 2011 v002\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe
+F:\_VisualArrayStuff\_AUTOMNE 2011 v002\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\AppJeuOccurences.pdb
+F:\_VisualArrayStuff\_AUTOMNE 2011 v002\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\VisualArrays.dll
+F:\_VisualArrayStuff\_AUTOMNE 2011 v002\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\VisualArrays.xml
+F:\_VisualArrayStuff\_AUTOMNE 2011 v002\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_VisualArrayStuff\_AUTOMNE 2011 v002\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.FrmPrincipal.resources
+F:\_VisualArrayStuff\_AUTOMNE 2011 v002\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.Properties.Resources.resources
+F:\_VisualArrayStuff\_AUTOMNE 2011 v002\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_VisualArrayStuff\_AUTOMNE 2011 v002\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_VisualArrayStuff\_AUTOMNE 2011 v003\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+F:\_VisualArrayStuff\_AUTOMNE 2011 v003\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+F:\_VisualArrayStuff\_AUTOMNE 2011 v003\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb
+F:\_VisualArrayStuff\_AUTOMNE 2011 v003\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe
+F:\_VisualArrayStuff\_AUTOMNE 2011 v003\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\AppJeuOccurences.pdb
+F:\_VisualArrayStuff\_AUTOMNE 2011 v003\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\VisualArrays.dll
+F:\_VisualArrayStuff\_AUTOMNE 2011 v003\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\VisualArrays.xml
+F:\_VisualArrayStuff\_AUTOMNE 2011 v003\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_VisualArrayStuff\_AUTOMNE 2011 v003\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.FrmPrincipal.resources
+F:\_VisualArrayStuff\_AUTOMNE 2011 v003\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.Properties.Resources.resources
+F:\_VisualArrayStuff\_AUTOMNE 2011 v003\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_VisualArrayStuff\_AUTOMNE 2011 v003\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+E:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+E:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb
+E:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe
+E:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\AppJeuOccurences.pdb
+E:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.FrmPrincipal.resources
+E:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.Properties.Resources.resources
+E:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\GenerateResource.write.1.tlog
+B:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+B:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+B:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb
+B:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe
+B:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\AppJeuOccurences.pdb
+B:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\VisualArrays.dll
+B:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\bin\Debug\VisualArrays.xml
+B:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\ResolveAssemblyReference.cache
+B:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.FrmPrincipal.resources
+B:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.Properties.Resources.resources
+B:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\GenerateResource.read.1.tlog
+B:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\AppJeuOccurences (avec Strike)\AppJeuOccurences\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\Sol_Tp3 A11 Occurences\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+E:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\Sol_Tp3 A11 Occurences\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+E:\_Cours CEB-A11\Semaine 05 - Kit complet\Tp3 Kit complet\Sol_Tp3 A11 Occurences\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb
+E:\_Cours CEB-A11\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\Sol_Tp3 A11 Occurences\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+E:\_Cours CEB-A11\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\Sol_Tp3 A11 Occurences\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+E:\_Cours CEB-A11\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\Sol_Tp3 A11 Occurences\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb
+E:\_Cours CEB-A11\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\Sol_Tp3 A11 Occurences\AppJeuOccurences\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-A11\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\Sol_Tp3 A11 Occurences\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.FrmPrincipal.resources
+E:\_Cours CEB-A11\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\Sol_Tp3 A11 Occurences\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.Properties.Resources.resources
+E:\_Cours CEB-A11\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\Sol_Tp3 A11 Occurences\AppJeuOccurences\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-A11\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\Sol_Tp3 A11 Occurences\AppJeuOccurences\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours CEB-A11\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\Sol_Tp3 A11 Occurences\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe
+E:\_Cours CEB-A11\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\Sol_Tp3 A11 Occurences\AppJeuOccurences\bin\Debug\AppJeuOccurences.pdb
+E:\_Cours CEB-A11\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\Sol_Tp3 A11 Occurences\AppJeuOccurences\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-A11\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\Sol_Tp3 A11 Occurences\AppJeuOccurences\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\H12 Sol_Tp3 Occurences\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\H12 Sol_Tp3 Occurences\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\H12 Sol_Tp3 Occurences\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\H12 Sol_Tp3 Occurences\AppJeuOccurences\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\H12 Sol_Tp3 Occurences\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.FrmPrincipal.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\H12 Sol_Tp3 Occurences\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.Properties.Resources.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\H12 Sol_Tp3 Occurences\AppJeuOccurences\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\H12 Sol_Tp3 Occurences\AppJeuOccurences\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\H12 Sol_Tp3 Occurences\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\H12 Sol_Tp3 Occurences\AppJeuOccurences\bin\Debug\AppJeuOccurences.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\H12 Sol_Tp3 Occurences\AppJeuOccurences\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet\Tp3 Kit complet\H12 Sol_Tp3 Occurences\AppJeuOccurences\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet _H12\Tp3 Kit complet _H12\H12 Sol_Tp3 Occurences\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet _H12\Tp3 Kit complet _H12\H12 Sol_Tp3 Occurences\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet _H12\Tp3 Kit complet _H12\H12 Sol_Tp3 Occurences\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet _H12\Tp3 Kit complet _H12\H12 Sol_Tp3 Occurences\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet _H12\Tp3 Kit complet _H12\H12 Sol_Tp3 Occurences\AppJeuOccurences\bin\Debug\AppJeuOccurences.pdb
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet _H12\Tp3 Kit complet _H12\H12 Sol_Tp3 Occurences\AppJeuOccurences\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet _H12\Tp3 Kit complet _H12\H12 Sol_Tp3 Occurences\AppJeuOccurences\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet _H12\Tp3 Kit complet _H12\H12 Sol_Tp3 Occurences\AppJeuOccurences\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet _H12\Tp3 Kit complet _H12\H12 Sol_Tp3 Occurences\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.FrmPrincipal.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet _H12\Tp3 Kit complet _H12\H12 Sol_Tp3 Occurences\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.Properties.Resources.resources
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet _H12\Tp3 Kit complet _H12\H12 Sol_Tp3 Occurences\AppJeuOccurences\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-H12\_Module 1 (Sem 01 a 07)\Semaine 05 - Kit complet _H12\Tp3 Kit complet _H12\H12 Sol_Tp3 Occurences\AppJeuOccurences\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours 106-A12\Matériel Tps\A12 Tp3 Occurences v1.0\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+E:\_Cours 106-A12\Matériel Tps\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+E:\_Cours 106-A12\Matériel Tps\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb
+E:\_Cours 106-A12\Matériel Tps\A12 Tp3 Occurences v1.0\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe
+E:\_Cours 106-A12\Matériel Tps\A12 Tp3 Occurences v1.0\AppJeuOccurences\bin\Debug\AppJeuOccurences.pdb
+E:\_Cours 106-A12\Matériel Tps\A12 Tp3 Occurences v1.0\AppJeuOccurences\bin\Debug\VisualArrays.dll
+E:\_Cours 106-A12\Matériel Tps\A12 Tp3 Occurences v1.0\AppJeuOccurences\bin\Debug\VisualArrays.xml
+E:\_Cours 106-A12\Matériel Tps\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours 106-A12\Matériel Tps\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.FrmPrincipal.resources
+E:\_Cours 106-A12\Matériel Tps\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.Properties.Resources.resources
+E:\_Cours 106-A12\Matériel Tps\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours 106-A12\Matériel Tps\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\_Mes Cours\_A12 420-106\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+J:\_Mes Cours\_A12 420-106\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+J:\_Mes Cours\_A12 420-106\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb
+J:\_Mes Cours\_A12 420-106\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe
+J:\_Mes Cours\_A12 420-106\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\bin\Debug\AppJeuOccurences.pdb
+J:\_Mes Cours\_A12 420-106\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\bin\Debug\VisualArrays.xml
+J:\_Mes Cours\_A12 420-106\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\_Mes Cours\_A12 420-106\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.FrmPrincipal.resources
+J:\_Mes Cours\_A12 420-106\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.Properties.Resources.resources
+J:\_Mes Cours\_A12 420-106\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\_Mes Cours\_A12 420-106\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\bin\Debug\AppJeuOccurences.pdb
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\bin\Debug\VisualArrays.xml
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.FrmPrincipal.resources
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.Properties.Resources.resources
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences v1.0\AppJeuOccurences\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences Kit 1.1\A12 Tp3 Occurences v1.1\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences Kit 1.1\A12 Tp3 Occurences v1.1\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences Kit 1.1\A12 Tp3 Occurences v1.1\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences Kit 1.1\A12 Tp3 Occurences v1.1\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences Kit 1.1\A12 Tp3 Occurences v1.1\AppJeuOccurences\bin\Debug\AppJeuOccurences.pdb
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences Kit 1.1\A12 Tp3 Occurences v1.1\AppJeuOccurences\bin\Debug\VisualArrays.xml
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences Kit 1.1\A12 Tp3 Occurences v1.1\AppJeuOccurences\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences Kit 1.1\A12 Tp3 Occurences v1.1\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.FrmPrincipal.resources
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences Kit 1.1\A12 Tp3 Occurences v1.1\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.Properties.Resources.resources
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences Kit 1.1\A12 Tp3 Occurences v1.1\AppJeuOccurences\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences Kit 1.1\A12 Tp3 Occurences v1.1\AppJeuOccurences\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences Kit 1.1\A12 Tp3 Occurences v1.1\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+J:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences Kit 1.1\A12 Tp3 Occurences v1.1\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+J:\_Mes Cours\420-106 A12\TP\A12 Tp3 Occurences Kit 1.1\A12 Tp3 Occurences v1.1\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb
+E:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+E:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+E:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb
+E:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe
+E:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\bin\Debug\AppJeuOccurences.pdb
+E:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\bin\Debug\VisualArrays.xml
+E:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.FrmPrincipal.resources
+E:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.Properties.Resources.resources
+E:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+G:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+G:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb
+G:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.csprojResolveAssemblyReference.cache
+G:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.FrmPrincipal.resources
+G:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.Properties.Resources.resources
+G:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.csproj.GenerateResource.Cache
+G:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe
+G:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\bin\Debug\AppJeuOccurences.pdb
+G:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences v1.1\AppJeuOccurences\bin\Debug\VisualArrays.xml
+G:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences (Sol) v1.3\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+G:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences (Sol) v1.3\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+G:\__Cours\420-116 A13\Module 1\R07 L\Tp exr Occurences Kit V1.1 PC\R07 TP exr Occurences (Sol) v1.3\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb
+E:\__Cours\420-116 A14\Module 1\R07- L TP exr Jeu Occurences Kit V1.3 PC\R07 TP exr Occurences (Sol) v1.3\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+E:\__Cours\420-116 A14\Module 1\R07- L TP exr Jeu Occurences Kit V1.3 PC\R07 TP exr Occurences (Sol) v1.3\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+E:\__Cours\420-116 A14\Module 1\R07- L TP exr Jeu Occurences Kit V1.3 PC\R07 TP exr Occurences (Sol) v1.3\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb
+E:\__Cours\420-116 A14\Module 1\R07- L TP exr Jeu Occurences Kit V1.3 PC\R07 TP exr Occurences (Sol) v1.3\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe
+E:\__Cours\420-116 A14\Module 1\R07- L TP exr Jeu Occurences Kit V1.3 PC\R07 TP exr Occurences (Sol) v1.3\AppJeuOccurences\bin\Debug\AppJeuOccurences.pdb
+E:\__Cours\420-116 A14\Module 1\R07- L TP exr Jeu Occurences Kit V1.3 PC\R07 TP exr Occurences (Sol) v1.3\AppJeuOccurences\bin\Debug\VisualArrays.xml
+E:\__Cours\420-116 A14\Module 1\R07- L TP exr Jeu Occurences Kit V1.3 PC\R07 TP exr Occurences (Sol) v1.3\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A14\Module 1\R07- L TP exr Jeu Occurences Kit V1.3 PC\R07 TP exr Occurences (Sol) v1.3\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.FrmPrincipal.resources
+E:\__Cours\420-116 A14\Module 1\R07- L TP exr Jeu Occurences Kit V1.3 PC\R07 TP exr Occurences (Sol) v1.3\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.Properties.Resources.resources
+E:\__Cours\420-116 A14\Module 1\R07- L TP exr Jeu Occurences Kit V1.3 PC\R07 TP exr Occurences (Sol) v1.3\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.csproj.GenerateResource.Cache
+F:\_Cours 116-A14\R07 Occurences (Labo)\R07 TravForm 2 Occurences (Solution) v14.1.0\AppJeuOccurences\bin\Debug\AppJeuOccurences.exe.config
+F:\_Cours 116-A14\R07 Occurences (Labo)\R07 TravForm 2 Occurences (Solution) v14.1.0\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.exe
+F:\_Cours 116-A14\R07 Occurences (Labo)\R07 TravForm 2 Occurences (Solution) v14.1.0\AppJeuOccurences\obj\x86\Debug\AppJeuOccurences.pdb

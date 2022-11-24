@@ -1,0 +1,52 @@
+F:\106 A10\07 Tableau\Exer_Tableaux_Grilles\Sol_Exer_Tableaux_Grilles\Exer_B_Tab2D_Ventes\bin\Debug\VisualArrays.xml
+F:\106 A10\07 Tableau\Exer_Tableaux_Grilles\Sol_Exer_Tableaux_Grilles\Exer_B_Tab2D_Ventes\obj\Debug\ResolveAssemblyReference.cache
+F:\106 A10\07 Tableau\Exer_Tableaux_Grilles\Sol_Exer_Tableaux_Grilles\Exer_B_Tab2D_Ventes\obj\Debug\Exercice_Tab2D_Ventes.Properties.Resources.resources
+F:\106 A10\07 Tableau\Exer_Tableaux_Grilles\Sol_Exer_Tableaux_Grilles\Exer_B_Tab2D_Ventes\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\106 A10\07 Tableau\Exer_Tableaux_Grilles\Sol_Exer_Tableaux_Grilles\Exer_B_Tab2D_Ventes\obj\Debug\ResGen.read.1.tlog
+F:\106 A10\07 Tableau\Exer_Tableaux_Grilles\Sol_Exer_Tableaux_Grilles\Exer_B_Tab2D_Ventes\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\106 A10\07 Tableau\Exer_Tableaux_Grilles\Sol_Exer_Tableaux_Grilles\Exer_B_Tab2D_Ventes\obj\Debug\ResGen.write.1.tlog
+F:\106 A10\07 Tableau\Exer_Tableaux_Grilles\Sol_Exer_Tableaux_Grilles\Exer_B_Tab2D_Ventes\obj\Debug\Exercice_Tab2D_Ventes.FrmB_Ventes.resources
+E:\106 A10\07 Tableau\Exer_Tableaux_Grilles\Sol_Exer_Tableaux_Grilles\Exer_B_Tab2D_Ventes\obj\Debug\Exer_A_Tab2D_Ventes.exe
+E:\106 A10\07 Tableau\Exer_Tableaux_Grilles\Sol_Exer_Tableaux_Grilles\Exer_B_Tab2D_Ventes\obj\Debug\Exer_A_Tab2D_Ventes.pdb
+F:\106 A10\07 Tableau\Exer_Tableaux_Grilles\Sol_Exer_Tableaux_Grilles\Exer_B_Tab2D_Ventes\bin\Debug\Tab2D_Ventes.exe
+F:\106 A10\07 Tableau\Exer_Tableaux_Grilles\Sol_Exer_Tableaux_Grilles\Exer_B_Tab2D_Ventes\bin\Debug\Tab2D_Ventes.pdb
+F:\106 A10\07 Tableau\Exer_Tableaux_Grilles\Sol_Exer_Tableaux_Grilles\Exer_B_Tab2D_Ventes\obj\Debug\Tab2D_Ventes.exe
+F:\106 A10\07 Tableau\Exer_Tableaux_Grilles\Sol_Exer_Tableaux_Grilles\Exer_B_Tab2D_Ventes\obj\Debug\Tab2D_Ventes.pdb
+F:\_Mes Cours\_420-106 A10\Module 3\G)Exer_Tableaux_Grilles\Sol_Exer_Tableaux_Grilles\Exer_B_Tab2D_Ventes\obj\Debug\Tab2D_Ventes.exe
+F:\_Mes Cours\_420-106 A10\Module 3\G)Exer_Tableaux_Grilles\Sol_Exer_Tableaux_Grilles\Exer_B_Tab2D_Ventes\obj\Debug\Tab2D_Ventes.pdb
+J:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\bin\Debug\Tab2D_Ventes.exe
+J:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\bin\Debug\Tab2D_Ventes.pdb
+J:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\bin\Debug\VisualArrays.xml
+J:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\ResolveAssemblyReference.cache
+J:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\Exercice_Tab2D_Ventes.FrmB_Ventes.resources
+J:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\Exercice_Tab2D_Ventes.Properties.Resources.resources
+J:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\GenerateResource-ResGen.read.1.tlog
+J:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\ResGen.read.1.tlog
+J:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\GenerateResource-ResGen.write.1.tlog
+J:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\ResGen.write.1.tlog
+J:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\Tab2D_Ventes.exe
+J:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\Tab2D_Ventes.pdb
+E:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\Tab2D_Ventes.exe
+E:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\Tab2D_Ventes.pdb
+E:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\ResolveAssemblyReference.cache
+E:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\Exercice_Tab2D_Ventes.FrmB_Ventes.resources
+E:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\Exercice_Tab2D_Ventes.Properties.Resources.resources
+E:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\ResGen.read.1.tlog
+E:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\ResGen.write.1.tlog
+E:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\bin\Debug\Tab2D_Ventes.exe
+E:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\bin\Debug\Tab2D_Ventes.pdb
+F:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\Tab2D_Ventes.exe
+F:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\Tab2D_Ventes.pdb
+F:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\bin\Debug\Tab2D_Ventes.exe
+F:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\bin\Debug\Tab2D_Ventes.pdb
+F:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\ResolveAssemblyReference.cache
+F:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\Exercice_Tab2D_Ventes.FrmB_Ventes.resources
+F:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\Exercice_Tab2D_Ventes.Properties.Resources.resources
+F:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\ResGen.read.1.tlog
+F:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\_Mes Cours\_420-106 A11\_Module 3\Theo 14 tableaux\Exer_Tableaux_Grilles\Exer_Tableaux_Grilles SOL\Exer_B_Tab2D_Ventes\obj\Debug\ResGen.write.1.tlog
+E:\_Cours 106-A12\Module 2\Rencontre #22\R22 Ex2_Ventes Tab2D\AppVentesTab2D\obj\Debug\Tab2D_Ventes.exe
+E:\_Cours 106-A12\Module 2\Rencontre #22\R22 Ex2_Ventes Tab2D\AppVentesTab2D\obj\Debug\Tab2D_Ventes.pdb

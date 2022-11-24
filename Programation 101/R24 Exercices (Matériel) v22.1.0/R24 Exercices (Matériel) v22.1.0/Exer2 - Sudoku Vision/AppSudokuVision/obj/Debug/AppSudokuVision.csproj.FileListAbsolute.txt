@@ -1,0 +1,49 @@
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\bin\Debug\AppSudoku.exe.config
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\bin\Debug\AppSudoku.exe
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\bin\Debug\AppSudoku.pdb
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.exe
+J:\A20 1N6 Les Capsules\R24 Sudoku fichier\_Code C#\R24 Exercices (Solution)\Exer1 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.pdb
+C:\EspaceLabo\TEMP\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\bin\Debug\AppSudoku.exe.config
+C:\EspaceLabo\TEMP\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\bin\Debug\AppSudoku.exe
+C:\EspaceLabo\TEMP\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\bin\Debug\AppSudoku.pdb
+C:\EspaceLabo\TEMP\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\bin\Debug\VisualArrays.xml
+C:\EspaceLabo\TEMP\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csproj.AssemblyReference.cache
+C:\EspaceLabo\TEMP\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.FrmPrincipal.resources
+C:\EspaceLabo\TEMP\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.Properties.Resources.resources
+C:\EspaceLabo\TEMP\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csproj.GenerateResource.cache
+C:\EspaceLabo\TEMP\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csproj.CoreCompileInputs.cache
+C:\EspaceLabo\TEMP\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csproj.CopyComplete
+C:\EspaceLabo\TEMP\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.exe
+C:\EspaceLabo\TEMP\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.pdb
+C:\Users\stephane.desmeules\Downloads\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\bin\Debug\AppSudoku.exe.config
+C:\Users\stephane.desmeules\Downloads\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\bin\Debug\AppSudoku.exe
+C:\Users\stephane.desmeules\Downloads\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\bin\Debug\AppSudoku.pdb
+C:\Users\stephane.desmeules\Downloads\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\bin\Debug\VisualArrays.xml
+C:\Users\stephane.desmeules\Downloads\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.exe
+C:\Users\stephane.desmeules\Downloads\R24 Exercices (Matériel) v21.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.pdb
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R24 Exercices (Matériel) v22.1.0\R24 Exercices (Matériel) v22.1.0\Exer2 - Sudoku Vision\AppSudokuVision\bin\Debug\AppSudoku.exe.config
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R24 Exercices (Matériel) v22.1.0\R24 Exercices (Matériel) v22.1.0\Exer2 - Sudoku Vision\AppSudokuVision\bin\Debug\AppSudoku.exe
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R24 Exercices (Matériel) v22.1.0\R24 Exercices (Matériel) v22.1.0\Exer2 - Sudoku Vision\AppSudokuVision\bin\Debug\AppSudoku.pdb
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R24 Exercices (Matériel) v22.1.0\R24 Exercices (Matériel) v22.1.0\Exer2 - Sudoku Vision\AppSudokuVision\bin\Debug\VisualArrays.xml
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R24 Exercices (Matériel) v22.1.0\R24 Exercices (Matériel) v22.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csproj.AssemblyReference.cache
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R24 Exercices (Matériel) v22.1.0\R24 Exercices (Matériel) v22.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csproj.SuggestedBindingRedirects.cache
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R24 Exercices (Matériel) v22.1.0\R24 Exercices (Matériel) v22.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.FrmPrincipal.resources
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R24 Exercices (Matériel) v22.1.0\R24 Exercices (Matériel) v22.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.Properties.Resources.resources
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R24 Exercices (Matériel) v22.1.0\R24 Exercices (Matériel) v22.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csproj.GenerateResource.cache
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R24 Exercices (Matériel) v22.1.0\R24 Exercices (Matériel) v22.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csproj.CoreCompileInputs.cache
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R24 Exercices (Matériel) v22.1.0\R24 Exercices (Matériel) v22.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudokuVision.csproj.CopyComplete
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R24 Exercices (Matériel) v22.1.0\R24 Exercices (Matériel) v22.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.exe
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R24 Exercices (Matériel) v22.1.0\R24 Exercices (Matériel) v22.1.0\Exer2 - Sudoku Vision\AppSudokuVision\obj\Debug\AppSudoku.pdb

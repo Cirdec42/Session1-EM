@@ -1,0 +1,119 @@
+E:\_Cours 106-A12\Module 2\Rencontre #22\R22 Ex3_VentesAnnuelles (Tab2D)\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
+E:\_Cours 106-A12\Module 2\Rencontre #22\R22 Ex3_VentesAnnuelles (Tab2D)\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb
+F:\__Cours\420-106 A12\R22\R22 Ex3 VentesAnnuelles (Tab2D) v.1.0 SD\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
+F:\__Cours\420-106 A12\R22\R22 Ex3 VentesAnnuelles (Tab2D) v.1.0 SD\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb
+F:\__Cours\420-106 A12\R22\R22 Ex3 VentesAnnuelles (Tab2D) v.1.0 SD\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.exe
+F:\__Cours\420-106 A12\R22\R22 Ex3 VentesAnnuelles (Tab2D) v.1.0 SD\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.pdb
+F:\__Cours\420-106 A12\R22\R22 Ex3 VentesAnnuelles (Tab2D) v.1.0 SD\AppVentesAnnuelles\bin\Debug\VisualArrays.dll
+F:\__Cours\420-106 A12\R22\R22 Ex3 VentesAnnuelles (Tab2D) v.1.0 SD\AppVentesAnnuelles\bin\Debug\VisualArrays.xml
+F:\__Cours\420-106 A12\R22\R22 Ex3 VentesAnnuelles (Tab2D) v.1.0 SD\AppVentesAnnuelles\obj\Debug\ResolveAssemblyReference.cache
+F:\__Cours\420-106 A12\R22\R22 Ex3 VentesAnnuelles (Tab2D) v.1.0 SD\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.FrmPrincipal.resources
+F:\__Cours\420-106 A12\R22\R22 Ex3 VentesAnnuelles (Tab2D) v.1.0 SD\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.Properties.Resources.resources
+F:\__Cours\420-106 A12\R22\R22 Ex3 VentesAnnuelles (Tab2D) v.1.0 SD\AppVentesAnnuelles\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\__Cours\420-106 A12\R22\R22 Ex3 VentesAnnuelles (Tab2D) v.1.0 SD\AppVentesAnnuelles\obj\Debug\ResGen.read.1.tlog
+F:\__Cours\420-106 A12\R22\R22 Ex3 VentesAnnuelles (Tab2D) v.1.0 SD\AppVentesAnnuelles\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\__Cours\420-106 A12\R22\R22 Ex3 VentesAnnuelles (Tab2D) v.1.0 SD\AppVentesAnnuelles\obj\Debug\ResGen.write.1.tlog
+F:\__Cours\420-206 H14\R22 Ex3 VentesAnnuelles (Tab2D) v.1.1 PC\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
+F:\__Cours\420-206 H14\R22 Ex3 VentesAnnuelles (Tab2D) v.1.1 PC\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb
+F:\__Cours\420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
+F:\__Cours\420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb
+F:\__Cours\420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.exe
+F:\__Cours\420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.pdb
+F:\__Cours\420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC\AppVentesAnnuelles\bin\Debug\VisualArrays.xml
+F:\__Cours\420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csprojResolveAssemblyReference.cache
+F:\__Cours\420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.FrmPrincipal.resources
+F:\__Cours\420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.Properties.Resources.resources
+F:\__Cours\420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.GenerateResource.Cache
+F:\__Cours\_420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
+F:\__Cours\_420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb
+F:\__Cours\_420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Materiel)\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC - Copie\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
+F:\__Cours\_420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Materiel)\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC - Copie\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb
+F:\__Cours\_420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Materiel)\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC - Copie\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.exe
+F:\__Cours\_420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Materiel)\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC - Copie\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.pdb
+F:\__Cours\_420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Materiel)\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC - Copie\AppVentesAnnuelles\bin\Debug\VisualArrays.xml
+F:\__Cours\_420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Materiel)\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC - Copie\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csprojResolveAssemblyReference.cache
+F:\__Cours\_420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Materiel)\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC - Copie\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.FrmPrincipal.resources
+F:\__Cours\_420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Materiel)\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC - Copie\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.Properties.Resources.resources
+F:\__Cours\_420-206 H14\R01\Ex2 VentesAnnuelles_Tab2D(Materiel)\Ex2 VentesAnnuelles_Tab2D(Sol) v.1.1 PC - Copie\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.GenerateResource.Cache
+F:\_Cours 206-H14\_Module #1\R01 Revision, Split et Parse (Solution) v1.0\Ex2 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
+F:\_Cours 206-H14\_Module #1\R01 Revision, Split et Parse (Solution) v1.0\Ex2 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb
+F:\_Cours 206-H14\_Module #1\R01 Revision, Split et Parse (Solution) v1.0\Ex2 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.exe
+F:\_Cours 206-H14\_Module #1\R01 Revision, Split et Parse (Solution) v1.0\Ex2 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.pdb
+F:\_Cours 206-H14\_Module #1\R01 Revision, Split et Parse (Solution) v1.0\Ex2 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\bin\Debug\VisualArrays.dll
+F:\_Cours 206-H14\_Module #1\R01 Revision, Split et Parse (Solution) v1.0\Ex2 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\bin\Debug\VisualArrays.xml
+F:\_Cours 206-H14\_Module #1\R01 Revision, Split et Parse (Solution) v1.0\Ex2 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csprojResolveAssemblyReference.cache
+F:\_Cours 206-H14\_Module #1\R01 Revision, Split et Parse (Solution) v1.0\Ex2 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.FrmPrincipal.resources
+F:\_Cours 206-H14\_Module #1\R01 Revision, Split et Parse (Solution) v1.0\Ex2 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.Properties.Resources.resources
+F:\_Cours 206-H14\_Module #1\R01 Revision, Split et Parse (Solution) v1.0\Ex2 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Revision, Split et Parse (Solution) v1.2\Ex2 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Revision, Split et Parse (Solution) v1.2\Ex2 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Ex3 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Ex3 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Ex3 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.exe
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Ex3 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.pdb
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Ex3 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\bin\Debug\VisualArrays.xml
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Ex3 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Ex3 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.FrmPrincipal.resources
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Ex3 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.Properties.Resources.resources
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Ex3 VentesAnnuelles_Tab2D (Solution)\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.GenerateResource.Cache
+F:\_Cours\420-116 A14(finale)\Module 2\R23- Fichiers, séparateur\R23 Ex3 VentesAnnuelles_Tab2D (Solution) v14.1.0\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
+F:\_Cours\420-116 A14(finale)\Module 2\R23- Fichiers, séparateur\R23 Ex3 VentesAnnuelles_Tab2D (Solution) v14.1.0\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb
+E:\_420-116 A15\Module 2\R23- Fichiers, séparateur\R23 Ex3 VentesAnnuelles_Tab2D (Solution) v14.1.0\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
+E:\_420-116 A15\Module 2\R23- Fichiers, séparateur\R23 Ex3 VentesAnnuelles_Tab2D (Solution) v14.1.0\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb
+E:\_420-116 A15\Module 2\R23- Fichiers, séparateur V15.1.0\R23 EX1-5 Fichier et separateur (Solution)\R23 Ex3 VentesAnnuelles_Tab2D (Solution) v14.1.0\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
+E:\_420-116 A15\Module 2\R23- Fichiers, séparateur V15.1.0\R23 EX1-5 Fichier et separateur (Solution)\R23 Ex3 VentesAnnuelles_Tab2D (Solution) v14.1.0\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb
+I:\_420-116 A16\Module 2\R24- Fichiers, séparateur V15.1.0\R24 EX1-5 Fichier et separateur (Solution)\R23 Ex3 VentesAnnuelles_Tab2D (Solution) v14.1.0\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
+I:\_420-116 A16\Module 2\R24- Fichiers, séparateur V15.1.0\R24 EX1-5 Fichier et separateur (Solution)\R23 Ex3 VentesAnnuelles_Tab2D (Solution) v14.1.0\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb
+E:\_Cours 116 A16\R24 Fichier avec separateurs (Theorie)\R24 EX1-5 Fichier et separateur (Solution)\R24 Ex3 VentesAnnuelles_Tab2D (Solution) v14.1.0\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
+E:\_Cours 116 A16\R24 Fichier avec separateurs (Theorie)\R24 EX1-5 Fichier et separateur (Solution)\R24 Ex3 VentesAnnuelles_Tab2D (Solution) v14.1.0\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb
+E:\_Cours 116 A16\R24 Fichier avec separateurs (Theorie)\R24 EX1-5 Fichier et separateur (Solution)\R24 Ex3 VentesAnnuelles_Tab2D (Solution) v14.1.0\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.exe
+E:\_Cours 116 A16\R24 Fichier avec separateurs (Theorie)\R24 EX1-5 Fichier et separateur (Solution)\R24 Ex3 VentesAnnuelles_Tab2D (Solution) v14.1.0\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.pdb
+E:\_Cours 116 A16\R24 Fichier avec separateurs (Theorie)\R24 EX1-5 Fichier et separateur (Solution)\R24 Ex3 VentesAnnuelles_Tab2D (Solution) v14.1.0\AppVentesAnnuelles\bin\Debug\VisualArrays.xml
+E:\_Cours 116 A16\R24 Fichier avec separateurs (Theorie)\R24 EX1-5 Fichier et separateur (Solution)\R24 Ex3 VentesAnnuelles_Tab2D (Solution) v14.1.0\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csprojResolveAssemblyReference.cache
+E:\_Cours 116 A16\R24 Fichier avec separateurs (Theorie)\R24 EX1-5 Fichier et separateur (Solution)\R24 Ex3 VentesAnnuelles_Tab2D (Solution) v14.1.0\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.FrmPrincipal.resources
+E:\_Cours 116 A16\R24 Fichier avec separateurs (Theorie)\R24 EX1-5 Fichier et separateur (Solution)\R24 Ex3 VentesAnnuelles_Tab2D (Solution) v14.1.0\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.Properties.Resources.resources
+E:\_Cours 116 A16\R24 Fichier avec separateurs (Theorie)\R24 EX1-5 Fichier et separateur (Solution)\R24 Ex3 VentesAnnuelles_Tab2D (Solution) v14.1.0\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.GenerateResource.Cache
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles_Tab2D\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.exe
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles_Tab2D\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.pdb
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles_Tab2D\AppVentesAnnuelles\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles_Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles_Tab2D\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles_Tab2D\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles_Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles_Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles_Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles_Tab2D\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles_Tab2D\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.exe
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.pdb
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.exe
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.pdb
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.exe
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\bin\Debug\Tab2D_Ventes.pdb
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\bin\Debug\VisualArrays.xml
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb

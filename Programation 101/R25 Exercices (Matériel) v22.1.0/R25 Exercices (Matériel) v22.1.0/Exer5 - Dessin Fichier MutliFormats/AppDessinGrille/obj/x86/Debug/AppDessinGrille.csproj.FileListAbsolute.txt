@@ -1,0 +1,145 @@
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\AppDessinGrille\bin\Debug\AppDessinGrille.exe.config
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\AppDessinGrille\bin\Debug\AppDessinGrille.exe
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\AppDessinGrille\bin\Debug\AppDessinGrille.pdb
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\AppDessinGrille\bin\Debug\VisualArrays.dll
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\AppDessinGrille\bin\Debug\VisualArrays.xml
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csprojResolveAssemblyReference.cache
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\AppDessinGrille\obj\x86\Debug\AppDessinGrille.FrmPrincipal.resources
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\AppDessinGrille\obj\x86\Debug\AppDessinGrille.Properties.Resources.resources
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.GenerateResource.Cache
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\AppDessinGrille\obj\x86\Debug\AppDessinGrille.exe
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\AppDessinGrille\obj\x86\Debug\AppDessinGrille.pdb
+E:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinDansFichier\AppDessinGrille\bin\Debug\AppDessinGrille.exe.config
+E:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinDansFichier\AppDessinGrille\obj\x86\Debug\AppDessinGrille.exe
+E:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinDansFichier\AppDessinGrille\obj\x86\Debug\AppDessinGrille.pdb
+E:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinDansFichier\AppDessinGrille\bin\Debug\AppDessinGrille.exe
+E:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinDansFichier\AppDessinGrille\bin\Debug\AppDessinGrille.pdb
+E:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinDansFichier\AppDessinGrille\bin\Debug\VisualArrays.dll
+E:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinDansFichier\AppDessinGrille\bin\Debug\VisualArrays.xml
+E:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinDansFichier\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csprojResolveAssemblyReference.cache
+E:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinDansFichier\AppDessinGrille\obj\x86\Debug\AppDessinGrille.FrmPrincipal.resources
+E:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinDansFichier\AppDessinGrille\obj\x86\Debug\AppDessinGrille.Properties.Resources.resources
+E:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinDansFichier\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.GenerateResource.Cache
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinDansFichier\AppDessinGrille\bin\Debug\AppDessinGrille.exe.config
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinDansFichier\AppDessinGrille\obj\x86\Debug\AppDessinGrille.exe
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinDansFichier\AppDessinGrille\obj\x86\Debug\AppDessinGrille.pdb
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\bin\Debug\AppDessinGrille.exe.config
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.exe
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.pdb
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\bin\Debug\AppDessinGrille.exe
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\bin\Debug\AppDessinGrille.pdb
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\bin\Debug\VisualArrays.dll
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\bin\Debug\VisualArrays.xml
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csprojResolveAssemblyReference.cache
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.FrmPrincipal.resources
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.Properties.Resources.resources
+F:\_Cours 116-A14\R21 Fichiers texte (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.GenerateResource.Cache
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\bin\Debug\AppDessinGrille.exe.config
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.exe
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.pdb
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\bin\Debug\AppDessinGrille.exe
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\bin\Debug\AppDessinGrille.pdb
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\bin\Debug\VisualArrays.dll
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\bin\Debug\VisualArrays.xml
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csprojResolveAssemblyReference.cache
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.FrmPrincipal.resources
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.Properties.Resources.resources
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\ExX DessinFichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.GenerateResource.Cache
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers\ExX DessinFichier MutliFormats v1.0\AppDessinGrille\bin\Debug\AppDessinGrille.exe.config
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers\ExX DessinFichier MutliFormats v1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.exe
+F:\__Cours\420-116 A14\Module 2\R21- Fichiers\ExX DessinFichier MutliFormats v1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.pdb
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\ExX DessinFichier MutliFormats v1.0\AppDessinGrille\bin\Debug\AppDessinGrille.exe.config
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\ExX DessinFichier MutliFormats v1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.exe
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\ExX DessinFichier MutliFormats v1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.pdb
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\ExX DessinFichier MutliFormats v1.0\AppDessinGrille\bin\Debug\AppDessinGrille.exe
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\ExX DessinFichier MutliFormats v1.0\AppDessinGrille\bin\Debug\AppDessinGrille.pdb
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\ExX DessinFichier MutliFormats v1.0\AppDessinGrille\bin\Debug\VisualArrays.xml
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\ExX DessinFichier MutliFormats v1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\ExX DessinFichier MutliFormats v1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.FrmPrincipal.resources
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\ExX DessinFichier MutliFormats v1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.Properties.Resources.resources
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\ExX DessinFichier MutliFormats v1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.GenerateResource.Cache
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Ex5 DessinFichier MutliFormats v1.0\AppDessinGrille\bin\Debug\AppDessinGrille.exe.config
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Ex5 DessinFichier MutliFormats v1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.exe
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Ex5 DessinFichier MutliFormats v1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.pdb
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Ex5 DessinFichier MutliFormats v1.0\AppDessinGrille\bin\Debug\AppDessinGrille.exe
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Ex5 DessinFichier MutliFormats v1.0\AppDessinGrille\bin\Debug\AppDessinGrille.pdb
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Ex5 DessinFichier MutliFormats v1.0\AppDessinGrille\bin\Debug\VisualArrays.xml
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Ex5 DessinFichier MutliFormats v1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csprojResolveAssemblyReference.cache
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Ex5 DessinFichier MutliFormats v1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.FrmPrincipal.resources
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Ex5 DessinFichier MutliFormats v1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.Properties.Resources.resources
+E:\__Cours\420-116 A14\Module 2\R23- Fichiers, séparateur\R23 Ex5 DessinFichier MutliFormats v1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.GenerateResource.Cache
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.0\AppDessinGrille\bin\Debug\AppDessinGrille.exe.config
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.exe
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.pdb
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.0\AppDessinGrille\bin\Debug\AppDessinGrille.exe
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.0\AppDessinGrille\bin\Debug\AppDessinGrille.pdb
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.0\AppDessinGrille\bin\Debug\VisualArrays.dll
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.0\AppDessinGrille\bin\Debug\VisualArrays.xml
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csprojResolveAssemblyReference.cache
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.FrmPrincipal.resources
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.Properties.Resources.resources
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.0\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.GenerateResource.Cache
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\bin\Debug\AppDessinGrille.exe.config
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\obj\x86\Debug\AppDessinGrille.exe
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\obj\x86\Debug\AppDessinGrille.pdb
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\bin\Debug\AppDessinGrille.exe
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\bin\Debug\AppDessinGrille.pdb
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\bin\Debug\VisualArrays.dll
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\bin\Debug\VisualArrays.xml
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csprojResolveAssemblyReference.cache
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\obj\x86\Debug\AppDessinGrille.FrmPrincipal.resources
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\obj\x86\Debug\AppDessinGrille.Properties.Resources.resources
+F:\_Cours 116-A14\R23 Fichier avec separateurs (Theorie)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.GenerateResource.Cache
+E:\_420-116 A15\Module 2\R23- Fichiers, séparateur V15.1.0\R23 EX1-5 Fichier et separateur (Solution)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\bin\Debug\AppDessinGrille.exe.config
+E:\_420-116 A15\Module 2\R23- Fichiers, séparateur V15.1.0\R23 EX1-5 Fichier et separateur (Solution)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\obj\x86\Debug\AppDessinGrille.exe
+E:\_420-116 A15\Module 2\R23- Fichiers, séparateur V15.1.0\R23 EX1-5 Fichier et separateur (Solution)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\obj\x86\Debug\AppDessinGrille.pdb
+I:\_420-116 A16\Module 2\R24- Fichiers, séparateur V15.1.0\R24 EX1-5 Fichier et separateur (Solution)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\bin\Debug\AppDessinGrille.exe.config
+I:\_420-116 A16\Module 2\R24- Fichiers, séparateur V15.1.0\R24 EX1-5 Fichier et separateur (Solution)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\obj\x86\Debug\AppDessinGrille.exe
+I:\_420-116 A16\Module 2\R24- Fichiers, séparateur V15.1.0\R24 EX1-5 Fichier et separateur (Solution)\R23 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\obj\x86\Debug\AppDessinGrille.pdb
+E:\_Cours 116 A16\R24 Fichier avec separateurs (Theorie)\R24 EX1-5 Fichier et separateur (Solution)\R24 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\bin\Debug\AppDessinGrille.exe.config
+E:\_Cours 116 A16\R24 Fichier avec separateurs (Theorie)\R24 EX1-5 Fichier et separateur (Solution)\R24 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\obj\x86\Debug\AppDessinGrille.exe
+E:\_Cours 116 A16\R24 Fichier avec separateurs (Theorie)\R24 EX1-5 Fichier et separateur (Solution)\R24 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\obj\x86\Debug\AppDessinGrille.pdb
+E:\_Cours 116 A16\R24 Fichier avec separateurs (Theorie)\R24 EX1-5 Fichier et separateur (Solution)\R24 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\bin\Debug\AppDessinGrille.exe
+E:\_Cours 116 A16\R24 Fichier avec separateurs (Theorie)\R24 EX1-5 Fichier et separateur (Solution)\R24 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\bin\Debug\AppDessinGrille.pdb
+E:\_Cours 116 A16\R24 Fichier avec separateurs (Theorie)\R24 EX1-5 Fichier et separateur (Solution)\R24 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\bin\Debug\VisualArrays.xml
+E:\_Cours 116 A16\R24 Fichier avec separateurs (Theorie)\R24 EX1-5 Fichier et separateur (Solution)\R24 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csprojResolveAssemblyReference.cache
+E:\_Cours 116 A16\R24 Fichier avec separateurs (Theorie)\R24 EX1-5 Fichier et separateur (Solution)\R24 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\obj\x86\Debug\AppDessinGrille.FrmPrincipal.resources
+E:\_Cours 116 A16\R24 Fichier avec separateurs (Theorie)\R24 EX1-5 Fichier et separateur (Solution)\R24 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\obj\x86\Debug\AppDessinGrille.Properties.Resources.resources
+E:\_Cours 116 A16\R24 Fichier avec separateurs (Theorie)\R24 EX1-5 Fichier et separateur (Solution)\R24 Ex5 DessinFichier MutliFormats (Solution) v14.1.1\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.GenerateResource.Cache
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\bin\Debug\AppDessinGrille.exe.config
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\bin\Debug\AppDessinGrille.exe
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\bin\Debug\AppDessinGrille.pdb
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.exe
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Solution) v20.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.pdb
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\bin\Debug\AppDessinGrille.exe.config
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\bin\Debug\AppDessinGrille.exe
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\bin\Debug\AppDessinGrille.pdb
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\bin\Debug\VisualArrays.xml
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.FrmPrincipal.resources
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.Properties.Resources.resources
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.GenerateResource.cache
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.exe
+J:\A20 1N6 Les Capsules\R25 Fichier avec séparateurs\_Code C#\R25 Exercices (Matériel) v20.1.1\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.pdb
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\bin\Debug\AppDessinGrille.exe.config
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\bin\Debug\AppDessinGrille.exe
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\bin\Debug\AppDessinGrille.pdb
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\bin\Debug\VisualArrays.xml
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.AssemblyReference.cache
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.SuggestedBindingRedirects.cache
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.FrmPrincipal.resources
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.Properties.Resources.resources
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.GenerateResource.cache
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.CoreCompileInputs.cache
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.csproj.CopyComplete
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.exe
+C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer5 - Dessin Fichier MutliFormats\AppDessinGrille\obj\x86\Debug\AppDessinGrille.pdb
