@@ -153,7 +153,20 @@ namespace AppVentesTrimestre
             //           afin de le visualiser dans la grille vdaVentes. Vous devez utiliser les méthodes
             //           Split et Parse. 
             // Suggestion : Prenez le temps de consulter le fichier "Ventes.txt" avant de compléter cette méthode.
+            StreamReader objFichier = new StreamReader("Ventes.txt");
 
+            int rangee = 0;
+            while (!objFichier.EndOfStream)
+            {
+                string ligneLue = objFichier.ReadLine();
+                string[] tabm = ligneLue.Split(',');
+
+                for (int i = 0; i < tabm.Length; i++)
+                {
+                    vdaVentes[rangee, i] = decimal.Parse(tabm[i]);
+                }
+                rangee++;   
+            }
         }
         #endregion
 
@@ -164,8 +177,24 @@ namespace AppVentesTrimestre
             // TODO 02 : Compléter le code cette méthode qui doit enregistrer les valeurs de la grille vdaVentes
             //           dans un fichier avec des séparateurs. Vous devez écrire toutes les valeurs d'ne rangée
             //           sur une même ligne et utiliser une virgule pour séparer les valeurs.
+            StreamWriter objFichier = new StreamWriter("Ventes.txt");
 
+            for (int r = 0; r < vdaVentes.RowCount; r++)
+            {
+                for (int i = 0; i < vdaVentes.ColumnCount - 1; i++)
+                {
+                    objFichier.Write(vdaVentes[r, i] + ",");
+                }
+                objFichier.WriteLine(vdaVentes[r, vdaVentes.ColumnCount - 1]);
+
+            }
+            objFichier.Close();
         }
         #endregion
+
+        private void vdaVentes_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

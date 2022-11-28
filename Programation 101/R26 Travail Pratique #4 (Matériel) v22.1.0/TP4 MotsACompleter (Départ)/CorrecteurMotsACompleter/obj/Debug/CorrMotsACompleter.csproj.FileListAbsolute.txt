@@ -1,0 +1,216 @@
+C:\Users\mounira.zoubeidi\Desktop\R24 TP4 Mot a compléter\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.dll
+C:\Users\mounira.zoubeidi\Desktop\R24 TP4 Mot a compléter\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.pdb
+C:\Users\mounira.zoubeidi\Desktop\R24 TP4 Mot a compléter\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe
+C:\Users\mounira.zoubeidi\Desktop\R24 TP4 Mot a compléter\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mounira.zoubeidi\Desktop\R24 TP4 Mot a compléter\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.pdb
+C:\Users\mounira.zoubeidi\Desktop\R24 TP4 Mot a compléter\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe.config
+C:\Users\mounira.zoubeidi\Desktop\R24 TP4 Mot a compléter\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\mounira.zoubeidi\Desktop\R24 TP4 Mot a compléter\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csprojAssemblyReference.cache
+C:\Users\mounira.zoubeidi\Desktop\R24 TP4 Mot a compléter\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CoreCompileInputs.cache
+C:\Users\mounira.zoubeidi\Desktop\R24 TP4 Mot a compléter\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CopyComplete
+C:\Users\mounira.zoubeidi\Desktop\R24 TP4 Mot a compléter\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.dll
+C:\Users\mounira.zoubeidi\Desktop\R24 TP4 Mot a compléter\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.pdb
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.dll
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.pdb
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.pdb
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe.config
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csprojAssemblyReference.cache
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CoreCompileInputs.cache
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CopyComplete
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.dll
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.pdb
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.dll
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.pdb
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.pdb
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe.config
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csprojAssemblyReference.cache
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CoreCompileInputs.cache
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CopyComplete
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.dll
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\R24 TP4 Mot a compléter Corr V19.0\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.pdb
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.dll
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.pdb
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.pdb
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe.config
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csprojAssemblyReference.cache
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CoreCompileInputs.cache
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CopyComplete
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.dll
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.pdb
+E:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.dll
+E:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.pdb
+E:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe
+E:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.pdb
+E:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe.config
+E:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csprojAssemblyReference.cache
+E:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CoreCompileInputs.cache
+E:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CopyComplete
+E:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.dll
+E:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.dll
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe.config
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.dll
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Ma Solution\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.dll
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe.config
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.dll
+C:\Users\jamil.gammoudi\Desktop\A19\Tests Travaux 116\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.pdb
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.dll
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.pdb
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.pdb
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe.config
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csprojAssemblyReference.cache
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CoreCompileInputs.cache
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CopyComplete
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.dll
+G:\AUT2019\1N6_19\Projet Test\R24 TP4 MotsACompleter Solution Mounira et Jamil\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.pdb
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csprojAssemblyReference.cache
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CoreCompileInputs.cache
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.dll
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.pdb
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.dll
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.pdb
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter\CorrecteurMotsACompleter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.pdb
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe.config
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter\CorrecteurMotsACompleter\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CopyComplete
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.dll
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.pdb
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.pdb
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe.config
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csprojAssemblyReference.cache
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CoreCompileInputs.cache
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CopyComplete
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.dll
+G:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.pdb
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.dll
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.pdb
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.pdb
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe.config
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csprojAssemblyReference.cache
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CoreCompileInputs.cache
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CopyComplete
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.dll
+E:\AUT2019\1N6_19\R24 TP4 Mot a compléter\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\test\116\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.dll
+C:\Users\jamil.gammoudi\Desktop\test\116\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\test\116\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe
+C:\Users\jamil.gammoudi\Desktop\test\116\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jamil.gammoudi\Desktop\test\116\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\test\116\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe.config
+C:\Users\jamil.gammoudi\Desktop\test\116\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\jamil.gammoudi\Desktop\test\116\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\test\116\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\test\116\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\test\116\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.dll
+C:\Users\jamil.gammoudi\Desktop\test\116\TP4 MotsACompleter(Solution)\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.pdb
+H:\_Cours 1N6 A19\R25 Tp4 MotsACompleter\TP4 MotsACompleter(Solution) v19.1.0\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.dll
+H:\_Cours 1N6 A19\R25 Tp4 MotsACompleter\TP4 MotsACompleter(Solution) v19.1.0\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.pdb
+H:\_Cours 1N6 A19\R25 Tp4 MotsACompleter\TP4 MotsACompleter(Solution) v19.1.0\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe
+H:\_Cours 1N6 A19\R25 Tp4 MotsACompleter\TP4 MotsACompleter(Solution) v19.1.0\CorrecteurMotsACompleter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\_Cours 1N6 A19\R25 Tp4 MotsACompleter\TP4 MotsACompleter(Solution) v19.1.0\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.pdb
+H:\_Cours 1N6 A19\R25 Tp4 MotsACompleter\TP4 MotsACompleter(Solution) v19.1.0\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe.config
+H:\_Cours 1N6 A19\R25 Tp4 MotsACompleter\TP4 MotsACompleter(Solution) v19.1.0\CorrecteurMotsACompleter\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+H:\_Cours 1N6 A19\R25 Tp4 MotsACompleter\TP4 MotsACompleter(Solution) v19.1.0\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csprojAssemblyReference.cache
+H:\_Cours 1N6 A19\R25 Tp4 MotsACompleter\TP4 MotsACompleter(Solution) v19.1.0\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CoreCompileInputs.cache
+H:\_Cours 1N6 A19\R25 Tp4 MotsACompleter\TP4 MotsACompleter(Solution) v19.1.0\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CopyComplete
+H:\_Cours 1N6 A19\R25 Tp4 MotsACompleter\TP4 MotsACompleter(Solution) v19.1.0\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.dll
+H:\_Cours 1N6 A19\R25 Tp4 MotsACompleter\TP4 MotsACompleter(Solution) v19.1.0\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.pdb
+J:\A20 1N6 Les Capsules\R26 Travail Pratique #4\_Code C#\TP4 MotsACompleter (Solution) v19.1.0\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.dll
+J:\A20 1N6 Les Capsules\R26 Travail Pratique #4\_Code C#\TP4 MotsACompleter (Solution) v19.1.0\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.pdb
+J:\A20 1N6 Les Capsules\R26 Travail Pratique #4\_Code C#\TP4 MotsACompleter (Solution) v19.1.0\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe
+J:\A20 1N6 Les Capsules\R26 Travail Pratique #4\_Code C#\TP4 MotsACompleter (Solution) v19.1.0\CorrecteurMotsACompleter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+J:\A20 1N6 Les Capsules\R26 Travail Pratique #4\_Code C#\TP4 MotsACompleter (Solution) v19.1.0\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.pdb
+J:\A20 1N6 Les Capsules\R26 Travail Pratique #4\_Code C#\TP4 MotsACompleter (Solution) v19.1.0\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe.config
+J:\A20 1N6 Les Capsules\R26 Travail Pratique #4\_Code C#\TP4 MotsACompleter (Solution) v19.1.0\CorrecteurMotsACompleter\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+J:\A20 1N6 Les Capsules\R26 Travail Pratique #4\_Code C#\TP4 MotsACompleter (Solution) v19.1.0\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csprojAssemblyReference.cache
+J:\A20 1N6 Les Capsules\R26 Travail Pratique #4\_Code C#\TP4 MotsACompleter (Solution) v19.1.0\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CoreCompileInputs.cache
+J:\A20 1N6 Les Capsules\R26 Travail Pratique #4\_Code C#\TP4 MotsACompleter (Solution) v19.1.0\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CopyComplete
+J:\A20 1N6 Les Capsules\R26 Travail Pratique #4\_Code C#\TP4 MotsACompleter (Solution) v19.1.0\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.dll
+J:\A20 1N6 Les Capsules\R26 Travail Pratique #4\_Code C#\TP4 MotsACompleter (Solution) v19.1.0\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution) v20.0.95\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution) v20.0.95\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution) v20.0.95\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution) v20.0.95\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution) v20.0.95\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution) v20.0.95\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution) v20.0.95\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution) v20.0.95\CorrecteurMotsACompleter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution) v20.0.95\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution) v20.0.95\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe.config
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution) v20.0.95\CorrecteurMotsACompleter\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution) v20.0.95\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution et correcteur) v20.1.1\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution et correcteur) v20.1.1\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution et correcteur) v20.1.1\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution et correcteur) v20.1.1\CorrecteurMotsACompleter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution et correcteur) v20.1.1\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution et correcteur) v20.1.1\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe.config
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution et correcteur) v20.1.1\CorrecteurMotsACompleter\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution et correcteur) v20.1.1\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution et correcteur) v20.1.1\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution et correcteur) v20.1.1\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution et correcteur) v20.1.1\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Solution et correcteur) v20.1.1\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel sans correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel sans correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel sans correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel sans correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel sans correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel sans correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel sans correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel sans correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel sans correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel sans correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe.config
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel sans correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel sans correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel avec correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel avec correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\bin\Debug\CorrecteurMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel avec correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel avec correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel avec correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.pdb
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel avec correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\bin\Debug\AppMotsACompleter.exe.config
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel avec correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel avec correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel avec correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel avec correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\obj\Debug\CorrMotsACompleter.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel avec correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.dll
+C:\Users\jamil.gammoudi\Desktop\A20\1N6\R26\TP4 MotsACompleter (Matériel avec correcteur) v20.1.2\TP4 MotsACompleter (Départ)\CorrecteurMotsACompleter\obj\Debug\CorrecteurMotsACompleter.pdb

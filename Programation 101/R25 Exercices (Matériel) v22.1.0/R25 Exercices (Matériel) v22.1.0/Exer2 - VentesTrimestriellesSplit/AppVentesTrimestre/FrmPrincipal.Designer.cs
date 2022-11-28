@@ -46,11 +46,13 @@
             // 
             // mnuPrincipal
             // 
+            this.mnuPrincipal.GripMargin = new System.Windows.Forms.Padding(2, 2, 0, 2);
+            this.mnuPrincipal.ImageScalingSize = new System.Drawing.Size(24, 24);
             this.mnuPrincipal.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mnuFichier});
             this.mnuPrincipal.Location = new System.Drawing.Point(0, 0);
             this.mnuPrincipal.Name = "mnuPrincipal";
-            this.mnuPrincipal.Size = new System.Drawing.Size(577, 24);
+            this.mnuPrincipal.Size = new System.Drawing.Size(866, 35);
             this.mnuPrincipal.TabIndex = 4;
             this.mnuPrincipal.Text = "menuStrip1";
             // 
@@ -63,14 +65,14 @@
             this.toolStripMenuItem1,
             this.mnuFichierQuitter});
             this.mnuFichier.Name = "mnuFichier";
-            this.mnuFichier.Size = new System.Drawing.Size(54, 20);
+            this.mnuFichier.Size = new System.Drawing.Size(78, 29);
             this.mnuFichier.Text = "&Fichier";
             // 
             // mnuFichierNouveau
             // 
             this.mnuFichierNouveau.Name = "mnuFichierNouveau";
             this.mnuFichierNouveau.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.N)));
-            this.mnuFichierNouveau.Size = new System.Drawing.Size(170, 22);
+            this.mnuFichierNouveau.Size = new System.Drawing.Size(259, 34);
             this.mnuFichierNouveau.Text = "&Nouveau";
             this.mnuFichierNouveau.Click += new System.EventHandler(this.mnuFichierNouveau_Click);
             // 
@@ -78,7 +80,7 @@
             // 
             this.mnuFichierCharger.Name = "mnuFichierCharger";
             this.mnuFichierCharger.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.O)));
-            this.mnuFichierCharger.Size = new System.Drawing.Size(170, 22);
+            this.mnuFichierCharger.Size = new System.Drawing.Size(259, 34);
             this.mnuFichierCharger.Text = "&Charger";
             this.mnuFichierCharger.Click += new System.EventHandler(this.mnuFichierCharger_Click);
             // 
@@ -86,20 +88,20 @@
             // 
             this.mnuFichierEnregistrer.Name = "mnuFichierEnregistrer";
             this.mnuFichierEnregistrer.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.S)));
-            this.mnuFichierEnregistrer.Size = new System.Drawing.Size(170, 22);
+            this.mnuFichierEnregistrer.Size = new System.Drawing.Size(259, 34);
             this.mnuFichierEnregistrer.Text = "&Enregistrer";
             this.mnuFichierEnregistrer.Click += new System.EventHandler(this.mnuFichierEnregistrer_Click);
             // 
             // toolStripMenuItem1
             // 
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(167, 6);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(256, 6);
             // 
             // mnuFichierQuitter
             // 
             this.mnuFichierQuitter.Name = "mnuFichierQuitter";
             this.mnuFichierQuitter.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Q)));
-            this.mnuFichierQuitter.Size = new System.Drawing.Size(170, 22);
+            this.mnuFichierQuitter.Size = new System.Drawing.Size(259, 34);
             this.mnuFichierQuitter.Text = "&Quitter";
             this.mnuFichierQuitter.Click += new System.EventHandler(this.mnuFichierQuitter_Click);
             // 
@@ -108,7 +110,7 @@
             this.vdaVentes.AddressView = VisualArrays.enuAddressView.Mode2D;
             this.vdaVentes.BackColor = System.Drawing.Color.Black;
             this.vdaVentes.CellContentAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.vdaVentes.CellSize = new System.Drawing.Size(101, 29);
+            this.vdaVentes.CellSize = new System.Drawing.Size(172, 51);
             this.vdaVentes.ColumnHeader.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(64)))), ((int)(((byte)(96)))));
             this.vdaVentes.ColumnHeader.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.vdaVentes.ColumnHeader.ValueStyle = VisualArrays.enuDataStyle.User;
@@ -117,7 +119,8 @@
             this.vdaVentes.EnabledAppearance.BackgroundColor = System.Drawing.Color.DarkOliveGreen;
             this.vdaVentes.EnabledAppearance.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.vdaVentes.EnterKeyNextIndex = true;
-            this.vdaVentes.Location = new System.Drawing.Point(6, 37);
+            this.vdaVentes.Location = new System.Drawing.Point(9, 57);
+            this.vdaVentes.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.vdaVentes.Maximum = new decimal(new int[] {
             100000,
             0,
@@ -138,22 +141,24 @@
             this.vdaVentes.RowHeader.Width = 100;
             this.vdaVentes.SelectionAppearance.Color = System.Drawing.Color.DodgerBlue;
             this.vdaVentes.SelectionMode = System.Windows.Forms.SelectionMode.One;
-            this.vdaVentes.Size = new System.Drawing.Size(431, 169);
+            this.vdaVentes.Size = new System.Drawing.Size(644, 257);
             this.vdaVentes.TabIndex = 0;
             this.vdaVentes.ValueFormat = VisualArrays.enuValueFormat.Currency;
             this.vdaVentes.ValueChanged += new System.EventHandler<VisualArrays.ValueChangedEventArgs>(this.vdaVentes_ValueChanged);
+            this.vdaVentes.Click += new System.EventHandler(this.vdaVentes_Click);
             // 
             // vdaTotauxParMois
             // 
             this.vdaTotauxParMois.AddressView = VisualArrays.enuAddressView.Mode1D;
             this.vdaTotauxParMois.BackColor = System.Drawing.Color.Black;
             this.vdaTotauxParMois.CellContentAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.vdaTotauxParMois.CellSize = new System.Drawing.Size(101, 32);
+            this.vdaTotauxParMois.CellSize = new System.Drawing.Size(172, 59);
             this.vdaTotauxParMois.ColumnHeader.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.vdaTotauxParMois.DecimalPlaces = 0;
             this.vdaTotauxParMois.EnabledAppearance.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(84)))), ((int)(((byte)(64)))), ((int)(((byte)(72)))));
             this.vdaTotauxParMois.EnabledAppearance.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.vdaTotauxParMois.Location = new System.Drawing.Point(6, 212);
+            this.vdaTotauxParMois.Location = new System.Drawing.Point(9, 326);
+            this.vdaTotauxParMois.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.vdaTotauxParMois.Maximum = new decimal(new int[] {
             1000000,
             0,
@@ -173,7 +178,7 @@
             this.vdaTotauxParMois.RowHeader.Visible = true;
             this.vdaTotauxParMois.RowHeader.Width = 100;
             this.vdaTotauxParMois.SelectionAppearance.Color = System.Drawing.Color.DodgerBlue;
-            this.vdaTotauxParMois.Size = new System.Drawing.Size(431, 50);
+            this.vdaTotauxParMois.Size = new System.Drawing.Size(644, 77);
             this.vdaTotauxParMois.TabIndex = 1;
             this.vdaTotauxParMois.TabStop = false;
             this.vdaTotauxParMois.ValueFormat = VisualArrays.enuValueFormat.Currency;
@@ -183,7 +188,7 @@
             this.vdaTotauxVilles.AddressView = VisualArrays.enuAddressView.Mode2D;
             this.vdaTotauxVilles.BackColor = System.Drawing.Color.Black;
             this.vdaTotauxVilles.CellContentAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.vdaTotauxVilles.CellSize = new System.Drawing.Size(104, 29);
+            this.vdaTotauxVilles.CellSize = new System.Drawing.Size(165, 51);
             this.vdaTotauxVilles.ColumnCount = 1;
             this.vdaTotauxVilles.ColumnHeader.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(64)))), ((int)(((byte)(96)))));
             this.vdaTotauxVilles.ColumnHeader.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -192,7 +197,8 @@
             this.vdaTotauxVilles.DecimalPlaces = 0;
             this.vdaTotauxVilles.EnabledAppearance.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(84)))), ((int)(((byte)(64)))), ((int)(((byte)(72)))));
             this.vdaTotauxVilles.EnabledAppearance.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.vdaTotauxVilles.Location = new System.Drawing.Point(444, 37);
+            this.vdaTotauxVilles.Location = new System.Drawing.Point(666, 57);
+            this.vdaTotauxVilles.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.vdaTotauxVilles.Maximum = new decimal(new int[] {
             1000000,
             0,
@@ -211,7 +217,7 @@
             this.vdaTotauxVilles.RowHeader.ValueStyle = VisualArrays.enuDataStyle.User;
             this.vdaTotauxVilles.RowHeader.Width = 100;
             this.vdaTotauxVilles.SelectionAppearance.Color = System.Drawing.Color.DodgerBlue;
-            this.vdaTotauxVilles.Size = new System.Drawing.Size(122, 169);
+            this.vdaTotauxVilles.Size = new System.Drawing.Size(183, 257);
             this.vdaTotauxVilles.TabIndex = 2;
             this.vdaTotauxVilles.TabStop = false;
             this.vdaTotauxVilles.ValueFormat = VisualArrays.enuValueFormat.Currency;
@@ -223,8 +229,8 @@
             this.vsdGrandTotal.FocusColor = System.Drawing.Color.Gray;
             this.vsdGrandTotal.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold);
             this.vsdGrandTotal.ForeColor = System.Drawing.Color.White;
-            this.vsdGrandTotal.Location = new System.Drawing.Point(6, 6);
-            this.vsdGrandTotal.Margin = new System.Windows.Forms.Padding(8);
+            this.vsdGrandTotal.Location = new System.Drawing.Point(9, 9);
+            this.vsdGrandTotal.Margin = new System.Windows.Forms.Padding(12, 12, 12, 12);
             this.vsdGrandTotal.Maximum = new decimal(new int[] {
             5000000,
             0,
@@ -234,7 +240,7 @@
             this.vsdGrandTotal.Padding = new System.Windows.Forms.Padding(2, 2, 8, 2);
             this.vsdGrandTotal.ReadOnly = true;
             this.vsdGrandTotal.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.vsdGrandTotal.Size = new System.Drawing.Size(108, 37);
+            this.vsdGrandTotal.Size = new System.Drawing.Size(162, 57);
             this.vsdGrandTotal.TabIndex = 5;
             this.vsdGrandTotal.ValueAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.vsdGrandTotal.ValueFormat = VisualArrays.enuValueFormat.Currency;
@@ -243,16 +249,17 @@
             // 
             this.panel1.BackColor = System.Drawing.Color.Black;
             this.panel1.Controls.Add(this.vsdGrandTotal);
-            this.panel1.Location = new System.Drawing.Point(445, 213);
+            this.panel1.Location = new System.Drawing.Point(668, 328);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(120, 49);
+            this.panel1.Size = new System.Drawing.Size(180, 75);
             this.panel1.TabIndex = 6;
             // 
             // FrmPrincipal
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(577, 269);
+            this.ClientSize = new System.Drawing.Size(866, 414);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.vdaTotauxVilles);
             this.Controls.Add(this.vdaTotauxParMois);
@@ -260,6 +267,7 @@
             this.Controls.Add(this.mnuPrincipal);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MainMenuStrip = this.mnuPrincipal;
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.MaximizeBox = false;
             this.Name = "FrmPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

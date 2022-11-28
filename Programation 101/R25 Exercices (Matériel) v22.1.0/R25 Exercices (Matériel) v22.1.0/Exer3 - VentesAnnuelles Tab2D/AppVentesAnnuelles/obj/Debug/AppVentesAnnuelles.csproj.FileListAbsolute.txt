@@ -117,3 +117,10 @@ C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer3 - 
 C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.CopyComplete
 C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
 C:\Users\stephane.desmeules\Downloads\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R25 Exercices (Matériel) v22.1.0\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.AssemblyReference.cache
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R25 Exercices (Matériel) v22.1.0\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.FrmPrincipal.resources
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R25 Exercices (Matériel) v22.1.0\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\Exercice_Tab2D_Ventes.Properties.Resources.resources
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R25 Exercices (Matériel) v22.1.0\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.GenerateResource.cache
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R25 Exercices (Matériel) v22.1.0\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\AppVentesAnnuelles.csproj.CoreCompileInputs.cache
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R25 Exercices (Matériel) v22.1.0\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.exe
+C:\Users\cedri\Documents\Ecole-EM\Programation 101\R25 Exercices (Matériel) v22.1.0\R25 Exercices (Matériel) v22.1.0\Exer3 - VentesAnnuelles Tab2D\AppVentesAnnuelles\obj\Debug\Tab2D_Ventes.pdb

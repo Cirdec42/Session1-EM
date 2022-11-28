@@ -118,6 +118,20 @@ namespace AppDessinGrille
         /// <param name="pNomDuFichier">Nom du fichier à charger</param>
         private void ChargerDessinFormat1(string pNomDuFichier)
         {
+            viaGrilleDessin.Clear();
+            StreamReader fichier = new StreamReader("DessinF1.txt");
+            while (!fichier.EndOfStream)
+            {
+                string ligneComplete = fichier.ReadLine();
+                string[] tabInfos = ligneComplete.Split(',');
+                int rangee = int.Parse(tabInfos[0]);
+                int colonne = int.Parse(tabInfos[1]);
+                int motif = int.Parse(tabInfos[2]);
+
+                viaGrilleDessin[rangee, colonne] = motif;
+            }
+            fichier.Close();
+
         }
         #endregion
 
@@ -132,6 +146,7 @@ namespace AppDessinGrille
         /// <param name="pNomDuFichier">Nom du fichier à charger</param>
         private void ChargerDessinFormat2(string pNomDuFichier)
         {
+
         }
         #endregion
 
@@ -274,5 +289,10 @@ namespace AppDessinGrille
         {
         }
         #endregion
+
+        private void viaGrilleDessin_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

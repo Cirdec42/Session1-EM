@@ -1,0 +1,10 @@
+﻿Un véhicule lourd|Camion|3
+Un assistant numérique|Alexa|2
+Dans un arbre|Feuilles|1
+Couleur du ciel|Bleu|2
+Contraire de pire|Mieux|2
+Genre de film|Aventure|2
+Sans un sous|Ruiné|1
+Sur le côté de la rue|Trottoir|3
+Je mange du fromage|Souris|1
+Page d'un site internet|Accueil|4

@@ -1,0 +1,10 @@
+﻿Très petit cours d'eau|Ruisseau|1
+Ustensile|Cuillière|1
+Pièce à l'intérieur de la maison|Cuisine|1
+Partie du corps|Cuisse|1
+Après le jour|Nuit|1
+Chiffre|Huit|1
+Dans la cheminée|Suie|1
+Goutes d'eau|Pluie|2
+Se sauver|Fuite|1
+La méchanique des|Fluides|2

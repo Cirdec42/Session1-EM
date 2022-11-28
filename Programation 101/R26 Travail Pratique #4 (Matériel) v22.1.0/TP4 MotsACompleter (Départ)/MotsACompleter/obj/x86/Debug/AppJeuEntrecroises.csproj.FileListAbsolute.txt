@@ -1,0 +1,36 @@
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises\AppJeuEntrecroises\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises\AppJeuEntrecroises\obj\x86\Debug\AppJeuEntrecroises.FrmPrincipal.resources
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises\AppJeuEntrecroises\obj\x86\Debug\AppJeuEntrecroises.Properties.Resources.resources
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises\AppJeuEntrecroises\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises\AppJeuEntrecroises\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises\AppJeuEntrecroises\bin\Debug\AppJeuEntrecroises.exe.config
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises\AppJeuEntrecroises\bin\Debug\AppJeuEntrecroises.exe
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises\AppJeuEntrecroises\bin\Debug\AppJeuEntrecroises.pdb
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises\AppJeuEntrecroises\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises\AppJeuEntrecroises\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises\AppJeuEntrecroises\obj\x86\Debug\AppJeuEntrecroises.exe
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises\AppJeuEntrecroises\obj\x86\Debug\AppJeuEntrecroises.pdb
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises v0.9\AppJeuEntrecroises\bin\Debug\AppJeuEntrecroises.exe.config
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises v0.9\AppJeuEntrecroises\obj\x86\Debug\AppJeuEntrecroises.exe
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises v0.9\AppJeuEntrecroises\obj\x86\Debug\AppJeuEntrecroises.pdb
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises v0.9\AppJeuEntrecroises\bin\Debug\AppJeuEntrecroises.exe
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises v0.9\AppJeuEntrecroises\bin\Debug\AppJeuEntrecroises.pdb
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises v0.9\AppJeuEntrecroises\bin\Debug\VisualArrays.dll
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises v0.9\AppJeuEntrecroises\bin\Debug\VisualArrays.xml
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises v0.9\AppJeuEntrecroises\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises v0.9\AppJeuEntrecroises\obj\x86\Debug\AppJeuEntrecroises.FrmPrincipal.resources
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises v0.9\AppJeuEntrecroises\obj\x86\Debug\AppJeuEntrecroises.Properties.Resources.resources
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises v0.9\AppJeuEntrecroises\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\_Cours CEB-A11\Stock\AppJeuEntrecroises v0.9\AppJeuEntrecroises\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Cours CEB-H12\Nouveau\H12 AppJeuEntrecroises v0.95\AppJeuEntrecroises\bin\Debug\AppJeuEntrecroises.exe.config
+F:\_Cours CEB-H12\Nouveau\H12 AppJeuEntrecroises v0.95\AppJeuEntrecroises\obj\x86\Debug\AppJeuEntrecroises.exe
+F:\_Cours CEB-H12\Nouveau\H12 AppJeuEntrecroises v0.95\AppJeuEntrecroises\obj\x86\Debug\AppJeuEntrecroises.pdb
+F:\_Cours CEB-H12\Nouveau\H12 AppJeuEntrecroises v0.95\AppJeuEntrecroises\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\_Cours CEB-H12\Nouveau\H12 AppJeuEntrecroises v0.95\AppJeuEntrecroises\obj\x86\Debug\AppJeuEntrecroises.FrmPrincipal.resources
+F:\_Cours CEB-H12\Nouveau\H12 AppJeuEntrecroises v0.95\AppJeuEntrecroises\obj\x86\Debug\AppJeuEntrecroises.Properties.Resources.resources
+F:\_Cours CEB-H12\Nouveau\H12 AppJeuEntrecroises v0.95\AppJeuEntrecroises\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\_Cours CEB-H12\Nouveau\H12 AppJeuEntrecroises v0.95\AppJeuEntrecroises\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\_Cours CEB-H12\Nouveau\H12 AppJeuEntrecroises v0.95\AppJeuEntrecroises\bin\Debug\AppJeuEntrecroises.exe
+F:\_Cours CEB-H12\Nouveau\H12 AppJeuEntrecroises v0.95\AppJeuEntrecroises\bin\Debug\AppJeuEntrecroises.pdb
+F:\_Cours CEB-H12\Nouveau\H12 AppJeuEntrecroises v0.95\AppJeuEntrecroises\bin\Debug\VisualArrays.dll
+F:\_Cours CEB-H12\Nouveau\H12 AppJeuEntrecroises v0.95\AppJeuEntrecroises\bin\Debug\VisualArrays.xml

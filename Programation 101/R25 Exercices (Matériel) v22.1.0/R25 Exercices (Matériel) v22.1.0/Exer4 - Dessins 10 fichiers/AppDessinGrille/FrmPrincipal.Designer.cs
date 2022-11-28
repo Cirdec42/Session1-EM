@@ -57,7 +57,7 @@
             // 
             this.viaGrilleDessin.BackColor = System.Drawing.Color.White;
             this.viaGrilleDessin.CellMargin = 0;
-            this.viaGrilleDessin.CellSize = new System.Drawing.Size(30, 30);
+            this.viaGrilleDessin.CellSize = new System.Drawing.Size(45, 46);
             this.viaGrilleDessin.ColumnCount = 15;
             this.viaGrilleDessin.DefaultValue = -1;
             this.viaGrilleDessin.DisabledAppearance.ImageBrightness = 0.3F;
@@ -69,12 +69,13 @@
             this.viaGrilleDessin.EnabledAppearance.TextColor = System.Drawing.Color.DimGray;
             this.viaGrilleDessin.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.viaGrilleDessin.GridAppearance.Color = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.viaGrilleDessin.Location = new System.Drawing.Point(17, 39);
+            this.viaGrilleDessin.Location = new System.Drawing.Point(26, 60);
+            this.viaGrilleDessin.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.viaGrilleDessin.Name = "viaGrilleDessin";
             this.viaGrilleDessin.Padding = new System.Windows.Forms.Padding(1);
             this.viaGrilleDessin.RowCount = 12;
             this.viaGrilleDessin.RowHeader.ForeColor = System.Drawing.Color.White;
-            this.viaGrilleDessin.Size = new System.Drawing.Size(468, 375);
+            this.viaGrilleDessin.Size = new System.Drawing.Size(693, 567);
             this.viaGrilleDessin.Sprites.AddRange(new VisualArrays.Sprite[] {
             this.sprOver,
             this.sprBravo,
@@ -82,6 +83,7 @@
             this.viaGrilleDessin.TabIndex = 0;
             this.viaGrilleDessin.View = VisualArrays.enuIntView.ImageList;
             this.viaGrilleDessin.CellMouseDown += new System.EventHandler<VisualArrays.CellMouseEventArgs>(this.viaNombres_CellMouseDown);
+            this.viaGrilleDessin.Click += new System.EventHandler(this.viaGrilleDessin_Click);
             // 
             // imlSymboles
             // 
@@ -135,11 +137,13 @@
             // 
             // mnuPrincipal
             // 
+            this.mnuPrincipal.GripMargin = new System.Windows.Forms.Padding(2, 2, 0, 2);
+            this.mnuPrincipal.ImageScalingSize = new System.Drawing.Size(24, 24);
             this.mnuPrincipal.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mnuFichier});
             this.mnuPrincipal.Location = new System.Drawing.Point(0, 0);
             this.mnuPrincipal.Name = "mnuPrincipal";
-            this.mnuPrincipal.Size = new System.Drawing.Size(756, 24);
+            this.mnuPrincipal.Size = new System.Drawing.Size(1134, 35);
             this.mnuPrincipal.TabIndex = 2;
             this.mnuPrincipal.Text = "menuStrip1";
             // 
@@ -153,27 +157,27 @@
             this.mnuSéparateur2,
             this.mnuFichierQuitter});
             this.mnuFichier.Name = "mnuFichier";
-            this.mnuFichier.Size = new System.Drawing.Size(54, 20);
+            this.mnuFichier.Size = new System.Drawing.Size(78, 29);
             this.mnuFichier.Text = "&Fichier";
             // 
             // mnuFichierNouveau
             // 
             this.mnuFichierNouveau.Name = "mnuFichierNouveau";
             this.mnuFichierNouveau.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.N)));
-            this.mnuFichierNouveau.Size = new System.Drawing.Size(180, 22);
+            this.mnuFichierNouveau.Size = new System.Drawing.Size(259, 34);
             this.mnuFichierNouveau.Text = "&Nouveau";
             this.mnuFichierNouveau.Click += new System.EventHandler(this.mnuFichierNouveauDessin_Click);
             // 
             // mnuSéparateur1
             // 
             this.mnuSéparateur1.Name = "mnuSéparateur1";
-            this.mnuSéparateur1.Size = new System.Drawing.Size(177, 6);
+            this.mnuSéparateur1.Size = new System.Drawing.Size(256, 6);
             // 
             // mnuFichierCharger
             // 
             this.mnuFichierCharger.Name = "mnuFichierCharger";
             this.mnuFichierCharger.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.O)));
-            this.mnuFichierCharger.Size = new System.Drawing.Size(180, 22);
+            this.mnuFichierCharger.Size = new System.Drawing.Size(259, 34);
             this.mnuFichierCharger.Text = "&Charger";
             this.mnuFichierCharger.Click += new System.EventHandler(this.mnuFichierCharger_Click);
             // 
@@ -181,20 +185,20 @@
             // 
             this.mnuFichierEnregistrer.Name = "mnuFichierEnregistrer";
             this.mnuFichierEnregistrer.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.S)));
-            this.mnuFichierEnregistrer.Size = new System.Drawing.Size(180, 22);
+            this.mnuFichierEnregistrer.Size = new System.Drawing.Size(259, 34);
             this.mnuFichierEnregistrer.Text = "&Enregistrer";
             this.mnuFichierEnregistrer.Click += new System.EventHandler(this.mnuFichierEnregistrer_Click);
             // 
             // mnuSéparateur2
             // 
             this.mnuSéparateur2.Name = "mnuSéparateur2";
-            this.mnuSéparateur2.Size = new System.Drawing.Size(177, 6);
+            this.mnuSéparateur2.Size = new System.Drawing.Size(256, 6);
             // 
             // mnuFichierQuitter
             // 
             this.mnuFichierQuitter.Name = "mnuFichierQuitter";
             this.mnuFichierQuitter.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Q)));
-            this.mnuFichierQuitter.Size = new System.Drawing.Size(180, 22);
+            this.mnuFichierQuitter.Size = new System.Drawing.Size(259, 34);
             this.mnuFichierQuitter.Text = "&Quitter";
             this.mnuFichierQuitter.Click += new System.EventHandler(this.mnuFichierQuitter_Click);
             // 
@@ -206,7 +210,7 @@
             // 
             this.viaGrillePalette.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.viaGrillePalette.CellMargin = 5;
-            this.viaGrillePalette.CellSize = new System.Drawing.Size(30, 30);
+            this.viaGrillePalette.CellSize = new System.Drawing.Size(52, 54);
             this.viaGrillePalette.DefaultValue = -1;
             this.viaGrillePalette.DisabledAppearance.ImageBrightness = 0.3F;
             this.viaGrillePalette.DisabledAppearance.StrikeAppearance.Image = global::AppDessinGrille.Properties.Resources.Check;
@@ -217,11 +221,12 @@
             this.viaGrillePalette.EnabledAppearance.TextColor = System.Drawing.Color.DimGray;
             this.viaGrillePalette.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.viaGrillePalette.GridAppearance.Color = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.viaGrillePalette.Location = new System.Drawing.Point(16, 19);
+            this.viaGrillePalette.Location = new System.Drawing.Point(24, 29);
+            this.viaGrillePalette.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.viaGrillePalette.Name = "viaGrillePalette";
             this.viaGrillePalette.RowHeader.ForeColor = System.Drawing.Color.White;
             this.viaGrillePalette.SelectionMode = System.Windows.Forms.SelectionMode.One;
-            this.viaGrillePalette.Size = new System.Drawing.Size(136, 136);
+            this.viaGrillePalette.Size = new System.Drawing.Size(202, 208);
             this.viaGrillePalette.Sprites.AddRange(new VisualArrays.Sprite[] {
             this.sprOver,
             this.sprBravo,
@@ -232,9 +237,11 @@
             // grpPalette
             // 
             this.grpPalette.Controls.Add(this.viaGrillePalette);
-            this.grpPalette.Location = new System.Drawing.Point(570, 39);
+            this.grpPalette.Location = new System.Drawing.Point(855, 60);
+            this.grpPalette.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.grpPalette.Name = "grpPalette";
-            this.grpPalette.Size = new System.Drawing.Size(167, 168);
+            this.grpPalette.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.grpPalette.Size = new System.Drawing.Size(250, 258);
             this.grpPalette.TabIndex = 1;
             this.grpPalette.TabStop = false;
             this.grpPalette.Text = "Palette";
@@ -242,9 +249,11 @@
             // grpDessin
             // 
             this.grpDessin.Controls.Add(this.cboDessinCourant);
-            this.grpDessin.Location = new System.Drawing.Point(570, 227);
+            this.grpDessin.Location = new System.Drawing.Point(855, 349);
+            this.grpDessin.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.grpDessin.Name = "grpDessin";
-            this.grpDessin.Size = new System.Drawing.Size(165, 65);
+            this.grpDessin.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.grpDessin.Size = new System.Drawing.Size(248, 100);
             this.grpDessin.TabIndex = 2;
             this.grpDessin.TabStop = false;
             this.grpDessin.Text = "Dessin courant";
@@ -265,23 +274,25 @@
             "Huitième",
             "Neuvième",
             "Dixième"});
-            this.cboDessinCourant.Location = new System.Drawing.Point(15, 25);
+            this.cboDessinCourant.Location = new System.Drawing.Point(22, 38);
+            this.cboDessinCourant.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.cboDessinCourant.Name = "cboDessinCourant";
-            this.cboDessinCourant.Size = new System.Drawing.Size(136, 24);
+            this.cboDessinCourant.Size = new System.Drawing.Size(202, 33);
             this.cboDessinCourant.TabIndex = 0;
             this.cboDessinCourant.SelectedIndexChanged += new System.EventHandler(this.cboDessinCourant_SelectedIndexChanged);
             // 
             // FrmPrincipal
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.ClientSize = new System.Drawing.Size(756, 435);
+            this.ClientSize = new System.Drawing.Size(1134, 669);
             this.Controls.Add(this.grpDessin);
             this.Controls.Add(this.grpPalette);
             this.Controls.Add(this.mnuPrincipal);
             this.Controls.Add(this.viaGrilleDessin);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.MaximizeBox = false;
             this.Name = "FrmPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

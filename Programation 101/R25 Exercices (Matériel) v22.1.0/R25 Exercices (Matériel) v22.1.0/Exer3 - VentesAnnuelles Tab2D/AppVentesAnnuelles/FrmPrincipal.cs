@@ -60,15 +60,27 @@ namespace Exercice_Tab2D_Ventes
         private void Initialiser()
         {
             // TODO 01 : Instancier un tableau à 2 dimensions de 10 rangées et 12 colonnes, le type des cases est decimal
-           
-		   
-		   
-		    
+            m_tabVentes = new decimal[10, 12];
+
+
+
             // TODO 02 : Ajouter le code pour remplir le tableau 2D de 120 cases avec les montants des Ventes annuelles.
             //           Le fichier se nomme "Ventes_2D.txt" (Aller le consulter avant de compléter le code) et contient
             //           12 valeurs par ligne, le fichier contient exactement 10 lignes pour les ventes de 10 années.
             // IMPORTANT : La visualisation des ventes s'effectue dans uniquement dans le cboAnnee_SelectedIndexChanged         
-           
+            StreamReader objFichier = new StreamReader(NOM_FICHIER_VENTES);
+            int nbrrangees = m_tabVentes.GetLength(0);
+            int nbrcolones = m_tabVentes.GetLength(1);
+            for (int r = 0; i < nbrrangees; i++)
+            {
+                string[] tabVenteEnChaine = objFichier.ReadLine().Split(':');
+
+                for (int c = 0; c < nbrcolones; c++)
+                {
+                    m_tabVentes[r,c] = decimal.Parse(tabVenteEnChaine[c]);
+                }
+            }
+            objFichier.Close();
 		   
 		   
 		   
@@ -101,11 +113,20 @@ namespace Exercice_Tab2D_Ventes
         {
             // TODO 03 : Lorsque l'on change d'année dans le combo cboAnnée, on doit afficher dans la grille
             //           les ventes correspondantes à l'année choisie. Le truc c'est d'utiliser le SelectedIndex.
-          
+            for (int i = 0; i < vdaGrilleVentes.ColumnCount; i++)
+            {
+                vdaGrilleVentes[i] = m_tabVentes[cboAnnée.SelectedIndex, i];
+            }
 		  
-		  
-		  
+
+
+
         }
         #endregion
+
+        private void vdaGrilleVentes_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

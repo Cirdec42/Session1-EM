@@ -28,14 +28,14 @@ namespace Exemple_simple_Split_et_Parse
         private void btnConvertirEnInt_Click(object sender, EventArgs e)
         {
             // TODO 01 : Convertir le texte de la zone txtNombreEntier pour l'afficher dans la zone vsiNombre1
-
+            vsiNombre1.Value = int.Parse(txtNombreEntier.Text);
         }
 
         //-----------------------------------------------------------------------------------
         private void btnConvertirEnDecimal_Click(object sender, EventArgs e)
         {
             // TODO 02 : Convertir le texte de la zone txtNombreEntier pour l'afficher dans la zone numNombre
-
+            numNombre.Value = decimal.Parse(txtNombreEntier.Text);
         }
 
         //-----------------------------------------------------------------------------------
@@ -43,7 +43,7 @@ namespace Exemple_simple_Split_et_Parse
         {
             // TODO 03 : Convertir le texte de la zone txtNombreEntier en un nombre entier
             //           Ajouter 100 au nombre entier puis l'afficher dans la zone vsiNombre2
-
+            vsiNombre2.Value = int.Parse(txtNombreEntier.Text) + 100;
         }
 
         //----------------------------------------------------------------------------------
@@ -51,7 +51,7 @@ namespace Exemple_simple_Split_et_Parse
         {
             // TODO 04 : Convertir le texte de la zone txtNombreEntier en un nombre entier
             //           Ajouter 100 au nombre entier puis l'assigner de nouveau dans la zone txtNombreEntier
-
+            txtNombreEntier.Text = (int.Parse(txtNombreEntier.Text) + 100).ToString();
         }
         #endregion
 
@@ -63,8 +63,19 @@ namespace Exemple_simple_Split_et_Parse
             //           Utiliser une boucle pour placer toutes les valeurs dans la grille.
             //           Ajouter une instruction de sélection afin d'ignorer les valeurs qui ne sont pas dans l'interval
             //           viaNombres.Minimum et viaNombre.Maximum
+            string nb = txtListeDeNombres.Text;
+            string[] tabnb = nb.Split(',');
 
+            for (int i = 0; i < viaNombres.Length; i++)
+            {
+                viaNombres[i] = int.Parse(tabnb[i]);
+            }
         }
         #endregion
+
+        private void txtNombreEntier_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

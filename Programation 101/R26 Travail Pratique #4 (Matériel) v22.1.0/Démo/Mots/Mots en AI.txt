@@ -1,0 +1,10 @@
+﻿Sorte d'habitation|Maison|1
+Je suis blanc ou brun|Pain|1
+Liquide blanc|Lait|1
+Contenant pour se laver|Baignoire|1
+Un personnage pour enfant|Caillou|1
+Sans défaut|Parfait|4
+Un vêtement de plage|Maillot|1
+Inverse de la guerre|Paix|1
+Je suis à une grande distance|Lointain|5
+Sur un avion ou une auto|aileron|0

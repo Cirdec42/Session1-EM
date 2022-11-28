@@ -1,0 +1,10 @@
+﻿Animal de la ferme|Poule|1
+Musée en France|Louvre|1
+Un type de pâtes alimentaires|Nouilles|1
+Pièce d'une voiture|Roue|1
+Animal sauvage|Loup|1
+Utile en construction|Clou|2
+Je grossis le texte|Loupe|1
+Je suis la forme du gâteau|Moule|1
+J'apparais sur le métal avec le temps|Rouille|1
+Une cuisse ou une poitrine|Poulet|1

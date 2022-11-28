@@ -81,7 +81,19 @@ namespace AppDessinGrille
             // TODO 01 : Compléter le code pour lire le fichier pNomDuFichier et afficher le dessin
             //           dans la grille viaGrilleDessin. Chaque ligne du fichier contient: rangée,colonne,motif
             //          Vous devez utiliser les méthodes Split et Parse.
+            viaGrilleDessin.Clear();
+            StreamReader fichier = new StreamReader(pNomDuFichier);
+            while (!fichier.EndOfStream)
+            {
+                string ligneComplete = fichier.ReadLine();
+                string[] tabInfos = ligneComplete.Split(',');
+                int rangee = int.Parse(tabInfos[0]);
+                int colonne = int.Parse(tabInfos[1]);
+                int motif = int.Parse(tabInfos[2]);
 
+                viaGrilleDessin[rangee,colonne] = motif;
+            }
+            fichier.Close();
         }
         #endregion
 
@@ -97,9 +109,24 @@ namespace AppDessinGrille
             // TODO 02 : Parcourir toutes les cellules de la grille afin d'écrire dans le fichier pNomDuFichier
             //           tous les motifs (autre que -1) sur différentes lignes.
             //           Le format du fichier est : rangée,colonne,motif
-
+            StreamWriter fichier = new StreamWriter(pNomDuFichier);
+            for (int r = 0; r < viaGrilleDessin.RowCount; r++)
+            {
+                for (int c = 0; c < viaGrilleDessin.ColumnCount; c++)
+                {
+                    int motif = viaGrilleDessin[r,c];
+                    if (motif != viaGrilleDessin.SpecialValue)
+                    {
+                        fichier.WriteLine(r + "," + c + "," + motif);
+                    }
+                }
+            }fichier.Close();
         }
         #endregion
 
+        private void viaGrilleDessin_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
