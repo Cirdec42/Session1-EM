@@ -143,12 +143,12 @@ namespace AppJeuEntrecroises
                 string[] tabChaine = lignecomp.Split('|');
 
                 m_tabLignes[row, INDEX_COL_DESCRIPTION] = tabChaine[INDEX_COL_DESCRIPTION];
-                m_tabLignes[row, INDEX_COL_MOT] = tabChaine[INDEX_COL_MOT];
+                m_tabLignes[row, INDEX_COL_MOT] = tabChaine[INDEX_COL_MOT].ToUpper();
                 m_tabLignes[row, INDEX_COL_POSITION] = tabChaine[INDEX_COL_POSITION];
 
                 row++;
             }
-            
+
             objfichier.Close();
         }
         #endregion
@@ -187,12 +187,12 @@ namespace AppJeuEntrecroises
             for (int row = 0; row < vcaMots.RowCount; row++)
             {
                 int index = int.Parse(m_tabLignes[row, INDEX_COL_POSITION]);
-            string mot = m_tabLignes[row, INDEX_COL_MOT].ToUpper();
-            for (int lettre =index ; lettre < index+2; lettre++)
-            {
-            vcaMots[row, lettre] = mot[lettre];
+                string mot = m_tabLignes[row, INDEX_COL_MOT].ToUpper();
+                for (int lettre = index; lettre < index + 2; lettre++)
+                {
+                    vcaMots[row, lettre] = mot[lettre];
                     vcaMots.DisableCell(row, lettre);
-            }
+                }
 
             }
         }
@@ -210,19 +210,19 @@ namespace AppJeuEntrecroises
         public void TronquerLesCellulesInutilisées()
         {
             // À COMPLÉTER...
-          for (int ran = 0; ran < vcaMots.RowCount; ran++)
+            for (int ran = 0; ran < vcaMots.RowCount; ran++)
             {
-                    string mot = m_tabLignes[ran, INDEX_COL_MOT];
-                for (int col = 0; col < vcaMots.ColumnCount; col++)
+                string mot = m_tabLignes[ran, INDEX_COL_MOT];
+                for (int col = mot.Length; col < vcaMots.ColumnCount; col++)
                 {
-                    if (vcaMots.IndexFromAddress(ran,col)>mot.Length)
+                    if (vcaMots.IndexFromAddress(ran, col) > mot.Length - 1)
                     {
-                        vcaMots[ran,col] = vcaMots.SpecialValue;
+                        vcaMots[ran, col] = vcaMots.SpecialValue;
                     }
 
                 }
 
-            }/**/
+            }
         }
         #endregion
 
@@ -240,8 +240,16 @@ namespace AppJeuEntrecroises
         /// <returns></returns>
         public bool MotEstValide(int pRangée, string pMot)
         {
-            // À COMPLÉTER...
-            return false;
+            // À COMPLÉTER..
+            for (int col = 0; col < pMot.Length; col++)
+            {
+                if (vcaMots[pRangée, col] != pMot[col])
+                {
+                    return false;
+                }
+
+            }
+            return true;
         }
         #endregion
 
@@ -256,7 +264,13 @@ namespace AppJeuEntrecroises
         /// <param name="pLongueurMot">Nombre de caractères du mot à compléter</param>
         public void DésactiverMot(int pRangée, int pLongueurMot)
         {
-            // À COMPLÉTER...
+            // À COMPLÉTER....
+            for (int col = 0; col < pLongueurMot; col++)
+            {
+                vcaMots.DisableCell(pRangée, col);
+                vsaDescriptions.DisableCell(pRangée);
+            }
+
         }
         #endregion
 
@@ -278,6 +292,14 @@ namespace AppJeuEntrecroises
                 // L'utilisateur vient juste de saisir un caractère dans la grille vcaMots. En utilisant les méthodes
                 // MotEstValide ainsi que DésactiverMot, désactiver le mot sur la rangée courante si celui-ci est valide.
 
+                string mot = m_tabLignes[rangée, INDEX_COL_MOT];
+
+                if (MotEstValide(rangée, mot))
+                {
+                    DésactiverMot(rangée, mot.Length);
+                }
+
+
                 // À COMPLÉTER...
 
             }
@@ -296,6 +318,10 @@ namespace AppJeuEntrecroises
             int rangée = vcaMots.SelectedAddress.Row; // NE PAS MODIFIER
             int colonne = vcaMots.SelectedAddress.Column; // NE PAS MODIFIER
 
+            string v = m_tabLignes[rangée, INDEX_COL_MOT];
+            vcaMots[rangée, colonne] = v[colonne];
+
+
             // À COMPLÉTER...
         }
         #endregion
@@ -310,7 +336,13 @@ namespace AppJeuEntrecroises
         public void MnuAideVoirLeMot_Click(object sender, EventArgs e)
         {
             int rangée = vcaMots.SelectedAddress.Row; // NE PAS MODIFIER
+            string v = m_tabLignes[rangée, INDEX_COL_MOT];
 
+            for (int col = 0; col < v.Length; col++)
+            {
+                vcaMots[rangée, col] = v[col];
+
+            }
             // À COMPLÉTER...
         }
         #endregion
@@ -325,6 +357,16 @@ namespace AppJeuEntrecroises
         public void MnuAideVoirTousLesMots_Click(object sender, EventArgs e)
         {
             // À COMPLÉTER...
+            for (int row = 0; row < vcaMots.RowCount; row++)
+            {
+                string mot = m_tabLignes[row, INDEX_COL_MOT].ToUpper();
+                for (int col = 0; col < mot.Length; col++)
+                {
+                    vcaMots[row, col] = mot[col];
+                    vcaMots.DisableCell(row, col);
+                    vsaDescriptions.DisableCell(row);
+                }
+            }
         }
         #endregion
 
